@@ -2086,5 +2086,269 @@
     "title": "Ecological Dynamics of Pro-tumor and Anti-tumor Teams in the Tumor Microenvironment",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697148v1?rss=1",
     "content": "Tumor growth occurs within a complex tumor microenvironment (TME) composed of many interacting cell types. The immune cell types in TME tend to organize into two functional communities: a pro-tumor team and an anti-tumor team, each internally cooperative but mutually antagonistic forming a two-team ecosystem. Quantitatively predicting the ecological outcomes of such interactions remains challenging due to cellular diversity and interaction variability, and the exact dynamical regimes accessible to such a two-team ecosystem remain unknown. Here, we model tumor-immune interactions as a structured ecosystem with two competing teams using a generalized Lotka Volterra framework and analyze it using the cavity method. We derive phase diagrams that delineate when these two communities coexist, when one dominates, and how these outcomes depend on intra-team cooperation, cross-team inhibition, and ecological heterogeneity. Our work provides a foundation for understanding tumor-immune dynamics from a community ecology perspective."
+  },
+  {
+    "id": "6a7d5b889c285d8f",
+    "title": "Photoprotective-based strategies to enhance crop yield under fluctuating light conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0958166925001685?dgcid=rss_sd_all",
+    "content": "<p>Publication date: February 2026</p><p><b>Source:</b> Current Opinion in Biotechnology, Volume 97</p><p>Author(s): Claudia Beraldo, Alessandro Alboresi, Tomas Morosinotto</p>"
+  },
+  {
+    "id": "777265e0ee42bfe6",
+    "title": "Sediment Resuspension Under Wind\u2010Driven Currents and Waves: 1D Numerical Simulations Guided by Direct Observations Along the Dead Sea Shore",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022800?af=R",
+    "content": "Abstract\nResuspension of fine\u2010grained bottom sediment under wind\u2010driven currents and waves is a key process in shaping nearshore environments. Commonly, resuspension is quantified for predicting the dispersion of contaminants and nutrients affecting water quality by numerical modeling and field measurements. Although a large body of research deals with this topic, unique field observations from hypersaline environments coupled with conceptual\u2010quantitative description of the process are lacking. Here, we present high\u2010resolution direct measurements of winds, waves, currents, and turbidity conducted along the Dead Sea shores and derivations of an integrated 1D\u2010numerical model based on mass and momentum conservation laws. Comparing the model predictions and the observations determine, for the first time, that depth\u2010averaged turbulent viscosity during Dead Sea storms is of order of 10\u22123 m2 s\u22121. Resuspension of bottom clay to fine sand is governed primarily by waves inducing shear stress three orders of magnitude larger than current\u2010induced shear stress, a ratio which is rather constant during Dead Sea storms. The observed spatiotemporal turbidity pattern is reproduced and accounts for the effect of grain\u2010size distributions on the lake floor. Additionally, we highlight the importance of wave\u2010induced resuspension as an additional source of sediment involved in the formation of thin, muddy layers that are traditionally interpreted as indicators of inflowing sediment plumes. The novelty of the manuscript lies in the combination of rare observations and modeling, which provides comprehensive physics of the studied processes, an approach that can be used in other nearshore environments of lakes or oceans."
+  },
+  {
+    "id": "0068059115fb0745",
+    "title": "Buoyancy Feedbacks on Wave\u2010Induced Melting of Icebergs",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023273?af=R",
+    "content": "Abstract\nIcebergs play an important role in the climate system through their temporally and spatially distributed injection of freshwater into the ocean. Waterline melting from surface wave action accounts for a substantial amount of iceberg mass loss and drives iceberg fragmentation, yet it is poorly constrained and lacks physics\u2010based model implementation, particularly in considering the ice\u2010ocean boundary layer. Here we develop a hierarchy of models that couple wave\u2010induced iceberg melt with the ice\u2010ocean interfacial boundary layer, an approach traditionally used in modeling the ocean\u2010driven melting of ice shelves. We find that the flux of meltwater from wave\u2010induced ice loss into the proximal ocean acts to lower further wave\u2010induced melting by 10%\u201320%. Depth\u2010averaged wave\u2010induced melting increases sublinearly with increasing wave height and wavelength, and approximately linearly with respect to far\u2010field ocean temperatures. Furthermore, the most widely used wave erosion parameterizations overestimate depth\u2010average melt rates by a factor greater than two compared to the models developed here. We derive an analytical solution for wave\u2010induced melt rate that more accurately represents thermal forcing and wave\u2010driven heat transfer at the ice boundary, and which can be readily applied in future modeling studies. Furthermore, numerical solutions of box models developed here for wave\u2010induced melting and meltwater plume transport can model sub\u2010grid near\u2010ice mixing and can be used in larger\u2010scale ocean models simulating icebergs. We conclude by proposing the modification of a traditionally used simple power\u2010law function describing wave\u2010driven melt rates to more accurately model bulk iceberg mass loss."
+  },
+  {
+    "id": "328467e188fb0854",
+    "title": "Rosemary G. Gillespie\u2014Recipient of the 2025 Molecular Ecology Prize",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70232?af=R",
+    "content": ""
+  },
+  {
+    "id": "22c53ea2d08f53ec",
+    "title": "Genetic Allee Effects for Controlling Invasive Populations",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70228?af=R",
+    "content": "ABSTRACT\nInvasive pests threaten food security and devastate ecosystems. A universal problem in their management is that small populations can easily evade detection. This makes identifying new incursions challenging and complicates efforts to eradicate or contain established populations. If newly founded populations exhibited a strong Allee effect, small populations would tend towards extinction and most new incursions would go extinct without the need for detection or intervention. Of course, invasive species rarely exhibit strong Allee effects, but new genetic technologies make it conceivable to impose one. Here we consider how introduction of genetic load can cause a genetic Allee effect that reduces the establishment probability of small founder populations. Using numerical and individual\u2010based modelling, we examine the fate of populations sampled from a larger invasive source population carrying deleterious recessive alleles. Our analysis reveals that the genetic load unmasked by founding can dramatically reduce the establishment probability of small populations across a wide range of parameter space. A sterile mutation effect is more effective than a lethal mutation effect, but X\u2010linkage offers minimal benefit over autosomal inheritance. Although extinction of newly founded populations is a common outcome, it may be challenging to achieve in species with very high reproductive outputs. Distributing deleterious recessive alleles across a large number of loci at low frequencies was more effective than distributing them across fewer loci at higher frequencies. Our findings suggest that driving deleterious recessives into a source population may render it less prone to establish in new areas."
+  },
+  {
+    "id": "96a1a19a429f356e",
+    "title": "Density\u2010Dependent Expression of Epitranscriptomic, Stress and Appetite Regulating Genes in Atlantic Salmon",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70230?af=R",
+    "content": "ABSTRACT\nIntraspecific competition due to for example, density, has substantial influence on fitness dynamics and life histories, but the underlying physiological mechanisms are often complex and the molecular basis unclear. Further, designing laboratory experiments to measure physiological responses that reflect natural conditions is challenging. Here, we reared Atlantic salmon juveniles in semi\u2010wild conditions in two densities to investigate the molecular mechanism of density\u2010related changes in the hypothalamus, a key brain region regulating stress and energy homeostasis. We measured density\u2010dependent changes in the expression of 12 genes involved in appetite and stress regulation and 16 genes involved in post\u2010transcriptional regulation of gene expression via m6A RNA methylation. We also quantified genotype\u2010environment interactions between density and two major life\u2010history loci, vgll3 and six6. We found significant density\u2010related differences in the expression of genes coding for corticotropin\u2010releasing factors, appetite stimulators and inhibitors and m6A RNA methylation actors. Moreover, a paralogue of an appetite inhibitor showed a density\u2010dependent pattern that was the opposite of what was expected. Six6 locus was also associated with changes in the expression of epitranscriptomic markers, including two writers and one eraser. Our results highlight that individuals' response to density in natural conditions is shaped by a complex interplay between stress, appetite and epitranscriptomic pathways in the hypothalamus. In addition, the functional divergence of paralogs indicates a potential role of genome duplication shaping such a response. We emphasise the value of integrating different physiological responses at the molecular level to better understand ecological processes affected by environmental change."
+  },
+  {
+    "id": "a1972921a5e17180",
+    "title": "Deep-Sea Bamboo Corals: New <em>Jasonisis</em> Species from Indian and Atlantic Ridges and Pan-Oceanic Genetic Connectivity of <em>Tridentisis candelabrum</em>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0967063726000014?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> Deep Sea Research Part I: Oceanographic Research Papers</p><p>Author(s): Meiling Ge, Xinlong Li, Xin Tian, Ningxia Xu, Xuying Hu, Yu Xu, Zongling Wang, Xuelei Zhang, Qinzeng Xu</p>"
+  },
+  {
+    "id": "3683fb809e2bc94a",
+    "title": "Semidiurnal internal tides southeast of Miyakojima observed by the PIES array",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0967063726000026?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> Deep Sea Research Part I: Oceanographic Research Papers</p><p>Author(s): Mingxuan Lu, Zhao-Jun Liu, Min Wang, Xiao-Hua Zhu, Chuanzheng Zhang, Hua Zheng, Ze-Nan Zhu, Qun Ma</p>"
+  },
+  {
+    "id": "eb5c42215d5a2f50",
+    "title": "Examining the Robustness of Weakened Orographic Influence on Precipitation in Downscaled Climate Projections Over the Western US",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119251?af=R",
+    "content": "Abstract\nAssessing local climate change impacts often requires downscaling coarse global climate model (GCM) output to finer resolution. Two main approaches exist: dynamical downscaling using high\u2010resolution regional climate models, and statistical downscaling based on historical relationships between large\u2010scale and local variables. In a recent analysis of five dynamically downscaled simulations over the western United States, Koszuta et\u00a0al. (2024, https://doi.org/10.1029/2023gl107298) found that warming weakens orographic influence on winter precipitation, damping increases on windward slopes and amplifying them in rain\u2010shadowed regions. Here we show that this effect is robust across seasons and multiple dynamically downscaled ensembles, and is more pronounced at higher model resolutions. However, it is absent in projections from a widely used statistical model (LOCA2), even when trained on high\u2010resolution future simulations (LOCA2\u2010Hybrid). This highlights a key limitation of many statistical downscaling methods: their preservation of parent GCM trends, which usually fail to capture emergent changes in orographic precipitation patterns."
+  },
+  {
+    "id": "23f050c71b5bde50",
+    "title": "First Observations and Characteristics of Positive Upward Illumination Strokes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118161?af=R",
+    "content": "Abstract\nUpward Illumination (UI) strokes are a subtype of cloud\u2010to\u2010ground (CG) return strokes characterized by two concurrent branches striking the ground a few milliseconds apart. The luminous channel of an UI stroke does not connect to the main channel, which gives this phenomenon its name. Since concurrent branches in positive CG strokes are not usual, positive UI (+UI) strokes were never reported yet. This study presents the first observations of +UI strokes. They were recorded in Utah, USA, using high\u2010speed cameras. Although +UI strokes share similarities with negative UI strokes, their initiation mechanisms are fundamentally different. +UI strokes result from intense recoil leader activity with their positive leader speed one order of magnitude slower than the average of typical CG downward positive leaders. Additionally, multiple +UI strokes can occur within the same flash. Finally, we gather all the information learned from the case studies to propose the basic formation mechanisms of +UI strokes."
+  },
+  {
+    "id": "8db30d42f783277c",
+    "title": "Strengthening of Labrador Sea Overturning Linked to Subsurface Freshening Over Recent Decades",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118605?af=R",
+    "content": "Abstract\nThe Labrador Sea is a key formation site for dense waters that contribute to the lower limb of the Atlantic meridional overturning circulation (AMOC). Recent observations have revealed a distinctly weak overturning in this basin, attributed to compensating effects of temperature and salinity anomalies on density. However, it remains unclear whether these effects are consistent under varying hydrographic conditions and whether they subsequently impact overturning variability. By combining moored observations and historical hydrographic data, we demonstrate a coherent response of the Labrador Sea overturning to salinity anomalies over recent decades. Notably, a strengthened overturning in the late 2010s can be attributed to subsurface fresh anomalies advected into the basin by the boundary currents, which are linked to large\u2010scale freshening that began in the late 2000s. Our findings underscore the necessity of continuously monitoring boundary salinity and temperature anomalies to capture ongoing changes in the Labrador Sea."
+  },
+  {
+    "id": "98cec34158170f15",
+    "title": "Tropicalization Enhances Mangrove Methane Emissions to the Atmosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119663?af=R",
+    "content": "Abstract\nOrganic\u2010rich mangrove soils release CH4, partially offsetting the climate benefits of high organic carbon sequestration. However, the local and global drivers and variability of mangrove CH4 emissions remain poorly understood. Here, we quantify water\u2010atmosphere CH4 emissions over hourly, daily, and weekly time scales in an Australian mangrove ecosystem. We then combine our new observations with earlier data sets to link temperature and mangrove CH4 emissions on the global scale. The water\u2010atmosphere CH4 emissions were partially controlled by temperature on both local and global scales. One degree warming increased mangrove water\u2010atmosphere CH4 emissions by \u223c23% locally and \u223c13% globally. Globally scaled water\u2010atmosphere CH4 emissions (0.07\u20130.10\u00a0Tg\u00a0C\u00a0yr\u22121) currently offset 6%\u20138% of mangrove carbon burial. CH4 emissions are predicted to increase by 10%\u201333% by 2100 under global warming scenarios and tropicalization. Therefore, mangrove CH4 emissions should be considered in blue carbon assessments in the context of global warming."
+  },
+  {
+    "id": "5e6f16b899c60694",
+    "title": "A human pathophysiological 3D-bone marrow model reveals immune and stromal cell heterogeneity",
+    "link": "https://www.nature.com/articles/s42003-025-09433-6",
+    "content": ""
+  },
+  {
+    "id": "f2afc252f0281fe8",
+    "title": "Gallbladder disease diagnosis from ultrasound using squeeze-and-excitation capsule network with convolutional bidirectional long short-term memory",
+    "link": "https://www.nature.com/articles/s41598-025-32978-9",
+    "content": ""
+  },
+  {
+    "id": "7edec7eddba8b5da",
+    "title": "Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive evolution",
+    "link": "https://www.nature.com/articles/s41598-025-34129-6",
+    "content": ""
+  },
+  {
+    "id": "0876b85f36e19a10",
+    "title": "Application and accuracy analysis of different facial regions based on deep learning in the diagnosis of hypertension",
+    "link": "https://www.nature.com/articles/s41598-025-30936-z",
+    "content": ""
+  },
+  {
+    "id": "f16460b850669525",
+    "title": "Bridging data gaps of rare conditions in ICU: a multi-disease adaptation approach for clinical prediction",
+    "link": "https://www.nature.com/articles/s41746-025-02176-y",
+    "content": ""
+  },
+  {
+    "id": "8ca93243aad040b7",
+    "title": "An EEG Dataset for Visual Imagery-Based Brain\u2013Computer Interface",
+    "link": "https://www.nature.com/articles/s41597-025-06512-5",
+    "content": ""
+  },
+  {
+    "id": "968804354b50a90e",
+    "title": "Transforming free-text coronary angiography reports into structured, analyzable data using large language models",
+    "link": "https://www.nature.com/articles/s41598-025-32150-3",
+    "content": ""
+  },
+  {
+    "id": "ec1fe9683aa17f5b",
+    "title": "Machine learning models predict long COVID outcomes based on baseline clinical and immunologic factors",
+    "link": "https://www.nature.com/articles/s43856-025-01230-w",
+    "content": ""
+  },
+  {
+    "id": "fe6dafc725f41652",
+    "title": "Enhanced feature fusion with hand gesture recognition system for sign language accessibility to aid hearing and speech impaired individuals",
+    "link": "https://www.nature.com/articles/s41598-025-34100-5",
+    "content": ""
+  },
+  {
+    "id": "7b884d46b2770ae5",
+    "title": "A multi-task EEG emotion recognition method based on emotion-dimension coupling constraints",
+    "link": "https://www.nature.com/articles/s41598-025-34211-z",
+    "content": ""
+  },
+  {
+    "id": "9ae4747d3458f083",
+    "title": "Physics informed machine learning for predictive toxicology and optimization of curcumin nanocarriers",
+    "link": "https://www.nature.com/articles/s41598-025-34282-y",
+    "content": ""
+  },
+  {
+    "id": "33fa1f555c7a0864",
+    "title": "Language biomarker screening using AI: a transdiagnostic approach to brain",
+    "link": "https://www.nature.com/articles/s41598-025-34257-z",
+    "content": ""
+  },
+  {
+    "id": "73477c0605035102",
+    "title": "XGBoost based machine learning prediction model for major adverse cardiovascular events after PCI in STEMI patients",
+    "link": "https://www.nature.com/articles/s41598-025-34441-1",
+    "content": ""
+  },
+  {
+    "id": "8a575a31911442d3",
+    "title": "Establishing FDA-approved oncology drugs as GPR176 inhibitor through homology modelling, molecular docking, MMGBSA, DFT, and molecular dynamics simulation",
+    "link": "https://www.nature.com/articles/s41598-025-31607-9",
+    "content": ""
+  },
+  {
+    "id": "775a9903ebe1512f",
+    "title": "Discovery of thiadiazole-based small-molecule inhibitors of SARS-CoV-2 spike-ACE2 interaction through integrated computational prediction and experimental validation",
+    "link": "https://www.nature.com/articles/s41598-025-30881-x",
+    "content": ""
+  },
+  {
+    "id": "91009d40856987fc",
+    "title": "Proposed dense variational autoencoder model integrated with contrastive learning for foot ulcer classification",
+    "link": "https://www.nature.com/articles/s41598-025-34225-7",
+    "content": ""
+  },
+  {
+    "id": "4f4bbe64c31531f6",
+    "title": "Beyond peak accuracy: a stability-centric framework for reliable multimodal student engagement assessment",
+    "link": "https://www.nature.com/articles/s41598-025-31215-7",
+    "content": ""
+  },
+  {
+    "id": "fe0d41f3f9a5a865",
+    "title": "Major contribution of particle\u2010associated microbes to deep\u2010sea organic carbon degradation",
+    "link": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70310?af=R",
+    "content": "Abstract\nThe biological carbon pump mediates the export of particulate organic carbon from the euphotic zone to the deep ocean, where it provides the base of the food web. Although deep\u2010sea microbial metabolism is considered to be largely associated with macroscopic particles, such as marine snow, the specific contribution of particle\u2010associated microorganisms to the utilization of bulk organic matter has rarely been directly quantified. We used in situ pumps to collect particles larger than 3\u2009\u03bcm from mesopelagic and bathypelagic waters along a latitudinal transect in the North Atlantic. Prokaryotic abundance, respiration, heterotrophic biomass production, and community composition were determined and compared to the bulk prokaryotic community collected by Niskin bottles. Although particle\u2010associated prokaryotes represented less than 1% of bulk prokaryotic abundance, they contributed on average 28% to bulk prokaryotic respiration and 12% to biomass production. The organic carbon turnover time of particles mediated by prokaryotes was 0.5\u20131.5\u2009months, while it was up to 3\u2009yr for the total organic carbon fraction. Thus, particles represent hotspots of organic carbon remineralization in the mesopelagic and bathypelagic ocean. Furthermore, metagenomic analyses revealed clear differences in taxonomy and diversity between the free\u2010living (0.2\u20130.8\u2009\u03bcm) and particle\u2010associated (>\u20093\u2009\u03bcm) prokaryotic communities. Our results emphasize the significant role of particle\u2010associated prokaryotes in driving organic matter utilization in the dark ocean."
+  },
+  {
+    "id": "237284af74e2b650",
+    "title": "NAViFluX: a visualization-centric platform for interactive analysis, refinement and design of genome-scale metabolic networks",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.03.697453v1?rss=1",
+    "content": "Genome-scale metabolic network (GSMN) models are rigorously curated, cellular-level representations of metabolism that enable flux-based metabolite fate discovery, metabolic engineering, drug target identification and context-specific multi-omics integration. However, the inherent complexity of model architectures, need for programming skills and limited visualization support restrict their broader applicability. Existing tools focus on visualization and analyses separately, necessitating tool-specific format conversions, offer either topology or flux analyses options exclusively, lack intuitive pathway-specific visualizations, database-integrated model refinement, pathway enrichment and large-scale perturbation analyses. Here, we present NAViFluX (metabolic Network Analysis and Visualization of Flux), a visualization-centric, web browser-based environment that unifies GSMN exploration through native pathway/subsystem map generation using various layouts; interactive refinement through addition of reactions from KEGG/BiGG, amending constraints, pathway merging; and modules for flux computations, topology, functional enrichment. Instead of treating visualization as a post hoc step, NAViFluX performs all actions within network views, enabling users to make decisions directly from visually interpretable subnetworks. Using three Escherichia coli case studies, NAViFluX is shown to characterize nutrient-specific metabolic adaptations, improve metabolic gene essentiality predictions, provide mechanistic insight into synthetic lethality and facilitate the design of an optimized carbon-fixing metabolic state, thereby democratizing GSMNs for biologically meaningful applications."
+  },
+  {
+    "id": "6c9a0424879d060c",
+    "title": "Single-cell growth rate fluctuations contribute independently from protein production to gene expression noise and decrease with average growth rate",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.02.696648v1?rss=1",
+    "content": "Phenotypic heterogeneity is a universal feature in microbial life and has profound consequences for the behavior of single cells. However, dissecting and quantifying the sources of phenotypic noise is challenging as it requires precise quantification of the dynamics of gene expression fluctuations in vivo. Here, we analyze time-lapse microscopy data of single E. coli cells carrying fluorescent reporters for constitutive and ribosomal promoters to quantify how fluctuations in protein production, growth rate, and random sampling at division contribute to noise in protein concentrations. We find that growth rate fluctuations are largely uncorrelated with protein production and contribute substantially to noise in protein concentrations. In addition, as nutrients are varied, growth rate fluctuations decrease both in amplitude and duration with the mean growth rate. In contrast, fluctuations in production do not show a systematic dependence on mean growth rate, but exhibit surprisingly variable behaviors, even across different constitutive promoters. Moreover, although production and growth rate fluctuations are only weakly correlated, they exhibit complex cross-correlation patterns with growth rate that are both condition- and promoter-dependent. These observations suggest that, while growth rate fluctuations might be dominated by a single underlying mechanism, there are multiple sources of protein production fluctuations that vary in strength across conditions and affect different promoters to different extents. Finally, the sampling noise of proteins at cell division only contributes substantially to protein concentration noise for low-expressed genes with ten or fewer molecules per cell."
+  },
+  {
+    "id": "e9f29ec1f886da90",
+    "title": "An Agent-Based Model of Protein Polymerization Dynamics: Focus on the Actin System",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.02.697380v1?rss=1",
+    "content": "Actin polymerization is a critical cellular process involved in a wide range of activities, from cell motility to cytokinesis. The complex behavior of this molecular system, resulting in three different phases (i.e., nucleation, elongation, and steady state) is clear by looking at the way these dynamics emerge from a large number of interactions between different proteins, regulatory elements, and signaling pathways. In this article, we present an agent-based model of actin polymerization dynamics implemented with the NetLogo simulation platform and focus on the time evolution of actin filaments length distribution in two dimensions starting from a pool of free G-actin monomers. Stochastic simulations were able to reproduce the three main steps of the in vitro process, i.e., nucleation, extension, and steady state. In the steady state phase, simultaneous treadmilling of subpopulations of F-actin filaments spontaneously occurs as an emergent property of the system, as shown by several diagnostic criteria. We also found that during the early phases of polymerization the dynamics are characterized by the competition between the formation of new polymers and the elongation of pre-existing ones. In this regard, we highlighted that the balance between nucleation and elongation is particularly sensitive to variation in the initial number of free monomers available for association, as well as on other parameters included in the model. Altogether, our observations are consistent with the experimental findings and confirm the satisfactory performance of the model, as well as its ability to simulate complex mechanisms by manipulating a few parameters."
+  },
+  {
+    "id": "bc03892c7e2225d8",
+    "title": "Long-range neural pathways for octopus chemotactile processing revealed from periphery-to-brain by centimeter-field microCT",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.02.697341v1?rss=1",
+    "content": "Understanding how nervous systems mediate responses to sensation requires whole-body maps of periphery-to-brain connections. Octopuses exemplify this challenge with their distributed control of eight arms and hundreds of suckers, yet their long-range microanatomical wiring remains elusive due to limitations in microscopy. We extend histotomography (Ding et al. 2019), a form of soft tissue microCT customized for volumetric characterization of cells and tissues, to centimeter range with a custom micro-CT imaging system. With its 10-mm field of view and 0.7-{micro}m isotropic voxels we created a high-resolution digital intact small octopus. This multi-tissue 3D blueprint enabled us to (i) elucidate previously uncharacterized chemotactile pathways from the suckers to the brain, (ii) discern subdivisions of the nerve ring connecting neighboring arms, and (iii) segment over 300 structures across organ systems at histology-like resolution. We release the labeled interactive digital specimen to facilitate collaborative whole-organism phenotyping as a practical foundation for Digital Organismal Biology."
+  },
+  {
+    "id": "c4d8acd9cc78e573",
+    "title": "Perturbing H-NS function reveals roles in restricting virulence heterogeneity and pathogen adaptation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.01.697318v1?rss=1",
+    "content": "Bacterial pathogens must balance rapid expression of virulence genes in host niches with tight repression when not needed to avoid fitness costs and ensure survival. Integration of virulence gene regulatory networks with the conserved global repressor H-NS was critical to achieve this balance. H-NS-mediated repression of virulence genes in non-inducing environments is essential for maintaining virulence genes and has shaped pathogen evolution. However, the role of H-NS-mediated repression in virulence gene activation and pathogen evolution in virulence-inducing conditions is less clear. For instance, although virulence gene expression is often heterogeneous, whether relief of H-NS repression contributes to this heterogeneity remains unknown. Furthermore, whether H-NS repression shapes pathogen evolution in virulence-inducing environments is unclear. Here, we use a Salmonella strain with reduced H-NS DNA-binding affinity to investigate the role of H-NS in virulence gene expression in individual bacteria and pathogen adaptation. We find that reduced H-NS repression increases the fraction of virulence gene expressing cells without eliminating bimodality, resulting in enhanced epithelial cell infection in vitro. Using experimental evolution, we demonstrate that the hns genotype constrains adaptive mutations and that disabling virulence gene expression is a common path to improved fitness in intracellular-like environments. Our results expand the role of H-NS-mediated repression from silencing virulence genes in non-inducing conditions to regulating heterogeneity in inducing conditions and demonstrate that evolutionary conservation of H-NS constrains adaptive strategies in intracellular-like environments."
+  },
+  {
+    "id": "9c9e444525f8fbd6",
+    "title": "Heritable diel energy reserves enhance diatom growth",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.03.697458v1?rss=1",
+    "content": "Diatoms are important drivers of marine primary production and biogeochemistry. Compared to other phytoplankton groups, diatoms divide more asynchronously (i.e., divisions occur in a manner that is less aligned with the diel cycle) under non-limiting conditions, resulting in divisions occurring during both day and night. However, the mechanisms and rates of asynchronous division have remained elusive. Here, using microfluidics-based time-resolved cell tracking, we measure the growth dynamics of individual cells of the diatom Thalassiosira pseudonana and show that cells growing mostly during the dark phase achieve rapid generation times (8 hours), dividing as fast as cells growing fully in light. We found that this remarkable ability of rapid growth in the dark is a consequence of the light history of both the cell and its parent cell, as light history controls the amount of photosynthetic energy the cell has stored in the form of the polysaccharide chrysolaminarin when entering the night. Furthermore, a mathematical model of this mechanism yields an up to 14% increase in the daily asynchronous population growth rate compared to growth without diel energy reserves when nutrients are non-limiting. This results in an up to 17-fold predicted increase in cell abundance over a typical 10-day diatom bloom, the maximal growth advantage of heritable chrysolaminarin during exponential phases of growth. By directly demonstrating and quantifying the benefit of chrysolaminarin under different diel conditions, this work provides a mechanistic understanding of how heritable diel energy reserves contribute to the rapid growth of diatom populations in the ocean. Beyond the specific discovery of the role of heritable energy reserves, we anticipate that our experimental approach can be broadly utilized in phytoplankton research by providing a blueprint to study phytoplankton physiology and ecology at the single-cell level, revealing novel mechanisms normally obscured in bulk growth assays."
+  },
+  {
+    "id": "1fe23677f646d338",
+    "title": "Systematic Scale-Up and Enhanced Purification of Marine Cyanophage P-SSP7",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.03.697218v1?rss=1",
+    "content": "Cyanophages represent important models for understanding virus-host interactions, yet high-resolution structural studies remain relatively few due to challenges with preparing enough sample of sufficient quality for cryo-EM and functional multi-omics studies. Here we developed an integrated methodology for scaling production of the model cyanophage P-SSP7 from laboratory maintenance volumes (5-100 mL) to production scales (up to 40 L) while dramatically improving the quality of phage preparation for structural applications. Our systematic approach integrates host cultivation using adaptation to local seawater to reduce production costs, optimized infection protocols to maximize infectious titer yields, and multi-stage purification workflows specifically designed for cryo-EM quality requirements. The final methodology consistently produces infectious phage titers exceeding 3x1012 units/mL with recoverable yields of 1013 total infectious units and >95% purity validated by cryo-electron microscopy at each optimization step. Most significantly, this approach achieves a 60-fold reduction in cryo-EM data collection time by increasing usable particles per field of view for single particle analysis. Overall, our final preparations demonstrate robust phage stability, retaining 68% infectivity after 3 months and 23% after 6 months at 4{degrees}C. This workflow moves cyanophage culturing and downstream structural studies from specialized, resource-intensive endeavors toward routine research capability and establishes an adaptable framework for scaling production that can be applied to other host-virus systems."
+  },
+  {
+    "id": "70bf1bac35048c18",
+    "title": "EZ-DMS - A Simple and Accessible Protocol and Software Package for Deep Mutational Scanning of Virus Proteins",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.02.697422v1?rss=1",
+    "content": "Mutations that occur during viral genome replication can result in new phenotypes, such as infection of new cell types or resistance to therapeutics. To determine the phenotypic potential of viruses, deep mutational scanning (DMS) can be used. This approach measures the effects of all amino acid changes at sites of interest on protein function, virus infectivity, or resistance to therapeutics. A virus library that contains all possible variants is produced and used to infect a culture of cells. The frequency of each amino acid at the DMS site in the infected culture relative to the input stock captures the relative fitness for each form under the selective pressure applied. Current DMS protocols are complex and costly due to reliance on deep sequencing for genomic characterization. They also require expertise in bioinformatics to process and analyze the data, thus limiting the number of labs that can apply the technology. Here, we describe a simple and efficient protocol to perform DMS on single sites and on two-site combinations in the Env protein of HIV-1. Dual-site DMS allows probing for epistatic effects. The protocol greatly reduces recombination of the proviral genome in transformed bacteria, thus efficiency of the method. Sequencing is performed using Oxford Nanopore technology, and the data are uploaded to a graphical user interface-based platform that calculates the amino acid preferences, which describe the relative fitness of all amino acids under the experimental conditions tested (e.g., under selection pressure of a drug). The protocol does not require expertise in bioinformatics and can be completed in approximately 16 days, with 3-4 days of laboratory activity and 12-13 days of incubation, with considerably lower costs than existing systems."
+  },
+  {
+    "id": "f21207e47a5bdddf",
+    "title": "Urobiome Analysis in Interstitial Cystitis/Bladder Pain Syndrome Reveals Nuanced Differences Associated with Localized Pain",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.02.697114v1?rss=1",
+    "content": "Purpose: Interstitial cystitis/bladder pain syndrome (IC/BPS) is a prevalent chronic pain syndrome associated with functional urinary disorders. IC/BPS symptoms can be localized to the pelvic-region or have co-occurring widespread pain. Importantly, response to treatment depends on pain localization phenotype. The etiology of IC/BPS remains elusive, and whether bacteria contribute to IC/BPS pathophysiology remains uncertain. Materials and Methods: We used urine samples collected from a longitudinal randomized controlled trial of individuals with IC/BPS to study the association of the urobiome and IC/BPS symptoms over time. Individuals provided urine samples at baseline, post-treatment, and at five months. We performed a secondary analysis on urine samples applying 16S rRNA sequencing and assigned bacterial taxonomy to amplicon sequence variants (ASVs) to characterize the urobiome. We then compared urobiome bacterial diversity, stability, and its association with IC/BPS symptoms over time. We also assessed the relationship between pain localization and the urobiome. Results: As validation of this dataset, we noted a strong influence of menopausal status and recent urinary tract infection on the composition of the urobiome. We did not detect widespread differences in the urobiome that correlated with subjects' pain localization or severity. Instead, we observed specific bacterial sequences that were altered in abundance in relation to symptomatology, such as reduced abundance of a Dialister ASV in persons with localized pelvic pain. Conclusions: Together, this dataset advances our understanding of the urobiome in interstitial cystitis/bladder pain syndrome and sets the stage for future studies on the urobiome and interstitial cystitis/bladder pain syndrome symptoms."
+  },
+  {
+    "id": "685dfc683425cdff",
+    "title": "Cannibalism as a mechanism to offset reproductive costs in three-spined sticklebacks",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.02.697382v1?rss=1",
+    "content": "Parents often go to great lengths to promote the survival of their offspring, yet in many species parents may abandon or cannibalize offspring under their care. Using three-spined sticklebacks, where males are the sole providers of energetically costly parental care, we investigated the factors driving patterns of cannibalism in two natural populations in the field. Cannibalism was prevalent in both populations: more than 70% of parenting males contained embryos in their stomach. Neither standard length nor body condition predicted the number of embryos eaten, suggesting that males are not cannibalizing based on energetic need alone. However, males cannibalized significantly more embryos from large compared to small broods, suggesting that greater access to embryos is driving high levels of cannibalism. Using microsatellites to determine parentage, we investigated whether males cannibalize embryos fertilized by other males (heterocannibalism) to mitigate the costs of parental care. In both populations males engaged in both filial and heterocannibalism, but the two populations significantly differed in the relative amount of filial versus heterocannibalism, suggesting that males in these two populations face different reproductive costs. Combined, results from this study help disentangle the complex factors contributing to cannibalism, providing insight into how animals balance reproductive costs and benefits."
+  },
+  {
+    "id": "4492e9bacf97630e",
+    "title": "Exploring the value of thematic urban ecosystem accounts in Western Balkan Countries to inform urban greening actions",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.02.697364v1?rss=1",
+    "content": "Urban ecological health is increasingly prioritized in Europe, as reflected in the EU Biodiversity Strategy 2030, the Nature Restoration Regulation, and the amendment to the Regulation on Environmental-Economic Accounts. Translating this ambition into greening actions that halt and reverse urban ecological degradation requires standardized, spatially explicit indicators. This study explores the utility of the System of Environmental-Economic Accounting-Ecosystem Accounting (SEEA-EA) framework for developing thematic urban ecosystem accounts as integrated metrics to inform urban greening in the Western Balkans. We constructed pilot accounts for the Western Balkans for 2018, with particular focus on Horizon-funded CROSS-REIS countries, where local accounts were also developed for representative municipalities (Kranj, Rijeka, Nis, Podgorica, Tirana). The accounts quantify ecosystem extent, four condition metrics (imperviousness, green space, tree cover, and PM10; concentration), and the service air filtration using PM10; deposition onto vegetation as a proxy. Results were benchmarked nationally against EU/EFTA/UK countries and locally against Italian municipalities of the National Biodiversity Future Centre project. The analysis reveals that urban ecosystems in the Western Balkans exist on a continuum with other European countries but exhibit a distinct, more homogeneous profile shaped by geography, climate, and policy legacies. The accounts identify ecological degradation hotspots (e.g., high soil sealing) and areas of high service-delivery capacity, supporting translation of spatial diagnosis into targeted greening priorities. Overall, the study shows that thematic urban ecosystem accounts offer a standardized, multi-scale evidence base to inform and monitor urban greening policies, supporting the Western Balkans in their environmental management needs and on their path toward EU integration."
+  },
+  {
+    "id": "b7d59df9a6c635d1",
+    "title": "Small-scale fen restoration brings back key species and ecosystem functions",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.01.697300v1?rss=1",
+    "content": "Fen peatlands act as carbon sinks and are hotspots for specialised species, but a large proportion of fens have been drained for agricultural or forestry use, which turns them from carbon sink to carbon source, and negatively affects specialised biodiversity. Although restoration by rewetting can partially improve ecosystem functions, the successful recovery of specialised biota depends on previous land use. Rewetting agriculturally used fens often results in an ecosystem that does not resemble the original fen. The vegetation recovery of rewetted fens used for forestry is more promising, but our knowledge of vegetation development comes from boreal fens. It is unclear whether vegetation can successfully recover after the rewetting of forestry-drained fens in the temperate zone. Our study focused on the recovery of vegetation and peat accumulation in small fens in temperate Europe that had been drained for forestry and restored by rewetting over the 38 years prior to the study. We demonstrate that peat layers continuously increased with time since restoration, possibly indicating peat accumulation, which is crucial for converting drained fens back into carbon sinks. The vegetation composition of the restored sites became increasingly similar to that of the near-natural sites over time, with the steepest change occurring during the first 10 years after restoration. Nevertheless, even after decades, the vegetation did not reach the quality of near-natural sites. Our results highlight that rewetting forestry-drained fens can restore ecosystem services and lead to partial vegetation recovery in both the boreal and temperate zones."
+  },
+  {
+    "id": "a1344a2d50c36bc1",
+    "title": "To cull or not to cull: a model-based evaluation of response strategies against Lumpy Skin Disease outbreaks",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697163v1?rss=1",
+    "content": "With high risk of sustained transmission and substantial associated morbidity, Lumpy Skin Disease (LSD) of cattle presents a major emerging threat to bovine herds worldwide, and has the potential to cause huge losses for farmers, producers, and the wider bovine and dairy trade industries. The epidemic which started in June 2025 in France illustrates this threat, as the government-imposed mass culling strategy has led to protests by farmers and social unrest throughout the country. Here, we developed an infectious disease modelling framework for evaluating different intervention strategies in an effort to critically evaluate the evidence behind the drastic measures being taken. By simulating epidemics under different response settings, we found that control strategies employing targeted culling were essentially as effective as those requiring mass culling, and did not require significantly more vaccination. These results question the response strategy currently imposed by the French government, and suggest avenues for alternative response strategies which could gain better support from the affected communities. Our results are entirely reproducible using a new free, open-source simulation tool which can be used for further evaluation of public health interventions against LSD epidemics."
+  },
+  {
+    "id": "25f08aa8b1d3b84c",
+    "title": "The interaction of dispersal, species sorting, and priority effects, explains a unimodal response of \u03b2-diversity to immigration rates",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697192v1?rss=1",
+    "content": "A dominant perspective in metacommunity theory is that dispersal consistently homogenizes species composition across local communities. However, recent studies have reported a direct relationship between dispersal rate and {beta}-diversity, which has been attributed to the influence of priority effects and species sorting. The underlying mechanisms by which dispersal can either increase or decrease {beta}-diversity remain unclear, hindering our understanding of metacommunity assembly and the processes driving biodiversity patterns across time and space. We theoretically evaluated how purely random priority effects, priority effects conditioned by species dispersal abilities, and species sorting shape the {beta}-diversity--dispersal relationship in metacommunities open to exogenous dispersal (i.e., immigration) from a regional species pool. Our results show that the three evaluated processes foster community differentiation at intermediate exogenous dispersal rates when dispersal between communities (i.e. endogenous dispersal) is taking place. Additionally, the interaction between endogenous and exogenous dispersal homogenizes communities at low and high exogenous dispersal rates, determining a unimodal response of {beta}-diversity to increasing exogenous dispersal rates. Our findings contribute to a deeper mechanistic understanding of metacommunity assembly and offer a coherent explanation for previously observed empirical discrepancies, thereby challenging the traditional view of dispersal as a purely homogenizing process."
   }
 ]
