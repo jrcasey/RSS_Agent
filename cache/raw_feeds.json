@@ -3964,5 +3964,143 @@
     "title": "Drivers of mosquito free-flight and resting behavior indoors",
     "link": "https://www.biorxiv.org/content/10.64898/2026.02.11.705377v1?rss=1",
     "content": "Mosquito flight and resting behaviors mediate pathogen transmission and vector control success, yet their environmental and genetic determinants remain poorly understood. We combined novel high-resolution 3D tracking with factorial semi-field experiments in Merida, Mexico, to quantify how endogenous traits (strain, sex, physiological state) and exogenous conditions (microclimate, visual cues) influence the flight and resting behavior of Aedes aegypti, the primary vector of Dengue, Zika, and Chikungunya. Mosquitoes with a Wild-type genetic background flew and rested at lower heights than mosquitoes from with a laboratory strain background. Such difference was not explained by microclimate, with progeny from reciprocal cross experiments demonstrating wild-type-like behavior, which suggest a potentially heritable behavioral divergence. Microclimatic (temperature and relative humidity) gradients differed across time and height, with estimated Vapor Pressure Deficits (VPDs) indicating that mosquitoes adjusted flight height to minimize desiccation risk. However, this microclimatic influence was overridden by presence of black surfaces, which strongly attracted mosquitoes to rest, even if such resting heights had unfavorable conditions. These findings reveal a trade-off between visual, genetic, and microclimatic drivers of behavior which have important influence in the design and impact of vector control interventions."
+  },
+  {
+    "id": "8296c6d2d0d679ef",
+    "title": "Wearing face masks to protect oneself and/or others: counter-intuitive results from a simple epidemic model accounting for selfish and altruistic human behavior",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519326000202?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 February 2026</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Hugo Martin, Fran\u00e7ois Castella, Fr\u00e9d\u00e9ric Hamelin</p>"
+  },
+  {
+    "id": "2d4cc7a16168bcf2",
+    "title": "A mathematical model for temperature effects on virus-mediated cell fusion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519326000366?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 14 February 2026</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Aubrey Chiarelli, Hana M. Dobrovolny</p>"
+  },
+  {
+    "id": "33bbd81e354ae685",
+    "title": "Spruce Budworm Defoliation Influences Greenhouse Gas Concentrations in Streams",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009152?af=R",
+    "content": "Abstract\nOne of the most significant natural disturbances in the Canadian boreal and hemiboreal forest is tree defoliation by eastern spruce budworm (SBW), which may increase nutrient and carbon inputs to catchment soils, and in runoff. Closely connected to catchments, headwater streams are known to be significant emitters of greenhouse gases (GHGs); however, how insect defoliation influences stream GHG concentrations remains unknown. To fill this knowledge gap, we measured the carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) concentrations in 12 headwater streams along a gradient of ongoing defoliation in the Gasp\u00e9 Peninsula, Qu\u00e9bec. Streams were sampled 11 times between June and October in 2023 and 2024, and we assessed the role of cumulative defoliation and tree mortality, as well as physical\u2010chemical, and climatic drivers in explaining GHG variability. We found that CH4 and N2O concentrations increased in response to elevated defoliation and tree mortality across watersheds and years. Elevated gas concentrations also coincided with higher overall total dissolved nitrogen concentrations in all streams, and a reduction in discharge in 2024. In contrast, CO2 concentrations were influenced by stream slope, potentially through enhanced gas exchange, with limited effects from defoliation. Our study suggests a more indirect response of stream GHG concentrations to SBW disturbance, where a time lag resulting in higher nitrogen concentrations combined with lower discharge potentially increased within stream CH4 and N2O production. This work demonstrates the broader ecosystem impacts of insect disturbance, anticipated to increase with climate change, that should be considered in forest management."
+  },
+  {
+    "id": "d29dec331bf135f1",
+    "title": "Biomechanical Trade\u2010Offs Between Root Tensile Strength and Porosity in Coastal Marshes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009414?af=R",
+    "content": "Abstract\nRoot biomechanics play a fundamental role in stabilizing wetland soils and sustaining coastal ecosystems under increasing environmental stress. This study investigates the tensile strength (TS) and internal porosity (n) of roots from two dominant marsh grasses, Spartina alterniflora and Spartina patens, across four sites in the Mississippi River Delta Plain (MRDP), spanning active (Atchafalaya) and inactive (Terrebonne) basins. Through approximately 300 tensile strength tests conducted on live roots across diameter classes and depths, we observed a consistent decline in strength with increasing root diameter and depth. Fine roots (<2\u00a0mm), particularly those in the upper 15\u00a0cm, showed the highest tensile resistance, reinforcing their critical role in erosion control. To assess morphological drivers, we employed high\u2010resolution scanning electron microscopy (SEM) with a machine learning (ML) segmentation pipeline to quantify porosity and visualize aerenchyma. Coarse roots exhibited significantly higher porosity due to large central lumens and expanded aerenchyma, while fine roots maintained denser tissue structures. An exponential decay relationship emerged between porosity and tensile strength, indicating a trade\u2010off: increased void space enhances oxygen diffusion in waterlogged soils but compromises mechanical integrity. This inverse relationship was most pronounced in saline environments, suggesting that stress amplifies structural compromises in root traits. This integrative approach, combining precision mechanical testing, advanced imaging, and ML\u2010based analysis, provides a scalable and reproducible framework for characterizing root biomechanics. Findings advance understanding of plant contributions to belowground stability in coastal wetlands and offer practical insights for restoration strategies to enhance shoreline resilience."
+  },
+  {
+    "id": "43a362a59c11952f",
+    "title": "Physics\u2010Based Versus AI Weather Prediction Models: A Comparative Performance Assessment of Atmospheric River Prediction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117609?af=R",
+    "content": "Abstract\nMachine learning (ML) poses a potential paradigm shift in weather forecasting, but critical questions arise regarding its ability to predict high\u2010impact weather events. This study evaluates five state\u2010of\u2010the\u2010art ML models\u2014Aurora, GraphCast, PanguWeather, FourCastNetV2, FourCastNet\u2014in forecasting U.S. West Coast atmospheric rivers (ARs), compared to the high\u2010performing physics\u2010based European Center for Medium\u2010Range Weather Forecasts' high\u2010resolution system (HRES) model. Analysis of 152 daily forecast cycles (November 2023\u2013March 2024) reveals significant performance differences between the systems. While ML models often show better variable\u2010specific root mean square error (RMSE), HRES has superior AR detection skill for the first four forecast days. PanguWeather matches HRES skill beyond day four; other ML models lag slightly. Aurora consistently exhibits the lowest AR detection performance, despite strong variable\u2010specific RMSE metrics, highlighting a disconnect between RMSE performance and its ability to predict AR events. These findings underscore the need for phenomenon\u2010specific metrics for ML\u2010based numerical weather prediction model assessment and operational implementation."
+  },
+  {
+    "id": "bd326e863806e4a0",
+    "title": "Tropical TCV as a Process Diagnostic: Connecting Probability to Processes in km\u2013Scale Models Via Moisture Budget Statistics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120807?af=R",
+    "content": "Abstract\nObservations show a bimodal frequency distribution in total column vapor (TCV) over tropical oceans, with convective rainfall predominantly produced on the moist side of the frequency minimum between two modal peaks. Here we show a km\u2013scale model of the tropics with explicit convection produces a bimodal TCV distribution, whereas the same model with parameterized convection does not. The parameterized model also fails to realistically confine rainfall to a moist mode. Using concepts from statistical mechanics we relate TCV frequency and tendency, and isolate process contributions to tendency in TCV phase\u2010space. Where bimodality is lacking, we find an incorrect relationship between moisture flux convergence and TCV in environments with little or no rainfall. The resulting lack of a strong gradient in TCV tendency with respect to TCV is inconsistent with that expected to maintain a TCV frequency minimum. Our results demonstrate value in the TCV distribution as a process diagnostic."
+  },
+  {
+    "id": "8e425062d6eadae7",
+    "title": "Sediment Legacy Organic Matter Amplifies Nutrient\u2010Driven Coastal Hypoxia: A Coupled Benthic\u2010Pelagic Modeling Study",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118058?af=R",
+    "content": "Abstract\nCoastal hypoxia is profoundly affected by sediment depletion of oxygen and recycling of nutrients\u2014processes sustained by long\u2010term accumulation of sediment organic matter. While sediment\u2010water interactions are widely recognized, quantitative understanding of sediment legacy effects remains limited. To address this gap, we developed a two\u2010layer sediment model integrated with a physical\u2010biogeochemical framework for the Pearl River Estuary to elucidate how legacy organic matter perpetuates hypoxia via benthic\u2010pelagic coupling. Results show that sediment oxygen consumption accounts for 44% of total oxygen depletion in low\u2010oxygen zones, increasing to 81% in near\u2010bottom waters. This oxygen demand is significantly supported by legacy organic matter, without which would reduce primary production by 68% and the hypoxic area by 53%. Furthermore, we demonstrate that sediment legacy effects amplify hypoxia sensitivity to nutrient loading and may lead to hysteresis and regime shifts if unaddressed. Therefore, effective hypoxia mitigation requires management strategies tailored to system\u2010specific sediment\u2010water coupling dynamics."
+  },
+  {
+    "id": "548106d4d03f4133",
+    "title": "Lithospheric Mantle Heterogeneity Drives Delayed Magmatism and Wide Continent\u2010Ocean Transitions in Rifted Margins",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118597?af=R",
+    "content": "Abstract\nThe formation of wide, magma\u2010starved continent\u2013ocean transition (COT) zones remains incompletely understood. We use 2\u2010D thermo\u2010mechanical numerical experiments, coupling hydrous mantle melting with parameterized crustal accretion, to explore controls on magmatic lag: the delay between continental crustal break\u2010up and steady oceanic crustal accretion. Modeling results show that: (a) buoyant rise of subcontinental lithosphere up and toward the rift zone, which inhibits asthenosphere upwelling and decompression melting; (b) a weak mid\u2010lithospheric discontinuity lengthens magmatic lag by \u223c15\u00a0Myr and widens the COT by >200\u00a0km; (c) the lateral distance over thick, depleted mantle influences rift magmatism is governed by lithospheric density and rheology; and (d) magmatic lag scales linearly with the density contrast between lithospheric mantle and asthenospheric mantle. Model outputs match observed COT widths from the central South Atlantic and conjugate Australia\u2013Antarctica margins, linking inherited lithospheric mantle heterogeneity to melt starvation, mantle exhumation, and rifted\u2010margin architecture."
+  },
+  {
+    "id": "237b2742a5b2c92e",
+    "title": "Vertical Land Motion and Human Exposure Across India's Coastal Regions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120539?af=R",
+    "content": "Abstract\nIn India, over 200 million people live within 100\u00a0km of the coastline, and many reside in low\u2010lying areas exposed to increasing flood risks associated with sea\u2010level rise. However, the role of vertical land motion (VLM)\u2014particularly land subsidence\u2014in shaping this coastal exposure remains poorly quantified. Here we present the first assessment of VLM across India's coastal zone, using 8\u00a0years of Sentinel\u20101 Interferometric Synthetic Aperture Radar (InSAR) time series data (2016\u20132024). This comprehensive data set reveals widespread subsidence with several notable hotspots: Ahmedabad, Chennai, Amaravathi, Kochi, Kakinada, and Kolkata. The five major deltas along the east coast display extensive subsidence up to 20\u00a0mm/yr. Over 8.5 million residents live in coastal areas experiencing subsidence greater than 5\u00a0mm/yr. Our findings suggest that coastal subsidence in India is more extensive than previously recognized and poses a significant challenge for long\u2010term land\u2010use planning in coastal zones."
+  },
+  {
+    "id": "5fa68a9291f07fe6",
+    "title": "Investigating the Periphery Region in Warm Cumulus Clouds",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120944?af=R",
+    "content": "Abstract\nWarm cumulus clouds are key components of Earth's weather and climate systems, yet mixing processes within them and their interaction with their environment remain a major source of uncertainty in climate predictions. Based on adiabatic fraction (AF), such clouds can be divided into three regions: the adiabatic core, the skin (the diluted cloud edge), and the periphery, which lies between them, in terms of AF values. Despite its large volume and mass, the periphery is still poorly understood. This study shows that the periphery is equally supplied by air coming from the core and skin. However, periphery air flows mainly toward the skin, with limited transport into the core. The skin contributes to the periphery primarily through transport associated with the toroidal vortex. Each zone also exhibits distinct microphysical properties, including differences in droplet mean radius, variance, and relative dispersion."
+  },
+  {
+    "id": "a5e17d2bd7ba563c",
+    "title": "New Insights Into the Cooling of the Oceanic Lithosphere From Surface\u2010Wave Tomographic Inferences",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119309?af=R",
+    "content": "Abstract\nHow oceanic plates cool and thicken with age remains a subject to debate, with several thermal models supported by apparently contradictory data. Combining a novel imaging technique that balances resolution and uncertainty with finite\u2010frequency surface\u2010wave measurements, we build tomographic model SS3DPacific to revisit the cooling style of the oceanic lithosphere beneath the Pacific ocean. Resolution analysis indicates a strong vertical smearing that biases estimates of the apparent lithospheric thickness, limiting the ability to discriminate between the half space and plate cooling models. Laterally, a pattern of anomalous bands in seismic velocity aligned with fracture zones points to additional lateral complexities in the lithosphere, complicating simple age\u2010trend analyses."
+  },
+  {
+    "id": "34fa1a4d8cbb6ad1",
+    "title": "Atmospheric and Deposition Responses of 10Be to Volcanic Eruptions Inferred From the Aerosol\u2010Climate Model ECHAM6.3\u2010HAM2.3\u2010SALSA2.0: 10Be",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117481?af=R",
+    "content": "Abstract\n10Be deposition in ice cores is widely used for solar reconstructions, but its interpretation is complicated by volcanic influences. Using the state\u2010of\u2010the\u2010art aerosol\u2010climate model ECHAM6.3\u2010HAM2.3\u2010SALSA2.0: 10Be, we assess the impacts of three major volcanic eruptions: Agung (1963), El Chich\u00f3n (1982) and Pinatubo (1991). All eruptions enhance stratospheric 10Be sedimentation, increasing atmospheric 10Be below the injection altitude for several months, followed by stratospheric 10Be depletion that takes years to recover. Increases in tropospheric 10Be and deposition coincide with periods of strong stratosphere\u2013troposphere exchange. Aerosol\u2010induced sedimentation significantly enhances polar 10Be deposition subsequent to the Pinatubo and El Chich\u00f3n eruptions but plays a limited role after the Agung eruption. Sensitivity experiments reveal that higher SO2 injections generally lead to nonlinear increases in global 10Be deposition. These results underscore the need to account for volcanic influences when interpreting and modeling polar 10Be records following major eruptions."
+  },
+  {
+    "id": "4cca8303f41bde0a",
+    "title": "Causes and consequences of experimental variation in Nicotiana benthamiana transient expression",
+    "link": "https://www.nature.com/articles/s41467-026-69458-1",
+    "content": ""
+  },
+  {
+    "id": "1603b29cae1ba8f1",
+    "title": "Prediction of under-five mortality using supervised machine learning algorithms in the 23 sub-Sharan African countries",
+    "link": "https://www.nature.com/articles/s41598-026-40401-0",
+    "content": ""
+  },
+  {
+    "id": "48942564793477e7",
+    "title": "Hybrid deep learning novel framework for classification of parkinson\u2019s disease",
+    "link": "https://www.nature.com/articles/s41598-026-37553-4",
+    "content": ""
+  },
+  {
+    "id": "148ea271bbedc614",
+    "title": "Uncovering genetic variation in humoral inborn errors of immunity in African populations: insights from the African genome variation database",
+    "link": "https://www.nature.com/articles/s41598-026-39612-2",
+    "content": ""
+  },
+  {
+    "id": "b621e45d32efdc51",
+    "title": "DPAS: disease-associated peptide anomaly score for identifying pathogenic peptides via one-class learning",
+    "link": "https://www.nature.com/articles/s41598-026-40099-0",
+    "content": ""
+  },
+  {
+    "id": "039190e4d2a293ec",
+    "title": "Enhanced paddy leaf disease detection using novel dual metaheuristic loss functions in generative adversarial networks with identity block preservation for thermal image augmentation",
+    "link": "https://www.nature.com/articles/s41598-026-36477-3",
+    "content": ""
+  },
+  {
+    "id": "5b6230c8f68c4ae6",
+    "title": "Genetic risk in Alzheimer\u2019s disease",
+    "link": "https://www.nature.com/articles/s41540-026-00665-8",
+    "content": ""
+  },
+  {
+    "id": "83ceb376e6893a6f",
+    "title": "Genome Mining and Pangenome Analysis of the Stutzerimonas Genus: a Novel Source of Plastic-Degrading Enzymes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.13.705723v1?rss=1",
+    "content": "Nowadays, finding new sustainable ways to combat plastic pollution is a pressing challenge. Here, we provide a comprehensive genome mining analysis of 284 publicly available Stutzerimonas genomes for potential PET-active enzymes (PETases). While Stutzerimonas is a relatively newly established genus, it emerges as an interesting candidate in the search for novel biocatalysts. Hence, the first pangenome assessment of this genus based on its high-quality publicly available genomes was performed. An increasingly open pangenome was revealed, suggesting the versatility and adaptability of these strains to a variety of ecological niches. Moreover, functional characterisation of a new isolate, Stutzerimonas frequens VG-9, was carried out, confirming that enzymes found via in silico analyses may indeed display activity towards different polyesters. In summary, this study provides insights into the diversity of PETase homologues within still underexplored bacterial hosts, offering new perspectives for enzyme discovery in the Pseudomonadaceae family."
+  },
+  {
+    "id": "015d0fc43e385473",
+    "title": "Calibrating and documenting host-switching and evolution of incompatibility loci for two closely related Wolbachia clades",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.13.705778v1?rss=1",
+    "content": "Maternally inherited Wolbachia alphaproteobacteria are the most common arthropod endosymbionts. Often Wolbachia spread to high frequencies through cytoplasmic incompatibility, in which cif loci act through sperm to kill embryos lacking Wolbachia. Closely related Wolbachia with diverse cif loci often associate with anciently diverged hosts, but the timescale of associations remains uncertain. We produce new calibrations based on filarial nematodes with vertically inherited Wolbachia that codiverge with their hosts. Applying these calibrations to Wolbachia variants closely related to pathogen-blocking wMel from Drosophila melanogaster, we demonstrate that over a timescale of 1-2 million years, a core set of single-copy Wolbachia loci evolve largely through bifurcation rather than by gene exchange with distant Wolbachia. Dating bifurcating core genomes, we show that \"wMel-like\" Wolbachia diverged 2.1x105-2.4x106 years inhabit dipteran and hymenopteran hosts diverged more than 108 years. Previous published analysis of variants related to wRi from D. simulans, the first Wolbachia found in a drosophilid, concluded that \"wRi-like\" Wolbachia spread among different Drosophila in tens of thousands of years. However, our new calibrations suggest these estimates from a mutation-based calibration underestimated wRi-like spread by about a factor of seven. In addition, cif exchanges between wMel-like and wRi-like Wolbachia genomes have occurred over [~]104-106 years. Comparing intact cif loci found in various Wolbachia, we find function-preserving selection in their evolution. We discuss these results in light of theoretical predictions concerning selection on cytoplasmic incompatibility phenotypes within and among host lineages. The wMel variants analyzed may offer new options for Wolbachia-based biocontrol efforts."
+  },
+  {
+    "id": "39e613ef489d0b80",
+    "title": "Two anchoring proteins control daughter apical complex assembly in Toxoplasma gondii",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.13.705759v1?rss=1",
+    "content": "During Toxoplasma gondii division, the apical complex, comprising the conoid, apical polar ring (APR), and preconoidal rings, assembles with precise spatiotemporal coordination to form functional daughter buds. Despite their essential roles in invasion, motility, and division, the scaffolding proteins orchestrating this ordered assembly have remained largely unidentified. Here, we identify and characterize RCC1-2 and APR8 as essential factors directing distinct, sequential phases of daughter cell apical complex construction. Both proteins are recruited with precise spatial and temporal dynamics to the daughter buds, where they function as scaffolds rather than static structural components. APR8 transiently occupies the basal region of the APR specifically in early daughter cells. It is dispensable for conoid and PCR initiation, yet its loss causes APR collapse, abolishes SPMT anchoring, and eventually arrests conoid maturation. In contrast, RCC1-2 localizes beneath the APR basal layer and persists throughout daughter cell development, where it contributes to stabilizing the attachment of SPMTs to the APR. Notably, in situ cryo-electron tomography further reveals that the interspersed pillars bridging SPMTs ends to the APR fail to form properly in RCC1-2-depleted parasites. These findings map a hierarchical RCC1-2/APR8-dependent scaffolding process that advances our understanding of parasite replication."
+  },
+  {
+    "id": "51d32e016cfb40c2",
+    "title": "Low levels of metabolic auxotrophy among environmental Pseudomonas isolates",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.13.705048v1?rss=1",
+    "content": "Auxotrophy, the inability of bacteria to synthesize one or multiple essential metabolites (e.g. amino acids, vitamins, metabolites) is thought to be common among bacteria. However, studies often rely either on bioinformatic tools to predict auxotrophies from genome data or on experiments with low numbers of strains. Here, we combine experimental and bioinformatic approaches to assess amino acid auxotrophy levels among 315 co-isolated natural Pseudomonas strains from pond and soil habitats. Both approaches revealed that Pseudomonas isolates are predominantly prototrophs. We identified one single histidine auxotroph and five non-specific auxotrophs featuring complex growth phenotypes incompatible with single amino acid auxotrophies. While different bioinformatic pipelines vary in the extent to which auxotrophy is over- or underestimated, none of the pipelines could resolve the basis of non-specific auxotrophies. Our analysis further revealed the existence of multiple alternative biosynthesis pathways for methionine, proline, and phenylalanine, with significant enrichments of specific pathways among soil or pond strains. We conclude that combining experiments with bioinformatics is a powerful approach to assess the metabolic potential of environmental bacteria. Moreover, taxa like Pseudomonas can be predominantly prototrophic possibly owing to their generalist lifestyle, thus calling for nuanced ecological concepts predicting auxotrophy levels based on lifestyle and habitat."
   }
 ]
