@@ -796,5 +796,965 @@
     "title": "Ecological and evolutionary dynamics of the oral microbiome across childhood",
     "link": "https://www.biorxiv.org/content/10.64898/2026.02.13.705642v1?rss=1",
     "content": "Childhood represents a critical period for oral microbiome development, yet evolutionary trajectories and the relative roles of host and environment remain unclear. Using a large longitudinal metagenomic dataset of 920 samples from a twin cohort spanning the first decade of life, we characterised microbial shifts and population dynamics of key bacterial groups. Microbiome diversity was initially reduced and highly heterogeneous and became increasingly complex and convergent with age. Microbial community state was associated with developmental age, environment and in late childhood was surprisingly strongly associated with host genotype. Strain-level analyses revealed species-specific temporal patterns of genetic variation particularly within Streptococcus, reflecting adaptive responses to host and environmental pressures. Fusobacterium exhibited consistently high replication rates, indicating sustained growth dynamics. Phylogenetic reconstruction further revealed host and niche specific genomic diversification of Saccharibacteria lineages. These findings establish childhood as a decisive period of oral microbial evolution and highlight the role of host-microbiome and epithelial interactions in shaping community structure, providing guidance for oral management strategies that promote lifelong oral health."
+  },
+  {
+    "id": "c055dbbcade22b8b",
+    "title": "Engineering surgery-free prosthetic heart valve growth | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aef4597",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Children with congenital heart valve disease require repeat surgical procedures to resize grafts. A new option is a valved stent that grows spontaneously.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "09c101adee918994",
+    "title": "Redox therapy for neuropsychiatric disorders: Molecular mechanisms and biomarker development | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea9014",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Redox dysregulation, characterized by an imbalance in the NAD\n    <sup>\n     +\n    </sup>\n    [nicotinamide adenine dinucleotide (oxidized form)]/NADH (reduced form of NAD\n    <sup>\n     +\n    </sup>\n    ) ratio, is implicated in neurodegenerative and psychiatric disorders such as Alzheimer\u2019s disease and schizophrenia. This imbalance contributes to mitochondrial dysregulation, oxidative stress, and inflammation. Despite promising preclinical studies supporting therapeutic strategies aimed at restoring redox balance and thereby rescuing brain bioenergetic deficits, clinical outcomes and efficacy remain limited. Progress has been hindered by the incomplete understanding of NAD\n    <sup>\n     +\n    </sup>\n    subcellular cycling, as well as a lack of in vivo biomarkers measuring target engagement of redox status and mitochondrial function. Thus, this review examines molecular mechanisms of NAD (nicotinamide adenine dinucleotide)\u2013related bioenergetic deficits, current and emerging NAD-targeted therapies, and recent advances in the development of neuroimaging biomarkers, emphasizing personalized and mechanism-driven approaches.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "2f1412e5ddc2b5f7",
+    "title": "Conformation-programmed DNA computing | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aec8383",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Natural biological systems achieve precise cellular control through multidimensional signaling architectures that integrate sequence specificity, structural dynamics, and conformational switching. While synthetic DNA networks have been engineered primarily using sequence programmability, exclusive reliance on this dimension constrains signaling range and integrated regulation. Here, we report an allosteric DNA computing framework enabling the simultaneous integration of sequence programmability with conformational dynamics for integrated multilevel signal processing. By encoding conformational signals within polythymidine loops (0 to 40 nucleotides), this system executes loop-dependent logic operations with expanded signaling ranges. Moreover, catalytic allosteric hairpin assemblies achieve ~30-fold signal amplification with enhanced signal-to-noise ratios. Concurrently, allosteric DNA neural networks discriminate conformational signals based on loop lengths (7 to 15 nucleotides) at two-nucleotide resolution. Crucially, microRNA-responsive versions of this framework regulate gene expression, thereby bridging conformational signaling with genetic control regulations in vivo. Collectively, this work establishes a conformational signal-processing paradigm for adaptive DNA computing, paving the way for advanced synthetic biology and precision therapeutics.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "28406953a2942de3",
+    "title": "Degradation of fish food webs in the Anthropocene | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adu6540",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Global change reshapes biodiversity through shifts in species composition, richness, and body size. How these shifts combine to alter higher-level ecological processes within food webs can have important implications for entire ecosystems. However, the strength and direction of these shifts will depend on combinations of ways that species and trait compositions change through time. We combine long-term data from ~15,000 freshwater and marine fish communities (1949\u20132019) with information about their size, diets, and trophic status to evaluate how food webs change through time at local spatial scale. We found that selective species turnover driven by body size reductions is associated with widespread alteration to fish food web topology and function, including increased connectance and generalism, leading to higher predation pressure and increased prey vulnerability. Food webs were also less modular. These changes extend across food web trophic structures, causing a cascading shift in the proportion of species across trophic levels. Our study highlights complex biodiversity responses to confluent changes across multiple facets.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "3a073225f91df086",
+    "title": "Tuning of the RBR1-E2F/DP transcriptional module by the F-box protein FBL17 | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adz2439",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    F-box proteins of SCF E3 ligases have been documented to control the abundance of numerous critical regulatory proteins. In\n    <i>\n     Arabidopsis\n    </i>\n    , one of them, F-BOX-LIKE17 (FBL17), stands out for playing a key role in DNA replication, DNA damage, and, more recently, for the control of cell size.\n    <i>\n     FBL17\n    </i>\n    null mutants exhibit severe cellular defects leading to lethality. However, the molecular mechanisms by which FBL17 operate remain poorly understood. Here, we show that FBL17 interacts with different components of the RETINOBLASTOMA-RELATED1/E2F module and is involved in the protein turnover of E2Fa and E2Fb. However, mutations in\n    <i>\n     E2Fa\n    </i>\n    or\n    <i>\n     E2Fb\n    </i>\n    do not alleviate the severe\n    <i>\n     fbl17\n    </i>\n    phenotype but worsen it. By contrast, it is the accumulation of the transcriptional repressor E2Fc that causes\n    <i>\n     fbl17\n    </i>\n    mutant lethality. Our results highlight a key role for FBL17 in modulating the transcriptional control of E2F target genes ensuring precise control of cell cycle progression and avoiding uncontrolled DNA damage response.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "a561c997690631e3",
+    "title": "Disrupted energy metabolism is associated with retinal ganglion cell degeneration in autosomal dominant optic atrophy | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adx7815",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Autosomal dominant optic atrophy (ADOA) is a hereditary optic neuropathy caused by\n    <i>\n     OPA1\n    </i>\n    variants, leading to retinal ganglion cell (RGC) degeneration and vision loss. The mechanisms behind RGC vulnerability to mitochondrial dysfunction remain unclear. We developed a patient-specific\n    <i>\n     Opa1\n     <sup>\n      V291D/+\n     </sup>\n    </i>\n    knock-in mouse model to investigate mitochondrial dysfunction and retinal metabolism in ADOA. We observed that\n    <i>\n     Opa1\n     <sup>\n      V291D/+\n     </sup>\n    </i>\n    mice exhibited anatomical and functional RGC abnormalities recapitulating the ADOA phenotypes. Reduced optic atrophy 1 (OPA1) protein levels were noted in\n    <i>\n     Opa1\n     <sup>\n      V291D/+\n     </sup>\n    </i>\n    mice, accompanied by decreased protein stability. Moreover, mitochondrial function was compromised, as indicated by reduced Complex I activity, increased oxidative stress, and diminished adenosine triphosphate production in the retinas of\n    <i>\n     Opa1\n     <sup>\n      V291D/+\n     </sup>\n    </i>\n    mice. Spatial metabolomics revealed energy deficits in the inner retina and heightened glycolysis in the outer retina. Immunostaining showed decreased expression of glycolytic proteins in the ganglion cell layer. Single-nucleus RNA sequencing disclosed significant down-regulation of energy-production genes in RGCs, while other retinal cell types remained unaffected. These findings emphasize the specific vulnerability of RGCs to bioenergetic crises, connecting disrupted energy homeostasis to their degeneration. By increasing the nicotinamide adenine dinucleotide (NAD\n    <sup>\n     +\n    </sup>\n    )/reduced form of NAD\n    <sup>\n     +\n    </sup>\n    (NADH) redox ratio through the overexpression of mitochondrial-targeted\n    <i>\n     Lactobacillus brevis\n    </i>\n    NADH oxidase (\n    <i>\n     MitoLbNOX\n    </i>\n    ) in RGCs, we demonstrated improved RGC function and survival through enhanced energy metabolism and reduced oxidative stress. These findings confirm that disrupted energy metabolism leads to RGC degeneration and emphasize the enhancement of the NAD\n    <sup>\n     +\n    </sup>\n    /NADH redox ratio as a promising treatment strategy to protect RGCs from degeneration in ADOA.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "3d7f9fca81ae1059",
+    "title": "Transmembrane proteins mediate basal complex assembly and individual daughter cell formation in malaria parasites | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aeb5163",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Asexual reproduction of malaria parasites requires the basal complex, the equivalent of a eukaryotic contractile ring. Despite its central role, basal complex biogenesis remains largely unknown. Here, we use expansion microscopy and DNA points accumulation for imaging in nanoscale topography to investigate three transmembrane basal complex proteins in\n    <i>\n     Plasmodium falciparum\n    </i>\n    \u2014basal complex transmembrane protein 1 (BTP1), BTP2, and basolateral expansion boundary (BLEB). Parasites lacking BTP2 are still enveloped by membranes but fail to separate from each other, resulting in multiorganellar mutants. We isolate the defect to a specific step during basal complex development and demonstrate that the contractile ability remains intact. By revisiting BLEB, we identify a distinct plasma membrane region that is excluded from daughter cells and associated with the basal complex. Integrating these findings, we propose a three-step model for basal complex biogenesis that highlights the specific role of BTP2 and suggests a role for the BLEB-associated membrane. This study offers a mechanistic framework for how multiple daughter cells are formed simultaneously and highlights the importance of transmembrane proteins for cell division.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "4fca832aaa556495",
+    "title": "Design and preclinical feasibility of a pediatric heart valve stent that spontaneously adapts to growth via a spring mechanism | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adw4669",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Congenital heart valve defects often require surgical intervention for survival. Now, there are no valve prosthetics on the market that are designed for babies and toddlers who grow rapidly. Recent advancements in expandable valves hold promise for these young patients but currently require invasive balloon catheter procedures for device expansion. Here, we describe the design and preclinical feasibility of a pediatric heart valve stent that spontaneously adapts to growth via a springlike mechanism imparted by the superelastic properties of nitinol. Studies in piglets demonstrated appropriate constraint of the device to small diameters (8 to 9 millimeters) upon implantation, acute valve function, and the ability of the stent to proportionately expand with growth up to 13 millimeters after 6 weeks without subsequent interventions after implantation. We expect that the growth-adaptive stent concept could be broadly leveraged to eliminate surgeries and invasive procedures as young patients grow.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "cb7b391c02111d90",
+    "title": "Optimal choice of proxy for cloud condensation nuclei reduces uncertainty in aerosol-cloud-climate forcing | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea4828",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Aerosol-cloud interactions (ACI) remain the largest uncertainty in anthropogenic climate forcings. Observation-based estimates of instantaneous radiative forcing from ACI (RF\n    <sub>\n     aci\n    </sub>\n    ; the Twomey effect) rely on the choice of aerosol quantities as proxies for cloud condensation nuclei (CCN) concentrations, which differ in their ability to represent cloud-base CCN and data accuracy. Using diverse observations and aerosol-climate models, we evaluate the utility of different proxies with two independent approaches. Both approaches reveal that surface CCN exhibits the smallest bias in predicting RF\n    <sub>\n     aci\n    </sub>\n    (+5%), followed by aerosol index, surface sulfate and column CCN with similar biases of +25%, while aerosol optical depth and column sulfate show the largest biases (\u221260% and\u00a0+92%). Constraining RF\n    <sub>\n     aci\n    </sub>\n    with the optimal proxy reduces uncertainty from 66 to 43%, yielding a less negative RF\n    <sub>\n     aci\n    </sub>\n    (\u22121.0 W\u00a0m\n    <sup>\n     \u22122\n    </sup>\n    ) than the unconstrained case (\u22121.2 W\u00a0m\n    <sup>\n     \u22122\n    </sup>\n    ). Our findings highlight the crucial role of proxy constraint in reconciling and improving RF\n    <sub>\n     aci\n    </sub>\n    estimates.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "b78326a2ed32a173",
+    "title": "The mechanical properties of Arabidopsis thaliana roots adapt dynamically during development and to stress | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aeb0032",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Mechanical properties of plant cells and tissues change dynamically, influencing plant growth, development, and interactions with the environment. Despite their central roles in plant life, current knowledge of how these properties change in vivo is very limited. Here, we have combined Brillouin microscopy and molecular rotors to investigate stiffness, viscosity, and porosity in living\n    <i>\n     Arabidopsis thaliana\n    </i>\n    seedling roots during differentiation and in response to stress and genetic manipulation. We found that mechanical properties change in a cell- and tissue-specific manner. The properties change dynamically during differentiation to support directional cell expansion. Cell type\u2013specific adaptation of the properties is induced within hours in response to stress or changes in cell wall metabolism. Hyperosmotic stress\u2013induced reduction of cell wall stiffness requires intact abscisic acid metabolism and cell wall integrity signaling. The findings form the foundation for future studies to characterize the regulatory mechanisms linking cell wall homeostasis, signaling, and mechanical properties in plants.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "659078cb450f9cdc",
+    "title": "The oldest in situ Homo erectus crania in eastern Asia: The Yunxian site dates to ~1.77 Ma | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.ady2270",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    With the discovery of three almost complete\n    <i>\n     Homo erectus\n    </i>\n    crania, Yunxian is one of the most important early Pleistocene hominin sites in eastern Asia. Yet, the age of the Yunxian fossils has remained debated because of the lack of reliable numerical dating results. Here, we apply the well-established isochron\n    <sup>\n     26\n    </sup>\n    Al/\n    <sup>\n     10\n    </sup>\n    Be burial dating to quartz gravels from two sediment layers of the site. The age results push the Yunxian crania back to 1.77\u00a0\u00b1\u00a00.08\u00a0million years ago (\u00b11\u03c3 internal error), representing the oldest\n    <i>\n     H. erectus\n    </i>\n    fossils discovered in situ in eastern Asia. A much older age assignment to Yunxian supports the model of rapid dispersal and widespread distribution of early\n    <i>\n     H. erectus\n    </i>\n    and contributes to narrowing the chronological gap between the earliest archaeology and hominin paleontology in eastern Asia.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "b6ad2bb2240f0978",
+    "title": "Efficient AgInGaS-based QLEDs and full-color displays via uniform silver vacancy distribution | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea0753",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    AgInGaS (AIGS) quantum dots (QDs) are promising for displays due to their narrow full width at half maximum (FWHM) and tunable emission. However, nonuniform silver vacancy (\n    <i>\n     V\n    </i>\n    <sub>\n     Ag\n    </sub>\n    ) distribution causes emission broadening and hinders device performance improvement. Here, we present a multistep temperature control strategy that precisely regulates reaction temperature to control nucleation, cation exchange, and defect reconstruction, thereby enabling uniform\n    <i>\n     V\n    </i>\n    <sub>\n     Ag\n    </sub>\n    distribution in AIGS QDs. Simultaneously, we construct a dual-layer shell structure (AgGaS\n    <sub>\n     2\n    </sub>\n    /GaS\n    <sub>\n     x\n    </sub>\n    ), which efficiently passivates surface defects. The synthesized red, green, and blue AIGS QDs achieve photoluminescence quantum yields (92.6, 98.5, and 53.3%) and narrow FWHMs (32, 29, and 21 nm). On the basis of these materials, we fabricated red, green, and blue QD light-emitting diodes that demonstrate external quantum efficiencies of 13.2, 8.0, and 2.9%. Moreover, the interfacial confinement self-assembly strategy enables the fabrication of full-color QD pixel arrays with resolutions up to 2032 pixels per inch, further highlighting the potential of AIGS QDs for near-eye displays.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "742fad53e5229051",
+    "title": "Metal-organic framework/graphene nanoribbon/polyimide mixed-matrix membranes for high-temperature H2/N2 separation | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aeb4360",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    We report the application of mixed-matrix membranes for high-temperature hydrogen separation. To enhance hydrogen selectivity, graphene nanoribbons (GNRs) were incorporated into ZIF-8 fillers, forming a physically confined structure conducive to hydrogen transport. The metal-organic framework (MOF)/GNR filler embedded into a polyimide (PI) matrix yielded a much higher H\n    <sub>\n     2\n    </sub>\n    permeability (298 Barrer, +40%) and H\n    <sub>\n     2\n    </sub>\n    /N\n    <sub>\n     2\n    </sub>\n    selectivity (15, +25%) than the neat PI membrane. In particular, the as-prepared asymmetric membrane achieved a H\n    <sub>\n     2\n    </sub>\n    permeance of 212\u00a0\u00b1\u00a045 Gas Permeation Unit (GPU) and H\n    <sub>\n     2\n    </sub>\n    /N\n    <sub>\n     2\n    </sub>\n    selectivity of 19\u00a0\u00b1\u00a02 at 35\u00b0C. Remarkably, at 300\u00b0C, the H\n    <sub>\n     2\n    </sub>\n    permeance rose to 775\u00a0\u00b1\u00a0139 GPU while maintaining a H\n    <sub>\n     2\n    </sub>\n    /N\n    <sub>\n     2\n    </sub>\n    selectivity of 13\u00a0\u00b1\u00a01, outperforming polymer-based membranes. A techno-economic analysis of an NH\n    <sub>\n     3\n    </sub>\n    cracking process demonstrated that this high permeance reduces membrane area requirements by 68.2% and lowers H\n    <sub>\n     2\n    </sub>\n    separation costs by 35.1% compared with operation at 35\u00b0C, leading to a 9.8% reduction in the levelized cost of hydrogen.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "bdb0022db06d2468",
+    "title": "The vault particle is enclosed by a C13-symmetric cap with a positively charged exterior | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adz6794",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Vaults are some of the largest ribonucleoprotein complexes known and are highly conserved across eukaryotes, but both their function and key details of their architecture remain unclear. While high-resolution structures of the vault shell are available, the architecture and symmetry of the cap have remained unresolved. Here, we present a 2.25-angstrom cryo\u2013electron microscopy structure of the vault cap, revealing an unexpected 13-fold symmetric arrangement that contrasts with the 39-fold symmetry of the vault body, with each repeating module of the cap formed by an asymmetric homotrimer of adjacent subunits. The center of the cap features an unusual architecture, consisting of two concentric \u03b2 barrels surrounded by an interwoven two-layer stack of \u03b1 helices. The vault cap features a positively charged exterior and a negatively charged interior surface, with implications for binding partner recruitment and engineering of modified vault particles.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "e6bd065cbd733e79",
+    "title": "The marginal majority effect: When social influence produces lock-in | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adr4237",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    People are influenced by the choices of others, a phenomenon observed across contexts in the social and behavioral sciences. Social influence can lock in an initial popularity advantage of an option over a higher quality alternative. Yet, several experiments designed to enable social influence have found that social systems self-correct rather than lock in. Here, we identify a behavioral phenomenon that makes inferior lock-in possible, which we call the \u201cmarginal majority effect\u201d: a discontinuous increase in the choice probability of an option as its popularity exceeds that of a competing option. We demonstrate the existence of a marginal majority effect in several recent experiments and show that lock-in always occurs when the effect is large enough to offset the quality effect on choice but rarely otherwise. Our results reconcile conflicting past empirical evidence and connect a behavioral phenomenon to the possibility of social lock-in.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "b2e2f086692860e7",
+    "title": "Tephra seismites\u2014Understanding seismic hazard of hidden faults by analyzing liquefied tephra layers in lakes | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.ads2015",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Assessing seismic hazards in regions with hidden or poorly expressed faults is one of the major challenges in paleoseismology today. Here, we used computed tomography imaging to quantify the dimensions and distribution of liquefaction structures in \u226417.5\u2013thousand-year-old tephra layers in 18 lakes scattered across the poorly expressed Hamilton Basin fault system in northern New Zealand. These \u201ctephra seismites,\u201d embedded in unconsolidated, organic-bearing lake sediment, increase in occurrence and dimensions toward known faults and indicate the occurrence of a local hidden fault segment. Through incorporating peak ground acceleration modeling, we found that the spatial distribution of tephra seismites directly relates to the ground shaking induced by near-field fault ruptures. We used the variability in tephra seismites within the stratigraphic record and tephrochronology to better constrain the recurrence intervals and magnitudes of paleoearthquakes from both the Hamilton Basin and adjacent Hauraki Basin fault systems. Our methodology is globally applicable in volcanic and tectonic regions where liquefaction structures are preserved among (hidden) faults.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "db927d121de443c6",
+    "title": "\u201cDirect\u201d measurement of delocalized molecular excitonic wave functions through excitonic and vibronic photon imaging | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aeb6389",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Delocalized excitons govern the optoelectronic properties of molecular materials, yet the real-space reconstruction of their wave functions\u2014the spatial distribution of amplitude and phase\u2014has remained a long-standing scientific goal. Here, we demonstrate that scanning tunneling microscopy\u2013induced luminescence enables real-space reconstruction of amplitude and phase of delocalized excitonic states in molecular chains. Through subnanometer-resolved photon imaging of linear molecular chains, coherent purely excitonic (0\u20130) emission patterns reveal the wave function\u2019s relative phases, while incoherent vibronic (0\u20131) emission maps the squared wave function amplitudes. This near-field technique enables the reconstruction of wave functions for both bright superradiant states and optically dark subradiant states inaccessible by conventional far-field optics. Furthermore, the submolecular resolution of the vibronic maps allows for the contributions of different vibrational symmetries, namely, Franck-Condon and Herzberg-Teller modes, to be distinguished. Our findings establish a unique approach for the excitonic wave function reconstruction and open a route for exploring exciton dynamics and interactions in molecular systems.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "d56b65e85015cdd9",
+    "title": "Increasing synchronicity of global extreme fire weather | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adx8813",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Concurrent extreme fire weather creates favorable conditions for widespread large fires, which can complicate the coordination of fire suppression resources and degrade regional air quality. Here, we examine the patterns and trends of intra- and interregional synchronous fire weather (SFW) and explore their links to climate variability and air quality impacts. We find climatologically elevated intraregional SFW in boreal regions, as well as interregional synchronicity among northern temperate and boreal regions. Significant increases in SFW occurred during 1979 to 2024, with more than a twofold increase observed in most regions. We estimate that over half of the observed increase is attributable to anthropogenic climate change. Internal modes of climate variability strongly influence SFW in several regions, including Equatorial Asia, which experiences 43 additional intraregional SFW days during El Ni\u00f1o years. Furthermore, SFW is strongly correlated with regional fire-sourced PM\n    <sub>\n     2.5\n    </sub>\n    in multiple regions globally. These findings highlight the growing challenges posed by SFW for firefighting coordination and human health.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "474426e1e770687f",
+    "title": "Human microglia in brain assembloids display region-specific diversity and respond to hyperexcitable neurons carrying SCN2A mutation | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.ady2977",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Microglia critically shape neuronal circuit development and function, yet their region-specific properties and roles in distinct circuits of the human brain remain poorly understood. In this study, we generated region-specific brain organoids (cortical, striatal, and midbrain), each integrated with human microglia, to fill this critical gap. Single-cell RNA sequencing uncovered six distinct microglial subtypes exhibiting unique regional signatures, including a subtype highly enriched for the GABA\n    <sub>\n     B\n    </sub>\n    receptor gene within striatal organoids. To investigate the contributions of microglia to neural circuitry, we created microglia-incorporated midbrain-striatal assembloids, modeling a core circuit node for many neuropsychiatric disorders, including autism. Using chemogenetics to activate this midbrain-striatal circuit, we observed increased calcium signaling in microglia involving GABA\n    <sub>\n     B\n    </sub>\n    receptors. Leveraging this model, we examined microglial responses within neural circuits harboring an\n    <i>\n     SCN2A\n    </i>\n    nonsense (C959X) mutation associated with profound autism. Microglia displayed heightened calcium responses to\n    <i>\n     SCN2A\n    </i>\n    mutation\u2013mediated neuronal hyperactivity and engaged in excessive synaptic pruning. These pathological effects were reversed not only by pharmacological inhibition of microglial GABA\n    <sub>\n     B\n    </sub>\n    receptors but also by knockout of the\n    <i>\n     GABBR1\n    </i>\n    gene in microglia. Collectively, our findings establish an advanced platform that can be used to dissect human neuroimmune interactions in subcortical regions and to evaluate previously undiscovered therapies, highlighting the important role of microglia in shaping critical circuitry related to neuropsychiatric disorders.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "b8caf51d6484be09",
+    "title": "Inertia-driven amphibious robot with asymmetric microundulatory fin arrays | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea2222",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Centimeter-scale amphibious robots are promising for versatile tasks. Existing solutions use active and multiple mechanisms for environmental interaction; however, such designs face sealing challenges at small scales and are often complex and unreliable. Here, we present an inertia-driven actuation strategy combining a variable-output voice coil motor (VCM) with a fully sealed rigid shell. By modulating the VCM output, the robot achieves jumping, full-stroke vibration for terrestrial locomotion and small-stroke vibration for aquatic propulsion. Terrestrial tests demonstrate rapid motion on granular media, continuous jumping, and load carrying. The robot also uses passive tilted fins that convert reciprocating motion into steerable aquatic thrust, realizing an inertia-driven multidirectional propulsion mechanism. Thrust generation and frequency-dependent propulsion were analyzed through aquatic experiments, high-speed particle image velocimetry, and simulations. Last, a 24-gram legless prototype (Leglessbot) demonstrated effective locomotion across diverse terrain, offering a compact solution for underactuated amphibious mobility.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "62b9802aa1da2716",
+    "title": "Propagation of the Madden-Julian oscillation as a deterministic chaotic phenomenon | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adz1916",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    The Madden-Julian oscillation (MJO) is a planetary-scale tropical weather disturbance marked by eastward-propagating cumulus cloud clusters over the Indo-Pacific region, causing severe weather and climate events worldwide. The mechanism and predictability of MJO propagation remain elusive, partly because relevant multiscale processes are poorly understood. Here, we reveal chaotic MJO propagation arising from cross-scale nonlinear interactions, based on 4000-member ensemble simulations of two MJO events with a global cloud-system\u2013resolving model. Against conventional linear thinking, multiple regimes with distinct timings of MJO propagation emerge under a single atmosphere-ocean background. The emergence of regime bifurcation depends critically on the equatorial asymmetry of climatological sea surface temperature. Selection of the bifurcated regimes is probabilistic, influenced by whether tropical-extratropical interplay promotes moistening associated with westward-propagating tropical waves over the western Pacific. These results contribute to a more complete MJO conceptual model and help foresee when coherent MJO propagation emerges.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "3af9dfda0c41d704",
+    "title": "R-loop processing via REXO4-RNaseH1\u2013mediated endo- and exo-cleavage coupling mode prevents genome instability and antitumor immunity | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aeb4937",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    R-loop metabolism is closely associated with genome stability and tumors. Here, we identify an exonuclease REXO4, which collaborates with RNaseH1 endonuclease to degrade R-loops in an \u201cendo/exo-cleavage coupling\u201d manner. Specifically, REXO4 directly degrades the RNA strand in R-loops from the end or internal nick through its 3\u2032-5\u2032 exonuclease activity and stimulates RNaseH1 endonuclease activity. The genome-wide R-loop regions regulated by REXO4 highly overlap with those regulated by RNaseH1, and REXO4 overexpression counteracts genome-wide R-loop accumulation caused by RNaseH1 deficiency. Furthermore, REXO4-deficient tumors display elevated R-loop mutation burden, and tumor patient-derived mutations in REXO4 enzymatic region all impair R-loop cleavage activity. Besides, we identify a compound 17 (named REXO4-IN-17) capable of inhibiting REXO4 nuclease activity. Interfering with REXO4 increases the sensitivity of tumor cells to alkylating and G4 stabilizing chemotherapeutic drugs and activates cGAS-mediated antitumor immunity. Therefore, our study proposes an endo/exo-cleavage coupling the R-loop processing model, which provides additional insights into the link between R-loop\u2013associated genome instability, antitumor immunity, and tumors.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "53188e78ad5b98ee",
+    "title": "The actin cytoskeleton is required to maintain plant cell division orientation against cellular geometry | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aeb8498",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    In multicellular organisms, cell division shapes tissue architecture, cell identity, and function. In walled organisms like plants, division plane orientation irreversibly defines tissue topology and is tightly regulated. While divisions often follow the shortest path enclosing cell volume, certain cells deviate, dividing perpendicular to the growth axis. Tissue-scale mechanical stress has been proposed to guide such orientation, but how these cues are integrated remains unclear. Here, we reexamine the role of the actin cytoskeleton in orienting cell division in\n    <i>\n     Arabidopsis\n    </i>\n    root epidermis. Combining cell biology, genetics, pharmacological treatments, 3D segmentation, and modeling, we show that actin is a central molecular actor required to establish cell division orientation against the geometrical rules, highlighting its role in integrating spatial information.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "b894b9c689a99ea2",
+    "title": "3D reconstruction of human liver tissue at cellular resolution | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adz2299",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    The liver contains an intricate microstructure that is critical for proper liver function. Architectural disruption of this spatial structure is pathologic. Unfortunately, two-dimensional (2D) histopathology\u2014the gold standard for pathological understanding of many liver diseases\u2014can misrepresent or leave gaps in our understanding of complex 3D structural features. Here, we used immunostaining, tissue clearing, microscopy, and computational software to create 3D multilobular reconstructions of both nonfibrotic and cirrhotic human liver tissue. We found that spatial architecture in human cirrhotic liver samples with varying etiologies had sinusoid zonal dysregulation, reduction in glutamine synthetase\u2013expressing pericentral hepatocytes, regression of central vein networks, disruption of hepatic arterial networks, and fragmentation of biliary networks, which together suggest a pro-portalization/decentralization phenotype in cirrhotic tissue. Further implementation of 3D pathological analyses may provide a deeper understanding of cirrhotic pathobiology and inspire treatments for liver disease.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "30ab5a2a126cd67b",
+    "title": "miRNA gene mutations commonly disrupt the proper functioning of miRNA genes | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea6079",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    A growing number of mutations are being identified in the noncoding genome, including microRNA (miRNA) genes; however, little is known about the consequences of these mutations and how harmful they are to the functioning of miRNA genes. To evaluate the effects of miRNA gene mutations, we took advantage of a large collection of somatic mutations identified in miRNA genes in &gt;10,000 The Cancer Genome Atlas cancer samples and compared them with the corresponding miRNA sequencing data. Using different analytical approaches and rigorous statistical criteria, we revealed that a substantial fraction of mutations is deleterious for the proper functioning of miRNA genes affecting the level of mature miRNAs, isomiR profiles (precision of DROSHA/DICER1 cleavage), and/or 5p/3p miRNA strand balance. We also showed that most mutations, especially those identified as deleterious, destabilize the structure of miRNA precursors. The analysis showed that many miRNA gene mutations can damage miRNA genes and, if located in disease-related miRNA genes, may be pathogenic variants.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "23ca8f24263689eb",
+    "title": "Multiple southward migrations of Neolithic Chinese farmers into Southeast Asia revealed from large-scale Y-chromosome sequences | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.ady1597",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    The scale and timing of genetic contributions from ancient millet- and rice-farming populations in China to Southeast Asian populations remain incompletely understood, particularly concerning Y-chromosome diversity. Here, a comprehensive dataset of Chinese Y-chromosome variations, including 1507 high-coverage sequences from ethnolinguistically diverse groups, was analyzed alongside 780 ancient genomes from eastern Eurasia and 1748 low-coverage sequences from Southeast Asia. We reconstructed a high-resolution, time-calibrated Y-chromosome phylogeny, revealing multiple male-biased expansions associated with Neolithic cultural innovations in South China. These expansions markedly shaped the paternal ancestry of both South China and mainland Southeast Asia. Founding lineages linked to Hmong-Mien and Tai-Kadai speakers were traced, revealing notable growth during the Middle Neolithic. Phylogeographic structure, network analyses, and haplogroup distributions indicate complex demographic interactions that established the genetic legacy of Neolithic farmers in Southeast Asia. These findings highlight recurrent southward migrations of Chinese farmer-related groups and their enduring influence on the paternal genetic landscape of ancient and present-day Southeast Asians.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "084cf61bbfd79f12",
+    "title": "Aneuploidy of chromosome 8 promotes the mesenchymal lineage during cell fate transitions | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aea1660",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Aneuploidy is present in about 90% human solid tumors. Certain tumors remain addicted to aneuploidy. Paradoxically, artificially induced aneuploidy in normal cells elicits cellular stresses and decreases cell fitness. How aneuploidy initially emerges during tumorigenesis is thus unclear. Using human embryonic stem cells (ESCs) as a model, we show that aneuploid ESCs form immature teratomas with an enrichment of mesenchymal tissues. Specifically, chromosome 8 (chr8) gain, a prevalent form of aneuploidy in human cancers, promotes the expansion of mesenchymal stem cells (MSCs) in teratomas and MSC proliferation in vitro. We further show that human embryonal rhabdomyosarcomas, tumors of mesenchymal origin, lack dominant driver mutations but frequently harbor chr8 gain. Our study suggests a plausible mechanism for aneuploidy emergence during tumorigenesis, links specific aneuploidy to the mesenchymal lineage, and paves the way for identifying vulnerabilities of aneuploid MSCs, which may have important roles in tumorigenesis.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "e26e020f0504ba5e",
+    "title": "Activation of the YAP1/pSTAT3/NRP1 axis in peritendinous sensory nerves promotes tendon healing | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aec1272",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    Chemotactic migration of peritendinous nerves is essential for tendon regeneration, yet the underlying neuroelectrical mechanisms remain unclear. Here, we identify an electrically responsive yes-associated protein 1 (YAP1)/phosphorylated signal transducer and activator of transcription 3 (pSTAT3)/neuropilin-1 (NRP1) signaling axis in sensory neurons. Electrical stimulation enhances YAP1-pSTAT3 interaction, promotes pSTAT3 nuclear translocation and transcriptional activity, and up-regulates NRP1 to support growth of calcitonin gene-related peptide (CGRP)\u2013positive sensory fibers. Guided by these findings, we engineered a bifunctional piezoelectric patch composed of poly(vinylidene difluoride-trifluoroethylene) [P(VDF-TrFE)] and regenerated silk fibroin@poly(3,4-ethylenedioxythiophene):polystyrene sulfonate (RSF@P:P), coupling mechanically induced electrical cues with dynamic lubrication. Under ultrasound activation, the P(VDF-TrFE) layer generates localized electrical signals that facilitate sensory-nerve and vascular ingrowth, while the RSF@P:P layer undergoes piezoelectric-triggered gel-sol transition to form a low-friction interface and reduce adhesion. In rat and Bama minipig models, the patch markedly enhanced tendon regeneration and decreased adhesion scores by ~50%. These findings establish a neuroelectrically guided strategy for enhancing tendon healing.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "491916a4669808c6",
+    "title": "Morphology-adaptive Au-Ag nanowire elastronics for integrated FlexoSERS and bioelectrical sensing | Science Advances",
+    "link": "https://www.science.org/doi/10.1126/sciadv.aec2162",
+    "content": "<div id=\"abstracts\">\n <div>\n  <section id=\"abstract\">\n   <h2>\n    Abstract\n   </h2>\n   <div>\n    We introduce a morphology-adaptive Au-Ag nanowire elastronic platform that conforms to diverse geometries while enabling multimodal optical-electrical sensing. Using a facile yet versatile template-guided growth strategy, vertically aligned Au-Ag nanowire arrays are directly fabricated on 1D nano/microneedles, 2D elastic films, and 3D porous architectures. On 2D substrates, the arrays act as FlexoSERS interfaces with high sensitivity, uniformity (RSD\u00a0=\u00a07.2%), and durability, maintaining stable SERS signals under 100% strain and after 2500 cycles. On 3D porous sponges, the NWs serve as dry bioelectrical electrodes, enabling stable electrocardiogram (ECG) and electromyogram (EMG) monitoring with long-term stability. Continuous ECG recording, combined with deep learning analysis, enables accurate classification between sleep and wake states. Meanwhile, the EMG signals capture subtle motor activities such as finger bending, typing, and clicking. By uniting strain-tolerant FlexoSERS with reliable bioelectrical sensing across 1D-3D substrates, this platform provides a robust material foundation and a scalable route toward next-generation wearable health monitors, intelligent sleep evaluation, and human-machine interfaces.\n   </div>\n  </section>\n </div>\n</div>"
+  },
+  {
+    "id": "8ad8164bd0cfca93",
+    "title": "Challenging one-way fish modelling: two-way coupling reveals critical marine ecosystem dynamics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0079661126000352?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 17 February 2026</p><p><b>Source:</b> Progress in Oceanography</p><p>Author(s): Helen R. Powley, Rebecca Millington, Yuri Artioli, Robert J. Wilson, Jorn Bruggeman</p>"
+  },
+  {
+    "id": "3b747c3ba84f7154",
+    "title": "Stereospecific alkyl\u2013alkyl cross-coupling of boronic esters",
+    "link": "https://www.nature.com/articles/s41586-026-10261-9",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10261-9\">doi:10.1038/s41586-026-10261-9</a></p>Stereospecific alkyl\u2013alkyl cross-coupling of boronic esters"
+  },
+  {
+    "id": "83428e6c715ecc4b",
+    "title": "Author Correction: <i>BCL6</i> enables Ph<sup>+</sup> acute lymphoblastic leukaemia cells to survive <i>BCR\u2013ABL1</i> kinase inhibition",
+    "link": "https://www.nature.com/articles/s41586-026-10253-9",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10253-9\">doi:10.1038/s41586-026-10253-9</a></p>Author Correction: <i>BCL6</i> enables Ph<sup>+</sup> acute lymphoblastic leukaemia cells to survive <i>BCR\u2013ABL1</i> kinase inhibition"
+  },
+  {
+    "id": "3216e90c905b92db",
+    "title": "This chunk of glass could store two million books for 10,000 years",
+    "link": "https://www.nature.com/articles/d41586-026-00534-8",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00534-8\">doi:10.1038/d41586-026-00534-8</a></p>Microsoft unveils a laser-modified glass that could store huge amounts of data for millennia \u2014 plus, a trial of mRNA vaccines to prevent a form of breast cancer recurring."
+  },
+  {
+    "id": "31901f6728ca3223",
+    "title": "Giant energy storage and dielectric performance in all-polymer nanocomposites",
+    "link": "https://www.nature.com/articles/s41586-026-10195-2",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10195-2\">doi:10.1038/s41586-026-10195-2</a></p>A high-temperature immiscible blend of two dipolar polymers that self-assemble into three-dimensional all-polymer nanocomposites allows markedly enhanced dielectric and energy storage performances over a broad temperature range."
+  },
+  {
+    "id": "9889b885d51f85cf",
+    "title": "Rising atmospheric CO<sub>2</sub> reduces nitrogen availability in boreal forests",
+    "link": "https://www.nature.com/articles/s41586-025-10039-5",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-10039-5\">doi:10.1038/s41586-025-10039-5</a></p>Nitrogen isotope tree-ring chronologies show that rising atmospheric CO2 has reduced nitrogen availability in boreal forests in Sweden, suggesting that elevated atmospheric CO2 is causing oligotrophication in boreal forests."
+  },
+  {
+    "id": "676a84a8f8ef9fbd",
+    "title": "The natural architecture of oyster reefs maximizes recruit survival",
+    "link": "https://www.nature.com/articles/s41586-026-10103-8",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10103-8\">doi:10.1038/s41586-026-10103-8</a></p>Survival of reef-building oysters peaks at specific combinations of fractal dimension and height that reduce predation, showing how optimal three-dimensional habitat geometry can guide more effective ecosystem restoration."
+  },
+  {
+    "id": "d8ceb83345f3cd00",
+    "title": "Accurate predictions of disordered protein ensembles with STARLING",
+    "link": "https://www.nature.com/articles/s41586-026-10141-2",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10141-2\">doi:10.1038/s41586-026-10141-2</a></p>The deep learning model STARLING can generate accurate ensembles of intrinsically disordered regions of proteins using only protein sequence as input."
+  },
+  {
+    "id": "7301ef5d893735a3",
+    "title": "Practical lithium\u2013organic batteries enabled by an n-type conducting polymer",
+    "link": "https://www.nature.com/articles/s41586-026-10174-7",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10174-7\">doi:10.1038/s41586-026-10174-7</a></p>An n-type conducting polymer with excellent mixed ionic and electronic transport enables a practical lithium\u2013organic battery that exhibits a wide operating temperature range and excellent safety."
+  },
+  {
+    "id": "170786eeec9d52af",
+    "title": "Individualized mRNA vaccines evoke durable T cell immunity in adjuvant TNBC",
+    "link": "https://www.nature.com/articles/s41586-025-10004-2",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-10004-2\">doi:10.1038/s41586-025-10004-2</a></p>In a phase 1 trial, personalized mRNA vaccines tailored to individual tumour mutations in triple-negative breast cancer induced robust, long-lasting T cell responses and improved prognosis."
+  },
+  {
+    "id": "cd3cdf714d25e7e9",
+    "title": "Reduced cyclin D3 expression in erythroid cells protects against malaria",
+    "link": "https://www.nature.com/articles/s41586-026-10110-9",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10110-9\">doi:10.1038/s41586-026-10110-9</a></p>Population-level analyses and in vitro experiments show that a specific genetic variant of cyclin D3 inhibits the growth of the malaria-causing parasite Plasmodium falciparum in erythrocytes, and suggest that its high frequency in Sardinia was driven by past endemic malaria."
+  },
+  {
+    "id": "32c288fbb9ff9766",
+    "title": "Single-cell and isoform-specific translational profiling of the mouse brain",
+    "link": "https://www.nature.com/articles/s41586-026-10118-1",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10118-1\">doi:10.1038/s41586-026-10118-1</a></p>Post-transcriptional regulation of mRNA translation was explored using Ribo-STAMP and single-cell RNA sequencing to reveal cell-type-specific and isoform-specific translation patterns across hippocampal neuronal and non-neuronal cell types, highlighting functional differences between CA1 and CA3."
+  },
+  {
+    "id": "a62fbc4f8b112193",
+    "title": "Roles of microtubules and LIS1 in dynein transport machinery assembly",
+    "link": "https://www.nature.com/articles/s41586-026-10153-y",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10153-y\">doi:10.1038/s41586-026-10153-y</a></p>Cryo-electron microscopy suggests a model in which microtubules, rather than adaptors in the cytoplasm, act as the primary platform for dynein\u2013dynactin assembly, while LIS1 stabilizes low-microtubule-affinity intermediates near the pre-assembled complexes."
+  },
+  {
+    "id": "aa6e7e1be96fd61a",
+    "title": "In vivo base editing of <i>Chd3</i> rescues behavioural abnormalities in mice",
+    "link": "https://www.nature.com/articles/s41586-026-10113-6",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10113-6\">doi:10.1038/s41586-026-10113-6</a></p>In vivo base editing of a causative mutation that leads to the neurodevelopmental disorder Snijders Blok\u2013Campeau syndrome restores protein dosage and ameliorates molecular and behavioural deficits in a humanized mouse model of the condition."
+  },
+  {
+    "id": "8ab6095ec6829d11",
+    "title": "RYK is a GPNMB receptor that drives MASH",
+    "link": "https://www.nature.com/articles/s41586-026-10160-z",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10160-z\">doi:10.1038/s41586-026-10160-z</a></p>MASH is driven by the secreted GPNMB ectodomain, which binds hepatocyte RYK to activate ERK1/2 and promote lipid uptake and lipogenic programs; blocking the GPNMB\u2013RYK axis prevented and treated MASH in preclinical models."
+  },
+  {
+    "id": "2576c7e6be72b747",
+    "title": "Highly dynamic dural sinuses support meningeal immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10165-8",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10165-8\">doi:10.1038/s41586-026-10165-8</a></p>Microscopic imaging and biochemical studies show that sinuses in mouse and human form a highly dynamic surface that regulates fluid movement and immune cell surveillance via RAMP1-dependent regulation of smooth muscle contraction and RAMP2-dependent regulation of the sinus endothelial barrier."
+  },
+  {
+    "id": "5f60f1d16629b54f",
+    "title": "Laser writing in glass for dense, fast and efficient archival data storage",
+    "link": "https://www.nature.com/articles/s41586-025-10042-w",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-10042-w\">doi:10.1038/s41586-025-10042-w</a></p>An optical archival storage technology based on femtosecond laser direct writing in glass addresses the practical demands of archival storage."
+  },
+  {
+    "id": "8eb15de22352f13f",
+    "title": "Integrated photonics enabling ultra-wideband fibre\u2013wireless communication",
+    "link": "https://www.nature.com/articles/s41586-026-10172-9",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10172-9\">doi:10.1038/s41586-026-10172-9</a></p>An integrated photonics scheme is presented for the manufacture of communication systems supporting the use of fibre and wireless infrastructures simultaneously, addressing the long-standing bandwidth mismatch between the two domains and demonstrating ultrahigh data rates."
+  },
+  {
+    "id": "a6d29420bbe0bf24",
+    "title": "Clinical-grade autonomous cytopathology through whole-slide edge tomography",
+    "link": "https://www.nature.com/articles/s41586-025-10094-y",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-10094-y\">doi:10.1038/s41586-025-10094-y</a></p>This study presents a clinical-grade autonomous pipeline combining high-resolution whole-slide tomography, edge computing and artificial intelligence, achieving high accuracy in cervical cytology and enabling scalable and objective diagnostics."
+  },
+  {
+    "id": "e938cc00115b0fd7",
+    "title": "A roadmap for evaluating moral competence in large language models",
+    "link": "https://www.nature.com/articles/s41586-025-10021-1",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-10021-1\">doi:10.1038/s41586-025-10021-1</a></p>This Perspective offers a roadmap for tackling the challenges of the facsimile problem, moral multidimensionality and moral pluralism in large language models."
+  },
+  {
+    "id": "1dcfda2ca3adc08e",
+    "title": "Nucleotide signals coordinate activation and inhibition of bacterial immunity",
+    "link": "https://www.nature.com/articles/s41586-026-10135-0",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10135-0\">doi:10.1038/s41586-026-10135-0</a></p>Biochemical and structural studies show that the bacterial dGTPase CloA is activated by virally produced dTTP and inhibited by 5\u2032-triphosphothymidyl-3\u20325\u2032-thymidine produced by its regulatory partner CloB, and thereby balances antiviral defence and immune-mediated toxicity."
+  },
+  {
+    "id": "e54af334d68c9893",
+    "title": "Ancient co-option of LTR retrotransposons as yeast centromeres",
+    "link": "https://www.nature.com/articles/s41586-025-10092-0",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-10092-0\">doi:10.1038/s41586-025-10092-0</a></p>Evolutionarily related \u2018proto-point\u2019 centromeres providing resolution to the evolutionary origins of point centromeres are identified in yeast, and comparison shows they evolved in an ancestor with retrotransposon-rich centromeres and that long-terminal-repeat retrotransposons are the genetic substrate."
+  },
+  {
+    "id": "a3cef845ee5dfce3",
+    "title": "<i>Agouti</i> integrates environmental cues to regulate paternal behaviour",
+    "link": "https://www.nature.com/articles/s41586-026-10123-4",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10123-4\">doi:10.1038/s41586-026-10123-4</a></p>Expression of agouti signalling protein in neurons in the medial preoptic area is increased by group housing and negatively associated with care, and overexpression of Agouti reduces care and enhances infanticide in previously tolerant mice."
+  },
+  {
+    "id": "f664af870bf275bc",
+    "title": "Oxygen metabolism in descendants of the archaeal-eukaryotic ancestor",
+    "link": "https://www.nature.com/articles/s41586-026-10128-z",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10128-z\">doi:10.1038/s41586-026-10128-z</a></p>Sequencing of marine sediments finds 136 newly identified Heimdallarchaeia and several novel lineages, and indicates that Heimdallarchaeia evolved distinct metabolic capabilities from other Asgardarchaeota, in conditions that may have given rise to early eukaryotes."
+  },
+  {
+    "id": "b2edfd0505f930f0",
+    "title": "Integrase anchors viral RNA to the HIV-1 capsid interior",
+    "link": "https://www.nature.com/articles/s41586-026-10154-x",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10154-x\">doi:10.1038/s41586-026-10154-x</a></p>HIV-1 integrase forms an RNA-binding module on the luminal side of the mature capsid lattice."
+  },
+  {
+    "id": "e6901deeba3a7e92",
+    "title": "The political effects of X\u2019s feed algorithm",
+    "link": "https://www.nature.com/articles/s41586-026-10098-2",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10098-2\">doi:10.1038/s41586-026-10098-2</a></p>Among users initially on a chronological feed, 7 weeks of exposure to X\u2019s algorithmic feed in 2023 shifted political attitudes and account-following behaviour in a more conservative direction compared with those remaining on a chronological feed, whereas switching the feed setting in the opposite direction, from algorithmic to chronological, had no effect."
+  },
+  {
+    "id": "f7a40fa4bddff5f5",
+    "title": "An agentic system for rare disease diagnosis with traceable reasoning",
+    "link": "https://www.nature.com/articles/s41586-025-10097-9",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-10097-9\">doi:10.1038/s41586-025-10097-9</a></p>DeepRare\u2014a multi-agent system for rare disease differential diagnosis decision support powered by large language models, integrating specialized tools and up-to-date knowledge sources\u2014has the potential to reduce healthcare disparities in rare disease diagnosis."
+  },
+  {
+    "id": "6326bdafc1438366",
+    "title": "Mucosal vaccination clears <i>Clostridioides difficile</i> colonization",
+    "link": "https://www.nature.com/articles/s41586-026-10138-x",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10138-x\">doi:10.1038/s41586-026-10138-x</a></p>Mucosal administration of a multivalent, adjuvanted vaccine against Clostridioides difficile promoted bacterial clearance and protected against morbidity, mortality, tissue damage and recurrence in mice."
+  },
+  {
+    "id": "5f83cb25d078f267",
+    "title": "Ancestry and somatic profile indicate acral melanoma origin and prognosis",
+    "link": "https://www.nature.com/articles/s41586-025-09967-z",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-09967-z\">doi:10.1038/s41586-025-09967-z</a></p>Analysis of the somatic and transcriptomic profile of 123 acral melanoma samples from Mexican patients helps understand tumour origins and prognosis, and highlights the importance of including samples from diverse ancestries in cancer genomics studies."
+  },
+  {
+    "id": "64f348dba89d40ac",
+    "title": "Higher-dimensional Fermiology in bulk moir\u00e9 metals",
+    "link": "https://www.nature.com/articles/s41586-026-10173-8",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10173-8\">doi:10.1038/s41586-026-10173-8</a></p>Aperiodic composite crystals were discovered that emulate 2D moir\u00e9 materials, demonstrating a potentially scalable approach for producing moir\u00e9 materials for next-generation electronics and a generalizable approach for realizing theoretical predictions of higher-dimensional quantum phenomena."
+  },
+  {
+    "id": "276c3598b56c3f6e",
+    "title": "Cold-injection synthesis of highly emissive perovskite nanocrystals",
+    "link": "https://www.nature.com/articles/s41586-026-10117-2",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10117-2\">doi:10.1038/s41586-026-10117-2</a></p>A cold-injection method based on pseudo-emulsion enables scalable synthesis of stable, pure-green perovskite nanocrystals with near-unity photoluminescence quantum yield, achieved through defect-suppressing slow polybromide plumbate assembly at cold temperatures."
+  },
+  {
+    "id": "fdd63feb0c91e350",
+    "title": "The integrated stress response promotes immune evasion through lipocalin 2",
+    "link": "https://www.nature.com/articles/s41586-026-10143-0",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10143-0\">doi:10.1038/s41586-026-10143-0</a></p>The transcription factor ATF4 and its effector lipocalin 2 (LCN2) have a key role in immune evasion and tumour progression, and targeting the ATF4\u2013LCN2 axis might provide a way to treat several types of solid tumour by increasing anti-cancer immunity."
+  },
+  {
+    "id": "2ee940cfc98c8ddb",
+    "title": "This giant virus hijacks cells\u2019 protein-making machinery to multiply wildly",
+    "link": "https://www.nature.com/articles/d41586-026-00532-w",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00532-w\">doi:10.1038/d41586-026-00532-w</a></p>A virus that is big enough to be seen under an ordinary light microscope co-opt its host\u2019s systems with the help of potentially purloined genes."
+  },
+  {
+    "id": "bb2b601337628991",
+    "title": "How \u2018skull drains\u2019 keep the brain safe from damage and pathogens",
+    "link": "https://www.nature.com/articles/d41586-026-00518-8",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00518-8\">doi:10.1038/d41586-026-00518-8</a></p>Veins in the skull can rearrange their borders to accommodate patrolling immune cells, a strange behaviour called ruffling."
+  },
+  {
+    "id": "e47634f1760168d6",
+    "title": "Mid-cycle update",
+    "link": "https://www.nature.com/articles/d41586-026-00134-6",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00134-6\">doi:10.1038/d41586-026-00134-6</a></p>Code of conduct."
+  },
+  {
+    "id": "c1a5fa8a9185a498",
+    "title": "How do autistic people age \u2014 and what does it mean for their health?",
+    "link": "https://www.nature.com/articles/d41586-026-00471-6",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00471-6\">doi:10.1038/d41586-026-00471-6</a></p>Most research on autism focuses on younger people, but some studies suggest older adults face increased risks \u2014 and perhaps benefits."
+  },
+  {
+    "id": "7775751ca84d8807",
+    "title": "Microsoft team creates 'revolutionary' data storage system that lasts for millennia",
+    "link": "https://www.nature.com/articles/d41586-026-00502-2",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00502-2\">doi:10.1038/d41586-026-00502-2</a></p>Researchers use mini plasma explosions to encode the equivalent of two million books into a coaster-sized device. The method could preserve research data for millennia with minimal storage costs."
+  },
+  {
+    "id": "274342ee45598318",
+    "title": "AI offers way to image and assess clinical cell samples",
+    "link": "https://www.nature.com/articles/d41586-026-00288-3",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00288-3\">doi:10.1038/d41586-026-00288-3</a></p>The use of artificial intelligence in the clinic to image slides of cells enables the rapid assessment of cellular characteristics that might help with diagnostic decisions."
+  },
+  {
+    "id": "edb409ad7dfa8c1a",
+    "title": "Turning on the \u2018for you\u2019 feed on X shifted political opinions, but turning it off did not",
+    "link": "https://www.nature.com/articles/d41586-026-00486-z",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00486-z\">doi:10.1038/d41586-026-00486-z</a></p>A field experiment shows that turning on the algorithmic feed on the social-media platform X in 2023 shifted political opinions to the right, whereas turning it off had no effect on political attitudes. The algorithmic feed led users to follow more right-leaning accounts, which they continued following when the algorithm was off."
+  },
+  {
+    "id": "99db757a0135aa64",
+    "title": "Personalized mRNA vaccine induces strong, durable immunity in hard-to-treat breast cancer",
+    "link": "https://www.nature.com/articles/d41586-026-00477-0",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00477-0\">doi:10.1038/d41586-026-00477-0</a></p>In an experimental trial, a personalized mRNA vaccine was tested in 14 individuals with an aggressive form of breast cancer. It trained immune cells to target cancer-specific mutant proteins, inducing strong, lasting immunity. Ten participants remained disease-free. Analysis of relapses revealed resistance mechanisms, offering essential insights for future therapies."
+  },
+  {
+    "id": "13efa411d6d49a89",
+    "title": "AI succeeds in diagnosing rare diseases",
+    "link": "https://www.nature.com/articles/d41586-026-00290-9",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00290-9\">doi:10.1038/d41586-026-00290-9</a></p>An artificial-intelligence system uses clinical data, genetic information and literature searches to suggest diagnoses and provides the underlying reasoning."
+  },
+  {
+    "id": "54d21e1702cf5710",
+    "title": "Chip-scale device efficiently boosts light signals",
+    "link": "https://www.nature.com/articles/d41586-026-00484-1",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00484-1\">doi:10.1038/d41586-026-00484-1</a></p>Optical-amplifier devices that boost light signals are workhorses of modern technology, but shrinking them onto microchips requires impractically high power. An amplifier architecture has been developed that recycles its own \u2018pump\u2019 energy to achieve high performance at power levels ten times lower than those of previous designs, making low-power, chip-scale optical amplification practical."
+  },
+  {
+    "id": "29fbe756c4982d0c",
+    "title": "Laser-written glass tablets can preserve data for millennia",
+    "link": "https://www.nature.com/articles/d41586-026-00286-5",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00286-5\">doi:10.1038/d41586-026-00286-5</a></p>An archive system that encodes information in modified optical properties of glass could be a fast, efficient way to store huge quantities of data."
+  },
+  {
+    "id": "255e36d112036474",
+    "title": "Will self-driving \u2018robot labs\u2019 replace biologists? Paper sparks debate",
+    "link": "https://www.nature.com/articles/d41586-026-00453-8",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00453-8\">doi:10.1038/d41586-026-00453-8</a></p>AI-driven autonomous robots are coming to biology laboratories, but researchers insist that human skills remain essential."
+  },
+  {
+    "id": "553beedd3b816a70",
+    "title": "Malaria is hindered by repression of a cell-cycle protein",
+    "link": "https://www.nature.com/articles/d41586-026-00289-2",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00289-2\">doi:10.1038/d41586-026-00289-2</a></p>A genetic variant that quashes cyclin D3 expression might have been selected for in a population on an island where malaria was once endemic."
+  },
+  {
+    "id": "b4713f39124b3724",
+    "title": "Oysters build reefs with optimal geometries",
+    "link": "https://www.nature.com/articles/d41586-026-00482-3",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00482-3\">doi:10.1038/d41586-026-00482-3</a></p>Some species, including oysters, shape their habitat. However, the relationship between the 3D properties of their habitat and demographic processes is unclear. Experiments with systematically varying habitat units shed light on how specific combinations of geometric attributes influence oyster establishment and survival under predation."
+  },
+  {
+    "id": "8aec3c009258d7f6",
+    "title": "Why China and Europe should collaborate to \u2018defossilize\u2019 the world\u2019s carbon",
+    "link": "https://www.nature.com/articles/d41586-026-00383-5",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00383-5\">doi:10.1038/d41586-026-00383-5</a></p>The world needs non-fossil sources of carbon. It\u2019s a no-brainer for nations working towards this goal to join forces."
+  },
+  {
+    "id": "fd67c31c623d7081",
+    "title": "Gene editing treats a mouse model of a neurodevelopmental disorder",
+    "link": "https://www.nature.com/articles/d41586-026-00291-8",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00291-8\">doi:10.1038/d41586-026-00291-8</a></p>An approach that specifically targets a single nucleotide corrected behavioural abnormalities in an animal model of Snijders Blok\u2013Campeau syndrome."
+  },
+  {
+    "id": "c6960c968316b520",
+    "title": "Forest soils are running short of nutrients as CO<sub>2</sub> emissions rise",
+    "link": "https://www.nature.com/articles/d41586-026-00287-4",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00287-4\">doi:10.1038/d41586-026-00287-4</a></p>Analyses of a Swedish tree-ring archive suggest that increased atmospheric carbon dioxide has lowered soil-nitrogen supply, which could cap carbon storage by land ecosystems."
+  },
+  {
+    "id": "99edcc9733cfe091",
+    "title": "Deepest-ever rock core extracted from under Antarctic ice sheet",
+    "link": "https://www.nature.com/articles/d41586-026-00520-0",
+    "content": "<p>Nature, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00520-0\">doi:10.1038/d41586-026-00520-0</a></p>Analyses will help to reveal how far the West Antarctic Ice Sheet retreated in the past \u2014 and what it might do in the future."
+  },
+  {
+    "id": "65ec4dbeded42d2f",
+    "title": "Daily briefing: The science influencers tackling misinformation online",
+    "link": "https://www.nature.com/articles/d41586-026-00528-6",
+    "content": "<p>Nature, Published online: 17 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00528-6\">doi:10.1038/d41586-026-00528-6</a></p>Scientists and medical experts are taking a leaf out of influencers\u2019 books. Plus, one of the earliest known vertebrate herbivores and China has been shut out of most Horizon Europe funding programmes."
+  },
+  {
+    "id": "08d47a422230a563",
+    "title": "Modeling the impact of venous collapsibility on retinal oxygenation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519326000378?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 17 February 2026</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Schuyler Brennan, Tajkera Khatun, Brendan Fry, Charlotte Weiss, Brent Siesky, Alice Verticchio, Alon Harris, Julia Arciero</p>"
+  },
+  {
+    "id": "f7232a248c0cf7a1",
+    "title": "Toxin-antitoxin systems propagate through addictive selection during bacterial chromosome-plasmid conflicts",
+    "link": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag021/8489719?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Plasmids are obligate genetic parasites that significantly influence bacterial host adaptation, ecology, and clinically relevant traits such as antibiotic resistance. They persist within host populations primarily through self-maintenance mechanisms, most notably Toxin-Antitoxin (TA) systems, which are autoregulated poison-antidote operons mediating genomic conflict. Plasmid-encoded TAs act as <strong>\u201c</strong>addiction modules<strong>,\u201d</strong> promoting plasmid stability via post-segregational killing of daughter cells that fail to inherit the plasmid. However, the widespread and abundant presence of TAs on bacterial chromosomes remains an evolutionary puzzle. We conducted comprehensive bioinformatics analyses of 11,000 bacterial chromosomes and 1,300 plasmids, focusing on Type II TAs in <span style=\"font-style: italic;\">Escherichia</span> and <span style=\"font-style: italic;\">Shigella</span> species, to elucidate their prevalence, distribution, and ecological significance. Our results reveal distinct horizontal gene transfer patterns and strongly support the anti-addiction hypothesis, which posits that chromosomal TAs protect host cells by neutralizing TA-plasmid addiction effects. This neutralization allows for plasmid loss without the toxin-mediated lethal consequences, resulting in a pattern of mutual exclusivity between identical chromosomal and plasmid TAs. This study reinforces the view that chromosomal Type II toxin\u2013antitoxin systems play a significant role in counteracting addiction processes within bacterial chromosomes.</span>"
+  },
+  {
+    "id": "80124e8c298c7d4c",
+    "title": "Bioelectrochemical systems for the detection and removal of environmental pollutants",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0958166926000212?dgcid=rss_sd_all",
+    "content": "<p>Publication date: April 2026</p><p><b>Source:</b> Current Opinion in Biotechnology, Volume 98</p><p>Author(s): Marko S Chavez, Wen-Chia Chen, Siliang Li, Caroline M Ajo-Franklin</p>"
+  },
+  {
+    "id": "658606bb03a33d97",
+    "title": "Evaluating the consistency of forest disturbance datasets in continental USA",
+    "link": "https://doi.org/10.5194/bg-23-1291-2026",
+    "content": "<b>Evaluating the consistency of forest disturbance datasets in continental USA</b><br />\n                    Laura Eifler, Franziska M\u00fcller, and Ana Bastos<br />\n                        Biogeosciences, 23, 1291\u20131325, https://doi.org/10.5194/bg-23-1291-2026, 2026<br />\n                        Forests provide ecosystem services and biodiversity, but they are increasingly affected by disturbances. We evaluate five forest disturbance datasets across the Unites States to assess their consistency in space, timing, and disturbance agents. While datasets show good agreement in disturbance timing, spatial overlap and agent attribution differ substantially. This emphasizes the need for enhanced data quality assessment, integration, and accuracy to better understand forest disturbances."
+  },
+  {
+    "id": "11eb36a327874c3b",
+    "title": "Impact of Penguin Guano on Dissolved Organic Matter in East Antarctic Lake Sediments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009207?af=R",
+    "content": "Abstract\nAntarctica's sensitivity to climate warming expands ice\u2010free terrestrial environments, where lakes act as key reservoirs of organic carbon (OC). Penguins deliver nutrients from marine to terrestrial environments, which can in turn boost lake productivity near penguin colonies. However, the mechanisms by which penguin guano inputs impact sedimentary dissolved organic matter (DOM) remain unclear. Here, we analyzed three types of sediment cores (microbial mats, ornithogenic, and mixed sediments) from ice\u2010free areas of the Ross Sea region in East Antarctica. Combining ultraviolet\u2010visible spectroscopy, excitation\u2010emission\u2010matrix spectra, and pyrolysis gas chromatography\u2010mass spectrometry, we characterized water\u2010extractable DOM composition and assessed its potential for OC release. Results show that the ratios of Antarctic sedimentary dissolved organic carbon to total organic carbon (DOC:TOC) exceed those in most cold regions globally. Ornithogenic sediments exhibit the highest DOC:TOC ratio (12%), significantly higher than microbial mat sediments (7%), indicating that penguin guano contributes highly soluble organic matter to sediments\u2014a process driven by differences in carbon\u2010nitrogen composition between solid phase and DOM. DOM from aquatic microbial mats presents low\u2010molecular\u2010weight and primarily consists of tryptophan\u2010like compounds (54%), whereas the solid\u2010phase components are predominantly lipids. Guano inputs contribute substantial nitrogen\u2010containing compounds, forming a relatively high\u2010molecular\u2010weight DOM pool with humic\u2010like properties and high aromaticity. Additionally, ultraviolet parameters and fluorescence indices can be used as novel proxies for reconstructing penguin activity and primary productivity. This study demonstrates that guano rapidly dissolves from sediment into water, providing key scientific evidence for evaluating the organic matter\u2010biological activity\u2010climate feedback mechanism under global change."
+  },
+  {
+    "id": "426eae391d3fdd44",
+    "title": "Challenging Evolutionary Paradigms: Daphnia Populations Resurrected From Unpolluted Environments Show Enhanced Detoxification Ability to Aromatic Pollutants",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70272?af=R",
+    "content": "ABSTRACT\nUnderstanding how organisms respond to chemical stress requires disentangling genetically encoded (constitutive) adaptations from environmentally induced (plastic) responses. This challenge is particularly acute for polycyclic aromatic hydrocarbons (PAHs), widespread aquatic pollutants with well\u2010documented toxicity, where mechanisms of tolerance, including host\u2013microbiome interactions, are unexplored. We used Daphnia magna, a keystone freshwater species with clonal reproduction and dormant egg banks to test population\u2010specific (constitutive) responses to phenanthrene (PHE), a common PAH. Populations resurrected from contrasting historical environments were exposed to sub\u2010lethal PHE concentrations, and both host transcriptomes and gut microbiomes were profiled to assess induced responses. Transcriptomic analysis revealed distinct, population\u2010specific responses in detoxification, stress signalling, and endocrine regulation. Unexpectedly, the semi\u2010pristine (pollution\u2010na\u00efve) population showed higher tolerance, with robust induction of cytochrome P450 and hormonal pathways, while populations historically exposed to pollution exhibited chronic stress signatures and reduced plasticity. Gut microbiome profiling revealed PHE\u2010induced functional shifts across populations, with the pollution\u2010na\u00efve population showing broader stress\u2010associated responses and historically exposed populations to pollutants exhibiting more detoxification\u2010focused microbiome profiles. Both host and microbial datasets consistently showed enrichment in pyruvate and carbon metabolism, indicating coordinated energy mobilisation and detoxification responses. Our results show that historical exposure to chemical stress and wider pollution does not necessarily confer enhanced physiological tolerance to PHE. Instead, hydrocarbon stress elicits coordinated, functionally linked responses across the host and its associated microbiome. By leveraging Daphnia's unique ecology and evolutionary history, we disentangle constitutive from plastic responses and show that microbiome functional reconfiguration under PHE exposure is coordinated with host responses, contributing to population\u2010specific profiles."
+  },
+  {
+    "id": "4573304fa2e97d4e",
+    "title": "Environmental Stress\u2010Driven Trophic Associations Modulate Fish Biogeography in a Multi\u2010Tributary River Basin",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70268?af=R",
+    "content": "ABSTRACT\nMountain fish biodiversity is increasingly threatened by global environmental change and anthropogenic pressures, yet the mechanisms linking abiotic factors to fish biogeography through trophic associations remain unclear. In this study, we explored these ecological linkages in the upper Hanjiang River basin (China) using environmental DNA (eDNA) metabarcoding, remote sensing, water quality analysis and hydrological monitoring at 187 seasonal sampling sites. We identified 140 fish species from 79 genera and observed\u00a0a shift from Leuciscidae\u2010dominated communities upstream to Xenocyprididae\u2010dominated communities downstream. Cumulative dendritic distance upstream (CDDU) was identified as a key spatial driver of fish communities. Three patterns emerged: (1) the species richness of fish taxonomic and functional feeding groups exhibited hump\u2010shaped patterns along the CDDU gradient, whereas food resources exhibited group\u2010specific distribution patterns; (2) the local contribution to beta diversity (LCBD) and stability of fish communities showed U\u2010shaped and hump\u2010shaped patterns, respectively; (3) deterministic processes dominated fish community assembly. Water quality (43.6%) was the primary determinant of fish \u03b1\u2010diversity, followed by biotic factors (32.3%) and land use (7.4%). Fish stability was influenced by water quality (32.3%), hydro\u2010morphology (26.8%) and land use (17.0%). Moving window analysis showed that biotic factors (food resources) peaked in their impact on fish \u03b1\u2010diversity at intermediate CDDU before declining, with their influence on stability increasing nonlinearly along CDDU gradients. Trophic associations followed U\u2010shaped patterns along environmental stress gradients, peaking at moderate stress. High stress regimes triggered trophic decoupling, reducing fish diversity and stability. These findings highlight how anthropogenic pressures disrupt fish biogeography through altered trophic associations."
+  },
+  {
+    "id": "95921838fed2a8ee",
+    "title": "Phylogenomics of Plasmopara halstedii Reveals Genomic Regions Associated With the Breakdown of Sunflower Downy Mildew Resistance Genes",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70270?af=R",
+    "content": "ABSTRACT\nUnderstanding the genetic diversity and evolutionary history of plant pathogens is crucial for effective disease management strategies. Sunflower downy mildew, caused by the oomycete Plasmopara halstedii, is a worldwide threat to the sunflower oil crop. We aimed to explain through phylogenomic studies how downy mildew resistance breakdown occurred recurrently in the last decades in France, leading to new virulence profiles. We assembled high\u2010quality genomes of three founder pathotypes of Pl. halstedii. Performing comparative genomic analyses, population genetics, and phylogenomic analyses, we studied the genomic structure among the 16 reference French pathotypes of Pl. halstedii. We revealed a conserved genomic organisation among pathotypes and a strong synteny with other Peronosporales species. The history of Pl. halstedii invasion in France over the last 60\u2009years was documented by identifying founder strains and their admixture patterns. The emergence of pathotypes with broader virulence spectra and therefore capable of overcoming host resistance was associated with genomic reshuffling. We highlighted genomic mosaicism in admixed pathotypes and identified regions associated with the breakdown of host resistance genes harbouring putative effector genes. Our findings provide insights into evolutionary mechanisms underlying plant pathogen host adaptation, which has implications for a sustainable deployment of multiple resistance genes."
+  },
+  {
+    "id": "69acd8c92249e81a",
+    "title": "Habitat fragmentation affects plant\u2013arthropod interactions through connectivity loss and edge effects",
+    "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70322?af=R",
+    "content": "Abstract\nHabitat fragmentation is widespread globally, but the effects of fragmentation on populations and communities are often unclear. Because species responses to fragmentation are interdependent, examining how fragmentation alters species interactions may clarify community responses to fragmentation. In a large, replicated fragmentation experiment, we tested the effects of inter\u2010patch connectivity, patch\u2010scale edge\u2010to\u2010area ratio, and within\u2010patch distance from an edge on multiple co\u2010occurring plant\u2013arthropod interactions and pollination rate (measured by fruit\u2013flower ratio). Using experimentally planted populations of the sandy\u2010woods chaffhead Carphephorus bellidifolius, we measured three plant\u2013arthropod interactions: plant\u2013pollinator interactions, plant\u2013florivore interactions, and plant\u2013spider interactions (predators of pollinators). Connectivity increased pollinator visitation, highlighting the significance of connectivity for pollinator foraging. Across all arthropod groups, connectivity and edge\u2010to\u2010area ratio affected visitation more than distance from an edge. Despite the strong impact of connectivity on plant\u2013pollinator interactions, connectivity had no effect on fruit\u2013flower ratio, indicating that other local factors may be more significant for pollination and seed set. Taken together, we provide experimental evidence that multiple plant\u2013arthropod interactions are altered by habitat fragmentation through connectivity loss and increased edge\u2010to\u2010area ratio. Incorporating species interactions into fragmentation research will strengthen understanding of the mechanisms by which fragmentation alters populations and communities."
+  },
+  {
+    "id": "a879ce7410db69a6",
+    "title": "Larval developmental histories shape phenotypes and stage\u2010specific fitness of a reef fish",
+    "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70323?af=R",
+    "content": "Abstract\nDevelopmental histories shape individual fitness and demographic heterogeneity in many systems; yet, the consequences of this variation across complex life histories remain relatively underexplored. Here, we (1) characterized variability in larval developmental histories of a reef fish and (2) evaluated patterns and sources of variation in post\u2010settlement selection that reshaped trait distributions in older life stages. More specifically, we sampled cohorts of the common triplefin (Forsterygion lapillum) at successive life stages (larva, juvenile, and adult) across six populations, evaluated microchemical profiles within their otoliths, and identified three distinct \u201clarval developmental histories\u201d indicative of time spent in different nearshore coastal environments. Developmental histories showed contrasting survival advantages across different life stage transitions. Specifically, selection across the settlement transition favored a developmental history that was indicative of nearshore larval development, suggesting that larval retention (or early entrainment) in a coastal boundary layer enhances juvenile recruitment. In contrast, selection across the maturation transition favored a developmental history that was indicative of offshore larval development, suggesting trade\u2010offs in fitness across life stages. Competitor density and habitat structure were significantly associated with per capita mortality rates, further shaping survival outcomes for favored developmental histories. Per capita mortality rates of the favored developmental history increased with conspecific density across both the settlement transition and maturation transition. This study highlights the importance of stage\u2010specific selection and demographic heterogeneity (e.g., local patterns of phenotypic composition) on the dynamics of ecological systems."
+  },
+  {
+    "id": "718f1263e50ef873",
+    "title": "Paraplume: A fast and accurate antibody paratope prediction method provides insights into repertoire-scale binding dynamics",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013981",
+    "content": "<p>by Gabriel Ath\u00e8nes, Adam Woolfe, Thierry Mora, Aleksandra M. Walczak</p>\n\nThe specific region of an antibody responsible for binding to an antigen, known as the paratope, is essential for immune recognition. Accurate identification of this small yet critical region can accelerate the development of therapeutic antibodies. Determining paratope locations typically relies on modeling the antibody structure, which is computationally intensive and difficult to scale across large antibody repertoires. We introduce Paraplume, a sequence-based paratope prediction method that leverages embeddings from protein language models (PLMs), without the need for structural input and achieves superior performance across multiple benchmarks compared to current methods. In addition, reweighting PLM embeddings using Paraplume predictions yields more informative sequence representations, improving downstream tasks such as binder classification and epitope binning. Applied to large antibody repertoires, Paraplume reveals that antigen-specific somatic hypermutations are associated with larger paratopes, suggesting a potential mechanism for affinity enhancement. Our findings position PLM-based paratope prediction as a powerful, scalable alternative to structure-dependent approaches, opening new avenues for understanding antibody evolution."
+  },
+  {
+    "id": "0fddc33d2e806510",
+    "title": "Quantifying the population-level impact of expanded antibiotic treatment for cholera outbreak management",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013980",
+    "content": "<p>by Sharia M. Ahmed, Cormac R. LaPrete, Iza Ciglenecki, Andrew Azman, Daniel T. Leung, Lindsay T. Keegan</p>\n\nSince 2021, there has been a resurgence in the number of cholera cases, countries affected, and the case fatality rate. Because most cholera patients recover without antibiotic treatment, current cholera treatment guidelines only consider the tradeoffs between patient recovery and antibiotic stewardship. However, antibiotics also greatly reduce bacteria shedding, creating a potential role for antibiotics in cholera outbreak response through reduced transmission. We developed a compartmental model of cholera transmission in a non-endemic setting to quantify the potential impact of expanded antibiotic treatment on disease burden and antibiotic use. Through simulations, we evaluated different outbreak scenarios, by varying the reproductive number, care-seeking behavior, and proportion of non-severe cases receiving antibiotics. We found that expanding antibiotic treatment could significantly reduce the final outbreak size under certain outbreak characteristics. In these scenarios, treating non-severely symptomatic infections with antibiotics decreased cholera transmission and, in some cases, the total number of antibiotic doses used. We show that the effectiveness of expanded antibiotic treatment is highly dependent on achieving high care-seeking rates among non-severely symptomatic infections and tailoring the approach to specific outbreak conditions. While expanding antibiotic eligibility could enhance outbreak control in some settings, careful consideration of antibiotic resistance risks is necessary in high-transmission contexts."
+  },
+  {
+    "id": "ff47b6eada40d25d",
+    "title": "Correction: Transcriptome-wide root causal inference",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013979",
+    "content": "<p>by The PLOS Computational Biology Staff </p>"
+  },
+  {
+    "id": "757ecae1bcbbc20a",
+    "title": "Fitting a lattice model with local and global transmission to spread of a plant disease",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013404",
+    "content": "<p>by Alex Best, Nik Cunniffe</p>\n\nUnderstanding, predicting and managing the spread of plant pathogens is crucial given the economic, societal and climatic benefits of plants, including crops and trees. Mathematical models have long been used to investigate disease dynamics in plants. An important component of such models is to account for spatial structure, since plant hosts are immobile and a majority of disease spread will often be localised. Here we apply a lattice-based mathematical modelling approach, a pair approximation, to model disease spread. While this method has previously been used to develop epidemiological theory, it has not been used to predict spread in a specific pathosystem. We fit our lattice-based epidemiological model to experimental data relating to Bahia bark scaling of citrus, an economically-important disease in north-eastern Brazil, and compare its performance to a more commonly used dispersal-kernel modelling approach. We show that the lattice-based model fits the data well, predicting a significant degree of near-neighbour infections, with similar estimated values of epidemiologically-meaningful parameters to the dispersal model. We highlight the pros and cons of the lattice-based approach and discuss how it may be used to predict disease spread and optimise control of plant diseases."
+  },
+  {
+    "id": "b0b79141a0d558fb",
+    "title": "Comparative gene annotation and orthology assignments across 301 species of Drosophilidae",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003663",
+    "content": "<p>by Pankaj Dhakad, Bernard Y. Kim, Dmitri A. Petrov, Darren J. Obbard</p>\n\nHigh-quality genome annotations are essential if we are to address central questions in comparative genomics, such as the origin of new genes, the drivers of genome size variation, and the evolutionary forces shaping gene content and structure. Here, we present protein-coding gene annotations for 301 species of the family Drosophilidae, generated using the Comparative Annotation Toolkit (CAT) and BRAKER3, and incorporating available RNA-seq and protein evidence. We take a comparative phylogenetic approach to annotation, with the aim of improving consistency and accuracy, and to generate a robust set of gene annotations and orthology assignments. We analyze our annotations using a phylogenetic mixed-model approach and find that gene number and CDS length exhibit moderate phylogenetic heritability (40% and 9.7%, respectively). For comparison, we also present analyses using a subset of the 215 highest quality genomes, although the findings were not markedly different. Our work suggests that while evolutionary history contributes to variation in these traits, species-specific factors\u2014including assembly error\u2014play a substantial role in shaping observed differences. To illustrate the utility of our annotations for comparative analyses, we investigate codon usage bias and amino acid composition across Drosophilidae. We find that codon usage is correlated with overall GC content and evolves slowly, but that it is also strongly shaped by selection\u2014such that, in general, species with the strongest selection on synonymous codon usage show the lowest GC bias in third codon positions. This comparative annotation dataset forms part of an ongoing collaborative project to sequence and annotate all species of Drosophilidae, with data and annotations being made rapidly and freely available on an ongoing basis. We hope that this effort will serve as a foundation for studies in evolutionary and functional genomics and comparative biology across Drosophilidae."
+  },
+  {
+    "id": "4a9cef76aba2e1d0",
+    "title": "Light intensity and opsin sensitivity shape the morphology of cone photoreceptor outer segments",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003654",
+    "content": "<p>by Jingjin Xu, Zihan Chang, Wei Deng, Luwei Qian, Honggang Su, Xun Huang, Yunsi Kang, Haibo Xie, Chengtian Zhao</p>\n\nRegulation of neural cell morphology remains a fundamental question in neuroscience. Photoreceptor cells, a specialized class of neurons capable of initiating the phototransduction cascade, exhibit distinct structural and morphological characteristics. While the structural and morphological differences between rod and cone photoreceptors have been extensively studied, the variability in the morphology of cone outer segments (OS) remains largely unexplored. Zebrafish possess four distinct cone types, each displaying unique OS morphologies. By modulating opsin expression across cone types, we reveal that the morphology of the cone OS correlates directly with the wavelength sensitivity of the expressed opsins, with cones expressing longer wavelength-sensitive opsins exhibiting elongated OS. This regulatory mechanism is conserved across various vertebrates. Furthermore, we show that alterations in light intensity\u2014induced by ectopic lipid droplet formation in the light path or by changing the environment light intensity\u2014can also modulate OS morphology. Notably, this morphological plasticity is not transient, but rather dependent on long-term neural activity. Based on these findings, we propose a model for the regulation of cone OS length. Our data suggest that both opsin sensitivity and light intensity shape cone OS morphology through long-term neural activity, providing critical insights into neural plasticity in these light-sensitive neurons."
+  },
+  {
+    "id": "dfe115336af3d087",
+    "title": "Plankton assemblages across a coastal to oceanic gradient of Northern Australia and responses to a storm perturbation in the Argo Basin",
+    "link": "https://www.sciencedirect.com/science/article/pii/S096706452600024X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 17 February 2026</p><p><b>Source:</b> Deep Sea Research Part II: Topical Studies in Oceanography</p><p>Author(s): Claire H. Davies, Ruth S. Eriksen, Sahan Jayasinghe, Felicity McEnnulty, Michael R. Landry</p>"
+  },
+  {
+    "id": "587e926e89c4ff72",
+    "title": "Impaired excitability of fast-spiking neurons in a novel mouse model of <i>KCNC1</i> epileptic encephalopathy",
+    "link": "https://elifesciences.org/articles/103784",
+    "content": "The recurrent pathogenic variant <i>KCNC1-</i>p.Ala421Val (A421V) is a cause of developmental and epileptic encephalopathy characterized by moderate-to-severe developmental delay/intellectual disability, and infantile-onset treatment-resistant epilepsy with multiple seizure types, including myoclonic seizures. Yet, the mechanistic basis of this disease, and of the <i>KCNC1</i> disease spectrum, remains unclear. <i>KCNC1</i> encodes Kv3.1, a voltage-gated potassium channel subunit that is strongly and selectively expressed in neurons capable of generating action potentials at high frequency, including parvalbumin-positive fast-spiking GABAergic inhibitory interneurons in cerebral cortex (PV-INs) that are known to be important for cognitive function and plasticity as well as control of network excitation to prevent seizures. In this study, we generate a novel transgenic mouse model with conditional expression of the A421V pathogenic missense variant (<i>Kcnc1</i>-A421V/+ mice) to explore the specific physiological mechanisms of <i>KCNC1</i> developmental and epileptic encephalopathy. Our results indicate that global heterozygous expression of the A421V variant leads to cognitive impairment, epilepsy, and premature lethality. We observe decreased PV-IN cell surface expression of Kv3.1 via immunohistochemistry, decreased voltage-gated potassium current density in PV-INs using outside-out nucleated macropatch recordings in brain slice, and profound impairments in the intrinsic excitability of cerebral cortex PV-INs (but not excitatory neurons) via current-clamp electrophysiology. <i>In vivo</i> two-photon calcium imaging revealed altered activity in <i>Kcnc1</i>-A421V/+ PV-INs and excitatory cells, as well as hypersynchronous discharges correlated with brief paroxysmal movements that were subsequently shown to be myoclonic seizures on electroencephalography. We found alterations in PV-IN-mediated inhibitory neurotransmission in young adult but not juvenile <i>Kcnc1</i>-A421V/+ mice relative to wild-type controls. Together, these results establish the specific impact of the recurrent Kv3.1-A421V variant on neuronal excitability and synaptic physiology across development to drive network dysfunction underlying <i>KCNC1</i> epileptic encephalopathy."
+  },
+  {
+    "id": "1dfe11beca752b36",
+    "title": "Unravelling the neurocognitive mechanisms underlying counterconditioning in humans",
+    "link": "https://elifesciences.org/articles/101518",
+    "content": "Counterconditioning (CC) aims to enhance extinction of threat memories by establishing new associations of opposite valence. While its underlying neurocognitive mechanisms remain largely unexplored, previous studies suggest qualitatively different mechanisms from regular extinction. In this functional MRI study, participants underwent categorical threat conditioning (CS+/CS-: images of animals/tools), followed by either CC (CS + images reinforced with monetary rewards, n=24) or regular extinction (n=24). The following day, we assessed spontaneous recovery of threat responses and episodic memory for CS + and CS- category exemplars. While the ventromedial prefrontal cortex (vmPFC) was activated during regular extinction, participants undergoing CC showed persistent CS+-specific deactivation of the vmPFC and hippocampus, and CS+-specific activation of the nucleus accumbens (NAcc). The following day, physiological threat responses returned in the regular extinction group, but not in the CC group. Counterconditioning furthermore strengthened episodic memory for CS + exemplars presented during CC, and retroactively also for CS + exemplars presented during the threat conditioning phase. Our findings confirm that CC leads to more persistent extinction of threat memories, as well as altered consolidation of the threat conditioning episode. Crucially, we show a qualitatively different activation pattern during CC versus regular extinction, with a shift away from the vmPFC and towards the NAcc."
+  },
+  {
+    "id": "8082fc198c546595",
+    "title": "Cell cycle-dependent cues regulate temporal patterning of the <i>Drosophila</i> central brain neural stem cells",
+    "link": "https://elifesciences.org/articles/108259",
+    "content": "During nervous system development, diverse types of neurons and glia are sequentially generated by self-renewing neural stem cells (NSCs). Temporal changes in gene expression within NSCs are thought to regulate neural diversity; however, the mechanisms regulating the timing of these temporal gene transitions remain poorly understood. <i>Drosophila</i> type 2 NSCs, like human outer radial glia, divide to self-renew and generate intermediate neural progenitors, amplifying and diversifying the population of neurons innervating the central complex, a brain region crucial for sensorimotor coordination. Type 2 NSCs express over a dozen genes temporally, broadly classified as early- and late-expressed genes. A conserved gene, <i>seven-up</i>, mediates early-to-late gene expression by activating ecdysone receptor (EcR) expression. However, the timing of EcR expression and, consequently, the transition from early-to-late gene expression remain unknown. This study investigates whether intrinsic mechanisms of cell cycle progression and cytokinesis are required to induce the NSC early-late transition. By generating mutant clones that arrest the NSC cell cycle or block cytokinesis, we show that both processes are necessary for the early-to-late transition. When NSCs are cell cycle or cytokinesis arrested, the early gene Imp fails to be downregulated and persists in the old NSCs, while the late factors EcR and Syncrip fail to be expressed. Furthermore, we demonstrate that the early factor Seven-up is insufficient to drive the transition, despite its normal expression in cell cycle- or cytokinesis-inhibited NSCs. These results suggest that both cell-intrinsic (cell cycle/cytokinesis) and -extrinsic (hormone) cues are required for the early-late NSC gene expression transition."
+  },
+  {
+    "id": "c312e11016173973",
+    "title": "The basolateral amygdala complex and perirhinal cortex represent focal and peripheral states of information processing in rats",
+    "link": "https://elifesciences.org/articles/107943",
+    "content": "We previously identified the roles of the basolateral amygdala complex (BLA) and perirhinal cortex (PRh) in sensory preconditioning in male and female rats (Wong et al., 2025). Here, we used variations of a sensory preconditioning protocol to test a general theory that the BLA and PRh represent focal and peripheral states of attention, respectively. We specifically tested predictions derived from the theory regarding when learning about a stimulus that signals danger will be disrupted by BLA or PRh infusions of the <i>N</i>-methyl-D-aspartate receptor (NMDAR) antagonist, DAP5. Consistent with the theory, the effects of these infusions depended on the novelty/familiarity of the conditioned stimulus, as well as the manner in which it was paired with foot shock. When a stimulus was novel, its conditioning required NMDAR-activation in the BLA and not the PRh, regardless of whether the stimulus and shock were presented contiguously or separated in time. When a pre-exposed and, thereby, familiar stimulus was presented contiguously with shock, its conditioning again required NMDAR-activation in the BLA and not the PRh. However, when a pre-exposed stimulus was indirectly paired with shock \u2013 because it was associatively activated at the time of shock or separated from the shock by another stimulus \u2013 its conditioning required NMDAR-activation in the PRh and not the BLA. These findings are discussed in relation to theories of information processing that distinguish between focal and peripheral states of attention/memory, and past studies that have examined the substrates of learning and memory in the PRh and BLA."
+  },
+  {
+    "id": "f04bc6698b4d66ce",
+    "title": "Spectral Properties and Energy Injection in Mercury's Magnetotail Current Sheet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120144?af=R",
+    "content": "Abstract\nMercury's magnetotail hosts a thin and highly dynamic current sheet (CS), where magnetic reconnection and strong fluctuations frequently occur. Here, we statistically analyze magnetic field power spectra across 370 magnetotail CSs observed by MESSENGER. About 20% of the events are quasi\u2010laminar, showing single power\u2010law spectra, whereas \u223c80% are turbulent, exhibiting a spectral break separating inertial and kinetic ranges. A dawn\u2013dusk asymmetry is identified: inertial\u2010range slopes are systematically shallower on the dawnside, whereas kinetic\u2010range slopes are steeper, indicating more developed turbulence there, consistent with the higher occurrence of reconnection\u2010related processes on the dawnside. Component analysis shows that the transverse components, orthogonal to the tail\u2010aligned principal field (BX), display shallow slopes near \u22121 in the inertial range, suggesting energy injection at ion scales rather than a classical inertial range. These results demonstrate that Mercury's unique plasma environment fundamentally reshapes the initiation of turbulence and the redistribution of energy in the magnetotail."
+  },
+  {
+    "id": "4601b8607a3b2050",
+    "title": "Unprecedented Look at Lightning Propagation and Ground Attachment in Ultraviolet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119737?af=R",
+    "content": "Abstract\nDevelopment of hot lightning channels is facilitated by essentially cold streamers emanating from their extremities. Thus, streamers play a crucial role in lightning, yet they are poorly understood, because they emit primarily ultraviolet (UV) light, which usually goes undetected. Here, we present unique UV images of lightning, including interaction between positive and negative streamers, leading to new inferences on lightning propagation and attachment. We observed an abrupt change in the lightning propagation path to ground, which resulted in an aborted attachment process and a different ground connection point, 200\u00a0m away from the expected one. This change was likely due to the self\u2010choking effect of large negative space charge that was suddenly introduced by the intense streamer burst ahead of the lower end of the descending negatively\u2010charged channel. Further, the unique UV images show that positive and negative streamer zones are an order of magnitude longer than previously thought."
+  },
+  {
+    "id": "eba8371ba7eef08e",
+    "title": "Deep Neural Network Based Scale\u2010Adaptive Cloud Vertical Overlap Parameterization",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112803?af=R",
+    "content": "Abstract\nCloud vertical overlap has important implications for cloud radiative effects in climate models. Due to its spatiotemporal complexity, it is difficult to simulate cloud overlap in climate models. Decorrelation length (L $L$) is crucial for depicting the vertical overlap of clouds in climate models. This study introduces a scale\u2010adaptive L $L$ parameterization scheme, which can be integrated into climate models. The study considered three atmospheric statistics and dynamic factors: latitude, wind vertical shear, and horizontal grid scale, to develop an L $L$ parameterization scheme by deep neural network (DNN). For different resolutions, the simulation accuracy of this parameterization scheme can basically be maintained at R2 ${R}^{2}$ above 0.9, which significantly surpasses that of other traditional overlap schemes. The parameterization scheme can be seamlessly integrated into the climate model and has the potential to improve the simulation accuracy of cloud vertical overlap, thereby enhancing the model's capability to accurately depict cloud radiation effects."
+  },
+  {
+    "id": "a126f8301cc06420",
+    "title": "Oceanic \u03b413C Fingerprints Caused by Laurentice Ice Sheet Discharges: Model\u2010Data Comparison During Heinrich Event 4",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118490?af=R",
+    "content": "Abstract\nThis study investigates the sensitivity of the oceanic circulation and \u03b413C ${\\delta }^{13}C$ of the dissolved inorganic carbon to ice discharge events from the Laurentide ice sheet (LIS), using an isotope\u2010enabled and coupled climate\u2013ice sheet model, and observations. The ice discharges are triggered by either reduced friction at the ice sheet\u2010bedrock interface or increased oceanic melt rates in the Hudson Strait ice stream region. The simulated \u03b413C ${\\delta }^{13}C$ decreases in both scenarios, following freshwater release and the weakening of the Atlantic Meridional Overturning Circulation. The best agreement with the observed \u03b413C ${\\delta }^{13}C$ anomalies is achieved with large ice volume loss, by reducing ice sheet basal friction. In our model, the freshwater discharges from the LIS need to be amplified to better represent the observed \u03b413C ${\\delta }^{13}C$ changes. The LIS alone does not seem able to explain the observed oceanic \u03b413C ${\\delta }^{13}C$ variations, which may indicate that additional processes are required to account for these changes."
+  },
+  {
+    "id": "d9552f59c8816072",
+    "title": "Shifts in the Annual Cycle and Associated Impacts on Northern Hemisphere Summer Onset Under Global Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120126?af=R",
+    "content": "Abstract\nGlobal warming has altered the timing of seasonal onset, yet the relative roles of long\u2010term mean warming and changes in the annual cycle (AC) remain unclear. Using observational data sets and CMIP6 simulations, here we quantify how long\u2010term warming and the AC contribute to changes in seasonal onset across Northern Hemisphere midlatitudes during 1950\u20132014. While long\u2010term warming drives a widespread advance of summer onset, regional, and latitudinal contrasts arise primarily from AC variations. In North America and northern Asia, these cycle changes offset the warming\u2010induced advance and contribute at magnitudes comparable to long\u2010term warming, highlighting their critical role in shaping regional climate responses. Based on single\u2010forcing experiments and a simplified surface energy balance model, we further show that greenhouse gases enhance damping and reduce effective heat capacity, advancing the AC phase, whereas aerosol forcing increases effective heat capacity and weakens damping, thereby delaying summer onset."
+  },
+  {
+    "id": "9a14d57b14ecbd98",
+    "title": "Preferred Time Scales of Pacific Decadal Variability During the Last Millennium Related to Volcanic Activity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118881?af=R",
+    "content": "Abstract\nPacific Decadal Variability (PDV) plays a significant role in modulating the global climate change on decadal time scale. Although various reconstructions of the PDV have been developed for the last millennium, preferred time scales of the PDV and mechanisms behind them remain unresolved. Here, we combine a \u03b418O\u2010based PDV index derived through paleoclimate data assimilation (PDA) framework, with existing PDV reconstructions and climate models to identify the preferred time scales of the PDV. We show that the PDV in the last millennium is dominated by two modes of preferred time scales: multi\u2010decadal mode (50\u201370\u2010yr) and bi\u2010decadal mode (20\u201340\u2010yr). The former is prevalent during quiescent volcanic period; however, the latter is more common during periods with intensive volcanic activities. Our finding likely establishes an important role of volcanic activity in shaping the temporal structure of PDV during the last millennium, and highlights its potential contribution on decadal time scale."
+  },
+  {
+    "id": "9a5d014de9431536",
+    "title": "A Psychophysical Dataset for Vibrotactile Augmented Perception",
+    "link": "https://www.nature.com/articles/s41597-026-06843-x",
+    "content": ""
+  },
+  {
+    "id": "169fbb3c10533749",
+    "title": "R5 and R7 positions on fluoroquinolone scaffolds drive F-actin filament disruption",
+    "link": "https://www.nature.com/articles/s41598-026-36089-x",
+    "content": ""
+  },
+  {
+    "id": "09e8a3c63258e4bf",
+    "title": "Multimodal characterization of flow-induced thrombus initiation and growth in extracorporeal membrane oxygenation",
+    "link": "https://www.nature.com/articles/s41598-026-40177-3",
+    "content": ""
+  },
+  {
+    "id": "b2b05691539a931e",
+    "title": "Adaptive example selection for prototype based explainable mitosis detection in digital pathology",
+    "link": "https://www.nature.com/articles/s41598-026-40283-2",
+    "content": ""
+  },
+  {
+    "id": "336f55acd168550f",
+    "title": "Exploring the dynamics of chemical species interactions in complex reaction mechanism: classification of fast and slow species and bifurcation analysis",
+    "link": "https://www.nature.com/articles/s41598-026-37965-2",
+    "content": ""
+  },
+  {
+    "id": "b663bf8b0e08179f",
+    "title": "Generalized fractional modeling and optimal control of respiratory syncytial virus infections in Florida",
+    "link": "https://www.nature.com/articles/s41598-026-40530-6",
+    "content": ""
+  },
+  {
+    "id": "22e5e100741a4ec9",
+    "title": "In silico exploration of osteoclast precursor inhibition for preventing rapid bone loss after denosumab discontinuation",
+    "link": "https://www.nature.com/articles/s41540-026-00668-5",
+    "content": ""
+  },
+  {
+    "id": "d02d1cc951805c94",
+    "title": "Identification of molecular diagnostic markers and potential therapeutic drugs for Sj\u00f6gren\u2019s syndrome",
+    "link": "https://www.nature.com/articles/s41598-026-39750-7",
+    "content": ""
+  },
+  {
+    "id": "a0e63c16052f25fa",
+    "title": "A hybrid deep learning framework using convolutional and transformer models for robust plant disease classification",
+    "link": "https://www.nature.com/articles/s41598-026-38209-z",
+    "content": ""
+  },
+  {
+    "id": "80394dd5f2e37809",
+    "title": "Anabaena\u2014a promising chassis for space exploration",
+    "link": "https://www.nature.com/articles/s41526-026-00568-2",
+    "content": ""
+  },
+  {
+    "id": "ab02f8f3b7513799",
+    "title": "Charting cell-type-specific positive genetic interaction at single-cell resolution for lung adenocarcinoma",
+    "link": "https://www.nature.com/articles/s41698-026-01328-x",
+    "content": ""
+  },
+  {
+    "id": "652e6ad3bc8e1be0",
+    "title": "Screening and in silico evaluation of candidate late-stage antigens for incorporation into multi-stage and post-exposure vaccines against tuberculosis",
+    "link": "https://www.nature.com/articles/s41541-026-01394-z",
+    "content": ""
+  },
+  {
+    "id": "dac7c18dd601e04a",
+    "title": "Prediction of athlete performance based on a gradient regression model",
+    "link": "https://www.nature.com/articles/s41598-026-40117-1",
+    "content": ""
+  },
+  {
+    "id": "64a5d9f5b2008155",
+    "title": "Addressing the balance between fairness and performance in glioma grade prediction using bias mitigation techniques",
+    "link": "https://www.nature.com/articles/s41598-026-40555-x",
+    "content": ""
+  },
+  {
+    "id": "60b8889ec1607a46",
+    "title": "Benchmarking large language model-based agent systems for clinical decision tasks",
+    "link": "https://www.nature.com/articles/s41746-026-02443-6",
+    "content": ""
+  },
+  {
+    "id": "a29c280b1f8dd97b",
+    "title": "An automated image analysis pipeline for wide-field optical redox imaging of patient-derived cancer organoids",
+    "link": "https://www.nature.com/articles/s41598-026-40249-4",
+    "content": ""
+  },
+  {
+    "id": "b6040abdadfb8986",
+    "title": "Alternative splicing and differential gene expression during changes in endometrial receptivity in patients with recurrent implantation failure",
+    "link": "https://www.nature.com/articles/s41598-026-40386-w",
+    "content": ""
+  },
+  {
+    "id": "320f3e13e851caef",
+    "title": "Privacy-preserving federated learning with light-weight attention improved CNNs for automated leukemia detection across distributed medical imaging",
+    "link": "https://www.nature.com/articles/s41598-026-40581-9",
+    "content": ""
+  },
+  {
+    "id": "5f009d0be5049abf",
+    "title": "Time series electrocardiography (ECG) data for early prediction of cardiac arrest",
+    "link": "https://www.nature.com/articles/s41598-026-35788-9",
+    "content": ""
+  },
+  {
+    "id": "60440d45dcbb70eb",
+    "title": "A framework for enhancing pharmaceutical integrity and patient safety: novel mobile health solution integrating smart packaging and computer vision",
+    "link": "https://www.nature.com/articles/s41598-026-38215-1",
+    "content": ""
+  },
+  {
+    "id": "c17de733cf0040af",
+    "title": "SwarmMAP: swarm learning for decentralized cell type annotation in single cell sequencing data",
+    "link": "https://www.nature.com/articles/s41540-026-00667-6",
+    "content": ""
+  },
+  {
+    "id": "b1567e4670a34e96",
+    "title": "Classification of paroxysmal atrial fibrillation using sinus rhythm electrocardiograms using the symmetric projection attractor reconstruction method",
+    "link": "https://www.nature.com/articles/s41598-026-37491-1",
+    "content": ""
+  },
+  {
+    "id": "e4db2b02d8d64639",
+    "title": "Identification of core cytotoxic T lymphocyte-related subtypes, establishment of a prognostic model, and analysis tumor microenvironment infiltration in HNSC",
+    "link": "https://www.nature.com/articles/s41598-026-39801-z",
+    "content": ""
+  },
+  {
+    "id": "d8bf1a8edecc0941",
+    "title": "The automated computational workflow QUICHE reveals structural definitions of antitumor responses in triple-negative breast cancer",
+    "link": "https://www.nature.com/articles/s43018-026-01122-5",
+    "content": ""
+  },
+  {
+    "id": "6e2f3b6364b558cf",
+    "title": "Temporal and spatial composition of the tumor microenvironment predicts response to immune checkpoint inhibition in metastatic TNBC",
+    "link": "https://www.nature.com/articles/s43018-026-01114-5",
+    "content": ""
+  },
+  {
+    "id": "a38ddd0175ab2593",
+    "title": "Empowering genetic discoveries and cardiovascular risk assessment by predicting electrocardiograms from genotype",
+    "link": "https://www.nature.com/articles/s41746-026-02438-3",
+    "content": ""
+  },
+  {
+    "id": "62a02ec1bc6c5d04",
+    "title": "Author Correction: Complex de novo structural variants are an underestimated cause of rare disorders",
+    "link": "https://www.nature.com/articles/s41467-026-69646-z",
+    "content": ""
+  },
+  {
+    "id": "9099e2e69c19456e",
+    "title": "Longitudinal plasma metabolomics reveals a role for taurine in asymptomatic malaria and seasonal persistence",
+    "link": "https://www.nature.com/articles/s41564-026-02268-9",
+    "content": "<p>Nature Microbiology, Published online: 18 February 2026; <a href=\"https://www.nature.com/articles/s41564-026-02268-9\">doi:10.1038/s41564-026-02268-9</a></p>Seasonal metabolomics revealed that taurine increases during low malaria transmission and is linked to asymptomatic Plasmodium falciparum infection."
+  },
+  {
+    "id": "a410ca5dfca0973e",
+    "title": "Nitrogen fixation is driven by cellular nitrogen stores in a diazotrophic cyanobacterium: Evidence from culture experiments and model validation",
+    "link": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70326?af=R",
+    "content": "Abstract\nDiazotrophic cyanobacteria, including those responsible for harmful algal blooms, fix atmospheric dinitrogen (N2) to sustain growth when they are limited by dissolved inorganic nitrogen (DIN) supply. Conventional models fail to accurately predict the timing and magnitude of N2 fixation, partly because of oversimplified assumptions about diazotrophic species responses to N. We hypothesized that cellular carbon (C) and N would co\u2010vary with DIN availability, and cellular N quota reduced below a critical threshold would trigger heterocyst differentiation and N2 fixation. Conversely, we hypothesized that heterocysts would be discarded, and N2 fixation would cease at another higher cellular N quota threshold. To test this hypothesis, we undertook experiments to provide data to calibrate a model of cellular C and N of N2 fixation in the cyanobacterium Raphidiopsis raciborskii. The model incorporated internal N quotas, external DIN supply and a time lag for N2 fixation as key regulators of heterocyst production and N2 fixation, explaining >\u200970% of the variation in measured cellular N and C\u2009:\u2009N molar ratios. Heterocysts were predicted to form at a cellular N quota of 0.085\u2009mg\u2009N\u2009mg\u22121 C and were discarded from filaments at 0.275\u2009mg\u2009N\u2009mg\u22121 C. There was a 5\u2010d time lag between DIN deprivation and initiation of N2 fixation. Continuous DIN supply was predicted to enhance N2 fixation more than an equivalent one\u2010off pulse. Our study highlighted the need to consider cellular N and N supply regimes in driving N2 fixation to provide more accurate predictions of the response of cyanobacteria to DIN availability."
+  },
+  {
+    "id": "8a39880ef4757e50",
+    "title": "Energy densities and fatty acids demonstrate the low quality of dreissenid veligers",
+    "link": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70325?af=R",
+    "content": "Abstract\nDreissenid mussels represent two of the most problematic invasive species in the Laurentian Great Lakes yet little is known regarding the biochemical and nutritional composition of the veliger larval stage. Here, we quantified energy densities and fatty acids (FA) in veligers as metrics of nutritional quality relative to those determined for three size fractions of crustacean zooplankton collected from Lake Huron's Saginaw Bay. Veliger energy densities ranged from 1.14 to 1.72\u2009kJ\u2009g\u22121 (wet wt.) and were significantly (p\u2009<\u20090.001) lower than energy densities of 1.91\u2009\u00b1\u20090.23\u2009kJ\u2009g\u22121 (64\u2013150\u2009\u03bcm); 1.94\u2009\u00b1\u20090.10\u2009kJ\u2009g\u22121 (150\u2013250\u2009\u03bcm); and 1.85\u2009\u00b1\u20090.19\u2009kJ\u2009g\u22121 (\u2265\u2009250\u2009\u03bcm) for size fractionated crustacean zooplankton. Nutritional quality indicators including the unsaturation index (UI) suggested veligers (238\u2009\u00b1\u2009229) were similar to those for 64\u2013150 (233\u2009\u00b1\u200921), 150\u2013250 (206\u2009\u00b1\u200930) and \u2265\u2009250\u2009\u03bcm (195\u2009\u00b1\u200949) zooplankton size fractions. However, veliger UIs were primarily driven by high docosahexaenoic acid content relative to zooplankton size fractions. For other essential compounds including arachidonic, \u03b1\u2010linolenic and eicosapentaenoic FAs, veligers consistently ranked the lowest. These results demonstrate veligers to be of lower caloric content relative to zooplankton, especially compared to similarly sized 64\u2013150\u2009\u03bcm planktonic biomass and of lower overall nutritional quality with respect to fatty acid composition. This study provides benchmarks regarding the overall nutritional quality of veligers and furthers our understanding energy and nutrient availability among the lower trophic levels of food webs in invaded ecosystems."
+  },
+  {
+    "id": "4d57cf1b5de374aa",
+    "title": "Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic",
+    "link": "https://doi.org/10.5194/os-22-699-2026",
+    "content": "<b>Mechanisms driving mesoscale latent heat flux variations and mixed layer heat content evaluation in the Northwest Tropical Atlantic</b><br />\n                    Pablo Fern\u00e1ndez, Sabrina Speich, Guillaume Lapeyre, Claudia Pasquero, Carlos Conejero, Lionel Renault, and Fabien Desbiolles<br />\n                        Ocean Sci., 22, 699\u2013725, https://doi.org/10.5194/os-22-699-2026, 2026<br />\n                        We use a high-resolution ocean-atmosphere coupled simulation to assess the effects of fine-scale sea surface temperature, surface currents, and ocean vertical stratification on the spatial variability of latent heat flux in the Northwest Tropical Atlantic. The results show significant impacts from these three variables in latent heat flux. They stress the need to account for fine-scale ocean processes in the coarser global coupled models even in relatively quiescent regions like the tropics."
+  },
+  {
+    "id": "1f1e55f49bff80e6",
+    "title": "A Computational Model of Tumor Interactions with Bone-Resident Cells Predicts Tumor-Type-Specific Responses to Perturbations",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.706164v1?rss=1",
+    "content": "Tumor-induced bone disease (TIBD) arises from a complex interplay between metastatic cancer cells and the bone microenvironment, creating a self-reinforcing \"vicious cycle\" of bone destruction and tumor growth. Experimental evidence from our group (Buenrostro et al., Bone 113:77-88, 2018) suggests that tumor cells in the bone microenvironment early in disease rely more heavily on bone-derived growth factors, such as transforming growth factor-{beta} (TGF-{beta}), to sustain proliferation than tumor cells late in disease, which may grow independently of these factors. Here, we integrate a mechanistic, population-dynamics model of tumor-bone interactions with in vivo data to test the hypothesis that inhibiting bone resorption suppresses growth of non-adapted but not bone-adapted tumors. The model includes key regulators of TIBD, including TGF-{beta}-driven tumor proliferation, parathyroid hormone-related protein (PTHrP) secretion, and osteoblast (OB)-osteoclast (OC) coupling. Parameter calibration using data from mice injected intratibially with parental (non-adapted) and bone-adapted breast cancer cells reveals distinct parameter values for each tumor type. Bone-adapted cells exhibit a higher basal division rate and reduced sensitivity to TGF-{beta}-mediated stimulation, whereas parental-derived tumor cells depend more strongly on TGF-{beta} and secrete PTHrP at higher rates to compensate for their slower growth. Model simulations reproduce the greater bone loss observed experimentally for bone-adapted tumors and predict that, for non-adapted tumors, bone destruction results from a slower but meaningful rise in OC activity and a possible moderate decline in OBs. Simulated treatment of bone-adapted tumors with the bisphosphonate zoledronic acid stabilizes bone density but has limited or highly variable effects on tumor growth. These results suggest that OC inhibition alone may be insufficient to restrain tumor expansion once tumors have adapted to the bone microenvironment. Together, these findings support the hypothesis that tumor adaptation to the bone microenvironment governs dependence on bone-derived growth factors and response to OC-targeted therapy, underscoring the value of mechanistic modeling for elucidating tumor-bone interactions and guiding tumor-type-specific treatment strategies for TIBD."
+  },
+  {
+    "id": "040ee00eddb8ed1c",
+    "title": "Modulation of Intrauterine Adhesion Fibrosis by Lactobacillus delbrueckii: Insights from ERK1/2 Pathway Inhibition and Multi-omics Analyses",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.15.706062v1?rss=1",
+    "content": "Background: Intrauterine adhesion (IUA) is an important cause of infertility and menstrual disorders, substantially reducing quality of life and increasing healthcare costs. Current treatments, including hysteroscopic adhesiolysis and hormonal therapy, show limited efficacy and high recurrence, highlighting the need for new therapeutic strategies. Methods: We evaluated the antifibrotic effects of Lactobacillus delbrueckii in IUA, with a focus on ERK1/2 signaling inhibition. A multimodal framework integrating clinical outcomes, cellular and animal experiments, uterine microbiome profiling (16S rRNA sequencing), transcriptomics, and metabolomics was used to characterize host-microbe-metabolite interactions relevant to fibrosis. Results: Clinically, patients receiving L. delbrueckii showed lower adhesion formation scores(AFS) and reduced recurrence. Microbiome profiling demonstrated increased uterine microbial diversity and altered community composition in treated patients, accompanied by reduced expression of fibrosis-associated markers. In both cellular and mouse models, L. delbrueckii decreased fibrotic marker expression and reduced ERK1/2 phosphorylation. Metabolomics identified elevated 3-hydroxyanthranilic acid (3-HAA) in treated groups, suggesting a potential role in immune and inflammatory modulation. Conclusion:L. delbrueckii attenuates IUA-associated fibrosis, at least in part, by suppressing ERK1/2 phosphorylation and increasing the abundance of the metabolite 3-HAA. These findings support the therapeutic potential of L. delbrueckii for improving uterine repair and reproductive outcomes. Future studies should validate efficacy and safety in larger, diverse cohorts and assess long-term outcomes."
+  },
+  {
+    "id": "4af582f3ad6ce965",
+    "title": "Anaerobic riboflavin degradation by human gut Lachnospiraceae",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.13.705874v1?rss=1",
+    "content": "Vitamins mediate a web of cross-feeding interactions in the human gut. Many Gram-positive gut microbes, in particular, are predicted to be vitamin auxotrophs. Previous studies of these microbes, however, have tended to use rich media, precluding controlled perturbations of low abundance nutrients. We tested the ability of diverse Lachnospiraceae, the most common Gram-positives in the gut, to grow on a chemically defined medium. Even though this medium contained riboflavin, we found that predicted riboflavin auxotrophs grew poorly, including the bile metabolizer Clostridium scindens. High-dose riboflavin supplementation enhanced growth, but also revealed that surprisingly, C. scindens catabolizes riboflavin into lumichrome, making it the first reported anaerobe to do so. The only previously described catabolic pathway for riboflavin requires oxygen and has no homologs in C. scindens. In high-dose riboflavin, a single gene neighborhood with an aldolase, oxidoreductases, and a riboflavin kinase/adenylyltransferase was upregulated, suggesting an alternative anaerobic degradation or overflow pathway. Similar neighborhoods were detected in several other Lachnospiraceae, including Faecalicatena fissicatena, the only other anaerobe reported to degrade riboflavin. Reanalysis of published metabolomic data showed that in vivo, both riboflavin and lumichrome were more abundant in colonized (vs. germ-free) mouse ceca, and that in vitro, Lachnospiraceae isolates depleted riboflavin while certain Gram-negative isolates overproduced it. These results demonstrate that a member of the Lachnospiraceae can anaerobically convert an essential B vitamin into lumichrome, a molecule recently shown to have anti-inflammatory properties. Vitamin catabolism may both structure cross-feeding interactions in the gut and affect host health."
+  },
+  {
+    "id": "1ec7f7c06f3171d8",
+    "title": "Biosynthetic gene clusters in Pseudomonas viridiflava have a fitness cost during Arabidopsis thaliana infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706262v1?rss=1",
+    "content": "Specialized or secondary metabolites mediate biotic interactions, including virulence and defense. In plant-pathogenic Pseudomonas, certain specialized metabolites can enhance colonization of plant hosts, yet their broader contribution to plant-microbe interactions and the relative importance of different metabolites remain unclear. Specialized metabolites are products of enzymes encoded in biosynthetic gene clusters (BGCs), whose prediction from genome sequences has become routine but whose functional roles are rarely tested experimentally. Here, we characterize the BGC repertoire of 225 P. viridiflava isolates from Arabidopsis thaliana and assess BGC contributions to fitness in planta and disease severity. The BGC landscape of P. viridiflava was dominated by non-ribosomal peptide synthetase (NRPS) and NRPS-like BGCs, with one-third of families restricted to a single isolate. Transposon mutagenesis coupled with random barcode transposon sequencing (RB-TnSeq) revealed that the majority of BGCs reduce rather than increase fitness during A. thaliana infection, with the magnitude of the fitness cost varying across host genotypes. This cost could be due to exploitation of public goods by cheater mutant strains. In single-isolate plant infections, where public goods are not available, several BGC families were negatively associated with disease severity, which is positively correlated with bacterial growth in this pathosystem, further indicating that BGCs are generally not beneficial in planta. Our findings reveal extensive and largely uncharacterized biosynthetic potential in populations of P. viridiflava and indicate that candidate metabolites are likely not adaptive for direct interactions with the plant, but perhaps for microbe-microbe interactions either in planta or in other ecological niches."
+  },
+  {
+    "id": "e60b2cb2b417c060",
+    "title": "Characterisation of naturally occurring MERS-CoV Spike mutations and their impact on entry and neutralisation.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706312v1?rss=1",
+    "content": "In this study the phenotypic consequences of naturally occurring single nucleotide polymorphisms (SNPs) in the MERS-CoV Spike protein were investigated. The impact of Spike mutations on virus entry and neutralisation of contemporary MERS-CoV strains is not currently well understood. Naturally occurring mutations were identified by aligning 584 MERS-CoV Spike sequences from either human clinical isolates collected between 2012-2024 or from viruses passaged in human cells. Fifteen SNPs of interest occurring in the NTD, RBD and adjacent to the S1/S2 cleavage site were selected for further characterisation based on their location in the Spike protein, frequency and identification in previous studies. A representative clade B, lineage 5 wildtype Spike sequence, which reflected those carried by MERS-CoV viruses circulating in the Middle East, was used in this study. The mutations of interest were introduced to the wildtype backbone to generate Spike variants. A lentiviral-based pseudotyping system was then used to investigate the impact of these Spike mutations on entry and neutralisation. I529T, E536K and L745F were shown to improve MERS-CoV entry. L411F, T424I, L506F, L745F and T746K were found to increase resistance to neutralisation by pooled patient sera. This study has identified novel naturally occurring Spike mutations that resulted in phenotypic differences in virus entry and neutralisation of contemporary MERS-CoV strains. Continued investigation of the phenotypic consequences of naturally occurring MERS-CoV Spike mutations is essential for assessing the risk to public health, especially given the pandemic potential of this virus."
+  },
+  {
+    "id": "65e0379f85e23fce",
+    "title": "A Python module for programmatic access to TrypTag genome-wide subcellular protein localisation data in Trypanosoma brucei",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706163v1?rss=1",
+    "content": "Protein subcellular localisation is informative for understanding potential protein function, particularly in highly structured unicellular eukaryotes. Microscopy is especially powerful for interrogating localisation, providing high resolution single cell data about where a protein resides. We previously generated the TrypTag dataset - a genome-wide protein localisation resource for the human unicellular parasite Trypanosoma brucei using fluorescent protein tagging. This is a puissant dataset due to its scale: Originally captured with high content image analysis in mind, it is a formidable resource for machine learning or artificial intelligence tool development and testing. Here, we describe a Python module for programmatic access to this data rich resource. Images of each tagged cell line, together with segmented cell masks, can be accessed arbitrarily by gene ID and tagging terminus, the database can be searched by protein localisation, and tools are provided to assist foundational image analysis of individual T. brucei cell cycle stage and morphology. We stress-tested this tool by using it to examine a key feature of T. brucei morphogenesis during division: The old and newly formed flagellum and associated organelles tend to have different protein compositions, and using the TrypTag toolkit we show that there is extensive age-based differential content of these organelles while the daughter nuclei completely lack such asymmetry."
+  },
+  {
+    "id": "73a907bfc6b4f86c",
+    "title": "Aurora vent field is a hotspot for microbial hydrogen oxidation in the Arctic Ocean",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706317v1?rss=1",
+    "content": "Molecular hydrogen (H2) is a widespread, energetically efficient reductant supporting microbial metabolism across most known ecosystems. Although seafloor hydrothermal vents are major energy providers for H2-oxidizing microorganisms, the diversity of H2 oxidation potential in H2-rich systems remains poorly constrained. Here, we use a metagenomic approach to, for the first time, assess the genome-resolved microbial energy conservation potential within hydrothermal deposits and sediments from the ice-covered, extraordinarily H2-rich Aurora Vent Field in the Arctic Ocean. Community-wide analysis revealed broad taxonomic representation of microorganisms with the potential to consume H2 for energy conservation. Notably, we report the first genome belonging to the cosmopolitan Zetaproteobacteria genus Mariprofundus encoding the capacity for H2 oxidation. Additionally, novel, highly abundant Aquificota at Aurora encode uptake hydrogenases not previously characterized as central to H2 oxidation at deep sea vents. The encoded gene content of abundant taxa points to a preference for flexible rather than obligate lithotrophic energy metabolism. A substantial fraction of inferred H2-oxidizing potential is associated with presumed heterotrophs, potentially enhancing carbon transfer efficiency within the Aurora microbial food web. Overall, this study sheds new light on the importance of H2 availability for shaping microbial communities in hydrothermal systems."
+  },
+  {
+    "id": "fddb0ddd6ee70a6c",
+    "title": "Metaproteomics Reveals Functional Rewiring and Metabolic Limits in Synthetic Bacterial Consortia Degrading Complex Waste Oils",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706413v1?rss=1",
+    "content": "Elucidating the metabolic mechanisms underpinning complex hydrocarbon biodegradation by microbial consortia benefits from integration of community-level genomic and proteomic data. Here, we deployed a combined metagenomics and metaproteomic analysis to characterize functional dynamics within bacterial consortia enriched from hydrocarbon-contaminated soil, using military waste oil as the sole carbon source. Metagenomic profiling revealed a consortium dominated by Stenotrophomonas maltophilia alongside established hydrocarbon-degrading taxa including Pseudomonasfluorescens, Pseudomonas putida, and Delftia acidovorans. Quantitative label-free metaproteomics uncovered dynamic taxonomic restructuring and metabolic reorientation, with Delftia and Achromobacter proteins enriched during active degradation, indicating niche advantages under chronic contamination. Enzymatic mapping resolved expression of degradation pathways targeting aliphatic and aromatic substrates, with one specific consortium, BPS4, exhibiting preferential catabolism of catechol intermediates channeled toward the tricarboxylic acid cycle, supported by elevated protein abundance of oxidoreductases, dehydrogenases, and {beta}-oxidation enzymes. Gene ontology enrichment revealed heightened nitrogen cycling capacity, including upregulation of nitric oxide biosynthesis and nitrate reductase, suggesting adaptive nitrogen metabolism coupled to hydrocarbon mineralization. In-vitro batch-fed adaptation studies demonstrated limited improvements in degradation of recalcitrant fractions, particularly branched aliphatics and organophosphates, revealing intrinsic metabolic constraints within the consortium. These findings underscore the complementary utility of metaproteomic interrogation for resolving both population-level dynamics and functional metabolic capabilities, while highlighting fundamental limitations in expanding the degradative spectrum of enriched consortia through conventional adaptation strategies. This work establishes a foundation for rational ecological engineering of hydrocarbon-remediating consortia informed by metaproteomics."
+  },
+  {
+    "id": "f4db2109189a24cb",
+    "title": "Biofilm-deficient mutants of Pseudomonas aeruginosa have wild-type levels of antibiotic tolerance in a model of cystic fibrosis lung infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706333v1?rss=1",
+    "content": "Opportunistic, biofilm-forming pathogens such as Pseudomonas aeruginosa can employ an array of strategies to reduce the impact of antibiotics on their survival. The biofilm matrix can prevent antibiotics from reaching bacteria embedded within it; general changes in metabolic activity alter susceptibility to specific drugs dependent on the target; changes in the membrane and the expression of channel or pump proteins embedded within it affect drug uptake and efflux; and production of antibiotic-degrading enzymes can remove the threat. In this study, we report that biofilm-deficient mutants of two well-studied lab strains of P. aeruginosa (PA14 and PAO1) have wild-type (WT) levels of tolerance to colistin and meropenem when allowed to establish mature populations in an ex vivo pig lung model of cystic fibrosis lung infection. The biofilm defects in the mutants were confirmed using SEM, and cryoSEM was used to visualise the hydrated biofilm matrix in the WT. Using RNA sequencing of the PA14 WT and an isogenic mutant lacking the pel polysaccharide, we were able to identify a small number of differences in the responses of the two genotypes to the lung environment and to exposure to sub-bactericidal colistin in the lung model. Notably, there was differential upregulation of the MexXY-OprM and MexEF-OprN multidrug efflux pumps. However, the relative roles of biofilm matrix versus cellular changes in physiology in conferring antibiotic tolerance in this environment remain to be fully elucidated."
+  },
+  {
+    "id": "7249ffef6d972cd3",
+    "title": "Antibody Responses Against Coronaviruses in the Wuhan Population",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.15.705976v1?rss=1",
+    "content": "Prolonged circulation of SARS-CoV-2 may broaden population-level neutralizing antibody responses to diverse coronaviruses; however, the extent of this breadth remains unclear. To address this gap, we assessed serum neutralizing activity in 869 individuals from Wuhan, China, including 78 pre-pandemic samples collected in 2017 and 791 post-pandemic samples obtained in 2025. Specifically, using pseudovirus neutralization assays, sera were tested against a panel of coronaviruses, including circulating SARS-CoV-2 Omicron subvariants XFG and NB.1.8.1. Neutralization was measured at a fixed dilution for all samples and by determination of 50% inhibitory dilution (ID) for selected sera. In parallel, antigenic cartography and genetic distance analyses were applied to relate functional antigenic relationships to spike protein divergence. Our results showed that, compared with pre-pandemic sera, post-pandemic sera exhibited enhanced neutralizing activity against multiple sarbecoviruses and the merbecovirus MjHKU4r-CoV-1, with mean inhibition increases ranging from 1.7% to 76.5% at a 1:20 dilution. Notably, the largest increases from 51.8% to 76.5% were observed against clade 1b sarbecoviruses. In contrast, neutralizing activity against human alphacoronaviruses and MERS-CoV showed no meaningful enhancement. Moreover, neutralizing titers in post-pandemic sera were strongly correlated across sarbecoviruses, particularly among clade 1b viruses. Antigenic mapping further revealed that several zoonotic sarbecoviruses were antigenically closer to ancestral SARS-CoV-2 than contemporary Omicron subvariants, despite substantially greater genetic divergence. Taken together, these findings demonstrate that cumulative SARS-CoV-2 exposure promotes broadly cross-neutralizing antibody responses within the sarbecovirus subgenus and provide a quantitative framework to inform the rational design of pan-sarbecovirus vaccines and antibody-based countermeasures for future coronavirus preparedness."
+  },
+  {
+    "id": "998386dad37fc272",
+    "title": "Anti-Quorum Sensing Phages Disarm Pseudomonas aeruginosa",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.706229v1?rss=1",
+    "content": "By 2050, the death toll from previously preventable or easily curable bacterial infections is projected to surpass that caused by cancer, unless we prevent the spread of antibiotic resistance and develop new therapies. A promising approach is phage therapy, which exploits bacteriophages, natural predators of bacteria. However, bacteria fight back, which can limit its efficacy. Notably, many bacteria rely on cell-cell communication, known as quorum sensing, to orchestrate both virulence programs and phage defenses. To circumvent these, we have engineered anti-quorum sensing phages against the human pathogen Pseudomonas aeruginosa. Our engineered phages effectively degrade quorum-sensing molecules, reduce virulence factor production, and double the survival of P. aeruginosa-infected Galleria mellonella larvae. Moreover, we demonstrate that the anti-quorum sensing phages inhibit quorum sensing in mixed populations of phage-susceptible and phage-resistant cells, demonstrating the ability of the phages to disarm subpopulations phage-resistant P. aeruginosa, which often are selected for during phage treatment. Together, our findings highlight the future therapeutic promise of anti-quorum sensing phages as a dual-action strategy in killing susceptible cells while attenuating virulence across the bacterial population. This approach has the potential to enhance the robustness of phage therapy."
+  },
+  {
+    "id": "cb25b3d54c3b4042",
+    "title": "Intricate asymbiotic hyphal interactions of Rhizophagus irregularis revealed with single-plane observations in a new microfluidic device",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706285v1?rss=1",
+    "content": "Arbuscular mycorrhizal fungi (AMF) are essential symbionts to most land plants. There is great interest in using AMF inoculation treatments to enhance restoration or agricultural efforts. However, little is known about AMF asymbiotic interactions that could shape soil ecosystems and inoculation outcomes. Studying these early traits is challenging given the obligate nature of AMF. Microfluidic devices enable high-resolution, single-plane, time-resolved observation of AMF hyphal traits in controlled, plant-less environments. The AMF-AnastomosisChip, introduced in this work, additionally separates spores and hyphae into lanes for detailed observations prior to entering a shared interaction zone. Using this device with Rhizophagus irregularis, we phenotyped key hyphal traits from germination to anastomosis. We compared the effect of a fatty acid (FA) treatment to other environmental factors in shaping AMF growth and fusion (anastomosis). Among our results, we confirm known effects of the FA treatment in increasing hyphal branching and longevity but interestingly show that multiple hyphae in a lane can negate FA effects. We also newly reveal that anastomosis occurs for 100% of interactions among hyphae from different lanes, but only for 50% of in-lane interactions, potentially linked to spore origin. Our findings validate the AMF-AnastomosisChip as a versatile platform for increasing discovery in trait-based microbial ecology, including for asymbiotic AMF interactions with environmental factors. This work sets the foundation for future studies with the AMF-AnastomosisChip on the effects of nutrient content, plant-derived molecules, or microbial community members on the AMF traits characterized in this study."
+  },
+  {
+    "id": "93ff322e252337fd",
+    "title": "Diversity and stability of the gut microbiome of naked mole-rat (Heterocephalus glaber), the longest-lived rodent",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.704739v1?rss=1",
+    "content": "The naked mole-rat is a subterranean rodent adapted to extreme hypoxia and low metabolic demands, with an exceptionally long lifespan relative to its small body size, while maintaining reproductive capacity. Using 16S rRNA gene sequencing of 24 samples and whole-metagenome sequencing of 11 samples from individuals up to 15 years of age, we characterized the gut microbiota and showed its complexity and distinctiveness compared with that of other rodents, including mice, squirrels, and rabbits. Although all animals were born and raised in a laboratory setting, the gut microbiota remained taxonomically stable across ages and retained key taxa previously reported in wild naked mole-rats (e.g., Treponema and Desulfovibrio). Metagenome-assembled genomes revealed the presence of archaeal methanogens and termite-gut-associated bacteria (e.g., Methanobacteria within Euryarchaeota and Avelusimicrobium within Elusimicrobiota), together with genes involved in hydrogen metabolism and archaeal methanogenesis. Compared with mice, the naked mole-rat gut microbiota was enriched in carbohydrate-active enzymes targeting plant cell-wall polysaccharides, resembling those found in ruminants. We also detected evidence of flagellates, ciliates, and fungi, which may further contribute to polysaccharide degradation and fermentation, potentially within the enlarged cecum. Together, this comprehensive analysis provides distinctive gut microbial features of the naked mole-rat that may be associated with the naked mole-rat's low metabolic rate and exceptional longevity."
+  },
+  {
+    "id": "61ab92914b15110e",
+    "title": "Rv3839-Rv3840 links the endogenous heme biosynthesis pathway with Mycobacterium tuberculosis adaptation to nitric oxide and iron limitation stress",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706279v1?rss=1",
+    "content": "During infection, Mycobacterium tuberculosis (Mtb) encounters multiple environmental stressors, including nitric oxide (NO) and iron limitation, and an ability to mount an integrated response is essential for the bacteriums adaptation and continued survival. Iron-containing prosthetic groups in key enzymes are critical for Mtb sensing and detoxification of NO, and there is significant overlap between NO- and low iron-responsive genes. However, how Mtb adapts to these two stressors concurrently is largely unknown. Here, we find that exposure to NO globally augments expression of low iron-responsive genes and vice versa, with a two gene operon, rv3839-rv3840, among the most highly upregulated. Deletion of rv3839-rv3840 resulted in increased growth under prolonged iron limitation and early exit of Mtb from an adaptive state of growth arrest induced upon exposure to NO/low iron. {Delta}rv3839-rv3840 Mtb exhibited an elongated cell morphology compared to wild type Mtb in NO/low iron conditions, indicating effects of this operon on cell growth and division under stress conditions, with Rv3839 as the key driver of this phenotype. Coproporphyrin III tetramethyl ester (TMC), a modified precursor molecule in the endogenous Mtb heme biosynthesis pathway, was found to accumulate in {Delta}rv3839-rv3840 Mtb under iron limiting conditions. Further, intrabacterial heme levels were increased in {Delta}rv3839-rv3840 Mtb under NO stress and iron limitation. Together, these findings reveal Rv3839-Rv3840 as proteins involved in the downregulation of heme biosynthesis under NO stress and iron limitation, and highlight the link between Mtb growth control in response to NO/low iron and endogenous heme biosynthesis."
+  },
+  {
+    "id": "840e9fe0ff313fd3",
+    "title": "Genetic access to an obligate cyanobacterial endosymbiont within the shoot meristem of fern hosts",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.17.706265v1?rss=1",
+    "content": "Eukaryote-associated microbes are ubiquitous, but their essential roles in the development and ecology of their host is yet to be fully understood, partly because complex associations cannot be reconstituted and, in many instances, the genetic tools to elucidate those roles are not available. Here, we report the conjugative transfer of DNA into Nostoc azollae within two Azolla fern hosts. N. azollae is a filamentous, N2-fixing, heterocyst-forming cyanobacterium which is an obligate endosymbiont of the complex microbial community associated with the floating ferns of the genus Azolla. The cyanobiont provides fixed nitrogen to its host, supporting maximum growth rates without any N-fertilizer and making Azolla symbioses both ecologically and agriculturally important. Triparental mating protocols and fluorescent reporter detection were optimized for the cyanobiont isolated from the fern, allowing further demonstration of heterologous gene expression in N. azollae driven by several promoters, including some of a CRISPR-associated transposon (CAST) system. Azolla was then treated with a cytokinin hormone to render fern shoot apices amenable to in planta conjugation, permitting DNA transfer to, and stable gene expression in two distinct developmental stages of N. azollae within Azolla. These included (i) cells of filaments from the Shoot Apical Nostoc colony, the only cyanobacterial stem-cell population vertically transmitted across fern generations, and (ii) cells from differentiated filaments in early formed Azolla leaf cavities. Our approach represents a technically groundbreaking advance for the genetic engineering of cyanobacterial endosymbioses that may be useful for other symbiotic systems, opening a pathway to investigate these important biological entities."
+  },
+  {
+    "id": "3371e79568bb4289",
+    "title": "Population-level, state-dependent response as a trait predicting species redistribution under climate change",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.706069v1?rss=1",
+    "content": "Species change their population sizes and distributions in response to fluctuating environments. Predicting such changes across space, particularly distributional shifts under climate change, is a central challenge in ecology and conservation1. Traditionally, static traits such as habitat preferences, or performance traits such as abundance-environment relationships, have been used to characterize species' responses to the environment2,3. However, these approaches assume fixed relationships between species and their environments, overlooking the inherently state-dependent nature of ecosystems. Here, we show that population-level, state-dependent responses of species to environments can serve as a novel trait to better represent population dynamics in nature, which we term a dynamic response trait. Using nonlinear time-series analysis4,5 and long-term marine fish community data collected from Kyoto, Japan6, we identify causal influences of water temperature on about one hundred fish species. Species with higher latitudinal centers generally show negative dynamic responses to warming, whereas those with lower latitudinal centers show positive ones. Intriguingly, these dynamic response traits quantified at a single location explain the fish species' poleward range shift velocities estimated from public biodiversity records; species with negative dynamic responses to warming shift poleward more rapidly, whereas those with positive ones tend to remain. Our findings establish dynamic response traits as a new dimension of trait-based ecology, capturing state-dependent species' responses. By linking local population dynamics to broad-scale distributional shifts, this approach provides a powerful basis for guiding ecology and conservation under climate change."
+  },
+  {
+    "id": "89d2a22940b414a9",
+    "title": "Symbolic regression for empirically realistic population dynamic time series",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.706224v1?rss=1",
+    "content": "Applications of machine learning in ecology are rapidly expanding. Symbolic regression is gaining particular attention for its success in reverse-engineering human-readable explanatory population models, including the logistic growth and Lotka-Volterra equations, from simulated and laboratory-based population time series. However, field-based populations often lack the characteristics of the idealized time series used in prior assessments. We evaluated the utility of symbolic regression for such time series by quantifying its success for synthetic data varying in sampling density, population cycle asymmetry, process noise, and the erroneous consideration of spurious variables. We further compared two data preprocessing options for estimating population growth rates, and four evaluation workflows for selecting equations. Results indicate that a trade-off between sampling density and process noise primarily drives equation and variable recovery. Symbolic regression failed to recover the underlying equation at sampling densities below 10 points per cycle; however, at higher sampling densities, process noise did increase equation recovery rates. Importantly, although the true model was frequently recovered at sampling densities of 25 or more points per cycle, it was not consistently selected by the evaluation workflows. This discrepancy highlights a need for more robust post-algorithm selection criteria to identify the focal equation among competing candidates."
+  },
+  {
+    "id": "0646b29ce5e5c577",
+    "title": "Trait diversity enhances biomass gains via canopy packing in old-growth but not in disturbed Amazon forests.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.706172v1?rss=1",
+    "content": "The existence of a causal link between biodiversity and forest productivity remains largely unexplored in natural systems, especially in hyper-diverse tropical forests. Canopy packing (greater crown complementarity, resulting in more densely packed canopies) has recently emerged as a key structural pathway through which diversity influences forest functioning, though evidence remains limited and sometimes contradictory. In this study, we used repeated airborne LiDAR acquisitions and long-term field monitoring from a tropical logging experiment in French Guiana to quantify canopy packing using the Shannon evenness of plant area density (PAD) and assess its role in mediating the relationship between trait diversity and biomass gains in old-growth and disturbed Amazonian forest stands. Our results show that, in undisturbed forests, functionally diverse communities promote greater canopy packing, which in turn enhances biomass gains. However, this effect was absent in previously logged stands, where forest structural diversity did not fully recover even after 40 years. Our findings indicate that logging reduces canopy structural complexity and disrupts the link between species composition, canopy packing, and productivity in these hyper-diverse, hyper-productive ecosystems."
+  },
+  {
+    "id": "16c11345c8f7247b",
+    "title": "2-decade Study of Barriers to the Adoption of Organic Farming in Arid Lands ofJordan",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.13.705472v1?rss=1",
+    "content": "Organic farming supports environmental sustainability by saving water, safeguarding ecosystems, and providing economic opportunities through organic crops. It promotes food security and long-term development in the arid regions. However, its adoption in Jordan remains limited, primarily due to insufficient governmental support policies and measures. This study aims to identify the fundamental barriers to the adoption of organic agriculture in Jordan's arid regions, evaluate farmers' preparedness for organic practices, explore opportunities for organic farming, and propose recommendations to enhance its adoption. The study utilized a longitudinal approach, conducted in two phases over two decades. The first phase from April to September 2004 involved semi-structured interviews with 46 farmers and five focus groups. The second phase from July to September 2024 revisited seven experienced farmers from the initial cohort, using a phenomenological research approach a widely used approach. The results of phase 1 findings showed that the main barriers were technical, economic, marketing, legislation, institutional and extension and services while socio-cultural was not. The results of phase 2 highlighted persistence of the barriers identified in phase 1, alongside unresolved institutional difficulties, including certification processes, regulatory gaps, and limited market access. The study concluded that implementing streamlined certification procedures, government-supported subsidies, education programs, and policy modifications to promote sustainable adoption of organic farming and farmer engagement in Jorden. The limitation includes a small sample size, the two-decade gap between phases, and a focus on arid regions only. Further, it excludes other stakeholders' perspectives, underexplores socio-cultural factors and provides limited analysis of certification, market access, and comparable contexts. Keywords: Organic farming; Arid lands; barriers; Adoption; Integrated Pest Management IPM; Jordanian Farmers"
+  },
+  {
+    "id": "a43a3543e186d7e7",
+    "title": "Street light choice matters: impacts of presence and color on wild plants",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.703286v1?rss=1",
+    "content": "Anthropogenic light at night (ALAN) is rapidly expanding, affecting wildlife and ecosystems. Color is an important factor in designing responsible outdoor lighting strategies, yet color choice effects on plants remain largely unknown. We investigate how different colors of street lighting influence the morphology and nighttime assimilation rates of two wild plant species, Hypochaeris radicata and Rumex acetosa. Using a semi-natural mesocosm setting, plants were exposed to nightly red, green, and white streetlights, with a dark control, over an eight-week period. Red light significantly increased leaf length and petiole elongation compared to other treatments. Nighttime transpiration and stomatal conductance also strongly increased under both red and white light. These findings highlight that ALAN, particularly red and white light, can disrupt plant growth and physiological processes, which can potentially affect overall ecosystem dynamics. There is also a species-specific effect to morphological parameters which is absent for the assimilation parameters. Striking a balance between functionality and ecological impact is challenging, given that certain light colors negatively affect plants, while those same colors may be preferred by other organisms. A deeper understanding is needed to guide informed decisions on plant and wildlife protection."
+  },
+  {
+    "id": "14bacb4cdc0b8a90",
+    "title": "Weak dispersal and landscape size inevitably promote local biodiversity in heterogeneous metacommunities of competing species",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.16.706088v1?rss=1",
+    "content": "We provide a general theoretical explanation for a longstanding result in spatial ecology: weak dispersal among habitat patches promotes local biodiversity. Using analytical approximations of spatial Lotka-Volterra competition models, we show that species persistence in heterogeneous landscapes can be expressed as a function of regional abundance and local invasion growth rates. We further demonstrate that local multispecies coexistence is governed by the feasibility domain, linking spatial coexistence to a structural property of nonspatial competitive systems. Together, these results explain why weak dispersal increases local species richness and why this effect strengthens with landscape size. We test these predictions using numerical simulations and find that the theory breaks down only when both dispersal and competitive interactions are very strong, in which case dispersal has a unimodal effect on coexistence. In contrast, landscape size retains a positive effect on coexistence whenever an effect is detectable. We then apply the theory to long-term data from a natural Daphnia metacommunity. We detect strong preemptive competition among species and find no detectable effect of dispersal rate on local coexistence, whereas species co-occurrence increases with local landscape size, as predicted by theory. Together, our results identify how dispersal, interaction strength, and landscape size jointly regulate biodiversity in competitive systems."
+  },
+  {
+    "id": "e67e6bf00593229a",
+    "title": "Persistent declines in forest-dependent birds following active restoration of logged tropical forest in Borneo",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.02.15.705981v1?rss=1",
+    "content": "1. Tropical forest restoration is critical for mitigating biodiversity loss and climate change, including in forests impacted by selective logging. Active restoration through liana cutting and enrichment tree planting can substantially accelerate carbon recovery, potentially reducing economic pressures to convert logged forests. But its long-term biodiversity impacts remain largely unknown. 2. Using over two decades of bird survey data from Borneo's largest logged-forest restoration project, we quantified occupancy patterns for 176 species across primary, naturally regenerating, and actively restored logged forests spanning a 30+ year post-logging chronosequence. 3. Forest-dependent, threatened and near-threatened species generally declined through time in actively restored areas, whereas many species in naturally regenerating forests progressively recovered toward primary forest levels. Between 17-40% of 66 threatened or near-threatened species had consistently lower occupancies in actively restored than in naturally regenerating forest. Across species of global conservation concern, median occupancies in restored areas remained ~22% below primary forest even 50 years after harvests, compared with only ~6% lower under natural regeneration. 4. Arboreal insectivores, frugivores, and predatory species appeared most negatively affected by active restoration, with 27-49% of arboreal gleaning insectivores (of 62), 13-30% of arboreal frugivores (of 40), and one-third of predatory species (of 15) showing higher occupancy in naturally regenerating forests. Sallying insectivores also showed a possible but uncertain response, whereas ground-associated frugivores and insectivores were largely unaffected by restoration treatment. 5. Concerningly, even 50 years post-logging, up to 52% of 50 high forest-dependency species retained distinct occupancies in actively restored compared with primary forest, suggesting persistent negative impacts of vine-cutting and/or tree planting activities on avian populations. 6. Synthesis and applications. Our findings indicate that despite substantial carbon benefits, active restoration within selectively logged forests may impede the recovery of forest-dependent biodiversity. This challenges the common assumption embedded within nature-based climate solutions that carbon and biodiversity outcomes will necessarily align. Nonetheless, despite the persistent declines in bird communities, actively restored forests continued to provide key habitat for many species. Active interventions may thus still contribute to broader biodiversity conservation objectives if they protect logged areas from conversion, potentially via carbon payments."
   }
 ]
