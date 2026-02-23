@@ -1,104 +1,104 @@
 # Curated Research Articles
 
-Generated: 2026-02-16 03:08
+Generated: 2026-02-23 03:07
 
-- [ ] [Temperature Controls on Carbon‐Sulfur Diagenesis in Deep Hydrothermal Subseafloor Sediments](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119353?af=R) — score: 1.000
-- [ ] [An Explicit Test of Kill the Winner: Protistan Grazing and Phage Lysis Differentially Impact Fast‐Growing Bacterial Taxa in the Coastal Antarctic](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70254?af=R) — score: 1.000
-- [ ] [Towards understanding the bacterial biosynthesis of branched GDGTs: Identification of iso-diabolic acid-based tetraester and mixed ether/ester, membrane-spanning lipid intermediates in members of the Bacillota](https://www.biorxiv.org/content/10.64898/2026.02.09.704826v1?rss=1) — score: 1.000
-- [ ] [Dual transcriptomics reveal commensal interactions between microalgae and phycosphere bacteria](https://www.biorxiv.org/content/10.64898/2026.02.09.704904v1?rss=1) — score: 1.000
-- [ ] [Anaerobic methane oxidation by ANME-2a at two molar chloride in Orca Basin](https://www.biorxiv.org/content/10.64898/2026.02.09.704686v1?rss=1) — score: 1.000
-- [ ] [CAZyme domain architectures suggest fine-scale functional differentiation among anaerobic fungi and bacteria during lignocellulose conversion to volatile fatty acids](https://www.biorxiv.org/content/10.64898/2026.02.09.704939v1?rss=1) — score: 1.000
-- [ ] [Stable Carbon Isotope Values of Bacteria‐Specific Fatty Acids to Assess the Reactivity of Sedimentary Organic Matter in the St. Lawrence Estuary and Gulf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009109?af=R) — score: 1.000
-- [ ] [Revealing Seasonal Patterns and Metabolism of Microbial Plankton in a Productive Coastal Upwelling System](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023296?af=R) — score: 1.000
-- [ ] [Biogeochemistry of Dissolved Manganese in the Western North Pacific Subtropical Gyre: Sources, Fluxes, and Cycling Drivers](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023192?af=R) — score: 1.000
-- [ ] [Spatiotemporal variability from physics to plankton ecology in an upwelling bay](https://www.sciencedirect.com/science/article/pii/S0967064526000172?dgcid=rss_sd_all) — score: 1.000
-- [ ] [Against the current: upstream behavior in diatoms](https://www.biorxiv.org/content/10.64898/2026.02.10.705029v1?rss=1) — score: 1.000
-- [ ] [Thalassolituus haligoni sp. nov., BB40, a model species for non-cyanobacterial diazotrophs within Oceanospirillales isolated from a Fjord-like Inlet in Kjipuktuk](https://www.biorxiv.org/content/10.64898/2026.02.10.701148v1?rss=1) — score: 1.000
-- [ ] [Eddy‐Induced Iron Transport Sustains the Biological Productivity in the Gulf of Alaska](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022996?af=R) — score: 1.000
-- [ ] [Biogeochemical Effects of Golden Gate Strait Exchange and Other Land‐Based Inputs to the San Francisco and Monterey Bay Coasts](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023221?af=R) — score: 1.000
-- [ ] [Impact of diazotrophs on marine food webs and the biological carbon pump: progress and remaining challenges](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wraf291/8415522?rss=1) — score: 1.000
-- [ ] [Chemosynthesis enables microbial communities to flourish in a marine cave ecosystem](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wraf286/8402458?rss=1) — score: 1.000
-- [ ] [Ribonucleotide reductases recapitulate biogeographic patterns within virioplankton according to ocean biogeochemistry](https://www.biorxiv.org/content/10.64898/2026.02.11.705308v1?rss=1) — score: 1.000
-- [ ] [Enrichment of convergent metabolic functions in microbial communities through imposed and emergent environmental niches](https://www.biorxiv.org/content/10.64898/2026.02.11.705344v1?rss=1) — score: 1.000
-- [ ] [Isotopic and Stoichiometric Insights Into the Biogeochemistry of Particulate Organic Matter in the Canadian Arctic Archipelago and Baffin Bay](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008669?af=R) — score: 1.000
-- [ ] [Connecting models, networks and experiments: Revisiting the role of viruses in marine carbon cycling](https://www.biorxiv.org/content/10.64898/2026.02.12.705374v1?rss=1) — score: 1.000
-- [ ] [Carbon burial in two Greenland fjords shows no direct link to glacier type](https://doi.org/10.5194/bg-23-1159-2026) — score: 0.900
-- [ ] [Phytoplankton blooms affect microscale differences of oxygen and temperature across the sea surface microlayer](https://doi.org/10.5194/os-22-403-2026) — score: 0.900
-- [ ] [Emergent Threshold Dynamics in Unified Metabolic-Regulatory Models: Achieving Spontaneous Homeostasis Through Bidirectional ATP-Pathway Coupling](https://www.biorxiv.org/content/10.64898/2026.02.06.704333v1?rss=1) — score: 0.900
-- [ ] [Spatial structure: shaping the ecology and evolution of microbial communities](https://academic.oup.com/femsre/article/doi/10.1093/femsre/fuaf067/8469368?rss=1) — score: 0.900
-- [ ] [Dissolved Organic Matter Dynamics in South African Nearshore Waters and Freshwater Systems: Linkages to Changing Human Activity, Episodic Events, and Biodiversity](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009331?af=R) — score: 0.900
-- [ ] [Anomalously Low New Production in the Northeast Atlantic During Spring 2024: A Consequence of Weaker Winter Mixing?](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023249?af=R) — score: 0.900
-- [ ] [Modelling seawater pCO2 and pH in the Canary Islands region based on satellite measurements and machine learning techniques](https://doi.org/10.5194/os-22-609-2026) — score: 0.900
-- [ ] [Insights Into the Influence of the Greenland Ice Sheet on Oceanic Macronutrient Dynamics From Decades of Historical Data](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008541?af=R) — score: 0.900
-- [ ] [Warming mitigates root exudate-induced priming effects via changes to microbial biomass, community structure, and gene abundance](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrag002/8426269?rss=1) — score: 0.900
-- [ ] [Interspecies interactions drive community-level selection in microbial coalescence](https://www.biorxiv.org/content/10.64898/2026.02.11.704923v1?rss=1) — score: 0.900
-- [ ] [Sediment Legacy Organic Matter Amplifies Nutrient‐Driven Coastal Hypoxia: A Coupled Benthic‐Pelagic Modeling Study](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118058?af=R) — score: 0.900
-- [ ] [Contrasting nutrient retention in alpine soils: the role of soil microbiome in phosphorus and nitrogen mobility in scree and meadow environments](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag008/8456383?rss=1) — score: 0.800
-- [ ] [Environmental disturbances of trophic interactions and their impacts on a multihost sapronotic pathogen](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag006/8443356?rss=1) — score: 0.800
-- [ ] [Laboratory warming and wetting drives microbial respiration, enzyme activity, and community composition in a boreal forest soil](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag003/8435316?rss=1) — score: 0.800
-- [ ] [On the Role of Western Boundary Currents to Fertilize Adjacent Continental Shelves at Interannual Scales: A Case Study in the Southwestern Atlantic](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120186?af=R) — score: 0.800
-- [ ] [Monsoons, plumes, and blooms: intraseasonal variability  of subsurface primary productivity in the Bay of Bengal](https://doi.org/10.5194/os-22-443-2026) — score: 0.800
-- [ ] [Ecological Filtering is a Better Predictor of Microbiome Assembly than Coevolution in Marine Sponges](https://www.biorxiv.org/content/10.64898/2026.02.08.704580v1?rss=1) — score: 0.800
-- [ ] [Phylogenetically distinct Vibrio mediterranei lineages confer robust protection under thermal stress against oyster pathogens](https://www.biorxiv.org/content/10.64898/2026.02.09.704869v1?rss=1) — score: 0.800
-- [ ] [Better together: Microbial diversity might facilitate the invasion success of the seagrass Halophila stipulacea  in mixed Mediterranean seagrass communities](https://www.biorxiv.org/content/10.64898/2026.02.09.704841v1?rss=1) — score: 0.800
-- [ ] [Unveiling protist composition and diversity patterns with eDNA metabarcoding: comparing short- and long-read approaches](https://www.biorxiv.org/content/10.64898/2026.02.07.704525v1?rss=1) — score: 0.800
-- [ ] [Plasmids weaponize conjugation to eliminate non-permissive recipients](https://www.biorxiv.org/content/10.64898/2026.02.10.705089v1?rss=1) — score: 0.800
-- [ ] [Metabolomic and Transcriptomic rewiring between virus resistance and susceptibility in Ostreococcus mediterraneus](https://www.biorxiv.org/content/10.64898/2026.02.10.705097v1?rss=1) — score: 0.800
-- [ ] [Air‐Sea Gas Exchange in the Coastal Baltic Sea: Implications for Marine Carbon Dioxide Removal](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023324?af=R) — score: 0.800
-- [ ] [Lower Glacial Oxygen in the Eastern Equatorial Pacific Concentrated in the Deep Sea](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119372?af=R) — score: 0.800
-- [ ] [Microfluidic enrichment of proteolytic microbial consortia from sewage sludge.](https://www.biorxiv.org/content/10.64898/2026.02.10.705040v1?rss=1) — score: 0.800
-- [ ] [Metabolically structured population models: a unifying framework for microbial ecology and evolution](https://www.sciencedirect.com/science/article/pii/S0022519326000354?dgcid=rss_sd_all) — score: 0.800
-- [ ] [An Ice Sheet‐to‐Ocean Analysis of Carbon Stores and Fluxes in Earth's Polar Regions (RECCAP2, Polar Ice Sheets)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008677?af=R) — score: 0.800
-- [ ] [Distribution and sea-to-air exchange of carbon monoxide in surface microlayer and subsurface seawater in the eastern marginal seas of China](https://doi.org/10.5194/bg-23-1261-2026) — score: 0.800
-- [ ] [Monitoring export fluxes to detect seasonal and interannual changes in the pelagic ecosystem of the northern Bering Sea](https://www.sciencedirect.com/science/article/pii/S0967064526000226?dgcid=rss_sd_all) — score: 0.800
-- [ ] [Pseudomonadota bridge cross-trophic interactions to suppress plant pathogens](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrag011/8443137?rss=1) — score: 0.800
-- [ ] [Lactuchelins represent lipopeptide siderophores produced by Pseudomonas lactucae that inhibit Xanthomonas campestris](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrag003/8427240?rss=1) — score: 0.800
-- [ ] [Metabolite interactions mediate beneficial alliances between Bacillus and Trichoderma for effective Fusarium wilt control](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wraf283/8405708?rss=1) — score: 0.800
-- [ ] [Detectability of Phytoplankton Biomass Extremes Using Simulated Satellite Chlorophyll Observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121347?af=R) — score: 0.800
-- [ ] [A microbiome assessment of healthy and bleached Halymenia floresii (Clemente) C. Agardh (Rhodophyta, Florideophyceae)](https://www.biorxiv.org/content/10.64898/2026.02.11.705022v1?rss=1) — score: 0.800
-- [ ] [Accelerated Carbon and Water Cycles in the Amazon and Congo Basins Revealed From TRENDY Models and Remote Sensing Products](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008747?af=R) — score: 0.800
-- [ ] [Spatial Variability in Year‐to‐Year, Near‐Bottom Hypoxia Over the United States Pacific Northwest Continental Shelf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023821?af=R) — score: 0.800
-- [ ] [Metabolism-driven, high-efficiency mining of ethanol-tolerant microorganisms from pit mud microbiota using Raman flow cytometry](https://www.biorxiv.org/content/10.64898/2026.02.13.705682v1?rss=1) — score: 0.800
-- [ ] [Paired in situ and molecular analyses identify mechanisms of pathogen persistence within environmental communities](https://www.biorxiv.org/content/10.64898/2026.02.12.705432v1?rss=1) — score: 0.800
-- [ ] [Use of Microbial Biofilms to Assess Groundwater Quality in Karstic Ecosystems](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70252?af=R) — score: 0.700
-- [ ] [Roles of microzooplankton in the biological carbon pump](https://www.sciencedirect.com/science/article/pii/S0079661126000340?dgcid=rss_sd_all) — score: 0.700
-- [ ] [Tracking interlinked microbial and geochemical succession over decades in landfilled municipal solid waste](https://www.biorxiv.org/content/10.64898/2026.02.10.705041v1?rss=1) — score: 0.700
-- [ ] [Diversified Portfolios of Bacterial Communities in Peri-urban Miyawaki Forests and Grassland Shaping Ecosystem Functions and Services](https://www.biorxiv.org/content/10.64898/2026.02.10.704982v1?rss=1) — score: 0.700
-- [ ] [Intra-colony light gradients drive variation in coral symbiont morphology and carbon storage](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrag006/8443093?rss=1) — score: 0.700
-- [ ] [Emergent climate change signals within Antarctic sea ice and associated ecosystems](https://www.nature.com/articles/s41558-026-02561-9) — score: 0.700
-- [ ] [Colony morphogenesis regulates sporulation dynamics in bacterial biofilms](https://www.biorxiv.org/content/10.64898/2026.02.11.705348v1?rss=1) — score: 0.700
-- [ ] [Increased Heat Transport Through Barrow Canyon and Its Impact on Subsurface Warming in the Western Arctic Ocean](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022717?af=R) — score: 0.700
-- [ ] [Low levels of metabolic auxotrophy among environmental Pseudomonas isolates](https://www.biorxiv.org/content/10.64898/2026.02.13.705048v1?rss=1) — score: 0.700
-- [ ] [Fossil isotope evidence for trophic simplification on modern Caribbean reefs](https://www.nature.com/articles/s41586-025-10077-z) — score: 0.600
-- [ ] [Divergent Responses of Ecosystem Water and Carbon Use Efficiency to Atmosphere‐Vegetation‐Soil Moisture Factors in the Northern Drylands of China](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009271?af=R) — score: 0.600
-- [ ] [Seasonally Variable Sediment Oxygen Demand Kinetics in Lake Erie's Central Basin](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JG008689?af=R) — score: 0.600
-- [ ] [Externally-forced and intrinsic variability of the Mediterranean surface and overturning circulations](https://doi.org/10.5194/os-22-531-2026) — score: 0.600
-- [ ] [Satellite-derived Ecosystem Functional Types capture ecosystem functional heterogeneity at regional scale](https://doi.org/10.5194/bg-23-1223-2026) — score: 0.600
-- [ ] [The Arctic overturning circulation: transformations,  pathways and timescales](https://doi.org/10.5194/os-22-565-2026) — score: 0.600
-- [ ] [Temporal dynamics of microbiome communities within urban compost piles undergoing the heat process](https://www.biorxiv.org/content/10.64898/2026.02.10.705224v1?rss=1) — score: 0.600
-- [ ] [Fluctuating Growth Rates Link Turnover and Unevenness in Species‐Rich Communities](https://onlinelibrary.wiley.com/doi/10.1111/ele.70333?af=R) — score: 0.600
-- [ ] [Correction: Correction: Quantifying microbial interactions based on compositional data using an iterative approach for solving generalized Lotka-Volterra equations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013971) — score: 0.600
-- [ ] [Mutations in legume genes that influence symbiosis create a complex selective landscape for rhizobial symbionts](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrag005/8466334?rss=1) — score: 0.600
-- [ ] [The Impact of OCO‐2 Seasonally Dependent Sampling on Carbon Flux Estimation in the Northern Tropical Africa](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119838?af=R) — score: 0.600
-- [ ] [Comparative genomics analysis reveals that antimicrobial activity in Pseudomonas protegens PBL3 is associated with gene clusters participating in multiple cellular functions](https://www.biorxiv.org/content/10.64898/2026.02.12.705552v1?rss=1) — score: 0.600
-- [ ] [Spatial Variability in Deep SOC Storage in Georgia (USA) Salt Marshes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG008762?af=R) — score: 0.600
-- [ ] [Climate Change Will Enhance Hypercapnic Hypoxia Threatening Mangrove Habitats](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119355?af=R) — score: 0.600
-- [ ] [Active virus-host system in a Lokiarchaeon culture](https://www.biorxiv.org/content/10.64898/2026.02.13.705702v1?rss=1) — score: 0.600
-- [ ] [Wind‐Driven Downwelling Along the West Greenland Shelf and Slope From 6 Years of Mooring Data](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022873?af=R) — score: 0.500
-- [ ] [Evolution of Translation Initiation Factor 2 Extensions Links Initiation to Bacterial Stress Response](https://www.biorxiv.org/content/10.64898/2026.02.08.704698v1?rss=1) — score: 0.500
-- [ ] [Benchmarking the quantitative performance of metabarcoding and shotgun sequencing using mock communities of marine nematodes](https://www.biorxiv.org/content/10.64898/2026.02.09.704827v1?rss=1) — score: 0.500
-- [ ] [Wind Forcing and Warm Water Upwelling in a Recurring Beaufort Shelf Polynya](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023568?af=R) — score: 0.500
-- [ ] [Cryptic Barriers to Gene Flow Driven by Deep‐Sea Reproductive Strategy in Direct‐Developing Pandalid Shrimp](https://onlinelibrary.wiley.com/doi/10.1111/mec.70264?af=R) — score: 0.500
-- [ ] [RNase III influences microaerobic symbiotic pathways and RNA regulation in Sinorhizobium meliloti](https://www.biorxiv.org/content/10.64898/2026.02.10.705003v1?rss=1) — score: 0.500
-- [ ] [Objective method to estimate the duration of the DNAreplication cycle without perturbation in Escherichia coli.](https://www.biorxiv.org/content/10.64898/2026.02.10.705063v1?rss=1) — score: 0.500
-- [ ] [Fertilizer‐Induced Nitrogen Accumulation Contributes to One Fifth of Topsoil Nitrogen in Chinese Upland Croplands](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008890?af=R) — score: 0.500
-- [ ] [PreserVamos: Ecological data on aquatic ecosystems in Argentina collected through citizen science monitoring](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70316?af=R) — score: 0.500
-- [ ] [Antarctic Meltwater Accelerates Southern Ocean Evolution Under Projected Atmospheric Warming](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119952?af=R) — score: 0.500
-- [ ] [Seasonal to Interannual Cross‐Scale Energy Transfer Variability: Observational Insight From the Santa Barbara Channel](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117885?af=R) — score: 0.500
-- [ ] [Characterising marine heatwaves in the Svalbard Archipelago  and surrounding seas](https://doi.org/10.5194/os-22-587-2026) — score: 0.500
-- [ ] [Choice of host model and manipulated transcription regulator dictates T6SS effector-mediated toxicity](https://www.biorxiv.org/content/10.64898/2026.02.11.705042v1?rss=1) — score: 0.500
-- [ ] [Irreversible Transitions of the Ocean Circulation in Antarctic Ice‐Shelf Cavities](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118278?af=R) — score: 0.500
-- [ ] [A synthetic cell with integrated DNA self-replication and lipid biosynthesis](https://www.nature.com/articles/s41467-026-69531-9) — score: 0.500
-- [ ] [Unveiling the taxonomic diversity and unprecedented biosynthetic treasure of the phylum Myxococcota](https://www.biorxiv.org/content/10.64898/2026.02.12.705523v1?rss=1) — score: 0.500
-- [ ] [Predator avoidance promotes inter-bacterial symbiosis with myxobacteria in polymicrobial communities](https://www.biorxiv.org/content/10.64898/2026.02.12.705600v1?rss=1) — score: 0.500
-- [ ] [eDNA metabarcoding provides scalable and continuous biodiversity monitoring across the tree of life](https://www.biorxiv.org/content/10.64898/2026.02.12.705487v1?rss=1) — score: 0.500
+- [ ] [An Integrative Genomic and Transcriptomic Analysis Reveals the Divergent Molecular Strategies Driving Mutualism and Pathogenesis in a Dinoflagellate Phycosphere](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70257?af=R) — score: 1.000
+- [ ] [Dissolved Organic Carbon Accumulation in the North Atlantic Subtropical Gyre: Microbial Feedbacks and Ecological Controls Along Lagrangian Trajectories](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009257?af=R) — score: 1.000
+- [ ] [Ecological interactions mediate evolutionary responses to temperature in microbial communities](https://www.biorxiv.org/content/10.64898/2026.02.13.705791v1?rss=1) — score: 1.000
+- [ ] [Environmental filtering drives cryptic diversity and shifting interaction networks across lake, ephemeral pond, and desiccated microbial mat communities in the Untersee Oasis, East Antarctica](https://www.biorxiv.org/content/10.64898/2026.02.16.706179v1?rss=1) — score: 1.000
+- [ ] [Nitrogen fixation is driven by cellular nitrogen stores in a diazotrophic cyanobacterium: Evidence from culture experiments and model validation](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70326?af=R) — score: 1.000
+- [ ] [Aurora vent field is a hotspot for microbial hydrogen oxidation in the Arctic Ocean](https://www.biorxiv.org/content/10.64898/2026.02.17.706317v1?rss=1) — score: 1.000
+- [ ] [Metaproteomics Reveals Functional Rewiring and Metabolic Limits in Synthetic Bacterial Consortia Degrading Complex Waste Oils](https://www.biorxiv.org/content/10.64898/2026.02.17.706413v1?rss=1) — score: 1.000
+- [ ] [Glacial Meltwater Impacts Marine Carbonate Chemistry on Iceland's Continental Shelf](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023671?af=R) — score: 1.000
+- [ ] [Organohalide respiration by a Desulforhopalus-dominated community](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrag007/8440978?rss=1) — score: 1.000
+- [ ] [Warming Causes a Decline in Baltic Sea Coastal Sediment Microbial Abundance](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70256?af=R) — score: 1.000
+- [ ] [Evolutionary radiation of Polaromonas from mountain glaciers downstream](https://www.biorxiv.org/content/10.64898/2026.02.18.706520v1?rss=1) — score: 1.000
+- [ ] [Seasonal Shift of Dissolved Organic Matter Stoichiometry in the Surface North Pacific Subtropical Gyre: Regulation by Enhanced N2 Fixation and DOP Utilization](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120193?af=R) — score: 1.000
+- [ ] [Assessing Prokaryotic Benthic Communities in the Red Sea](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70216?af=R) — score: 1.000
+- [ ] [The metallome of Methanosarcina barkeri during electron uptake from acathode](https://www.biorxiv.org/content/10.64898/2026.02.14.705942v1?rss=1) — score: 0.900
+- [ ] [Oceanic δ13C Fingerprints Caused by Laurentice Ice Sheet Discharges: Model‐Data Comparison During Heinrich Event 4](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118490?af=R) — score: 0.900
+- [ ] [Decadal increase in phytoplankton community photoprotective pigments associated with shoaling mixed layers along a warming West Antarctic Peninsula](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70324?af=R) — score: 0.900
+- [ ] [Seasonal Variations in N‐Containing Bacteriohopanepolyols and Their Aerobic Methane Oxidation Implications in a Tropical Lake](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009501?af=R) — score: 0.900
+- [ ] [Annual Variability in Marine Particulate Trace Elements During the Hawaii Aerosol Time‐Series](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008834?af=R) — score: 0.800
+- [ ] [Oxygen metabolism in descendants of the archaeal-eukaryotic ancestor](https://www.nature.com/articles/s41586-026-10128-z) — score: 0.800
+- [ ] [Plankton assemblages across a coastal to oceanic gradient of Northern Australia and responses to a storm perturbation in the Argo Basin](https://www.sciencedirect.com/science/article/pii/S096706452600024X?dgcid=rss_sd_all) — score: 0.800
+- [ ] [Energy densities and fatty acids demonstrate the low quality of dreissenid veligers](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70325?af=R) — score: 0.800
+- [ ] [Spatial Heterogeneity in Phytoplankton Responses to Marine Heatwaves in the Northeast Subarctic Pacific](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022864?af=R) — score: 0.800
+- [ ] [Inverse modeling reveals efficient salp‐mediated energy flow to higher trophic levels](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70335?af=R) — score: 0.800
+- [ ] [Ruminosignatures associated with methane emissions and feed efficiency across geographies and cattle breeds](https://www.biorxiv.org/content/10.64898/2026.02.19.706774v1?rss=1) — score: 0.800
+- [ ] [Phytoplankton performance in the lab predicts occurrence in the field across a global temperature gradient](https://www.biorxiv.org/content/10.64898/2026.02.18.706362v1?rss=1) — score: 0.800
+- [ ] [Prophage activity shapes the thermal ecology and evolution of a marine bacterial host](https://www.biorxiv.org/content/10.64898/2026.02.19.706829v1?rss=1) — score: 0.800
+- [ ] [Shared stream–lake patterns in diversity, rRNA-based activity and community assembly of bacteria and microeukaryotes under distinct hydrological regimes](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag010/8472868?rss=1) — score: 0.800
+- [ ] [The PceA-orthologous reductive dehalogenase of Dehalococcoides mccartyi CBDB1 is involved in 1,2,4-trichlorobenzene respiration](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag005/8440133?rss=1) — score: 0.800
+- [ ] [Structural and evolutionary insights into the isoprene monooxygenases](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag004/8437917?rss=1) — score: 0.800
+- [ ] [Prolonged impact of fire on peatland fungi despite rapid recovery of vegetation, prokaryotes, and soil physicochemistry](https://www.biorxiv.org/content/10.64898/2026.02.20.707020v1?rss=1) — score: 0.800
+- [ ] [Synthesis of Global Soil‐Emitted N2O Isotopic Signatures: Geoclimatic Patterns and Influential Factors](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116045?af=R) — score: 0.700
+- [ ] [A genetically encoded bifunctional enzyme mitigates redox imbalance and lipotoxicity](https://www.nature.com/articles/s42255-025-01450-3) — score: 0.700
+- [ ] [Functional characterization of macrolide esterase from cyanobacteria and their potential dissemination risk](https://www.nature.com/articles/s44259-026-00182-y) — score: 0.700
+- [ ] [Environmental Controls on Crenarchaeol Distributions in Hydrothermal Springs](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70248?af=R) — score: 0.700
+- [ ] [A Lightweight Dual-Attention Neural Network for In-Situ Hyperspectral Classification of Microalgae](https://www.biorxiv.org/content/10.64898/2026.02.16.706104v1?rss=1) — score: 0.700
+- [ ] [Impact of Penguin Guano on Dissolved Organic Matter in East Antarctic Lake Sediments](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009207?af=R) — score: 0.700
+- [ ] [Biosynthetic gene clusters in Pseudomonas viridiflava have a fitness cost during Arabidopsis thaliana infection](https://www.biorxiv.org/content/10.64898/2026.02.17.706262v1?rss=1) — score: 0.700
+- [ ] [Long‐Term Increases in Ca2+, Mg2+, and SO42− Concentrations in the Kolyma River (1980–2022) Due To Yedoma Degradation](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008825?af=R) — score: 0.700
+- [ ] [Carbon storage in coastal reed ecosystems](https://doi.org/10.5194/bg-23-1327-2026) — score: 0.700
+- [ ] [A citywide metagenomic analysis reveals surface-specific microbiome and resistome patterns in outdoor urban environments across Liverpool, UK.](https://www.biorxiv.org/content/10.64898/2026.02.18.706585v1?rss=1) — score: 0.700
+- [ ] [Environmental drivers shaping protist plankton seasonality in the northwestern Barents Sea](https://www.sciencedirect.com/science/article/pii/S0079661126000364?dgcid=rss_sd_all) — score: 0.700
+- [ ] [Accounting for the Influence of Community Turnover Along Environmental Gradients on Compositional Uniqueness](https://onlinelibrary.wiley.com/doi/10.1111/ele.70338?af=R) — score: 0.700
+- [ ] [Trace gas oxidation supports sub-surface microbial communities across Namib Desert fog and aridity gradients](https://www.biorxiv.org/content/10.64898/2026.02.19.706496v1?rss=1) — score: 0.700
+- [ ] [Growing microalga Neochloris oleoabundans in rocking and floating plastic bag photobioreactors](https://www.biorxiv.org/content/10.64898/2026.02.18.702949v1?rss=1) — score: 0.700
+- [ ] [Conjugation structures plasmid populations through host-lineage restriction](https://www.biorxiv.org/content/10.64898/2026.02.19.706745v1?rss=1) — score: 0.700
+- [ ] [Decoupling species richness and interaction frequency reveals how fungal interactions regulate wood decomposition](https://www.biorxiv.org/content/10.64898/2026.02.18.706504v1?rss=1) — score: 0.700
+- [ ] [Energetics of the Upper‐Ocean Under Sea Ice: Frictional Dissipation Versus Baroclinic Production](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023026?af=R) — score: 0.700
+- [ ] [Deep Learning Identifies the Climate Warming Signal in Global Ocean Chlorophyll From Satellite Records](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120669?af=R) — score: 0.700
+- [ ] [Numerical Investigation of Changes of Subsurface Ocean Temperature Within Mesoscale Eddies After Tropical Cyclone Passages](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023898?af=R) — score: 0.600
+- [ ] [Challenging one-way fish modelling: two-way coupling reveals critical marine ecosystem dynamics](https://www.sciencedirect.com/science/article/pii/S0079661126000352?dgcid=rss_sd_all) — score: 0.600
+- [ ] [Toxin-antitoxin systems propagate through addictive selection during bacterial chromosome-plasmid conflicts](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag021/8489719?rss=1) — score: 0.600
+- [ ] [Genetic access to an obligate cyanobacterial endosymbiont within the shoot meristem of fern hosts](https://www.biorxiv.org/content/10.64898/2026.02.17.706265v1?rss=1) — score: 0.600
+- [ ] [Remote Sensing and eDNA Reveal Microbial Diversity Drivers in the Qaidam Basin (China)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009226?af=R) — score: 0.600
+- [ ] [In vitro biofilm formation by a beneficial bacterium partially predicts in planta protection against rhizosphere pathogens](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wraf114/8154967?rss=1) — score: 0.600
+- [ ] [Machine learning-based paleobathymetric reconstructions using archaeal lipid biomarkers | Science Advances](https://www.science.org/doi/10.1126/sciadv.adz3284) — score: 0.600
+- [ ] [Southern South American Dust Inputs to the South Atlantic and Southern Oceans: Trace Element Solubility and Deposition Fluxes](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB009011?af=R) — score: 0.600
+- [ ] [Niche Overlap of Soil Bacteria Drives Stress Gradient Hypothesis Dynamics in Dryland Biocrust Succession](https://onlinelibrary.wiley.com/doi/10.1111/mec.70277?af=R) — score: 0.600
+- [ ] [Eco-evolutionary dynamics of active virus-host interactions in a freshwater lake: revealed through metaHi-C](https://www.biorxiv.org/content/10.64898/2026.02.18.706586v1?rss=1) — score: 0.600
+- [ ] [Basal Melting Variability of the Ross Ice Shelf From Mixing Ratios of Simulated Water Masses (1993–2018) and Potential Climatic Drivers](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023103?af=R) — score: 0.600
+- [ ] [Representation of Surface Mixed‐Layer Eddies Affects the Large‐Scale Ventilation of the Global Ocean](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116872?af=R) — score: 0.600
+- [ ] [A metabolic safety valve for reductive stress](https://www.nature.com/articles/s42255-026-01463-6) — score: 0.500
+- [ ] [Genomic Isomerism and Environmental Adaptation in Cyanophages Infecting Freshwater Cyanobacteria](https://www.biorxiv.org/content/10.64898/2026.02.14.705889v1?rss=1) — score: 0.500
+- [ ] [Edible Fungi Are a Hidden Source of Carbon Monoxide and Carbon Dioxide](https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70259?af=R) — score: 0.500
+- [ ] [Phenotypic diversity of yeasts curated in the 5th edition of The Yeasts: A data-driven visualization approach](https://www.biorxiv.org/content/10.64898/2026.02.15.706042v1?rss=1) — score: 0.500
+- [ ] [A Capsid Tyrosine Residue Governs the Proteolytic Inactivation of Echovirus 11 in Lakewater](https://www.biorxiv.org/content/10.64898/2026.02.16.706081v1?rss=1) — score: 0.500
+- [ ] [Degradation of fish food webs in the Anthropocene | Science Advances](https://www.science.org/doi/10.1126/sciadv.adu6540) — score: 0.500
+- [ ] [Exploring the dynamics of chemical species interactions in complex reaction mechanism: classification of fast and slow species and bifurcation analysis](https://www.nature.com/articles/s41598-026-37965-2) — score: 0.500
+- [ ] [Biofilm-deficient mutants of Pseudomonas aeruginosa have wild-type levels of antibiotic tolerance in a model of cystic fibrosis lung infection](https://www.biorxiv.org/content/10.64898/2026.02.17.706333v1?rss=1) — score: 0.500
+- [ ] [Symbolic regression for empirically realistic population dynamic time series](https://www.biorxiv.org/content/10.64898/2026.02.16.706224v1?rss=1) — score: 0.500
+- [ ] [Weak dispersal and landscape size inevitably promote local biodiversity in heterogeneous metacommunities of competing species](https://www.biorxiv.org/content/10.64898/2026.02.16.706088v1?rss=1) — score: 0.500
+- [ ] [Giant viruses hijack their hosts’ protein factories](https://www.science.org/content/article/giant-viruses-hijack-their-hosts-protein-factories) — score: 0.500
+- [ ] [Recent advances in microbial lignin degradation and upcycling of lignin-derived aromatic compounds](https://www.sciencedirect.com/science/article/pii/S095816692600025X?dgcid=rss_sd_all) — score: 0.500
+- [ ] [Turnover and Nestedness Explained Differently on Soil Fungi, Bacteria, and Archaea Community Beta Diversities After Nitrogen Addition](https://onlinelibrary.wiley.com/doi/10.1111/mec.70269?af=R) — score: 0.500
+- [ ] [CRISPR-Cas is beneficial in plasmid competition, but limited by competitor toxin–antitoxin activity when horizontally transferred](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003658) — score: 0.500
+- [ ] [Degradation graphs reveal hidden proteolytic activity in peptidomes](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013972) — score: 0.500
+- [ ] [The archaic CUP pilus SMF-1 uses an antiparallel bundling mechanism to initiate biofilm formation](https://www.biorxiv.org/content/10.64898/2026.02.19.706768v1?rss=1) — score: 0.500
+- [ ] [Thermal niche warming is more consistent than range shifts in marine species under climate change](https://www.biorxiv.org/content/10.64898/2026.02.18.706571v1?rss=1) — score: 0.500
+- [ ] [Internal Tide Variability in the Arabian Sea Simulated by a High‐Resolution Model With Realistic Forcing](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC022751?af=R) — score: 0.500
+- [ ] [A discriminative primer design workflow enables selective metabarcoding, demonstrated using long-read sequencing of endophytic fungi](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag014/8472865?rss=1) — score: 0.500
+- [ ] [Antibiotic resistance gradient along a large Scandinavian river influenced by wastewater treatment plants](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiag007/8456379?rss=1) — score: 0.500
+- [ ] [Correction to: Function-based selection of synthetic communities enables mechanistic microbiome studies](https://academic.oup.com/ismej/article/doi/10.1093/ismejo/wrag015/8494447?rss=1) — score: 0.500
+- [ ] [Occurrence of small microplastics in the salp Salpa fusiformis in the Kuroshio region](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70336?af=R) — score: 0.500
+- [ ] [Diatom community response to high and low iron upwelling plumes in the California current system](https://www.sciencedirect.com/science/article/pii/S0079661126000376?dgcid=rss_sd_all) — score: 0.500
+- [ ] [Fluorescent probes as markers of cell envelope structure and function in halophilic archaea](https://www.biorxiv.org/content/10.64898/2026.02.20.706996v1?rss=1) — score: 0.500
+- [ ] [AMOC Weakening Shapes Ocean Heat Storage Patterns Under Strong Idealized Warming](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120405?af=R) — score: 0.400
+- [ ] [Unraveling the Enrichment Mechanisms of Rare Earth Elements in Deep‐Sea Sediments: An Environmental Magnetic Perspective](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121017?af=R) — score: 0.400
+- [ ] [Antibiotic Persistence Emerges from Cell-State-Driven Transcriptional Reprogramming](https://www.biorxiv.org/content/10.64898/2026.02.16.705191v1?rss=1) — score: 0.400
+- [ ] [Seasonal Circulation, Transport, and Connectivity of the Gerlache and Bransfield Straits Based on 20 Years of SADCP Measurements](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023210?af=R) — score: 0.400
+- [ ] [Sex-stratified Gut Microbiome Disruption is Associated with Altered Hepatic Gene Expression during Acute Azoxystrobin Exposure](https://www.biorxiv.org/content/10.64898/2026.02.18.706612v1?rss=1) — score: 0.400
+- [ ] [Prophages of infant-derived Bifidobacterium longum subspecies employ antagonistic and synergistic strategies to persist in their host](https://www.biorxiv.org/content/10.64898/2026.02.18.706556v1?rss=1) — score: 0.400
+- [ ] [Temporal stability and niche partitioning of bacterial communities in paired residential sink P-traps](https://www.biorxiv.org/content/10.64898/2026.02.17.706431v1?rss=1) — score: 0.400
+- [ ] [Cellulase Dominates Soil Organic Carbon Dynamics Under Plant Detritus Input in Forest Ecosystems](https://onlinelibrary.wiley.com/doi/10.1111/ele.70347?af=R) — score: 0.400
+- [ ] [Taurine-driven chemotaxis and metamorphosis in ascidian tadpole larvae | Science Advances](https://www.science.org/doi/10.1126/sciadv.aeb9574) — score: 0.400
+- [ ] [How Unusual Was the Paleocene‐Eocene Thermal Maximum?](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120456?af=R) — score: 0.300
+- [ ] [Subpolar Atlantic meridional heat transports from OSNAP and ocean reanalyses – a comparison](https://doi.org/10.5194/os-22-629-2026) — score: 0.300
+- [ ] [Characterising submesoscale processes, uplift and subduction across diverse fronts in the East Australian Current System](https://www.sciencedirect.com/science/article/pii/S0079661126000248?dgcid=rss_sd_all) — score: 0.300
+- [ ] [Characteristics of ocean mesoscale eddies in the Canadian  Basin from a high resolution pan-Arctic model](https://doi.org/10.5194/os-22-653-2026) — score: 0.300
+- [ ] [Internal solitary waves refraction and diffraction from interaction with eddies off the Amazon Shelf from SWOT](https://doi.org/10.5194/os-22-679-2026) — score: 0.300
+- [ ] [The natural architecture of oyster reefs maximizes recruit survival](https://www.nature.com/articles/s41586-026-10103-8) — score: 0.300
+- [ ] [Nucleotide signals coordinate activation and inhibition of bacterial immunity](https://www.nature.com/articles/s41586-026-10135-0) — score: 0.300
