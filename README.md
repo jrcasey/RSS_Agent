@@ -1,5 +1,7 @@
 # RSS_Agent
 
+![RSS Agent Logo](./Logo.jpg)
+
 RSS_Agent is an automated weekly RSS reader and article ranking system that I put together for my own interests. I was tired to leafing through hundreds of articles daily from all of the journals I follow, and thought a LLM would do as good a job as my tired eyes. *I'm usually pretty anti-chatbot but man this is a clear use-case*. Probably others have done this as well but I couldn't find anything. My interests are in microbial oceanography, biogeochemistry, systems biology, and computational biology, but you can easily change the prompt to whatever float your boat. It fetches articles, ranks them using an LLM, filters top results, archives previous weeks, and emails you a curated list. I also have a local `launchctl` script to fetch results to my Obsidian Vault on Monday mornings for coffee reading. 
 
 ## Features
