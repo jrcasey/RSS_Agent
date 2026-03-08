@@ -3634,5 +3634,317 @@
     "title": "MycorrhizaFinder: an efficient machine learning tool to quantify endomycorrhizal colonisation of real-world roots",
     "link": "https://www.biorxiv.org/content/10.64898/2026.03.04.709422v1?rss=1",
     "content": "Root colonisation by endomycorrhizal fungi can indicate habitat condition. However, due to the significant time required to assess colonisation using traditional microscope techniques, studies of colonisation at large scales are impractical. AI-powered approaches may increase output and facilitate ecosystem assessments. We trained our AI-powered tool MycorrhizaFinder (MFKew) on field roots from diverse ecosystems. It was trained to recognise a range of arbuscular and ericoid mycorrhizal fungal structures, and to differentiate dark septate endophytes common in field-sourced roots. Here we describe the semi-automated workflow from root processing and microscope slide scanning to model training and performance evaluation, proposing Macro F1 as the appropriate metric to be optimised. Without human supervision, Macro F1 currently stands at 66% for arbuscular and at 57% for ericoid mycorrhizal colonisation assessment. MFKew is user friendly, requires no programming skills and offers flexibility for advanced users who wish to further train the tool using their own labelled mycorrhizal root datasets, including images acquired from different devices or staining protocols. This adaptability allows users to customize the model for specific needs, making it optimal for ecologists and agronomists. Additionally, MFKew supports large-scale, repeatable, medium-throughput monitoring across ecosystems, enabling the assessment of mycorrhizal status and tracking changes over time."
+  },
+  {
+    "id": "b4ae3d06ab0f0884",
+    "title": "Meridional coherence of non-ekman transport in the atlantic meridional overturning circulation across subtropical latitudes at the seasonal timescale",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0079661126000406?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 7 March 2026</p><p><b>Source:</b> Progress in Oceanography</p><p>Author(s): Yujia Zhai, Sijia Zou, Fukai Liu, Xiuquan Wan, Jiayan Yang</p>"
+  },
+  {
+    "id": "ce9c93dd26ce1acc",
+    "title": "Regulatory out-of-equilibrium processes in cells. Part I: Temporal Heterogeneities and Oscillations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S245231002600003X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 7 March 2026</p><p><b>Source:</b> Current Opinion in Systems Biology</p><p>Author(s): Malthe S. Nordentoft, Alessandra Lucchetti, Emilie Jessen, Mathias S. Heltberg, Mogens H. Jensen</p>"
+  },
+  {
+    "id": "1ab76d3524684c10",
+    "title": "Constraining Greenhouse Gas Cycling and Emissions in Africa's Largest Humic Lake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009218?af=R",
+    "content": "Abstract\nHumic tropical lakes and wetlands are globally important sources of atmospheric greenhouse gases (GHGs). However, mechanistic insight into GHG cycling in such systems remains limited\u2014especially in understudied central Africa. To address this, here we measured high\u2010, falling\u2010, and low\u2010water seasonal concentrations and isotopic compositions of the major dissolved GHGs CO2 ${\\text{CO}}_{2}$, CH4 ${\\text{CH}}_{4}$, and N2O ${\\mathrm{N}}_{2}\\mathrm{O}$ in Africa's largest humic lake: Mai Ndombe, Democratic Republic of Congo. We find that the water column is weakly to non\u2010stratified and is highly supersaturated with respect to atmospheric equilibrium for all GHGs across all seasons, sampling stations, and water depths. Additionally, all GHG concentrations increase steadily with increasing water depth, reflecting atmospheric gas exchange due to physical mixing in the upper water column as well as biological processes. Extrapolating these results\u2014combined with field measurements such as temperature and wind speed\u2014we estimate that Lake Mai Ndombe emits 375 \u00b1 32\u2009Gg\u00a0C\u00a0yr\u22121 as CO2 ${\\text{CO}}_{2}$, 623 \u00b1 136\u2009Mg\u00a0C\u00a0yr\u22121 as CH4 ${\\text{CH}}_{4}$, and 223 \u00b1 $\\pm $ 20 Mg N yr\u22121 as N2O ${\\mathrm{N}}_{2}\\mathrm{O}$ (\u03bc\u00b11\u03c3 $\\mu \\pm 1\\sigma $ propagated Monte Carlo uncertainty). Furthermore, carbon\u2010isotope signals suggest that CO2 ${\\text{CO}}_{2}$ is largely sourced from respiration of bioavailable organic carbon, whereas CH4 ${\\text{CH}}_{4}$ reflects sedimentary methanogenesis followed by aerobic methanotrophy in the water column. Finally, N2O ${\\mathrm{N}}_{2}\\mathrm{O}$ bulk and position\u2010specific isotopic compositions reveal a nitrogen cycle dominated by sedimentary denitrification, with near\u2010quantitative reduction to N2 ${\\mathrm{N}}_{2}$ prior to upward diffusion into the water column and eventual outgassing. Combined, these observations reveal that carbon inputs, total water depth, and/or dissolved oxygen saturation are the major drivers of the flux and composition of GHGs emitted from Lake Mai Ndombe and potentially other tropical humic lakes."
+  },
+  {
+    "id": "dda9aa0f3a510541",
+    "title": "Double\u2010Peaked Hyperspectral Features at 710 and 800\u00a0nm for Monitoring Coastal Chlorophyll\u2010\u03b1 Concentrations From Space",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009443?af=R",
+    "content": "Abstract\nThe concentration of chlorophyll\u2010\u03b1 $\\alpha $ has been estimated from sea color, primarily based on the reflectance ratio between the blue and green spectral bands in multiband images obtained by satellite optical sensors. However, this method is only effective in open, clear water and cannot be reliably applied to shallow coastal waters. In this study, we propose the potential use of double\u2010peaked features at wavelengths of 710 $710\\,$nm and 800 $800\\,$nm in hyperspectral reflectance data as indicators of the chlorophyll\u2010\u03b1 $\\alpha $ concentration in shallow coastal waters. We conducted data mining to identify spectra exhibiting the double\u2010peaked features in reflectance data obtained by the Hyperspectral Imager Suite (HISUI) over coastal regions of Okinawa Island, Japan. Our analysis revealed that the detection points with the double\u2010peaked features are clustered in specific shallow coastal areas, such as reefs and coves, where biological activity is expected to be high, especially around Maeda and Yakata. For these detection points, the spectral relationship between peak strengths at 710 $710\\,$nm and 800 $800\\,$nm can be categorized into distinct trends, which appear to depend on local variations in the chlorophyll\u2010\u03b1 $\\alpha $ concentration. In addition, in situ measurements using FieldSpec confirmed the presence of double\u2010peaked features at Yakata and Maeda, whereas such features were absent at non\u2010detection points. These findings suggest that the double\u2010peaked features in hyperspectral data can be used to reliably detect elevated chlorophyll\u2010\u03b1 $\\alpha $ concentrations in shallow coastal waters. This method is expected to be useful for monitoring coastal ecosystem activity over time in shallow coastal waters."
+  },
+  {
+    "id": "a4ab0f54f368b6c0",
+    "title": "Different Mechanisms Underlie Plant\u2010Mediated Methane Transport in a Tidal Salt Marsh Versus an Impounded Brackish Wetland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG008987?af=R",
+    "content": "Abstract\nWetlands are a significant source of methane (CH4), but their contributions to the global CH4 budget remain uncertain. Wetland CH4 production may be better constrained by addressing uncertainty in plant\u2010mediated CH4 transport, which is highly variable, motivating the current work. We measured whole\u2010plant, plant\u2010adjacent and non\u2010vegetated carbon dioxide (CO2) and CH4 fluxes throughout the day approximately monthly for 1\u00a0yr in a euhaline tidal salt marsh and a mesohaline, non\u2010tidal impounded wetland. To assess mechanisms, gas fluxes were accompanied by measurements of environmental variables and soil chemical and biological properties. We found that plants facilitated greater CH4 fluxes across diurnal and seasonal scales but via distinct mechanisms at our two study sites. We observed daytime peaks in whole\u2010plant and plant\u2010adjacent CH4 fluxes at the salt marsh, but no diurnal patterns in any CH4 fluxes at the impounded wetland. Daytime peaks could indicate more efficient pressurized flow of CH4 through plant biomass or greater sensitivity of aboveground fluxes to temperature or plant productivity. At the annual scale, peak whole\u2010plant CH4 fluxes were greater at the impounded wetland than at the salt marsh, while peak plant\u2010adjacent CH4 fluxes were greater at the salt marsh than at the impounded wetland. Differences between sites were attributed to plant\u2010soil\u2010microbe interactions and abiotic conditions such as temperature, water column depth and salinity that determine root\u2010adjacent porewater CH4 concentrations and the potential for plant\u2010mediated CH4 transport. These results increase our understanding of plant\u2010mediated CH4 transport and the mechanisms underlying high variability in these fluxes across coastal wetlands."
+  },
+  {
+    "id": "24c827a4f9f9f094",
+    "title": "Seasonal Hydrology at the Salt Marsh\u2010Upland Interface",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009297?af=R",
+    "content": "Abstract\nSea level rise and storm surges are salinizing coastal areas, transforming forests and agricultural fields into salt marshes. This study examines seasonal variations in soil and groundwater hydrology at the transition zone between salt marshes and upland areas along the Mid\u2010Atlantic coast of the USA. We apply Linear Discriminant Analysis to data sets of soil moisture, soil conductivity, soil temperature, water table depth, groundwater salinity, and groundwater temperature to identify and categorize patterns within hydrological data. We further used Canonical Correlation Analysis to determine relationships between vegetation characteristics (greenness and Basal Area (BA)), soil composition (fraction of clay and sand), and hydrological parameters (groundwater level, groundwater specific conductivity, soil water content, and soil conductivity). Our analysis indicates that storm surges increase spatial variations in seasonal subsurface hydrological conditions among sites, as each location responds differently to disturbance. This heightened inter\u2010site variability contrasts with previous findings of storm\u2010driven homogenization within individual sites. By summer, sites become more homogeneous as hydrological variability decreases, indicating that vegetation gradients along the marsh\u2013forest ecotone are mainly governed by winter and spring conditions. Vegetation characteristics (BA and greenness) are more strongly associated with soil water than with groundwater characteristics. Vegetation greenness also correlates closely with soil water conditions in fall and winter, when site differences are more pronounced. Groundwater salinity and water table depth are related to clay content in the soil. This regional\u2010scale comparison highlights the hydrological variability of the marsh\u2010upland boundary, how it is influenced by soil characteristics, and its relation to vegetation cover, offering insights for effective adaptation strategies to mitigate salinization and preserve coastal biodiversity."
+  },
+  {
+    "id": "1c651748c6c61bbe",
+    "title": "Direct Observations of Strong Jets Transporting Deep and Bottom Water Into the Indian Ocean Through the Fracture Zones of the Southwest Indian Ridge",
+    "link": "https://agupubs.pericles-prod.literatumonline.com/doi/10.1029/2025JC023864?af=R",
+    "content": "Abstract\nThe Indian Ocean plays a crucial role in the abyssal overturning circulation, transforming Antarctic Bottom Water (AABW) into lighter water. In the western Indian Ocean, the only path for AABW to reach the subtropics as part of the global overturning is through the fracture zones of the Southwest Indian Ridge. This mid\u2010ocean ridge has seven known fracture zones in this area, but until recently, only Atlantis II has been investigated, given the historical shortage of in situ observations in the region. To address this gap, we collected as part of the Deep Madagascar Basin (DMB) Experiment (DMB) the first comprehensive surface\u2010to\u2010bottom measurements of velocities, water properties, and tracers at four fracture zones deemed to transport AABW northward: Gallieni, Atlantis II, Novara, and Melville. Based on these new observations, we estimate the relative contributions of each fracture zone to the overall northward transport in the abyss and assess the strength of diapycnal turbulent mixing. Our observations reveal two strong northward deep jets transporting AABW, one at the Novara (46.0\u00a0cm/s at 4,370\u00a0dbar) and another at the Melville (23.8\u00a0cm/s at 4,360\u00a0dbar) fracture zones, and provide evidence of the persistence of the previously observed Atlantis II jet. Contrary to earlier assumptions, we find that the Melville fracture zone, rather than the Atlantis II, is the primary contributor to the northward transport of deep and bottom water, at least during the DMB period."
+  },
+  {
+    "id": "fd2062b98b7d0718",
+    "title": "Teleosts as Models for Epigenetic Inheritance",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70292?af=R",
+    "content": "ABSTRACT\nTeleost fish exhibit a striking divergence from mammals in how they regulate their epigenome. Unlike mammals, they do not undergo the extensive DNA methylation erasure and resetting events that occur during early embryogenesis, germline specification, and spermatogenesis. Consequently, DNA methylation patterns in teleosts might persist across generations, making these species potentially valuable models for studying intergenerational and transgenerational epigenetic inheritance. Recent findings suggest that environmental perturbations can induce heritable epigenetic changes in teleosts, raising the possibility that, in the absence of global epigenetic reprogramming, such changes could have long\u2010lasting consequences. This review summarises current knowledge on DNA methylation stability and inheritance in teleosts, with a particular focus on the two teleost models, zebrafish and medaka. Moreover, the review discusses the ecological and evolutionary implications of epigenetic inheritance and highlights emerging experimental approaches for rigorously assessing transgenerational epigenetic effects in fish."
+  },
+  {
+    "id": "bddee39230a30d67",
+    "title": "Clarifying space use concepts in ecology: Range vs. occurrence distributions",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ecy.70300?af=R",
+    "content": "Abstract\nQuantifying animal movements is necessary for answering a wide array of research questions in ecology and conservation biology. Consequently, ecologists have made considerable efforts to identify the best way to estimate an animal's home range, and many methods of estimating home ranges have arisen over the past half a century. Most of these methods fall into two distinct categories of estimators that have only recently been described in statistical detail: those that measure range distributions (methods such as kernel density estimation that quantify the long\u2010run behavior of a movement process that features restricted space use) and those that measure occurrence distributions (methods such as Brownian bridge movement models and the Correlated Random Walk Library that quantify uncertainty in an animal movement path during a specific period of observation). In this paper, we use theory, simulations, and empirical analysis to demonstrate the importance of appropriately using these two categories of distributions and their estimators. Conflating range and occurrence distributions can have serious consequences for ecological inference and conservation practice. For example, in most situations, home ranges estimated using estimators of occurrence distributions are too small, and this problem is exacerbated by ongoing improvements in tracking technology that enable more frequent and more accurate data on animal movements. We encourage researchers to use estimators of range distributions to quantify home ranges and estimators of occurrence distributions to answer other questions in movement ecology, such as when and where an animal crossed a linear feature, visited a location of interest, or interacted with other animals."
+  },
+  {
+    "id": "c15db824010ed338",
+    "title": "Species\u2010specific interactions with apex carnivores yield unique benefits and burdens for mesocarnivores",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ecy.70331?af=R",
+    "content": "Abstract\nMesocarnivores navigate a complex risk\u2013reward continuum in ecosystems shared with their apex counterparts, balancing scavenging opportunities with risks of mortality. However, the risks to mesocarnivores in multi\u2010carnivore systems are not uniform; they can vary with specific apex\u2013meso pairings. Using remote cameras and GPS\u2010telemetry, we examined space\u2010use, temporal activity, fine\u2010scale interactions, and scavenging behaviors of mesocarnivores (red foxes and coyotes) in relation to apex carnivores (wolves and cougars) in northern Yellowstone National Park, USA. Coyote space use was positively linked to wolf presence, while red fox space use was positively linked to cougar presence. Notably, photo\u2010detection rates of mesocarnivores doubled within 24\u2009h of apex carnivore detections\u2014except for coyotes following cougars. Coyotes were more frequent scavengers at wolf and cougar kills than red foxes, but this behavior came at a cost. Over 60% of wolf\u2010caused coyote mortalities were linked to wolf kill sites, though wolves rarely consumed the coyotes themselves. In contrast, cougars hunted and consumed coyotes as prey, posing an additional risk of predation. We interpret our findings in light of different hunting strategies and habitat preferences of canid and felid apex carnivores, which create distinct risks for mesocarnivores and drive species\u2010specific behaviors that can influence trophic dynamics in multi\u2010carnivore systems."
+  },
+  {
+    "id": "5986e78f596e7743",
+    "title": "Pink Cricket Club: Dramatic color change in a Neotropical leaf\u2010masquerading katydid (Arota festae, Griffini, 1896)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1002/ecy.70333?af=R",
+    "content": ""
+  },
+  {
+    "id": "0fe9f89fe263eaab",
+    "title": "Reductions in Anthropogenic Aerosol and Greenhouse Gas Drive Divergent Regional Impacts on Wildfire Risks in China Under Carbon Neutrality",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118321?af=R",
+    "content": "Abstract\nUnderstanding the impacts of future emissions reductions on wildfire risk is critical for climate adaptation under carbon neutrality scenarios. Here, this study investigates how reductions in aerosol and greenhouse gas (GHG) emissions affect wildfire risk across major fire\u2010prone regions in China by using the coupled Community Earth System Model (CESM1). Results show that wildfire risks under carbon neutrality vary regionally due to different climate drivers. Aerosol reductions can amplify wildfire risk, particularly in southern China by weakening atmospheric cooling and enhancing dryness. Conversely, GHG reductions lower wildfire risk by decreasing temperature and increasing precipitation. Although GHG\u2010driven risk reduction outweighs aerosol\u2010driven amplification, the balance between these opposing effects varies substantially by region, with northern and southern China exhibiting distinct dominant wildfire drivers under future scenarios. These findings highlight the complex interaction between emissions reductions and regional climate responses, underscoring the need for strategies to manage wildfire risk while achieving carbon neutrality."
+  },
+  {
+    "id": "6c2cf16caa8dde90",
+    "title": "Characterizing Landslide\u2010Induced Floods Using the SWOT Mission: A Case Study on the Chilcotin River, Canada",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119357?af=R",
+    "content": "Abstract\nMonitoring small rivers during extreme events is challenging, especially in remote areas. This study assesses the accuracy of the Surface Water and Ocean Topography (SWOT) mission in characterizing an extreme hydrological event on a narrow river (\u223c60\u00a0m wide), using a landslide\u2010induced flood on the Chilcotin River (Canada) as a case study. SWOT data, validated against optical imagery and elevation data sets, were used to estimate water surface elevation and slope changes. SWOT was able to detect lake impoundment, dam breach, and downstream slope adjustments induced by the landslide. Results suggest the utility of SWOT's spaceborne interferometric data to quantify spatial and temporal impacts of extreme events on river dynamics, even for small and narrow rivers."
+  },
+  {
+    "id": "6e8c0beef7c55669",
+    "title": "Overturning Circulation of the North Atlantic Subtropical Gyre Computed in Density Coordinates at 26\u00b0N",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118277?af=R",
+    "content": "Abstract\nThe RAPID\u2010MOCHA\u2010WBTS array in the subtropical gyre of the North Atlantic has measured the Atlantic Meridional Overturning Circulation (AMOC) and the overturning streamfunction in depth coordinates since 2004. Here we show that the overturning streamfunction in density coordinates can be estimated by combining data from the RAPID\u2010MOCHA\u2010WBTS array with repeated shipboard measurements from the Florida Straits and Argo data. The streamfunction in density coordinates highlights the shallow overturning cell associated with the subtropical gyre circulation, a feature that is obscured in depth coordinates. The AMOC calculated in density space is slightly greater than in depth space, but the variability of the time series are very similar with differences occurring when the streamfunction maximum occasionally switches from the main overturning cell to the shallow cell."
+  },
+  {
+    "id": "eb57e3cbafffb358",
+    "title": "The \u201cPredictability Barrier\u201d Phenomenon of Winter Extreme Cold Events in Central and Eastern China and Mechanisms of Error Amplification",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120069?af=R",
+    "content": "Abstract\nPrevious studies have primarily focused on evaluating the forecast skill of extreme cold events in central and eastern China as a whole, with limited attention to their different stages. This study identifies a distinct \u201cpredictability barrier\u201d phenomenon in the ensemble forecasts, characterized by rapid growth of ensemble mean forecast error in 2m\u2010temperature during the intensification stage of the events. In contrast, the forecast error tends to decrease during the decay stage. Consequently, the decay stage is more accurately forecasted than the intensification stage at the same lead time. Mechanism analyses indicate that error amplification is primarily driven by the interaction between the horizontal wind forecast error and the background horizontal temperature gradient of the event, which is dominantly governed by event intensification. Error reduction during the decay stage is primarily dominated by the conversion of available potential energy error into kinetic energy error."
+  },
+  {
+    "id": "82a88b13f6da566e",
+    "title": "Extremes in Southern Hemispheric Zonal Wave\u20103 and Their Impact on Antarctic Sea\u2010Ice Thickness",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116925?af=R",
+    "content": "Abstract\nZonal Wave\u20103 (ZW3) is a key zonally asymmetric component of the large\u2010scale extratropical atmospheric circulation, facilitating mass and energy exchanges between middle and high latitudes in the Southern Hemisphere. Despite the crucial role of sea\u2010ice thickness (SIT) in modulating sea\u2010ice volume and climate feedbacks, its response to ZW3 variability remains largely unexplored compared to the more widely studied sea\u2010ice concentration. Our research identifies variability in the ZW3 pattern and assesses its influence on Antarctic SIT and concentration using a combination of reanalysis and data from a coupled climate model. We project a doubling in the mean frequency of extreme ZW3 events under a high emission scenario, which is likely to contribute to a decline in SIT, primarily through dynamic mechanisms. These extreme events drive mechanical displacement of sea\u2010ice more than direct thermodynamic melting. Such displacements may expose the underlying ocean, potentially enhancing basal melting through ocean thermal influences."
+  },
+  {
+    "id": "25c70493f5dd4973",
+    "title": "Long\u2010Period Seismic Waves From Seawater Disturbances During the 2018 Anak Krakatau Volcanic Island Collapse",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119807?af=R",
+    "content": "Abstract\nLandslides often generate long\u2010period seismic waves that propagate over large distances. During volcanic island collapses and their intrusion into seawater, seismic signals of >1\u00a0min periods are widely observed. The physical sources of these signals remain poorly understood due to complex landslide\u2010water interactions. In this paper, we perform coupled landslide\u2010tsunami\u2010seismic simulations for the 2018 Anak Krakatau flank collapse, and compare the results with seismic records at regional and teleseismic distances. We find that the landslide alone cannot explain the observed signals. The reaction force from the disturbed seawater also generates long\u2010period seismic waves, with a contribution comparable to that of the landslide. A combined landslide\u2010seawater source model better reproduces the recorded waveforms overall. These findings advance our understanding of seismic excitation by tsunamigenic landslides and underscore the importance of water\u2010induced forces in seismic source studies."
+  },
+  {
+    "id": "3fce5da4f9d13337",
+    "title": "Interpretable and granular video-based quantification of motor characteristics from the finger-tapping test in Parkinson\u2019s disease",
+    "link": "https://www.nature.com/articles/s41531-026-01307-w",
+    "content": ""
+  },
+  {
+    "id": "b720e5549655a7f4",
+    "title": "VALORIS: One-shot and lossless vertical logistic regression for privacy-protecting multi-site health analytics",
+    "link": "https://www.nature.com/articles/s41598-026-41936-y",
+    "content": ""
+  },
+  {
+    "id": "1c68132c978d7954",
+    "title": "FMCL: a transformer-based feature-map classifier learning approach for enhanced brain tumor detection in MRI",
+    "link": "https://www.nature.com/articles/s41598-026-42450-x",
+    "content": ""
+  },
+  {
+    "id": "72ffdff8806416e1",
+    "title": "Integrated multi-omics analysis identifies and validates endoplasmic reticulum stress and mitophagy-related biomarkers in MASLD",
+    "link": "https://www.nature.com/articles/s41598-026-43311-3",
+    "content": ""
+  },
+  {
+    "id": "293ea9b31ea0b130",
+    "title": "BigEye: a clinically interpretable deep learning framework for diabetic retinopathy detection and stage prediction",
+    "link": "https://www.nature.com/articles/s41598-026-43573-x",
+    "content": ""
+  },
+  {
+    "id": "80657e925935d7e4",
+    "title": "Performance of breast cancer risk prediction algorithms across mammography systems in the UK screening programme",
+    "link": "https://www.nature.com/articles/s41746-026-02507-7",
+    "content": ""
+  },
+  {
+    "id": "bd7c87b817f061e4",
+    "title": "Kinetic Human Movement Ontology: a semantic terminology model to symbolically represent physiological movement",
+    "link": "https://www.nature.com/articles/s41597-026-06984-z",
+    "content": ""
+  },
+  {
+    "id": "7af8b8cc1f380f07",
+    "title": "A manta ray-bayesian optimization approach for hyperparameter-tuned convolutional neural networks in lung cancer classification",
+    "link": "https://www.nature.com/articles/s41598-026-42506-y",
+    "content": ""
+  },
+  {
+    "id": "ded76072bd08a3e4",
+    "title": "Fractional spatiotemporal Hahnfeldt tumor model with convergence analysis and optimal control",
+    "link": "https://www.nature.com/articles/s41598-026-41810-x",
+    "content": ""
+  },
+  {
+    "id": "ef54f87322da5473",
+    "title": "Efficient cardiac MRI multi-structure segmentation for cardiovascular assessment with limited annotation by integrating data-level and network-level consistency",
+    "link": "https://www.nature.com/articles/s41746-026-02475-y",
+    "content": ""
+  },
+  {
+    "id": "7db227e28ba77672",
+    "title": "Mapping partial agonism of mitragynine at the \u00b5-opioid receptor through molecular dynamics and Markov state modelling analysis",
+    "link": "https://www.nature.com/articles/s41598-026-43251-y",
+    "content": ""
+  },
+  {
+    "id": "7147cd1371455db4",
+    "title": "A unified Haar wavelet collocation framework for fractional volterra integro-differential equations with application to tumor-immune dynamics modeling",
+    "link": "https://www.nature.com/articles/s41598-026-42803-6",
+    "content": ""
+  },
+  {
+    "id": "1bacc993244be9af",
+    "title": "A novel digital twin strategy to examine the implications of randomized clinical trials for real-world populations",
+    "link": "https://www.nature.com/articles/s41746-026-02464-1",
+    "content": ""
+  },
+  {
+    "id": "c4107b487aea7fd4",
+    "title": "Synthesis and biological evaluation of ibuprofen/o-vanillin Schiff base complexes with anti-inflammatory, anti-proliferative and anti-SARS-COV-19 activities",
+    "link": "https://www.nature.com/articles/s41598-026-38270-8",
+    "content": ""
+  },
+  {
+    "id": "f033a86661ef1472",
+    "title": "AI-enabled single-cell dissection of the palmitoylation landscape identifies a multicellular prognostic program in gastric cancer",
+    "link": "https://www.nature.com/articles/s41698-026-01359-4",
+    "content": ""
+  },
+  {
+    "id": "fdfb17ccf3e05e5c",
+    "title": "AI-enabled RF data synthesis for breast ultrasound: efficacy in quantitative ultrasound tissue characterization",
+    "link": "https://www.nature.com/articles/s41598-026-43319-9",
+    "content": ""
+  },
+  {
+    "id": "56648811c9988d02",
+    "title": "Comparative evaluation of deep learning models for cardiovascular disease diagnosis and classification",
+    "link": "https://www.nature.com/articles/s41598-026-43543-3",
+    "content": ""
+  },
+  {
+    "id": "90769c07caf50bd3",
+    "title": "Unique phenotypic and T cell receptor characteristics of CD8+ T cells accumulated in the brains of Alzheimer\u2019s disease mice",
+    "link": "https://www.nature.com/articles/s41598-026-38351-8",
+    "content": ""
+  },
+  {
+    "id": "8d51f67096634a0a",
+    "title": "Recent advances in intelligent wearable systems: from multiscale biomechanical features towards human motion intent prediction",
+    "link": "https://www.nature.com/articles/s44387-026-00083-5",
+    "content": ""
+  },
+  {
+    "id": "0b845b72eb65f3ab",
+    "title": "Spatiotemporal clustering of highly pathogenic avian influenza (HPAI) H5N1 at the wild waterfowl-poultry interface: Vector-specific spillover risks in the U.S., 2022-2025",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.710020v1?rss=1",
+    "content": "Background: The emergence of the highly pathogenic avian influenza (HPAI) H5N1 clade 2.3.4.4b in North America, beginning in February 2022, has highlighted the dynamic, unpredictable, and regionally variable risk of infections. Studies are needed to assess the spatiotemporal clustering of HPAI H5 at the interface between wild waterfowl and commercial poultry to understand and mitigate this risk. Methods: Publicly available data on HPAI H5 detections in wild birds and commercial poultry from January 2022 to January 2026 were analyzed at the county level. Retrospective space-time permutation models were used to identify and scan for clusters with higher than expected detection rates. Results: A total of 17,091 HPAI H5 detections were reported in wild birds across 1,467 county-level locations. Four species, Mallard (Anas platyrhynchos) (2,848 detections, 16.66%), Canada goose (Branta canadensis) (1,496, 8.75%), Green-winged teal (Anas carolinensis) (1,364, 7.98%), and Snow goose (Anser caerulescens) (1,084, 6.34%), accounted for 39.73% of detections. In commercial poultry, 532 outbreaks in turkey operations, 148 outbreaks in table-egg layer operations, 99 outbreaks in broiler chicken operations, and 89 outbreaks in commercial duck operations were reported, respectively. Several spillover events followed an east-to-west expansion. In early 2022, mallard detections preceded outbreaks in Northeast egg-layer and duck farms, while snow goose detections in the Upper Midwest coincided with turkey farm outbreaks. In the Pacific and Mountain West during summer 2022, detections in Canada geese overlapped with turkey farm outbreaks. A resurgence occurred in the Midwest (2025), with snow and Canada goose detections overlapping severe outbreaks in turkey and layer flocks. Additionally, in the Upper Midwest, Canada goose and mallard detections overlapped with outbreaks in commercial duck farms during fall-winter 2025. Conclusions: The study findings demonstrate distinct vector-based transmission dynamics of HPAI H5 at the wild waterfowl-poultry interface. Farm biosecurity strategies must adapt to these recurrent, vector-specific risks."
+  },
+  {
+    "id": "f24f802000afbc83",
+    "title": "Genomic characterization of an atypical hydrogen sulfide-negative Salmonella enterica serovar Senftenberg strain lacking somatic antigen expression isolated from cooked mussels",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.710058v1?rss=1",
+    "content": "Atypical Salmonella enterica strains that evade conventional detection pose significant challenges to food safety surveillance. A hydrogen sulfide (H2S)-negative and serologically untypable S. enterica strain (SF1060) was detected by qPCR from cooked farmed mussels in Galicia, Spain, and characterized using phenotypic and genomic approaches. Despite typical biochemical profiles, SF1060 failed to produce black colonies on XLD agar and lacked detectable somatic antigens by conventional serotyping. Hybrid genome assembly using Nanopore and Illumina sequencing yielded a closed chromosome and five plasmids. In silico analyses identified the strain as S. Senftenberg ST14. Comparative genomics revealed a chromosomal inversion at the rfb operon (encoding enzymes needed to synthesize deoxysugars and O antigens) mediated by IS5-family transposase ISEc68, which truncated the rfbD gene and separated the reminding rfb genes at rfbD, disrupting O-antigen biosynthesis, explaining the serotyping failure. The phs operon responsible for H2S production lacked premature stop codons, suggesting the H2S-negative phenotype results from an alternative mechanism. This study demonstrates how whole-genome sequencing resolves identification of atypical strains that fail culture-based detection and emphasizes the critical need for molecular surveillance methods in seafood safety programs, particularly in regions where atypical S. enterica variants may be endemic."
+  },
+  {
+    "id": "40d479c44f5514a4",
+    "title": "Human enterochromaffin cells and apical-out intestinal organoids as models for human sapovirus infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.710023v1?rss=1",
+    "content": "Human sapovirus is increasingly recognized as a significant cause of acute viral gastroenteritis, but in vitro studies have been limited due to the previous lack of cell models. In this study, we optimized two novel in vitro models for sapovirus infection: the human enteroendocrine cell (EEC) line GOT1 and apical-out 3D human enteroids. Using 31 sapovirus-positive fecal samples, we compared these models with the EEC-derived HuTu80, and human enteroid monolayers, both previously used for sapovirus infection. Among the analyzed samples, genotypes GI.1 (36%), GII.1 (32%), and GII.3 (26%) were identified, with GI.1 exhibiting the highest fecal viral load. We demonstrated that GOT1 cells supported replication of more of the samples containing GI.1 sapovirus (9 of 11) compared to HuTu80 (8 of 11) and with a generally higher replication fold change. Moreover, GOT1 cells were able to support the replication of several GII.1 (3 of 10) and GII.3 (5 of 8) samples, unlike HuTu80 cells that only supported replication of one sample with GII.3 and none of the GII.1 sapoviruses. Given that organoids are considered a more physiologically relevant model than transformed cell lines, we established a sapovirus infection model using human apical-out 3D enteroids. Compared to previously used enteroid monolayers, the apical-out model supported replication of a higher number of samples with GI.1 and with higher replication fold change. In conclusion, these findings provide valuable insights for future in vitro studies of sapovirus infection and replication, which may contribute to a better understanding of sapovirus cell tropism and pathogenesis."
+  },
+  {
+    "id": "9c21cb4b2723cdb6",
+    "title": "Obesity-Driven Lung Lipidome Remodeling Suppresses NK Cell Activation and Antiviral Immunity to Influenza Infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.710186v1?rss=1",
+    "content": "Obesity is a major risk factor for severe influenza A virus (IAV) infection, however, the innate immune mechanisms underlying this increased vulnerability remain unclear. Here, we identify significant defects in natural killer (NK) cell antiviral responses in mice with diet-induced obesity. In lean mice, NK cells are critical for protection as NK cell depletion during IAV infection led to increased lung viral load, morbidity, and mortality. In contrast, in obese mice NK cell depletion had minimal impact on viral replication or survival. Notably, IAV infection in obese mice recapitulated the phenotype observed in NK cell-depleted lean mice, indicating that obesity is associated with preexisting NK cell dysfunction. Following IAV infection, obese NK cells in the lung were functionally impaired with diminished activation (CD69+), cytokine production (IFN-{gamma}), and cytolytic activity (Granzyme B) accompanied by defects in the mTOR signaling pathway and reduced glycolytic and oxidative metabolism. Bulk and spatial lipidomics revealed obesity and infection-driven remodeling of the lung lipidome. We observed increased triglyceride accumulation, abundance of long-chain free fatty acids, and a shift toward monounsaturated phospholipid species, reshaping the lung microenvironment that coincides with NK cell metabolic dysfunction. Consistent with this lipid-rich environment, obese NK cells sustained high expression of the lipid transporter CD36 post-IAV infection and accumulation of intracellular lipids (LipidTOX+), consistent with mechanisms known to suppress NK cell function. Notably, short-term weight loss (4 weeks) was sufficient to restore NK cell metabolism, antiviral function, and survival following IAV infection. These findings uncover a lipid-associated mechanism regulating NK cell function and show it plays a critical role in defense against infection and that it is dysfunctional in obesity. We suggest that targeting immunometabolism could lead to new antiviral therapies and potentially improve vaccine efficacy, especially in high-risk populations such as obesity."
+  },
+  {
+    "id": "e1d4bf8443f39499",
+    "title": "Evaluation of degron motifs in Escherichia coli using a fluorescent reporter",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.07.710301v1?rss=1",
+    "content": "Fluorescent reporters provide a useful tool for studying degron motifs. Fusing a degron of interest to a fluorescent protein allows to accurately track protein levels overtime to characterise the degradation kinetics of studied degrons. Here we describe a rapid and simple method to study degron peptides in Escherichia coli using plasmid-encoded eGFP-degron fusion constructs. The described methods provide an accessible workflow to evaluate degrons. We provide protocols for generation of pBAD plasmids encoding the studied constructs and two different methods for evaluating degrons - an end-point fluorescence measurement on agar plates and a kinetic measurement in liquid cultures in a 96-well format for high-throughput degron studies"
+  },
+  {
+    "id": "4e08bb9aba4aaddf",
+    "title": "Predicting life-history traits in a stored bean petst beetle Callosobruchus chinensis (Coleoptera: Chrysomelidae: Bruchinae) using machine learning",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.07.710260v1?rss=1",
+    "content": "Life-history traits play an important role in insect population dynamics and ecological processes. The azuki bean beetle Callosobruchus chinensis is a common pest of stored legumes and is also widely used as a model species in ecological and evolutionary research. In this study, we tested whether machine learning models could be used to estimate several traits of C. chinensis, including elytral length, development time and adult lifespan. Experimental data were obtained from laboratory populations. The dataset included biological and environmental variables such as strain, treatment condition, developmental day, sex, temperature, and CO2. Six different machine learning models were tested, including linear regression, random forest, support vector machine (SVM), neural network, gradient boosting and AdaBoost. Model performance was evaluated using cross-validation. The coefficient of determination (R2) and root mean square error (RMSE) were used to measure prediction accuracy. Prediction accuracy differed among traits. Elytral length showed relatively higher predictability than the other traits, while development time was difficult to estimate in most models. Lifespan was easier to predict than the other traits, and the neural network produced one of the highest prediction accuracies among the tested models. Feature importance analysis also showed that factors such as sex and treatment condition contributed to variation in several traits. Machine learning models therefore helped reveal relationships among biological variables and life-history traits in C. chinensis. Combining ecological experiments with machine learning analysis may help improve our understanding of insect traits and may support future studies in insect ecology and pest management."
+  },
+  {
+    "id": "db749955b3b2a13f",
+    "title": "Development of molecular markers for western honey bee (Apis mellifera L.) subspecies of regulatory concern in the United States",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.05.709340v1?rss=1",
+    "content": "Rapid, accurate and cost-effective identification of Apis mellifera subspecies is needed for subspecies of regulatory concern. We designed and validated subspecies markers based on single nucleotide polymorphisms (SNP) on mitochondrial cytochrome b (Cytb) and NADH dehydrogenase 4 (ND4) genes. We used a combination of established and novel real-time qPCRs in a stepwise series, with increasing discrimination power, to (1) differentiate honey bees of African (A-lineage) ancestry from those of other lineages (Cytb SNP #1), (2) identify African-derived honey bees (AHBs) (Cytb SNP #2), and (3) detect A. m. capensis exclusively in the bee's indigenous region of South Africa (ND4 SNP). We also developed a restriction fragment length polymorphism assay targeting a SNP on the NADH dehydrogenase 2 (ND2 RFLP) gene to detect the specific mitochondrial A-lineage clade. These assays allow for reliable time- and cost-effective results that provide increased accuracy on subspecies assignation."
+  },
+  {
+    "id": "0a03b9eee684cb8d",
+    "title": "Coral bleaching as state transition: bimodal prevalence and response-definition dependence of thermal stress metrics across Japan's Monitoring Site 1000 network",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.05.709742v1?rss=1",
+    "content": "Coral bleaching is conventionally modelled as a continuous response to cumulative thermal stress, yet the distributional structure of site-level bleaching prevalence has rarely been examined. Here we analyse five years (fiscal years 2020-2024) of standardised bleaching surveys from Japan's Monitoring Site 1000 program, encompassing 2,287 observations across 585 survey points at 26 sites in the Ryukyu Archipelago and adjacent waters. We document three principal findings. First, bleaching prevalence is bimodally distributed in all five years: the intermediate range (20-80%) remains stable at 21-27% of observations, while inter-annual variation is driven by redistribution between low and high domains -- a pattern confirmed by Hartigan's dip test and beta mixture modelling. Second, the two major bleaching years -- 2022 and 2024 -- are qualitatively distinct: 2022 was a partial mass bleaching (positively skewed, selective), while 2024 was a comprehensive mass bleaching (symmetric distribution, median 60.0%). Third, the relative performance of thermal stress metrics was strongly response-definition dependent: a simple threshold metric (days above 30 degrees C) exceeded Degree Heating Weeks in discriminating moderate-to-severe bleaching (AUC 0.846 vs 0.758 at >=50% prevalence; DeLong test, p < 0.001) but not for detection-limit occurrence (>0%), where both metrics performed comparably (AUC 0.748 vs 0.761; p = 0.214). This response-definition dependence indicates that metric structure and the ecological severity threshold defining the outcome are inseparable design considerations -- a finding with implications for statistical modelling, event classification, and thermal stress metric development."
+  },
+  {
+    "id": "dba17742fba15f82",
+    "title": "The impact of coinfection on population stability and chaos",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.710155v1?rss=1",
+    "content": "Parasites play an outsized role in mediating the persistence and stability of host populations. Flour beetles (Tribolium spp.) have long served as classic examples of population dynamics under both disease-free and infected conditions, with elegant combinations of theory and experiments demonstrating, for example, that cannibalism rates can push populations from stability to chaos. As with most organisms in nature, however, flour beetles rarely face just one parasite species, and co-infecting parasites can antagonize or facilitate each other through resources and immunity. To test the prediction that non-neutral interactions would qualitatively alter population stability, we first raised flour beetles (Tribolium castaneum) in infection-free, single-infection, or coinfection microcosms and quantified relative prevalence and parasite intensity. Next, we reworked a classic stage-structured discrete-time model to include single and multiple infections and performed sensitivity and bifurcation analyses to identify the most important (co)infection-associated parameters for population stability. The model predicts that stability is highly sensitive to parasite transmission mode regardless of infection multiplicity, but facilitation among parasites rapidly drives populations into oscillations and chaos under realistic conditions. This study identifies an important mechanism for explaining population variability and highlights the importance of within-host mechanisms for driving dynamics at higher levels of biological organization."
+  },
+  {
+    "id": "b88b44a431e9b42d",
+    "title": "Invasion histories reveal most North American introduced plants have not yet reached climatic stasis.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.05.709936v1?rss=1",
+    "content": "Aim: Analysis of species distributions often rests on the assumption of environmental equilibrium. That is, the distribution of a species (as documented by observation records) captures the full range of environmental conditions under which that species can maintain viable populations. Despite the centrality of this assumption to a variety of biogeographic questions, it is rarely empirically tested. This is particularly critical for recently introduced invasive species that are characterized by rapid expansion in their introduced range, often coupled with a niche shift relative to their native distribution. Defining equilibrium under these dynamic conditions is difficult. We developed the concept of environmental stasis as a more tractable proxy for equilibrium. In the context of species invasions, we define stasis as a prolonged period without an increase in the environmental conditions occupied by a species. Location: North America Time Period: 1614 to 2020. Major Taxa Studied: Invasive plants Methods: We applied the metric of climatic stasis to a suite of 258 invasive plant species in North America. We categorized their invasion trajectories into three classes (linear, two- and three-phase) based on theoretical expectations and then assessed how many had demonstrated environmental (climatic) stasis over a period of at least thirty years. Results: More than 80% of the species were best fit by two- or three-phase models, indicating a declining rate of expansion. Climatic stasis was only documented for 44% of the species. In contrast, 85% of the species were in climatic stasis in their native ranges. The time to reach stasis ranged from 30 to 145 years (mean 90), and species at stasis in their invaded range occupied 97% of the climatic space they occupied in their native range. Main Conclusions: This assessment provides valuable insight into the unrealized threat posed by the majority of invasive plants that have not yet reached stasis, as well as identifying which species can be most appropriately evaluated by methods that depend on the equilibrium assumption. Our work also demonstrates the useful perspective provided by the environmental stasis concept, which enables empirical quantification of one of the key aspects of equilibrium."
+  },
+  {
+    "id": "10aa65de8d3ab3ee",
+    "title": "Aedes albopictus and dengue transmission risk in France over the 21st century",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.710080v1?rss=1",
+    "content": "Climate change is dramatically affecting species distribution and phenology worldwide. Its impact on arthropod vectors, such as the Aedes albopictus mosquito, has important consequences for biting nuisance and arbovirus transmission risk. Here, we assess the impact of climate change on the presence and abundance of Ae. albopictus, as well as the risk of dengue transmission over France during the 21st century. We use a mechanistic model that we adjusted against records of recent autochthonous cases of dengue in France. We simulate climatic suitability indicators, such as the adult abundance during the activity period, epidemic risk and secondary cases of dengue under different climatic and demographic scenarios at different periods up to 2085. Future simulations are based on a high-pressure scenario (high greenhouse gas emissions, high demographic growth) and a median-pressure scenario (median greenhouse gas emissions, demographic stagnation). To account for climate model uncertainty, we repeat the simulations for three different regional climate models. By 2085, in the high-pressure scenario, most of France (89-96%) will be climatically suitable for the establishment of Ae. albopictus, with the exception of mountain ranges. Similarly, autochthonous transmission of dengue will be theoretically possible in all colonized areas except over northern lowlands (71-95%). In the median pressure scenario, both climatic suitability for establishment (49-89%) and autochthonous dengue transmission risk (31-82%) exhibit large variation. Low population density areas show moderate suitability for vector establishment but exhibit the highest potential for dengue transmission. Overwintering mechanisms, such as egg diapause, indispensable for survival in temperate climates, may not be necessary along the Mediterranean and Basque coasts, allowing activity of the vector all year-round in the future."
+  },
+  {
+    "id": "c3368b0fc6d51daf",
+    "title": "Evaluating satellite and modeled lake surface water temperature across the contiguous United States.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.708569v1?rss=1",
+    "content": "We developed a model to predict surface water temperature across U.S. lakes using satellite remote sensing and in situ observations to enhance cyanobacterial harmful algal bloom (cyanoHAB) forecasting. The study focused on Sentinel-3 Ocean and Land Colour Instrument (OLCI) sensor resolved lakes. We developed random forest models using both Landsat-derived and in-situ-measured surface water temperature. Landsat models offered broad spatial and temporal coverage of all OLCI resolved lakes, but they were sensitive to cloud cover and required filtering to minimize error. In contrast, the in situ model represented fewer OLCI resolved lakes, but yielded lower mean absolute error and bias. The models predicted lake surface temperature across the entire calendar year, with best performance (RMSEapplied=1.11; biasapplied=0.01; MAEapplied=0.77) from the in situ model. This approach allowed for the continuous prediction of lake surface temperatures from 1.1 to 31.6 {degrees}C for unfrozen, open-water conditions critical for improving the accuracy of cyanoHAB forecasting. A key strength of this study was the use of an extensive dataset and model validation against in situ observations, which improved predictive accuracy throughout the year across all seasons. The predictive model offers a water resource tool for management, ecosystem protection, and public health."
+  },
+  {
+    "id": "96415163cb371922",
+    "title": "Thermal performance in fishes varies systematically across latitude, habitat, and biological organization",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.05.709660v1?rss=1",
+    "content": "Thermal performance curves are widely used to understand how ectotherms respond to anthropogenic climate change, yet comparable data remain fragmented for fishes despite their predicted sensitivity to warming. Here we introduce FishTherm, a compilation of 457 thermal responses from 107 wild fish species, spanning diverse performance metrics and temperatures. With this dataset, we estimated thermal optima, performance breadth, tolerance breadth, and activation energies, and tested how these thermal traits vary geographically, across latitude and habitat, and by type and functional context of performance. Thermal optima increase toward lower latitudes and warmer waters, consistent with established biogeographic patterns. We also found that responses measured at lower levels of biological organization exhibit higher thermal optima than population-level responses, supporting complexity constraints on thermal performance curves. Activation energies broadly matched predictions from the Metabolic Theory of Ecology, and we further found systematic variation of lower values in negatively-motivated responses, and associated with narrower thermal performance breadths, in line with theory. Our results provide supporting evidence for several unifying principles that advance our understanding of constraints and variation in thermal performance. FishTherm is a new resource for comparative thermal ecology and for improving our understanding of fish vulnerability under climate warming."
+  },
+  {
+    "id": "30c819fe2ba279fe",
+    "title": "Community assembly explains invasion differences between two contrasting forest types",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.05.709929v1?rss=1",
+    "content": "Plant communities within a metacommunity can vary widely in their degree of invasion by introduced species. Disturbance, propagule pressure, and biotic resistance are common explanations for this variation, but empirical evidence for these hypotheses is mixed. Alternatively, the community assembly framework predicts that local assembly filters determine both native and exotic composition, but lower trait variation in the introduced species pool may exclude them from certain sites. We examined evidence for this framework using observational data from forests and woodlands of Long Island, NY, USA. These forests vary in vegetation composition and invasion along a soil gradient. They are also highly disturbed and fragmented, yet some stands have almost no introduced plants. Using data collected in 1998 and 2021-22, we quantified relationships between community composition, soil characteristics, and functional traits for native and exotic assemblages, as indicators of environmental filtering. We found similar trait-environment relationships in native and introduced species, suggesting that both groups follow the same local assembly rules. Introduced species were predominantly found in sites with more nutrient-rich soils and were absent from sites with nutrient-poor soils. At the regional scale, the exotic species pool was biased toward trait values favored in more nutrient-rich environments, particularly high growth rates and low leaf C:N ratios, which explains their absence from nutrient-poor environments. These patterns were consistent over time, and stands that were uninvaded in 1998 remained so in 2021-22, supporting the robustness and reliability of short-term studies. This study shows that invasion patterns in plant communities can be explained by the assembly rules that govern native species. By linking local environmental filtering with regional species pool characteristics, this work advances our understanding of how some communities remain uninvaded despite high disturbance and propagule pressure. Overall, these results highlight the utility of the community assembly framework, and emphasize the importance of regional processes in constraining the local distribution of introduced species."
+  },
+  {
+    "id": "77892792d1bcc620",
+    "title": "Functional redundancy and anaerobic metabolism characterize the skin microbiome of a critically endangered sawfish",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.05.709720v1?rss=1",
+    "content": "Using shotgun metagenomics of largetooth sawfish (Pristis pristis) skin and paired pool water samples, we provide the first taxonomic and functional characterization of a sawfish skin microbiome and assess its ecological distinctiveness, assembly, and resilience relative to the surrounding water column. The skin microbiome was strongly host-associated and compositionally distinct, with lower taxonomic richness than the water column but dominated by Bacillota, particularly spore-forming Bacilli. Functional profiling revealed enrichment of genes associated with sporulation, dormancy, anaerobic metabolism, and peptide transport, consistent with adaptation to low-oxygen, low-flow pool conditions. In contrast, water-column microbiomes were more taxonomically diverse and enriched in phototrophic and polysaccharide-utilization pathways. Despite reduced taxonomic diversity, sawfish skin communities exhibited higher functional redundancy, with gene functions accumulating more rapidly per taxon. This pattern supports a host-filtered, lottery-like assembly process that produces taxonomically variable yet functionally conserved communities. The enrichment of dormancy and anaerobic pathways suggests the skin microbiome persists through periods of host quiescence and environmental stress while maintaining metabolic potential. Together, these results demonstrate that the sawfish skin supports a resilient, functionally robust microbiome distinct from ambient aquatic communities, highlighting the potential for integrating microbial functional data into conservation strategies for Critically Endangered vertebrates."
+  },
+  {
+    "id": "5b9cfe7b1a718a8b",
+    "title": "ENSO-driven climate variability reconfigures the altitudinal frontier of dengue risk in the Andes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.06.710067v1?rss=1",
+    "content": "Despite the high burden of dengue in Latin America, high elevations have historically protected megacities such as Mexico City, Quito, and Bogota. Climate change is expected to shift these elevational suitability frontiers, yet most long-term projections rely solely on mean-state trends and overlook the role of climate variability, potentially underestimating risk. Using spatiotemporal decomposition techniques, we identified a mechanistic cascade linking (1) the El Nino-Southern Oscillation (ENSO) to local Colombian climate, accounting for ~85% and ~40% of interannual temperature and rainfall variability, and (2) local climate to dengue dynamics, explaining ~63-76% of incidence and ~42-55% of its altitudinal range. This cascade was further validated by model selection across formulations that incorporated both local and global climate variables. Non-linear effects indicate that dengue incidence and transmission altitude expand exponentially during warm ENSO phases, producing an upward stretch of the transmission distribution that exposes immunologically naive populations in highland areas previously considered unsuitable. If ENSO extremes intensify as projected, such fluctuations may trigger large outbreaks in high-elevation urban centers, fundamentally altering the global landscape of dengue. Our findings demonstrate that climate variability, acting through local temperature and rainfall, can reconfigure the geography of risk on timescales far shorter than decadal trends. This highlights critical limitations in current projections and detection-and-attribution frameworks, underscoring the need to incorporate anthropogenically modified modes of climate variability to accurately quantify the human fingerprint on global epidemic risk."
   }
 ]
