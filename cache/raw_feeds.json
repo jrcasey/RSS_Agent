@@ -4180,5 +4180,137 @@
     "title": "Sarbecovirus-associated gut microbiome instability in a natural bat reservoir",
     "link": "https://www.biorxiv.org/content/10.64898/2026.03.26.714368v1?rss=1",
     "content": "Sarbecoviruses, a subgenus of Betacoronavirus, display both respiratory and gastrointestinal tropism, suggesting potential interactions with host gut microbial communities. However, ecological signatures of infection in wild bats remain poorly understood. We investigated associations between Sarbecovirus infection status, gut microbiome structure, and diet composition in Rhinolophus shameli roosting in northeastern Cambodia. Fecal samples collected across dry and wet seasons (2023-2024) were subject to full-length 16S rRNA gene sequencing and arthropod DNA metabarcoding. Sarbecovirus-positive bats exhibited stable alpha diversity but consistent shifts in gut community composition and increased interindividual variability consistent with the Anna Karenina Principle, suggesting infection-associated destabilization of community assembly rather than diversity erosion. Infection status was associated with enrichment of Shigella and Escherichia species, taxa linked to inflammatory or epithelial stress states in bats. In contrast, dietary composition showed no strong global structuring by infection status and weak coupling with bacterial community structure, suggesting that trophic ecology is unlikely to be the main driver of the infection-associated microbiome signal. Although causal directionality cannot be inferred, our results reveal measurable and consistent microbiome restructuring associated with Sarbecovirus detection in a natural reservoir host and highlight the potential of microbiome profiling for monitoring wildlife disease processes."
+  },
+  {
+    "id": "135915e962301497",
+    "title": "Zooplankton functional and taxonomic diversity: Linking functional traits and springtime environmental gradients at the Patagonian shelf-break front",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0079661126000625?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 29 March 2026</p><p><b>Source:</b> Progress in Oceanography</p><p>Author(s): Ayel\u00e9n Severo, \u00c9rica Caroline Becker, Eduardo Marcelo Acha, Valeria Segura, Georgina Daniela Cepeda</p>"
+  },
+  {
+    "id": "b97d214001785262",
+    "title": "Using Machine Learning to Uncover Ecological Mechanisms Controlling Abundance of Phytoplankton Size Classes From Large\u2010Scale Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB009036?af=R",
+    "content": "Abstract\nPhytoplankton size classes (PSCs) and Phytoplankton functional types (PFTs) determine many fundamental biogeochemical processes including nutrient uptake, energy transfer through marine food webs, ocean carbon export, and gas exchange with the atmosphere. Discerning the causes of spatio\u2010temporal variability of PSCs is a scientific priority for understanding the ocean's role in and response to climate change. This study intends to decipher the relationships between the abundance of PSCs and environmental predictors using explainable machine learning (XAI) techniques. The target variables were PSCs obtained using three different satellite products: size\u2010resolved phytoplankton carbon from Kostadinov, Milutinovi\u0107, et\u00a0al. (2016), https://doi.org/10.5194/os\u201012\u2010561\u20102016, chlorophyll from MODIS divided according to the algorithm of Hirata et\u00a0al. (2011), https://doi.org/10.5194/bg\u20108\u2010311\u20102011, and a third product from the Copernicus Marine Service. The environmental predictors were nutrients, light, mixed layer depth, salinity, sea surface temperature (sst), and upwelling. The ML algorithm used was the Random Forest Regressor (RFR). XAI techniques were used to discern the relationship between predictors and PSCs abundance. About 85%\u201395% of the variability of the size classes in the observational data sets was accounted for by environmental variables known to influence phytoplankton biomass. Although different size classes responded similarly to the environmental drivers (with the exception of Copernicus picoplankton) their scale of response varied. The dominant predictors were found to be shortwave radiation, ammonia, dissolved iron and sea surface temperature. The different satellite products show sensitivity to iron, shortwave radiation, sst and ammonia across the same range of values, but with different magnitudes. Copernicus picoplankton is the only product which is positively related to sst."
+  },
+  {
+    "id": "3c642c7c2a013ecb",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/gbc.70081?af=R",
+    "content": "No abstract is available for this article."
+  },
+  {
+    "id": "67c4b02763e528da",
+    "title": "Bridging the Gap From Peat to Ponds: Terrestrial and Aquatic Greenhouse Gas Emissions in an Evolving Permafrost\u2010Associated Subarctic Peatland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009509?af=R",
+    "content": "Abstract\nRapid permafrost thaw in peatlands transforms the subarctic landscape into a mosaic of ponds and peat soil, varying in moisture, carbon and nutrients, and time since thaw. As subarctic permafrost degrades, ponds emerge and mature and can gradually infill with Sphagnum peat. These ponds are considered hotspots of methane (CH4) and carbon dioxide (CO2) emissions, but their potential for nitrous oxide (N2O) emissions is understudied. Moreover, how greenhouse gas (GHG) fluxes vary between these aquatic and terrestrial environments is unclear, largely because these ecosystems are typically studied separately. We quantified N2O, CO2, and CH4 emissions along four transects from a degrading terrestrial palsa to ponds varying in age within a sporadic\u2010permafrost subarctic peatland near Whapmagoostui\u2010Kuujjuarapik, QC. We also characterized depth\u2010dependent GHG concentrations in snow and peat. Waterlogged Sphagnum peat emitted, on average, 361% more C than drier bare peat above permafrost. GHG emissions from Sphagnum peat were comparable to pond emissions, with a greater proportion of CH4, suggesting waterlogged systems represent key emission hotspots. Terrestrial N2O fluxes were generally low, but the eroding palsa emitted more N2O than saturated Sphagnum peat. In ponds, N2O was consumed, indicating complete denitrification. Depth profiles of peat and snowpack GHG concentrations indicate likely emissions during winter. Terrestrial GHG fluxes, but not pond fluxes, were strongly associated with nitrogen availability. Our results suggest that future permafrost thaw, leading to bare peat degradation into ponds and the subsequent development of Sphagnum peat with presumably more N2 fixation potential, will lead to sustained elevated C emissions from peatlands."
+  },
+  {
+    "id": "5787a932b5c05689",
+    "title": "Retraction notice to \u201cA comparison of deep-sea coral and sponge species distribution models and the impact of ocean currents in the Southern California Bight\u201d [Deep-Sea Res. Part II Top. Stud. Oceanogr. 224 (2025) 105546]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0967064526000548?dgcid=rss_sd_all",
+    "content": "<p>Publication date: June 2026</p><p><b>Source:</b> Deep Sea Research Part II: Topical Studies in Oceanography, Volume 227</p><p>Author(s): Nissa Kreidler, Andre Buchheister, David D. Huff, Jerome Fiechter, Mary Yoklavich, Mark J. Henderson</p>"
+  },
+  {
+    "id": "bdace3675896e2aa",
+    "title": "Submesoscale Eddies Buffer the Atlantic Ni\u00f1o/Ni\u00f1a Weakening Under Greenhouse Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122066?af=R",
+    "content": "Abstract\nThe Atlantic Ni\u00f1o/Ni\u00f1a is a leading mode of tropical climate variability with profound global environmental and socioeconomic impacts. Conventionally, its variability is projected to weaken under greenhouse warming, primarily attributed to suppressed basin\u2010scale air\u2013sea interactions. However, the modulating role of sub\u2010basin\u2010scale ocean dynamical processes remains largely unexplored. Here, using an ensemble of high\u2010resolution climate simulations, we show that submesoscale ocean eddies substantially dampen Atlantic Ni\u00f1o/Ni\u00f1a variability by regulating vertical heat transport. Under greenhouse warming, this eddy\u2010induced damping is projected to diminish due to the suppressed Atlantic cold tongue and enhanced upper\u2010ocean stratification. Consequently, this attenuation of damping buffers approximately one\u2010third of the variability weakening driven by basin\u2010scale processes. This mechanism is corroborated by comparison with standard\u2010resolution climate simulations, which fail to resolve submesoscale eddies, and is further supported by CMIP6 model outputs. These findings highlight the critical importance of resolving fine\u2010scale ocean processes to improve the fidelity of future climate projections."
+  },
+  {
+    "id": "027703632e662179",
+    "title": "Unstable Drainage Dynamics During Multiphase Flow Across Capillary Heterogeneities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119816?af=R",
+    "content": "Abstract\nWe use novel, fast 4D Synchrotron X\u2010ray imaging with large field\u2010of\u2010view to reveal pore\u2010 and macro\u2010scale drainage dynamics during gas\u2013brine flow through a layered sandstone rock sample. We show that a single centimeter\u2010scale layer, similar in pore size distribution to the surrounding rock but with reduced connectivity, temporarily inhibits, and redirects gas flow, acting as a capillary barrier. Subtle variations in gas invasion upstream of the barrier lead to different downstream migration pathways over repeated experiments, resulting in unstable and unpredictable drainage behavior, with breakthrough times varying by up to a factor of four. The results show that heterogeneity in pore\u2010scale connectivity can amplify variability in macroscopic flow, challenging deterministic assumptions in existing continuum models. By linking structural heterogeneity to flow instability, this work underscores the need for probabilistic modeling approaches in multiphase flow and highlights broader implications for managing fluid transport in natural and engineered porous systems."
+  },
+  {
+    "id": "646c1563501c5838",
+    "title": "A Within Canopy Deposition Model Capturing the Influence of Microplastic Size, Biological Cohesion, and Vegetation\u2010Generated Turbulence",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120486?af=R",
+    "content": "Abstract\nLaboratory experiments investigated how the presence of biofilm and particle size influenced deposition in both bare and vegetated channels. Both abiotic and biotic sediment beds were considered, with the biotic beds containing Extracellular Polymeric Substances (EPS). As current magnitude and turbulent kinetic energy increased, particles were more easily resuspended, leading to reduced deposition rate. At the same turbulence level, depositing particles smaller than the sediment grains exhibited higher deposition rates than larger particles because the smaller particles were more effectively shielded from the flow by settling deeper into the spaces between sediment grains. Increasing the concentration of EPS decreased the deposition rate for all particle types, but this trend was more pronounced for smaller particles, because the enhancement in particle exposure due to EPS was more significant. A new model was developed to describe microparticle deposition probability as a function of EPS concentration, flow characteristics, and particle properties."
+  },
+  {
+    "id": "dfc35cf0420a16e7",
+    "title": "A Machine Learning\u2010Based High\u2010Resolution Inventory of Soil Inorganic Carbon Across the Contiguous United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120355?af=R",
+    "content": "Abstract\nSoil inorganic carbon (SIC) is critical for carbon sequestration, infiltration, and climate modeling, yet quantifying its precise spatial distribution at continental scales remains challengings. We introduce a high\u2010resolution (30\u00a0m) CONUS SIC map using machine learning (ML) models trained on the ISRIC World Soil Information Service (WoSIS) database. Integrating point\u2010based soil data with high resolution climate and land surface variables enhances predictions and reduces uncertainty in unsampled areas over previous polygon\u2010based inventories. Our SIC Random Forest Regression (RFR) yielded an Root Mean Square Error (RMSE) of 15\u00a0kg/m2, and the multi\u2010class classifier had an accuracy of 0.56. Our model estimates that CONUS soils store 77\u00a0\u00b1\u00a01.8 Pg of SIC in the top 1\u00a0m, a significant increase in SIC storage over prior inventories. We distinguish two SIC storage types: lithogenic carbonates persisting in humid regions and pedogenic carbonates, which characteristically form in arid soils."
+  },
+  {
+    "id": "3c576cdad79125f4",
+    "title": "Daytime Ionospheric Density Enhancement Driven by Poleward Neutral Wind Shear Associated With Gravity Waves During the November 2025 Geomagnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121876?af=R",
+    "content": "Abstract\nThe threefold daytime electron density increases, along with strong poleward meridional winds exceeding 200\u00a0m/s were captured by Sanya Incoherent Scatter Radar (SYISR) during the geomagnetic storm of 12 November 2025. The great ionospheric enhancements were extending to mid\u2010latitudes over 40\u00b0 observed by total electron content (TEC) from Beidou geostationary satellites. Thermosphere\u2010Ionosphere Electrodynamics Global Circulation Model (TIEGCM) reproduced the observed features during this storm. In particular, the traveling atmospheric disturbances (TADs) with a poleward phase speed of \u223c710\u00a0m/s were present during the simulated TEC enhancements. Analysis of the O+ continuity equation revealed that the great ionospheric increases were dominated by sharp shear in the poleward meridional winds associated with TADs. Moreover, meridional wind vertical shear was the primary controlling factor, with horizontal shear acting as a secondary contributor. These findings demonstrated that strong meridional wind shear drives the accumulation of ionospheric electron density, regardless of the wind direction."
+  },
+  {
+    "id": "67217498c8b4a9c4",
+    "title": "Rapid Land Surface Uplift and Groundwater Recovery Observed During the Syrian War",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120021?af=R",
+    "content": "Abstract\nRecent geopolitical upheaval in Syria is driving regional growth by returning populations, which increases demands on water resources. In northwest Syria, widespread cropland abandonment during the Syrian War starting in 2011 drastically changed the hydrological regime of the region. Here, we show how this situation, which constitutes an uncoordinated, large\u2010scale \u201creverse pump test\u201d, has resulted in regional groundwater recovery. River discharge has increased, springs have re\u2010emerged, and regions are now episodically uplifting up to 4\u00a0cm/year in wet years. By combining conflict event databases and remote sensing techniques, including Interferometric Synthetic Aperture Radar, we identify a strong correlation between conflict\u2010induced cropland abandonment and land surface uplift, indicating spatially\u2010variable groundwater recovery. Conversely, in areas where groundwater abstraction persisted, subsidence has continued unabated. As ground\u2010based data are nearly non\u2010existent in war\u2010afflicted Syria, this remote sensing\u2010based approach enables a unique assessment of water storage dynamics and reveals the risk of unsustainable groundwater exploitation in the future."
+  },
+  {
+    "id": "7cab629f6e492f8e",
+    "title": "Functional gut microbiome signatures underlying interindividual variability in metabolic responses to red raspberry consumption",
+    "link": "https://www.nature.com/articles/s41598-026-45955-7",
+    "content": ""
+  },
+  {
+    "id": "b6fdff63c135894c",
+    "title": "Characterization, immune cell phenotyping and differential gene expression analysis of brain metastases and primary breast cancer samples",
+    "link": "https://www.nature.com/articles/s41598-026-45607-w",
+    "content": ""
+  },
+  {
+    "id": "f0f07032de1ebcd6",
+    "title": "The expression pattern of EXO70 subunits in single-cell stereo-seq of Arabidopsis thaliana leaves using coexistence network analysis",
+    "link": "https://www.nature.com/articles/s41598-026-44501-9",
+    "content": ""
+  },
+  {
+    "id": "9000b0bfbea07bcb",
+    "title": "A brain-inspired computational framework for image-based risk assessment",
+    "link": "https://www.nature.com/articles/s41598-026-45033-y",
+    "content": ""
+  },
+  {
+    "id": "52f56902da7f59da",
+    "title": "An ensemble of vision and swin transformers with LLM-based explanations for sugarcane leaf disease diagnosis",
+    "link": "https://www.nature.com/articles/s41598-026-45453-w",
+    "content": ""
+  },
+  {
+    "id": "cca8ed21b6fe941c",
+    "title": "Evaluating cross-dataset transfer learning for photoplethysmography-based blood pressure estimation",
+    "link": "https://www.nature.com/articles/s41598-026-43409-8",
+    "content": ""
+  },
+  {
+    "id": "06d6653a3bd15412",
+    "title": "Bimodal Coupling Optimization in Biological Rhythms: Balancing Energy Efficiency and Functional Demand",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.25.713094v1?rss=1",
+    "content": "Biological rhythms are governed by intricate interactions among oscillatory subsystems, yet how they balance functional demands and energy efficiency remains unclear. We present a bimodal coupling optimization strategy where physiological systems dynamically alternate between synchronized (energy-saving) and desynchronized (function-priority) coupling modes. By employing the water-filling principle developed in communications engineering, we prove synchronized heart rate(HR)-respiration oscillations maximize energy efficiency (oxygen uptake per cardiac work). Then, system modeling confirms task/stress-induced oxygen demands enhance oxygen uptake at the cost of desynchronization and reduced efficiency. Experiments reveal a 70.36% decrease in HR-respiration synchronization during arithmetic versus relaxation, enabling 4.43% higher oxygen uptake but with 11.38% lower energy efficiency. This bimodal coupling optimization strategy is also evident in pancreatic islets, with their insulin/glucagon oscillator alternating between in-phase (energy-saving) and anti-phase (rapid glucose reduction) coupling. This framework, integrating engineering and life sciences, reveals a universal regulatory principle for biological oscillatory systems."
+  },
+  {
+    "id": "3282883653687812",
+    "title": "The Helicobacter pylori ribosomal silencing factor RsfS is required for low-growth states and chronic infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.28.715003v1?rss=1",
+    "content": "Helicobacter pylori is a prevalent bacterial pathogen that chronically colonizes the human gastric epithelium, but the bacterium's physiological mechanisms that promote chronic colonization are understudied. Dormancy and low growth are known to facilitate other microbial chronic infections. A critical feature of low growth states is the down regulation of ribosome translational activity via regulation factors. The H. pylori genome is predicted to encode only one ribosome regulation factor, called RsfS (Ribosomal Silencing Factor S). In other bacterial species, RsfS prevents ribosome assembly by binding to a protein called L14 on the 50S large ribosomal subunit. Although H. pylori RsfS has not been experimentally investigated prior to this work, it conserves key residues, suggesting it is a bona fide RsfS homolog. To investigate phenotypes associated with rsfS, the gene was deleted and mutant phenotypes characterized. H. pylori rsfS null mutants had no defects during exponential phase but had viability defects in stationary phase and low growth factor conditions. Additionally, rsfS null mutants could not form biofilms, and instead were only able to form monolayers of multicellular aggregates. These defects were corrected by the re-introduction of rsfS in a second site on the chromosome. To explore whether rsfS is required in vivo, a mouse model was employed. rsfS mutants initially colonized in low numbers in both the glands and total stomach but were unable to develop robust long-term colonization. This work supports that H. pylori requires RsfS for survival in low growth states and to maintain chronic infections in the host."
+  },
+  {
+    "id": "cb616708b155a4b2",
+    "title": "Phosphoserine aminotransferase SerC is a central metabolic checkpoint and druggable vulnerability in Mycobacterium tuberculosis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.27.714911v1?rss=1",
+    "content": "Serine metabolism is fundamental to the pathogenicity of Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis (TB), yet its full metabolic scope and therapeutic potential remain unclear. Here we show that the phosphoserine aminotransferase serC is an essential metabolic node that coordinates central carbon and nitrogen flux and enables intracellular survival in the host. Deletion of serC caused severe growth defects across macrophage and murine infection models and rewired central carbon metabolism, reducing glycolytic, tricarboxylic acid cycle, and methylcitrate cycle fluxes while altering one carbon, branched chain, and amino acid biosynthetic pathways. Transposon sequencing identified sdaA dependent serine deamination and the glycine cleavage system as key determinants of serine based nitrogen assimilation, while revealing redundancy in serine transport. Our findings validate serine biosynthesis as a vulnerable, druggable metabolic target in Mtb and highlight it as a promising route for the development of urgently needed therapies against TB, which continues to kill millions of people each year."
+  },
+  {
+    "id": "e04a72da4470781d",
+    "title": "Gut microbiota within-host evolution enforces colonization resistance against enteric infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.27.714693v1?rss=1",
+    "content": "Limited resource availability in the gut promotes competitive interactions between bacteria, which drive adaptive within-host evolution. While adaptive evolution of bacterial communities has been increasingly studied in the recent years, its functional implications for host physiology remain unknown. Here, we show that within-host evolution of the human commensal Enterococcus faecalis boosts colonization resistance to enteric Salmonella enterica serovar Typhimurium (S. Typhimurium) infection. During gut colonization, E. faecalis evolves the ability to metabolize fructoselysine, an abundant Amadori rearrangement product generated by thermal food processing. The depletion of this diet-derived nutrient prevents S. Typhimurium colonization by restricting an essential resource. This protective mechanism was conserved across independent mouse colonies and arises via diverse evolutionary trajectories, including nucleotide polymorphisms, gene amplifications, and a horizontal gene transfer event. Additionally, analysis of E. faecalis isolates from human infants revealed that adaptation to fructoselysine availability occurs in a diet-dependent manner. Isolates from infants fed with fructoselysine-rich formula were able to utilize fructoselysine, whereas those from infants fed with fructoselysine-poor breast milk were not. Conclusively, our results identify an inherent microbiome-driven self-healing mechanism, wherein bacterial evolution restores colonization resistance against enteric pathogens through evolved nutrient depletion. Understanding these evolutionary dynamics will inform microbiome-targeted approaches to prevent and treat infectious diseases by harnessing adaptive bacterial metabolism."
+  },
+  {
+    "id": "89dec0c691b93cbc",
+    "title": "Metagenomic strain-resolved DNA modification patterns link extrachromosomal genetic elements to host strains",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.03.27.714056v1?rss=1",
+    "content": "DNA modification is central to microbial defense against extrachromosomal genetic elements (ECEs), consequently ECEs tend to adopt their host's modification patterns. Shared ECE-host modification patterns enable linking ECEs to their hosts, but modification detection tools are designed for single genomes and are ineffective at metagenome scale. Here, we present MODIFI, software for detecting DNA modifications in metagenomes. MODIFI assumes that each k-mer in a metagenome is mostly unmodified and calculates background signal levels for that k-mer from PacBio HiFi reads, eliminating the need for matched control experiments. MODIFI ECE-host linkages were validated using >1,000 isolate and mock microbiome datasets. Illustrating the approach, we identified 315 strain-resolved, non-redundant ECE-host linkages in environmental and human metagenomes. In infant gut microbiomes, a chromosomal inversion in Enterococcus faecalis alters host and associated plasmid methylation motifs simultaneously. Overall, MODIFI solves a major bottleneck in DNA modification analysis and provides a foundational tool for understanding microbial epigenomics."
   }
 ]
