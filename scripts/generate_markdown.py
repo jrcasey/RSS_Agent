@@ -13,6 +13,10 @@ def generate_markdown():
         ranked = json.load(f)
 
     lines = []
+    lines.append("---")
+    lines.append("tags:")
+    lines.append("  - Literature")
+    lines.append("---\n")
     lines.append(f"# Curated Research Articles\n")
     lines.append(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
 

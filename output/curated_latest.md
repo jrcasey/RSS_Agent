@@ -1,3 +1,8 @@
+---
+tags:
+	- Literature
+---
+
 # Curated Research Articles
 
 Generated: 2026-03-30 03:12
