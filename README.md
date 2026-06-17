@@ -79,6 +79,32 @@ Ensure you configure repository secrets before enabling the workflow.
 - `cache/seen_ids.json` — tracking previously processed article IDs  
 - `cache/ranked_results.json` — full ranking logs
 
+## Tagging Markdown Files
+
+Use the helper script to manage YAML frontmatter tags in Markdown files:
+
+```bash
+python3 scripts/addTags.py <directory> --tags <tag1> <tag2> [--recursive]
+```
+
+Examples:
+
+```bash
+# Add tags frontmatter to files that do not already have frontmatter
+python3 scripts/addTags.py archive --tags oceanography microbiome --recursive
+
+# Remove one tag from existing frontmatter
+python3 scripts/addTags.py archive --remove-tag oceanography --recursive
+
+# Remove YAML frontmatter entirely
+python3 scripts/addTags.py archive --remove-frontmatter --recursive
+```
+
+Notes:
+
+- Exactly one action is required: `--tags`, `--remove-tag`, or `--remove-frontmatter`.
+- `--recursive` includes subdirectories; otherwise only `*.md` in the target directory are processed.
+
 ## License
 
 MIT
