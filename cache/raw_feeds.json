@@ -2254,5 +2254,311 @@
     "title": "Optimizing Light Traps for Littoral Mysids and Mesopredatory Fish in the Baltic Sea: Environmental Drivers and Seasonal Monitoring Efficacy",
     "link": "https://www.biorxiv.org/content/10.64898/2026.07.01.735747v1?rss=1",
     "content": "Littoral mysids facilitate benthic-pelagic coupling through horizontal migration, yet quantitative monitoring in structurally complex habitats remains methodologically challenged where traditional active gears fail. We evaluated the efficacy of standardized light traps for monitoring littoral mysids (Neomysis integer, Praunus flexuosus) and mesopredatory three-spined sticklebacks (Gasterosteus aculeatus) in the northern Baltic proper, Baltic Sea. Using a paired experimental design with predator-exclusion and unmodified traps, alongside concurrent passive benthic trapping, we assessed abiotic drivers affecting catchability, biotic interactions, and statistical power to monitor changes in population size over time. Results indicated significant biotic interference: unmodified traps attracted high densities of sticklebacks, which reduced mysid catches by approximately 85% through predation or behavioural avoidance. Consequently, physical predator exclusion is mandatory for accurate mysid sampling. Generalized Linear Mixed Models (GLMMs) confirmed that catch rates for all taxa were primarily driven by night duration rather than water temperature. While passive benthic trap catches tracked metabolic activity (peaking in warm summer months), light trap efficiency peaked in spring and collapsed during summer, confirming that sampling efficiency was strictly limited by the short duration of the night. Simulation-based power analysis revealed a stark contrast in monitoring utility based on spatial aggregation. For highly aggregated mysids, the method demonstrated low precision (Power < 0.25 to detect a 50% decline), rendering it suitable primarily for detecting substantial population collapses (>90%). In contrast, for less aggregated sticklebacks, the method achieved a more robust statistical power (>0.80 for a 60% decline), validating light traps as a precise tool for monitoring these abundant mesopredators. We conclude that light traps fill a critical methodological gap for winter and early spring monitoring when traditional passive gears underperform. Appropriate abundance indices should be based on statistical models accounting for night duration and strictly employ physical exclusion barriers when targeting mysids."
+  },
+  {
+    "id": "8873649bc7a899e3",
+    "title": "Expanding the role of metabolism in whole plant models",
+    "link": "https://www.nature.com/articles/s41540-026-00773-5",
+    "content": ""
+  },
+  {
+    "id": "2e5f1df73a549571",
+    "title": "Primate neurons with special signalling logic",
+    "link": "https://www.nature.com/articles/s41556-026-01978-w",
+    "content": ""
+  },
+  {
+    "id": "c80451599cbec021",
+    "title": "Mapping the network architecture of aging to identify repurposable drug candidates for longevity",
+    "link": "https://www.nature.com/articles/s43587-026-01160-9",
+    "content": ""
+  },
+  {
+    "id": "1bb88e40c71024e6",
+    "title": "An atlas of primate insular cortex reveals a signal-processing strategy in von Economo neurons",
+    "link": "https://www.nature.com/articles/s41556-026-02009-4",
+    "content": ""
+  },
+  {
+    "id": "131cfe4061dacf4f",
+    "title": "Will predictive AI make discovery research in metabolism obsolete",
+    "link": "https://www.nature.com/articles/s44324-026-00117-1",
+    "content": ""
+  },
+  {
+    "id": "6157b73bd1bbb74e",
+    "title": "Metabolic set theory: a generalized model of microbial interactions",
+    "link": "https://www.nature.com/articles/s41540-026-00774-4",
+    "content": ""
+  },
+  {
+    "id": "67d49a56725f6b25",
+    "title": "Why the temporal dimension matters in cellular signalling",
+    "link": "https://www.nature.com/articles/s41556-026-02006-7",
+    "content": ""
+  },
+  {
+    "id": "7ecc6940c81c4c9a",
+    "title": "Hierarchical lineage tracing reveals diverse pathways of cytarabine resistance",
+    "link": "https://www.nature.com/articles/s41467-026-74989-8",
+    "content": ""
+  },
+  {
+    "id": "24222984cceda61e",
+    "title": "Genome-wide absolute quantification of chromatin looping",
+    "link": "https://www.nature.com/articles/s41594-026-01819-2",
+    "content": ""
+  },
+  {
+    "id": "a0efab02d771efa1",
+    "title": "High-throughput measurements of protein domain functions using magnetic separation",
+    "link": "https://www.nature.com/articles/s41596-026-01397-z",
+    "content": ""
+  },
+  {
+    "id": "265c8f80bf6051c7",
+    "title": "Interpretable deep learning to predict one year glycemic control in type 1 diabetes using real world data",
+    "link": "https://www.nature.com/articles/s41598-026-59937-2",
+    "content": ""
+  },
+  {
+    "id": "bf5935ac409fe00a",
+    "title": "Exploring key genes and prognostic validation of prostate cancer through transcriptome-wide association study",
+    "link": "https://www.nature.com/articles/s41598-026-60708-2",
+    "content": ""
+  },
+  {
+    "id": "cfd9ed722b5c5259",
+    "title": "A dual-strain compartmental model for Mycoplasma pneumoniae transmission dynamics with vulnerability stratification and optimal control strategies",
+    "link": "https://www.nature.com/articles/s41598-026-60373-5",
+    "content": ""
+  },
+  {
+    "id": "0283d270a0a96012",
+    "title": "Pose-derived biomechanical feature profiling and proxy pattern classification of basketball player movements",
+    "link": "https://www.nature.com/articles/s41598-026-59989-4",
+    "content": ""
+  },
+  {
+    "id": "820a46101684fd28",
+    "title": "Conversational artificial intelligence for pre-procedural patient preparation: implementation, validation and patient satisfaction",
+    "link": "https://www.nature.com/articles/s41746-026-02959-x",
+    "content": ""
+  },
+  {
+    "id": "18f66d5977972145",
+    "title": "A color image encryption method based on a CML\u2013ECA neurodynamic chaotic system and TV-BST architecture",
+    "link": "https://www.nature.com/articles/s41598-026-59473-z",
+    "content": ""
+  },
+  {
+    "id": "4733be04dd2417d7",
+    "title": "SMARTMed: semi-fragile dual watermarking with deep tamper detection and adversarial DNN fingerprinting for secure medical image transmission",
+    "link": "https://www.nature.com/articles/s41598-026-60362-8",
+    "content": ""
+  },
+  {
+    "id": "b3daf28b00f2a1f0",
+    "title": "LLM research on public biosignals data is needed to protect patients",
+    "link": "https://www.nature.com/articles/s41746-026-02872-3",
+    "content": ""
+  },
+  {
+    "id": "c51248df69420609",
+    "title": "Multimodal fusion of handwriting images and kinematic features for Parkinson disease detection",
+    "link": "https://www.nature.com/articles/s41598-026-57147-4",
+    "content": ""
+  },
+  {
+    "id": "91d88e0b7a7425e7",
+    "title": "Unified counterfactual explainer for graph neural networks",
+    "link": "https://www.nature.com/articles/s44387-026-00135-w",
+    "content": ""
+  },
+  {
+    "id": "c129e232e7e1177d",
+    "title": "PCOSFusion: a hybrid HOG\u2013LBP feature-based approach for PCOS classification using StackPCOS and StackBoostPCOS",
+    "link": "https://www.nature.com/articles/s41598-026-60667-8",
+    "content": ""
+  },
+  {
+    "id": "ffe91b9dee787c5c",
+    "title": "Computational analysis of a fractional order tumor\u2013immune model with cancer stem cell dynamics and chemotherapeutic memory",
+    "link": "https://www.nature.com/articles/s41598-026-58821-3",
+    "content": ""
+  },
+  {
+    "id": "827f35583a509b11",
+    "title": "Zero-shot classification of ECG signals using CLIP-based models",
+    "link": "https://www.nature.com/articles/s41598-026-55806-0",
+    "content": ""
+  },
+  {
+    "id": "a0d74d8b033252eb",
+    "title": "metilene3: identifying DMRs across multiple conditions with auto-classification",
+    "link": "https://www.nature.com/articles/s41467-026-74931-y",
+    "content": ""
+  },
+  {
+    "id": "2f922da9ab8e5235",
+    "title": "Precise ECG diagnosis and validation of educational utility for acute myocardial infarction using deep learning and explainable artificial intelligence",
+    "link": "https://www.nature.com/articles/s41598-026-58956-3",
+    "content": ""
+  },
+  {
+    "id": "9931f50d03aaaa65",
+    "title": "Multi-ancestry gene expression models amplify transcriptome-wide association study discovery and validation",
+    "link": "https://www.nature.com/articles/s41467-026-75193-4",
+    "content": ""
+  },
+  {
+    "id": "b8ad06a8d2c7225e",
+    "title": "Withanolide A inhibits hIAPP aggregation: An In silico, biophysical, and drosophila-based In vivo validation",
+    "link": "https://www.nature.com/articles/s41598-026-60648-x",
+    "content": ""
+  },
+  {
+    "id": "26806e4aab12cfd3",
+    "title": "From polyamine metabolism genes to immunoproteasome subunits: a transcriptome-based screening of candidate biomarkers in Crohn\u2019s disease",
+    "link": "https://www.nature.com/articles/s41598-026-59818-8",
+    "content": ""
+  },
+  {
+    "id": "aaae81f6a35c756e",
+    "title": "Selective state space U net for linear complexity globally coherent high resolution image segmentation",
+    "link": "https://www.nature.com/articles/s41598-026-60465-2",
+    "content": ""
+  },
+  {
+    "id": "4052e20e70536dd0",
+    "title": "Integrated comparative genomic and transcriptomic analysis reveals a wsv249 mutation drives enhanced pathogenicity in white spot syndrome virus",
+    "link": "https://www.nature.com/articles/s41598-026-61116-2",
+    "content": ""
+  },
+  {
+    "id": "25cf54e17cbeb84c",
+    "title": "Enhancing brain tumor detection through deep learning and explainable AI techniques",
+    "link": "https://www.nature.com/articles/s41598-026-60334-y",
+    "content": ""
+  },
+  {
+    "id": "55ab8861befd9121",
+    "title": "The burden of antimicrobial-resistant bacterial infections: a causal perspective",
+    "link": "https://www.nature.com/articles/s41467-026-74934-9",
+    "content": ""
+  },
+  {
+    "id": "5de6d1d7c6cc0337",
+    "title": "Machine learning-based prediction of E. coli infection in hospitalized patients using a no-code analytical framework",
+    "link": "https://www.nature.com/articles/s41598-026-59795-y",
+    "content": ""
+  },
+  {
+    "id": "50c24eec810c1819",
+    "title": "Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys",
+    "link": "https://www.nature.com/articles/s41467-026-74050-8",
+    "content": ""
+  },
+  {
+    "id": "ee558848bac9dd43",
+    "title": "Predicting response to neoadjuvant therapy using artificial intelligence on digitized histopathology slides: a systematic review",
+    "link": "https://www.nature.com/articles/s41746-026-02947-1",
+    "content": ""
+  },
+  {
+    "id": "fc10051b1c562a3f",
+    "title": "Multi-scale and context-aware enhanced YOLOv8 for breast tumor detection in ultrasound images",
+    "link": "https://www.nature.com/articles/s41598-026-59928-3",
+    "content": ""
+  },
+  {
+    "id": "14f3c2251f34eff6",
+    "title": "Modeling time-varying efficacy of RTS,S/AS01 malaria vaccine across trial settings",
+    "link": "https://www.nature.com/articles/s41541-026-01519-4",
+    "content": ""
+  },
+  {
+    "id": "a473e1c687113ceb",
+    "title": "BEACON: BERTopic-augmented context-aware co-attention recommender system",
+    "link": "https://www.nature.com/articles/s41598-026-60327-x",
+    "content": ""
+  },
+  {
+    "id": "8a7173d5cb2c82be",
+    "title": "Structure aware graph community cluster pruning for efficient neural network compression in Parkinson\u2019s disease diagnosis",
+    "link": "https://www.nature.com/articles/s41598-026-59636-y",
+    "content": ""
+  },
+  {
+    "id": "57805e4033468ecc",
+    "title": "The penicillin-binding protein PBP1b fortifies the <i>Escherichia coli</i> division site against osmotic rupture",
+    "link": "https://www.nature.com/articles/s41564-026-02403-6",
+    "content": "<p>Nature Microbiology, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s41564-026-02403-6\">doi:10.1038/s41564-026-02403-6</a></p>A specific isoform of PBP1b functions independently of the activator protein, LpoB, to drive generation of a wedge-like peptidoglycan structure that strengthens the division site in Escherichia coli."
+  },
+  {
+    "id": "40265763baf2003e",
+    "title": "Waterborne diseases and climate change",
+    "link": "https://www.nature.com/articles/s41579-026-01338-3",
+    "content": "<p>Nature Reviews Microbiology, Published online: 03 July 2026; <a href=\"https://www.nature.com/articles/s41579-026-01338-3\">doi:10.1038/s41579-026-01338-3</a></p>In this Review, Levy and colleagues explore the relationships between climate change and waterborne diseases, discussing how the meteorological conditions that are influenced by climate change, including temperature, heavy rainfall and flooding, drought and extreme weather, affect the biology and transmission of waterborne pathogens, with a focus on those that spread via the faecal\u2013oral route."
+  },
+  {
+    "id": "f3b9da2b1c1f9e3e",
+    "title": "HERC4 limits oxidative stress-induced DNA damage during bacterial and viral-bacterial infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.02.736007v1?rss=1",
+    "content": "Respiratory (co-)infections caused by influenza viruses and Streptococcus pneumoniae represent significant threats to global health. In our analysis of host cell ubiquitination, we identified reactive oxygen species (ROS) produced by S. pneumoniae as critical effectors in reducing the amount of intracellular polyubiquitinated proteins. Together with reduced ubiquitination we observed a downregulation of the E3 ligase HERC4 upon infection with S. pneumoniae in human alveolar epithelial and macrophage-like cells as well as in samples obtained from S. pneumoniae infected humans and mice. This was further aggravated in the viral-bacterial coinfection with influenza A. CRISPR-Cas9 deletion of HERC4 prior bacterial infection resulted in increased ROS-induced DNA damage, enhanced host cell apoptosis and reduced Histone 2B ubiquitination. In contrast, HERC4 overexpression diminished DNA damage indicating a role of HERC4 in DNA-damage-repair upon infection. By establishing a link between HERC4 expression and ROS-induced DNA damage and repair, we identified a potential marker for predicting the outcome of viral and bacterial (co-)infections. Targeting HERC4 expression defines a novel strategy to protect host cells from S. pneumoniae (co-)infection attenuating infection exacerbation."
+  },
+  {
+    "id": "ae42e238daec185b",
+    "title": "Performance of pathogen identification and resistance gene expression tests using ASTar(R) remnant bacterial suspension in Gram-negative contrived positive blood cultures",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.01.735973v1?rss=1",
+    "content": "Introduction: Rapid pathogen identification, resistance detection, and susceptibility profiling improve antimicrobial prescribing and associated outcomes, but fragmented workflows lead to inefficiencies and are costly. We evaluated a research-use-only (RUO) approach using ASTar(R) remnant bacterial suspension from routine AST for MALDI-TOF MS pathogen identification and Lateral Flow Assay (LFA)-based detection of targeted resistance mechanisms. Methods: Gram-negative (GN) bacterial strains from reference and curated resistance collections (CDC1, ARLG2, ATCC3) [n=119] were contrived into blood culture bottles and processed in the ASTar 16 System using the ASTar BC G- Kit (Q-linea AB, Sweden). Under RUO conditions, remnant bacterial suspensions were collected ~1-2 h after ASTar run initiation and analyzed using NG Test CTX-M Multi, NG Test CARBA-5, NG Test Acineto-5 RUO, and MALDI-TOF MS. Results: Mean ({+/-} SD) remnant suspension volume was 2722 L ({+/-} 300 L). All samples yielded high confidence MALDI-TOF MS scores (>2.0), with five initially scoring <2.0 and resolving on repeat testing. LFA results showed full agreement with reference isolates for blaCTX-M positive/negative (30/30) and with 60 or 61 target carbapenemase-positive/negative isolates. Testing of a subset of samples to mimic reflex workflows with ASTar phenotypic results did not affect LFA performance 24 (n=26; 23 Enterobacterales, 3 P. aeruginosa and 9 A. baumannii). Cost savings can be realised versus commercial multiplex PCR. Conclusion: This integrated approach of ~6 h rapid phenotypic AST with same-run identification and resistance detection (1-2 h from instrument start) or reflex testing upon availability of ASTar results may support earlier susceptibility results and offer cost savings to current workflows."
+  },
+  {
+    "id": "428df7b459c2fc3e",
+    "title": "Synteny-aware microbial pangenome graphs reveal blueprints of genomic variation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736256v1?rss=1",
+    "content": "Pangenomics quantifies the conserved and variable gene repertoire among genomes, but popular implementations ignore gene synteny. Graph-based approaches incorporate both gene homology and synteny, but become difficult to interpret due to pervasive rearrangements. Here we present network-pruning and graph-layout algorithms that enable interactive, synteny-aware quantification and visualization of gene conservation and variability. Applied to 29 genomes of the marine genus Undatipelagibacter (formerly SAR11 subclade Ia.3.VI), we find that genomic variability forms not a few hypervariable islands against a static backbone but a structured continuum, whose variable regions differ in scale, topology, function, and evolutionary character. Genome variation spans from ancient, specialized regions of hundreds of genes whose propensity to vary is conserved across genera, to single hypervariable genes shaped by epistatic co-selection with partners dispersed genome-wide, and shows that chromosomal context carries evolutionary information synteny-unaware pangenomics cannot capture, and some evolutionary processes act on entire functional subsystems throughout a pangenome."
+  },
+  {
+    "id": "86bbaeb9f8e9103e",
+    "title": "Predatory bacteria as members of human microbiomes and their impact on gut diversity and homeostasis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736386v1?rss=1",
+    "content": "Bdellovibrio and like organisms (BALOs) are obligate bacterial predators that shape microbial communities by promoting species diversity, yet they have long been considered irrelevant to the human gut due to their presumed obligate aerobic lifestyle. Here, we challenge this view through a combined meta-analytic, experimental, and conceptual investigation of BALOs in human microbiomes. Reanalyzing 168,000 consistently processed samples from the Human Microbiome Compendium spanning 482 studies, we detected BALOs in more than 80 studies and across multiple body sites worldwide, with a gut prevalence of 2.4%, a finding confirmed by reanalysis of the PRIME database for 16S rRNA microbiome data. Strikingly, BALO presence was consistently associated with higher microbial alpha-diversity across body sites and disease contexts. Biopsy-derived samples showed a substantially higher prevalence than fecal samples, suggesting a mucosa-proximal niche. Our laboratory experiments showed that multiple Bdellovibrio strains can delay the loss of microbial diversity in vitro and remain active under gut-relevant conditions, including 37C, pH 6.5, and in the presence of mucus. Genomic analyses further revealed terminal reductases, including nitrite reductases, in several BALO genomes, indicating the capacity for anaerobic or microaerobic respiration, consistent with persistence in mucosal microenvironments. Notably, the metabolic and ecological profiles of cultured BALOs closely match those of facultative anaerobes, which constitute their preferred prey and are central drivers of dysbiosis in inflammatory bowel disease, diabetes, colorectal cancer, and chronic kidney disease. Building on these findings, we propose a conceptual framework in which BALOs contribute to gut homeostasis by controlling the expansion of facultative anaerobes under inflammatory conditions, thereby facilitating the restoration of fermentative, butyrate-producing communities. Together, our results establish BALOs as consistent, functionally relevant members of the human microbiome and a promising natural candidate for therapeutic strategies targeting chronic gut disease."
+  },
+  {
+    "id": "c710f72a7edcd9e2",
+    "title": "Chemotactic responses of Trypanosoma brucei procyclic forms to proline and other metabolites",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.02.736028v1?rss=1",
+    "content": "Many protozoan parasites have complex life cycles entailing migration through different organs in their hosts, but the cues guiding them remain poorly understood. Using a semi-solid plate motility assay, we show that early procyclic forms of Trypanosoma brucei, the first stage to develop in the tsetse fly midgut, perceive several metabolites - including glucose, glycerol and proline - as chemoattractants, while the glycolytic end-product succinate acts as a repellent. During adaptation in the fly, T. brucei switches from glucose/glycerol to proline as its primary energy source. We show that the parasite's chemotactic response towards proline requires adenylate cyclase ACP5 and the cyclic AMP response protein CARP3, two components of signalling pathway involved in pH sensing. These results further support a role for T. brucei's expanded repertoire of receptor adenylate cyclases as environmental sensors that guide navigation through the host."
+  },
+  {
+    "id": "c1838d83f0304444",
+    "title": "THE STRUCTURES OF MATURE AND IMMATURE ST. LOUIS ENCEPHALITIS VIRUS REVEAL CONSERVED HISTIDINE RESIDUES AFFECTING VIRUS FITNESS",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736192v1?rss=1",
+    "content": "Orthoflaviviruses undergo significant structural changes through maturation and infection, yet the molecular mechanisms remain incompletely understood. Using St. Louis encephalitis virus (SLEV) as a model, a reemerging mosquito-borne orthoflavivirus endemic in the Americas, we elucidated the structures of immature and mature SLEV particles at resolutions of 4.4 [A] and 3.3 [A], respectively, using cryo-EM. SLEV is characterized by glycosylated E and prM proteins, the presence of lipid pockets, and is stabilized by an intricate network of inter- and intra-protein interactions between E and (pr)M across maturation stages. Several interactions were mediated by histidines that play different roles depending on SLEV maturation and pH. Non-lethal single mutations of H285R and H443R in E protein affect SLEV replication in mammalian and mosquito cell lines, and delay death in mouse models of infection. These histidine residues are conserved across orthoflaviviruses, illustrating the complexity of orthoflavivirus particles and indicating a possible strategy for attenuation."
+  },
+  {
+    "id": "3ad31da5dac35b55",
+    "title": "Clade 2.3.4.4b H5N1 influenza virus and SARS-CoV-2 seroprevalence among owned and feral cats in Philadelphia and surrounding communities",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736283v1?rss=1",
+    "content": "Clade 2.3.4.4b H5NX influenza viruses have spread widely in birds since 2020. In addition to causing disease in birds, these viruses have infected a variety of mammals, including humans. Clade 2.3.4.4b H5N1 viruses are currently causing an outbreak among dairy cattle in the United States, and it is important to determine if other mammals have been exposed to H5NX viruses. Cats, specifically outdoor and feral cats, frequently predate wild birds. Recent studies have shown that cats living on dairy cattle farms can be infected with H5N1. Here, we completed serological studies to determine if owned and feral cats living in an urban environment in the United States have evidence of past H5N1 exposures. We used multianalyte bead-based assays to measure clade 2.3.4.4b hemagglutinin (HA) antibody levels in serum samples collected in July 2023 to June 2025 from 417 feral and 228 owned cats from the greater Philadelphia area. We also measured antibody levels against a panel of HAs from other human and non-human influenza viruses, and the receptor binding domain (RBD) of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We completed additional H5N1 and SARS-CoV-2 neutralization assays using samples that had detectable antibodies in the multianalyte bead-based assays. One cat (0.16%) was positive for H5 antibodies and twenty cats (3.1%) were positive for SARS-CoV-2 antibodies in both binding and neutralization assays. These data suggest that cats in the Philadelphia area have not been routinely exposed to clade 2.3.4.4b H5N1 viruses but have been more commonly exposed to SARS-CoV-2."
+  },
+  {
+    "id": "6ee4051751c7d2c5",
+    "title": "Distinct RNA engagements define genome import and replication elongation in alphaviruses",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736289v1?rss=1",
+    "content": "Membrane-associated replication complexes (RCs) are a hallmark of alphaviruses, yet the mechanisms by which viral RNA is delivered into these compartments and coordinated with RNA synthesis remain incompletely understood. Here, we present a cryo-electron microscopy (cryo-EM) structure of the Chikungunya virus (CHIKV) RC core, consisting of nsP1, nsP2, and nsP4, in complex with the replicative RNA substrates, revealing two spatially distinct RNA-binding sites. A single-stranded RNA (ssRNA) engages the nsP2 helicase and extends toward a pore formed at the nsP1-nsP4 interface, whereas a double-stranded RNA (dsRNA) is accommodated within the central catalytic pocket of the nsP4 polymerase in an elongation configuration. Structural analysis suggests a helicase-assisted RNA threading model in which the 5' end of the viral genome is guided toward the spherule lumen through the RC pore. Concurrently, the nsP4 polymerase engages dsRNA in a manner consistent with RNA synthesis. This work provides a structural framework for understanding RNA trafficking and enzymatic coordination in viral replication organelles."
+  },
+  {
+    "id": "ad9523a2ff12917b",
+    "title": "Field-derived temperature correction compromises eDNA-based abundance inference",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.735744v1?rss=1",
+    "content": "Environmental DNA (eDNA) has emerged as a promising tool for estimating fish abundance, yet linking eDNA concentration to true density remains a significant challenge in seasonal systems, where the signal is strongly influenced by temperature. We investigated whether eDNA can serve as an abundance index for three-spined stickleback (Gasterosteus aculeatus) in four coastal bays of the Baltic Sea (5.7-20.5{degrees}C, April-July 2023), by pairing eDNA sampling with two trap types of contrasting catchability. Light traps capture fish by phototactic attraction during darkness, so their catchability is driven primarily by night duration rather than temperature, while benthic traps respond to temperature through the same activity-driven mechanism as eDNA production. The temperature sensitivity of eDNA estimated from field data was far higher than physiological expectation (Q10 = 12.4, against a maximum metabolic rate benchmark of Q10 = 3.5), indicating that the field temperature signal reflects ecological change in addition to metabolism. We then compared how well three eDNA predictors tracked a combined trap-based abundance index: uncorrected eDNA, eDNA corrected with the temperature response constrained to the laboratory metabolic rate (a first-principles correction), and eDNA corrected with the response estimated from the field data. Uncorrected and first-principles-corrected eDNA were both strong predictors of abundance (standardised slopes of 0.45 and 0.43), whereas the field-corrected predictor was not (0.08). Uncorrected and first-principles-corrected eDNA performed comparably because temperature and abundance increased together over the season; the first-principles correction is nonetheless preferable, as it remains reliable when this covariation is unknown a priori. We conclude that estimating a temperature correction from field data should be avoided in seasonal eDNA monitoring, because it removes the abundance signal together with the temperature effect and assumes a stability in abundance that cannot be verified without independent reference data."
+  },
+  {
+    "id": "f545096de35db0d8",
+    "title": "Modelling sterilisation strategies to maximise population impact and cost-efficiency in free-roaming dog populations",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.02.735983v1?rss=1",
+    "content": "Free-roaming dog populations pose challenges to public health and animal welfare, and their management and protection is legally mandated in many countries to control zoonotic diseases such as rabies, reduce bites, mitigate fear of aggressive dogs, and preserve animal welfare. Although international organisations recommend holistic dog population management with surgical sterilisation as a key component, stakeholders report a lack of evidence-based guidance on effective and cost-efficient strategies. To address this, we developed a deterministic model of a closed free-roaming dog (FRD) population, including dogs dependent on and independent of humans, parameterised using data from southern India. We evaluated a wide range of sterilisation strategies varying duration, interval, frequency, intensity, targeting different population subsets, and fixed or responsive approaches. Strategies were assessed based on their effects on independent FRD population size and implementation costs. Female sterilisation coverage (FSC) strongly determined population reduction and cost-effectiveness. Repeated, short sterilisation periods with appropriately timed intervals and high early intensity best balanced population reduction and cost-efficiency. Excluding dependent dogs (cared for by humans) severely constrained population reduction, while male sterilisation enhanced impact at little extra cost, assuming direct effects on pregnancy rates. Costs and population impacts can be visualised on an interactive web application (https://field.shinyapps.io/DogPopSimApp), allowing practitioners and policymakers to explore sterilisation strategy outcomes. Overall, cost-effective population reduction required sustained commitment and coverage-driven strategies that balance welfare, population reduction and the operational needs of dog-mediated rabies control."
   }
 ]
