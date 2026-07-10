@@ -2458,5 +2458,605 @@
     "title": "Pretty Good Yields allow the spatial management of multiple objectives in agricultural landscapes",
     "link": "https://www.biorxiv.org/content/10.64898/2026.07.06.736684v1?rss=1",
     "content": "In order to feed a growing global population without silencing nature, conceiving agricultural management strategies reconciling yield and conservation goals is key. Using numerical simulations of a metacommunity model, we explore the possibilities for compromise offered by spatial management strategies of farmed areas. Each strategy is characterized by its farming intensity, the proportion of farmed lands and their spatial aggregation. We show that achieving equitable yield-biodiversity compromise is difficult. While conciliatory strategies offering top yield and biodiversity are typically not possible, accepting slightly lower yields (ie, \"Pretty Good Yield strategies\") allows to recover substantial biodiversity. Such reconciliation possibilities are limited for species with small dispersal. Yield increases mainly through farmland expansion, whereas farming intensity strongly influences biodiversity, increasing it at low intensity before decreasing with further intensification. Finally, we demonstrate that reconciliation is easier if agricultural production relies on biodiversity through ecosystem services."
+  },
+  {
+    "id": "81888e9e653c8593",
+    "title": "Marine climate variability and change in the Torres Strait",
+    "link": "https://www.sciencedirect.com/science/article/pii/S007966112600131X?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 8 July 2026</p><p><b>Source:</b> Progress in Oceanography</p><p>Author(s): Laura K. Blamey, Stephanie Brodie, \u00c9va E. Plag\u00e1nyi, Nicole Murphy, Roy A. Deng, Trevor Hutton, Ashley J. Williams, Denham Parker, Leo X.C. Dutra</p>"
+  },
+  {
+    "id": "1987300967298899",
+    "title": "The ice-ice disease black box: a disease complex triggered by bacterial associations in an ex situ milieu of biobanked Kappaphycus alvarezii",
+    "link": "https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnag080/8731948?rss=1",
+    "content": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div><span style=\"font-style: italic;\">Ice-ice</span> disease (IID) is widely associated with environmental stress and microbial presence in seaweed farms, but its expression under <span style=\"font-style: italic;\">ex situ</span> conditions remains poorly understood. This study examined the associated culturable bacterial community in independently maintained <span style=\"font-style: italic;\">K. alvarezii</span> stock cultures classified as healthy or diseased based on characteristic symptoms. Bacteria were isolated from healthy tissue, diseased tissue, and their corresponding bulk waters, identified using 16S rRNA gene sequencing, and analyzed through phylogenetic reconstruction, species richness estimation, and community similarity metrics. A total of 31 bacterial isolates representing six unique taxa were recovered. Diseased tissue exhibited higher bacterial richness and a distinct tissue-associated bacterial composition compared with healthy tissue. Healthy tissue exclusively harbored <span style=\"font-style: italic;\">Rossellomorea aquimaris</span>, whereas diseased tissue contained <span style=\"font-style: italic;\">Vibrio</span> and <span style=\"font-style: italic;\">Photobacterium</span> species, with representative isolates showing agarolytic and carrageenanolytic activity. In contrast, bulk waters from healthy and diseased cultures contained <span style=\"font-style: italic;\">Pseudoalteromonas</span> species. Although the study focuses on microbial associations, the emergence of IID under controlled gene bank conditions highlights the potential interaction of host condition, culture environment, routine handling, and opportunistic bacteria. Together, these factors illustrate the \u201cblack box\u201d dynamics of IID in <span style=\"font-style: italic;\">ex situ</span> conditions and provide insights for disease monitoring and management in seaweed gene banks.</span>"
+  },
+  {
+    "id": "ea41bb943845e4cf",
+    "title": "Metabolic pathway design for BTEX-based commodity chemicals: drop-ins and alternatives",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0958166926001114?dgcid=rss_sd_all",
+    "content": "<p>Publication date: August 2026</p><p><b>Source:</b> Current Opinion in Biotechnology, Volume 100</p><p>Author(s): Sean A Wirt, Kristala LJ Prather</p>"
+  },
+  {
+    "id": "f7c6b98c97ac8364",
+    "title": "New insights into the primary production and the structure of the phytoplankton community in the South Indian Ocean using size fractionation experiments",
+    "link": "https://doi.org/10.5194/bg-23-4793-2026",
+    "content": "<b>New insights into the primary production and the structure of the phytoplankton community in the South Indian Ocean using size fractionation experiments</b><br />\n                    Valentin Deteix, C\u00e9line Ridame, C\u00e9line Dimier, Claire Lo Monaco, Aline Tribollet, and Fr\u00e9d\u00e9ric Planchon<br />\n                        Biogeosciences, 23, 4793\u20134820, https://doi.org/10.5194/bg-23-4793-2026, 2026<br />\n                        From in situ measurements, we characterized the size structure of both phytoplankton productivity and phytoplankton chemotaxonomic groups biomass in contrasting biogeochemical areas of the South Indian Ocean. We highlighted pronounced inter- and intra-zonal variability in these size structures. Across the study area, primary production and biomass was mainly driven by medium- and large-sized diatoms, haptophytes and dinoflagellates."
+  },
+  {
+    "id": "088605307943ff78",
+    "title": "Quartet: Disentangling positive and negative components of microbial interactions",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014502",
+    "content": "<p>by Aamir Faisal Ansari, Gayathri Sambamoorthy, Thrisha C. Alexander, Yugandhar B. S. Reddy, Janhavi Raut, Narendra M. Dixit</p>\n\nInterspecies interactions are characterized conventionally by the net influence, positive or negative, a species exerts on another. Community ecology theories rely on these net interactions to describe the behaviour of multispecies communities. The net interactions in turn comprise positive and negative components, arising typically from cross-feeding metabolites and competition for resources. The components remain challenging to disentangle, compromising descriptions of community behaviour. Here, we devised a method to estimate the components when metabolic interactions predominate. We conceived a theoretical resource partitioning strategy which when applied to data on species growth rates disentangles the components. Consequently, the net influence a species has on another is decomposed into its positive and negative components. The interactions between a pair of species are thus defined by the \u2018quartet\u2019 of underlying components, specifically the positive and negative components of the net influence of each species on the other. We applied the method to 28 <i>in silico</i> species pairs from a representative oral microbiome and an experimental auxoptroph pair from the literature. We found that positive and negative components had comparable strengths on average. Interestingly, we found species pairs with similar net interactions but disparate components, highlighting the importance of the quartet. Further, weak net interactions could arise from cancellation of strong components. Estimating the quartet helped better understand the complex transitions in community behaviour observed upon varying resource supply <i>in silico</i> and <i>in vitro</i>. The quartet thus offers a more fundamental characterization of interspecies interactions and may help build more reliable community ecology theories, with implications for understanding and design of microbial communities."
+  },
+  {
+    "id": "a56dc623a822ab95",
+    "title": "Systems biology during 20 years of PLoS Computational Biology",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014465",
+    "content": "<p>by Mark Alber, Marc R. Birtwistle, Stacey D. Finley, Pedro Mendes</p>"
+  },
+  {
+    "id": "67c902834a006775",
+    "title": "AI-guided identification of natural CTSL inhibitors with therapeutic potential for renal injury",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014464",
+    "content": "<p>by Feier Ma, Qi Li, Sirui Zhou, Xiaoya Li, Jin-Kui Yang</p>\n\nCathepsin L (CTSL) is a prominent therapeutic target for kidney injury, yet clinically available CTSL inhibitors remain limited. Here, we developed an artificial intelligence (AI)-assisted discovery strategy to identify novel CTSL inhibitors from a natural products library. Through a robust deep learning model and molecular docking, we screened 200 molecules from natural products library for experimental validation. Active candidates were further analyzed by molecular dynamics simulations to characterize binding modes and key CTSL-ligand interaction networks, followed by evaluation of therapeutic efficacy in kidney injury-relevant models. At a concentration of 100 \u00b5M, we found that 43 of them exhibited more than 50% inhibition of CTSL. Notably, nine molecules displayed over 90% inhibition and exhibited concentration-dependent effects. Molecular dynamics simulations indicated that Kuwanon G (KG), Iberverin, and Wighteone stably bind within the CTSL active site. In human renal cells, KG attenuated high glucose and high lipid induced inflammatory and injury responses. Collectively, these findings identify new CTSL inhibitors with therapeutic potential for renal injury and underscore the utility of AI-assisted strategies in accelerating drug discovery."
+  },
+  {
+    "id": "3bc013cba44d158e",
+    "title": "Non-invasive mapping of the temporal processing hierarchy in the human visual cortex",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014434",
+    "content": "<p>by Katharina Eickhoff, Arjan Hillebrand, Tomas Knapen, Maartje C. de Jong, Serge O. Dumoulin</p>\n\nVision, and brain processing more broadly, is inherently dynamic across space and time, so understanding brain function requires consideration of both spatial and temporal dimensions. However, simultaneously capturing the fine spatial details and the rapid temporal dynamics of visual processing remains a major challenge, resulting in a gap in our understanding of spatiotemporal dynamics. Here, we introduce a forward modeling technique that bridges high-spatial resolution fMRI with high-temporal resolution MEG, enabling us to non-invasively estimate different levels of the visual hierarchy in humans and their involvement in visual processing with millisecond precision. Using fMRI, levels of the visual hierarchy were identified by measuring individuals\u2019 population receptive fields and determining visual field maps. We predicted how much the activity patterns in each visual field map would contribute to brain responses measured with MEG. By comparing these predicted responses with the measured MEG responses, we assessed how much a given visual field map contributed to the measured MEG response, and, most importantly, when. We combined information from all MEG sensors and revealed a cortical processing hierarchy across visual field maps. We validated the method using cross-validations and demonstrated that the model generalized across MEG sensor types, stimulus shapes, and was robust to the number of visual field maps included in the model. The primary visual cortex captured most of the variance in the MEG sensors and did so earlier in time than extrastriate regions. We effectively combined the advantages of two very different neuroimaging techniques, opening avenues for answering research questions that require recordings with high spatiotemporal detail. By bridging traditionally separate areas of research, our approach helps close longstanding gaps in our understanding of brain function."
+  },
+  {
+    "id": "d1ae05bcc59f6f07",
+    "title": "Panorama: A robust pangenome-based method for predicting and comparing biological systems across species",
+    "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013856",
+    "content": "<p>by J\u00e9r\u00f4me Arnoux, Jean Mainguy, Laura Bry, Quentin Fernandez de Grado, Yazid Hoblos, David Vallenet, Alexandra Calteau</p>\n\nOver the last decade, the expansion in the number of available genomes has profoundly transformed the study of genetic diversity, evolution, and ecological adaptation in prokaryotes. However, traditional bioinformatic approaches based on the analysis of individual genomes are showing their limitations when faced with the sheer scale of the data. To overcome these constraints, the concept of pangenome has emerged, offering a comprehensive framework to capture the full genetic repertoire of a species. In this study, we present PANORAMA, an innovative pangenomic tool designed to exploit pangenome graphs, enabling their annotation and comparison to explore the genomic diversity of several species. Based on the PPanGGOLiN pangenome graphs, PANORAMA integrates advanced methods for rule-based prediction of macromolecular systems and comparative analysis of conserved features between different pangenomes, such as spots of insertion. We illustrate the use of PANORAMA on a dataset of 941 <i>Pseudomonas aeruginosa</i> genomes, evaluating its performance against reference defense system prediction tools such as PADLOC and DefenseFinder. The analysis was then extended to a larger set, including four species of Enterobacteriaceae (>6,000 genomes), demonstrating PANORAMA\u2019s ability to annotate, compare, and explore the diversity and distribution of biological systems across multiple species. This work provides new methods for the large-scale comparative study of microbial genomes and highlights the relevance of pangenome approaches in deciphering their evolutionary dynamics. PANORAMA is freely available and accessible at: https://github.com/labgem/PANORAMA"
+  },
+  {
+    "id": "a12e9bc427c2f498",
+    "title": "Social learning dynamically shapes moral decision-making by biasing subjective valuation",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003889",
+    "content": "<p>by Julien Benistant, Valentin Guigon, Alain Nicolas, Edmund Derrington, Jean-Claude Dreher</p>\n\nObserving immoral behavior increases one\u2019s dishonesty by social influence and learning processes. The neurocomputational mechanisms underlying such moral contagion remain unclear. We tested different mechanistic hypotheses to account for moral contagion. We used model-based fMRI and a new cheating game in which participants were sequentially placed in honest and dishonest social norm contexts. Participants\u2019 cheating behavior increased in the dishonest norm context but was unchanged in the honest one. The best model to account for behavior indicated that participants\u2019 valuation was dynamically biased by learning that others had cheated. At the group level, this valuation bias was not encoded by any specific brain region. Instead, this neural signal depended on individual differences in conformity, and engaged the bilateral lateral prefrontal cortex. During learning, simulation of others\u2019 cheating behavior was encoded in the posterior superior temporal sulcus. Together, these findings provide a mechanistic understanding of how learning about others\u2019 dishonesty biases individuals\u2019 valuation of cheating but does not alter one\u2019s established preferences."
+  },
+  {
+    "id": "3c66624a030807b4",
+    "title": "Wanting this, not that: The neural circuit that turns specific expectations into actions",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003859",
+    "content": "<p>by Joey A. Charbonneau, Erin L. Rich</p>\n\nNeuroeconomics has long focused on reward values, ignoring their identity. A new PLOS Biology study shows that identity-specific reward expectations in the lateral orbitofrontal cortex steer goal-directed choices through a motivational circuit involving the nucleus accumbens.\n\nNeuroeconomics has long focused on reward values, ignoring their identity. This Primer explores a new study in PLOS Biology that shows that identity-specific reward expectations in lateral orbitofrontal cortex steer goal-directed choices through a motivational circuit involving nucleus accumbens."
+  },
+  {
+    "id": "72cb83b62643a6f4",
+    "title": "Heterotrophic respiration by soil microbes in a changing climate",
+    "link": "https://www.nature.com/articles/s43017-026-00806-x",
+    "content": "<p>Nature Reviews Earth &amp; Environment, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/s43017-026-00806-x\">doi:10.1038/s43017-026-00806-x</a></p>Microbial metabolism affects the magnitude and stability of soil organic carbon. This Review examines how microbial heterotrophic respiration and soil carbon stocks will be affected by climate change and describes potential strategies to mitigate soil carbon loss."
+  },
+  {
+    "id": "8eee9a85d028a369",
+    "title": "Anterior cingulate cortex monitors action state and action content in complex associative learning",
+    "link": "https://elifesciences.org/articles/105774",
+    "content": "Environmental changes necessitate adaptive responses, and thus the ability to monitor one\u2019s actions and their connection to specific cues and outcomes is crucial for survival. The anterior cingulate cortex (ACC) is implicated in these processes, yet its precise role in action monitoring vs. outcome tracking remains unclear. To investigate this, we developed a novel discrimination\u2013avoidance task for mice, designed with clear temporal separation between actions and outcomes. Our findings show that ACC neurons primarily encode post-action variables over extended periods, reflecting the animal\u2019s preceding actions rather than the outcomes or values of those actions. Specifically, we identified two distinct subpopulations of ACC neurons: one encoding the action state (whether an action was taken) and the other encoding the action content (which action was taken). Importantly, increased post-action ACC activity was associated with better performance in subsequent trials. These findings suggest that the ACC supports complex associative learning through extended signaling of rich action-relevant information, thereby bridging cue, action, and outcome associations."
+  },
+  {
+    "id": "f04c60516142e330",
+    "title": "Control of synaptic communication through molecularly engineered bioluminescence light emission and sensing",
+    "link": "https://www.nature.com/articles/s42003-026-10643-9",
+    "content": ""
+  },
+  {
+    "id": "ba166709ac2f77db",
+    "title": "Author Correction: A generalizable approach for programming protease-responsive conformationally inhibited artificial transcriptional factors",
+    "link": "https://www.nature.com/articles/s41467-026-75421-x",
+    "content": ""
+  },
+  {
+    "id": "94217a273b57e77c",
+    "title": "Stochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure",
+    "link": "https://www.nature.com/articles/s41562-026-02504-6",
+    "content": ""
+  },
+  {
+    "id": "7fd9e17aef310b38",
+    "title": "A bioenergetic understanding of \u201caerobic glycolysis\u201d",
+    "link": "https://www.nature.com/articles/s42003-026-10601-5",
+    "content": ""
+  },
+  {
+    "id": "c3f858f92e4bb90e",
+    "title": "A portable Cas6f-based system for multiplex translational repression in bacteria",
+    "link": "https://www.nature.com/articles/s41467-026-75135-0",
+    "content": ""
+  },
+  {
+    "id": "a4941fd41172f643",
+    "title": "AI-orchestrated design\u2013build\u2013test\u2013learn is the future of mammalian biodesign",
+    "link": "https://www.nature.com/articles/s41551-026-01730-7",
+    "content": ""
+  },
+  {
+    "id": "fe5d0fc63f02ca7f",
+    "title": "Hydroclimate controls Congo peatland net oxygen release over the past 10,600 years",
+    "link": "https://www.nature.com/articles/s41561-026-02031-z",
+    "content": "<p>Nature Geoscience, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02031-z\">doi:10.1038/s41561-026-02031-z</a></p>The oxygen surplus from carbon burial in Congo peatlands reached 83 petagrams of net atmospheric oxygen equivalents during the Holocene, suggesting global peatlands may have offset 40\u201395% of continental weathering oxygen sinks, according to a peat core."
+  },
+  {
+    "id": "9119a5639186057f",
+    "title": "West versus Central Tibet exhumation difference influenced by Indian slab underthrusting",
+    "link": "https://www.nature.com/articles/s41561-026-02043-9",
+    "content": "<p>Nature Geoscience, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02043-9\">doi:10.1038/s41561-026-02043-9</a></p>The extent of Indian continental underthrusting beneath Western Tibet influences its moderate-to-rapid exhumation, relative to slow exhumation in Central Tibet, according to thermochronological data and exhumation history modelling."
+  },
+  {
+    "id": "98a3e71a71e5f956",
+    "title": "Cretaceous oceanic intraplate volcanism",
+    "link": "https://www.nature.com/articles/s41561-026-02030-0",
+    "content": "<p>Nature Geoscience, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02030-0\">doi:10.1038/s41561-026-02030-0</a></p>Nature Geoscience spoke with Ana Ferreira (University College London, UK), Valerie Finlayson (University of Maryland, USA), and Jennifer Georgen (Old Dominion University, USA) about volcanism within oceanic tectonic plates, particularly its extreme intensity during the Cretaceous."
+  },
+  {
+    "id": "58dd6b7919f8dd64",
+    "title": "Emerging insights on oceanic intraplate volcanism",
+    "link": "https://www.nature.com/articles/s41561-026-02051-9",
+    "content": "<p>Nature Geoscience, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02051-9\">doi:10.1038/s41561-026-02051-9</a></p>Recent research suggests that most forms of volcanism within oceanic plates are influenced by plate tectonics, particularly via the involvement of tectonics in whole-mantle dynamics. Investigating oceanic intraplate volcanism may therefore advance our understanding of geodynamic processes."
+  },
+  {
+    "id": "28a57aad21caa3fe",
+    "title": "Pyrochlore from fire to steel",
+    "link": "https://www.nature.com/articles/s41561-026-02021-1",
+    "content": "<p>Nature Geoscience, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/s41561-026-02021-1\">doi:10.1038/s41561-026-02021-1</a></p>Quentin Bollaert and colleagues explore pyrochlore from its fiery name to its role as the primary source of the world\u2019s niobium, a vital element in steel manufacturing and battery technology."
+  },
+  {
+    "id": "08d4bf653e0d10c9",
+    "title": "Which \u2018AI scientist\u2019 suits your lab? A guide for the perplexed",
+    "link": "https://www.nature.com/articles/d41586-026-02091-6",
+    "content": ""
+  },
+  {
+    "id": "3e430495cdd3fab7",
+    "title": "PregMedNet: Multifaceted maternal medication impacts on neonatal complications",
+    "link": "https://www.nature.com/articles/s41467-026-75000-0",
+    "content": ""
+  },
+  {
+    "id": "f648086445f4a77e",
+    "title": "The PRECISE European initiative for cancer-vulnerability mapping and prediction",
+    "link": "https://www.nature.com/articles/s41588-026-02658-z",
+    "content": ""
+  },
+  {
+    "id": "85eaea88be707ff6",
+    "title": "Simulation of covariate and concept drift in machine learning hospital admission prediction from emergency triage",
+    "link": "https://www.nature.com/articles/s41746-026-02956-0",
+    "content": ""
+  },
+  {
+    "id": "6ce227803f51ac4b",
+    "title": "Application of plant viruses in biotechnology with relation to artificial intelligence, machine learning, and nanotechnology",
+    "link": "https://www.nature.com/articles/s44298-026-00193-6",
+    "content": ""
+  },
+  {
+    "id": "1e3d1123f30403f3",
+    "title": "An information bottleneck-based optimal transport network for automated diagnosis of spinal diseases",
+    "link": "https://www.nature.com/articles/s41746-026-02876-z",
+    "content": ""
+  },
+  {
+    "id": "c91b37fa8e2692bd",
+    "title": "Radiomics-based machine learning for splenic injury diagnosis using computed tomography (CT) images",
+    "link": "https://www.nature.com/articles/s41598-026-61595-3",
+    "content": ""
+  },
+  {
+    "id": "db8d19c4bc215d8f",
+    "title": "Multi-target regulation mechanisms of systemic lupus erythematosus, a network pharmacology and molecular docking study on active compounds from Artemisia argyi",
+    "link": "https://www.nature.com/articles/s41598-026-61937-1",
+    "content": ""
+  },
+  {
+    "id": "8926c20df2bd7fd7",
+    "title": "Selaginella sellowii gene regulatory networks reveal distinct transcriptional strategies for dehydration stress and recovery",
+    "link": "https://www.nature.com/articles/s41598-026-59572-x",
+    "content": ""
+  },
+  {
+    "id": "8e621d3a4918ed60",
+    "title": "Uncovering microbial life-history strategies under disturbance: a trait-based computational analysis of anaerobic systems",
+    "link": "https://www.nature.com/articles/s41522-026-01067-8",
+    "content": ""
+  },
+  {
+    "id": "20bdc314e46fc79d",
+    "title": "Novel approach to early prediction of alzheimer\u2019s disease progression using integrated deep regulatory genetic neural network and optimized deep belief networks",
+    "link": "https://www.nature.com/articles/s41598-026-55178-5",
+    "content": ""
+  },
+  {
+    "id": "ad74e4c87ac3ada1",
+    "title": "Moving beyond the neutral-Darwinian dichotomy to inform precision oncology",
+    "link": "https://www.nature.com/articles/s41698-026-01606-8",
+    "content": ""
+  },
+  {
+    "id": "adcef7e5b757ecb7",
+    "title": "Psychometric characterization of human and artificial intelligence performance on cardiology residency in-service examination items",
+    "link": "https://www.nature.com/articles/s41746-026-03002-9",
+    "content": ""
+  },
+  {
+    "id": "a0a06dc088ac9128",
+    "title": "A continuous network physiology analysis of brain\u2013heart interactions in epileptic seizures",
+    "link": "https://www.nature.com/articles/s41598-026-59474-y",
+    "content": ""
+  },
+  {
+    "id": "8c4014e91a2ec406",
+    "title": "Quantifying gene importance with SIGnature",
+    "link": "https://www.nature.com/articles/s41588-026-02698-5",
+    "content": ""
+  },
+  {
+    "id": "0ab83629b25d42ce",
+    "title": "Amharic neural coreference resolution with multi-head attention and named entity recognition",
+    "link": "https://www.nature.com/articles/s41598-026-50661-5",
+    "content": ""
+  },
+  {
+    "id": "8e109ce1e0b3cafb",
+    "title": "Clustering matrix-object data by correlational structure as proxy causal signals",
+    "link": "https://www.nature.com/articles/s41598-026-61243-w",
+    "content": ""
+  },
+  {
+    "id": "2ac81da7ca23b761",
+    "title": "Health system learning enables generalist neuroimaging models",
+    "link": "https://www.nature.com/articles/s41591-026-04497-1",
+    "content": ""
+  },
+  {
+    "id": "f8eeff46d68a5d13",
+    "title": "High-throughput characterization of transcription factors that modulate UV damage formation and repair at single-nucleotide resolution",
+    "link": "https://www.nature.com/articles/s41467-026-75115-4",
+    "content": ""
+  },
+  {
+    "id": "c088d7e40f9beef7",
+    "title": "Real-time anatomy recognition in laparoscopic liver resection using video segmentation AI model",
+    "link": "https://www.nature.com/articles/s41746-026-02989-5",
+    "content": ""
+  },
+  {
+    "id": "e8a6150c1aa2682a",
+    "title": "Prediction of microvascular invasion in hepatocellular carcinoma using contrast-enhanced ultrasound and deep learning",
+    "link": "https://www.nature.com/articles/s41467-026-74985-y",
+    "content": ""
+  },
+  {
+    "id": "10985975f234e2ca",
+    "title": "Internally validated machine learning models identify asthma and its phenotypes using multicenter real-world data",
+    "link": "https://www.nature.com/articles/s41598-026-61946-0",
+    "content": ""
+  },
+  {
+    "id": "b09c52b4833f846d",
+    "title": "An interpretable multimodal framework using compact biomarkers and Kolmogorov\u2013Arnold networks improves the early diagnosis of Alzheimer\u2019s disease",
+    "link": "https://www.nature.com/articles/s41598-026-59430-w",
+    "content": ""
+  },
+  {
+    "id": "b8bbc3b2e4c22fad",
+    "title": "Four questions for AI-ready biological data",
+    "link": "https://www.nature.com/articles/s42256-026-01270-4",
+    "content": ""
+  },
+  {
+    "id": "e22976bd01b94aaa",
+    "title": "Neuro-symbolic artificial intelligence in medicine",
+    "link": "https://www.nature.com/articles/s41551-026-01728-1",
+    "content": ""
+  },
+  {
+    "id": "945353d81559def4",
+    "title": "Comprehensive multi-omic dissection and AI-prioritized target identification in inverted papilloma\u2013associated sinonasal squamous cell carcinoma",
+    "link": "https://www.nature.com/articles/s41698-026-01599-4",
+    "content": ""
+  },
+  {
+    "id": "99f01f24fbd64b19",
+    "title": "Discovery of dynamic tumor microenvironment architecture with targeted agents in the multiplex implantable microdevice assay",
+    "link": "https://www.nature.com/articles/s41392-026-02824-z",
+    "content": ""
+  },
+  {
+    "id": "5c74969e9f534c44",
+    "title": "Spatial transcriptome for cell segmentation",
+    "link": "https://www.nature.com/articles/s43588-026-01022-9",
+    "content": ""
+  },
+  {
+    "id": "d4059e3d213a560e",
+    "title": "InstaNovo-P: a de novo peptide sequencing model for phosphoproteomics",
+    "link": "https://www.nature.com/articles/s41467-026-75138-x",
+    "content": ""
+  },
+  {
+    "id": "07dd25dba48a2169",
+    "title": "Detection of early-stage Parkinson\u2019s disease using wearable sensors at multiple body locations and convolutional neural networks",
+    "link": "https://www.nature.com/articles/s41598-026-61801-2",
+    "content": ""
+  },
+  {
+    "id": "1b0567581a4414c7",
+    "title": "Regulatory memory and growth-coupled inheritance shape nutrient-dependent flagella number variation in Salmonella",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.10.737737v1?rss=1",
+    "content": "Bacteria must balance the advantage of movement against the cost of building flagella, yet how nutrient availability shapes variation in flagellar number across single cells remains unclear. Here, we combine time-resolved basal-body measurements in Salmonella enterica with a mechanistically constrained stochastic model of flagellar remodeling. The model separates two routes from nutrient availability to flagellar number: an RflP-dependent regulatory memory that sets a synthesis target via a latent sensing-memory variable, and a physical inheritance process in which synthesis, binomial partitioning, and division reshape the flagellar-number distribution. Coarse-graining this process yields leaky-integrator dynamics in which the mean flagellar number tracks a regulatory target, while the latent correlation follows acquisition--decay dynamics. In wild-type cells, nutrient-dependent acquisition raises the target and increases flagellar investment; in DrflP cells, loss of acquisition produces a transient overshoot that isolates the intrinsic decay (memory) timescale of the regulatory state. The fitted model predicts a held-out nutrient condition and reveals which parameter combinations are identifiable from the data. Analysis of the fitted dynamics suggests that precision is tuned primarily by sensing-dependent signal amplitude, rather than integration time, with an apparent 1.7-fold increase in effective wild-type noise amplitude after mean normalization, consistent with a precision cost of active regulation relative to the mutant. A model-free, information-geometric (Cramer--Rao) speed limit further shows that active remodeling approaches the statistical speed allowed by the observed distributional variability. Together, these results reveal how Salmonella cells couple regulatory memory with growth-dependent inheritance to record recent nutrient history in their flagellar number."
+  },
+  {
+    "id": "4f1afb166d5275d5",
+    "title": "Metabolomic signatures support the diagnostics of peritoneal endometriosis using generalised linear models",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.05.736551v1?rss=1",
+    "content": "Endometriosis, a common inflammatory gynecological disorder affecting up to 10% of women worldwide, is characterized by the presence of endometrium-like tissue outside the uterus. Current diagnostic methods, such as ultrasound and MRI, effectively detect ovarian and deep endometriosis but fail to detect more common peritoneal type. Diagnosing peritoneal endometriosis currently necessitates invasive laparoscopy and histological confirmation. Despite numerous efforts, no new reliable biomarkers have successfully transitioned into routine clinical use.\n\nThis study aimed to investigate the use of targeted metabolomics to discover metabolite ratios capable of identifying endometriosis in plasma samples. We analyzed a discovery population of 235 patients and a validation population of 278 patients. All cases and controls in both populations were diagnosed by laparoscopy. Control subjects included individuals presenting with symptoms such as pain, dysmenorrhea, infertility, or other benign conditions, but who had no laparoscopic evidence of endometriosis. Using generalized linear models (GLMs) and machine learning, the study identified specific metabolite ratios as potential biomarkers that can distinguish different types of endometriosis and enable mass spectrometry-based diagnostics for peritoneal endometriosis. The best-validated GLM, derived from the concentration ratios of amino acids, acylcarnitines, sphingomyelins, and phosphatidylcholines, consisted of Thr/SM(OH) C22:2 + PC aa C40:5/SFA_PC + lysoPC a C16:0/SM(OH) C16:1. This model yielded an AUC of 0.82 (95% CI 0.619-0.891, with 76% sensitivity and 81% specificity) for peritoneal endometriosis. This innovative approach offers a robust diagnostic model, addressing an unmet medical need by facilitating earlier detection of peritoneal endometriosis and improving overall clinical management."
+  },
+  {
+    "id": "f742650b2f49f9f7",
+    "title": "HetNetEX: Exact Asymptotic Inference in Heterogeneous Biomedical Knowledge Graphs",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.05.736581v1?rss=1",
+    "content": "Heterogeneous biomedical knowledge networks (hetnets) integrate disparate data types, drugs, genes, diseases, and pathways, across independent sources; Hetionet (https://het.io) is a widely used example. A standard approach for assessing connectivity significance is XSwap, which permutes the hetnet P times and fits a gamma-hurdle null model to the degree-weighted path count (DWPC), pooling permuted values across pairs with matching source and target degrees to increase the effective sample size. This permutation approach has been highly successful in practice, but it faces four practical constraints in large graphs: (1) a finite resolution for the smallest reportable p-values, (2) computational cost that grows prohibitive at path lengths L [&ge;] 4 or 5, (3) a variance model (Var {propto} {micro}2) that departs from the configuration-model form (1 +{kappa} ){micro}, and (4) O(P 10m L) runtime. To complement this approach, we present HetNetEX (Heterogeneous Network EXact inference), which computes the null DWPC distribution analytically from degree sequences using the configuration model in O(Ln) time. In simulations at P = 200 across L = 1-4, HetNetEX achieves Spearman{rho} > 0.96 concordance with XSwap rankings while being >10,000x faster and providing analytical p-values without a resolution ceiling. High-degree pairs show larger XSwap sampling error than low-degree pairs, reflecting the finite-sample nature of permutation that analytical computation avoids."
+  },
+  {
+    "id": "5ec9a9f122cd5c52",
+    "title": "How p53 stress memory could redirect JAK/STAT1 antiviral signalling: a model-based prediction.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737453v1?rss=1",
+    "content": "Viral infection can coactivate interferon (IFN)--JAK/STAT1 signalling and the p53--Mdm2 stress-response pathway, two modules that jointly shape antiviral defence and cell-fate decisions. Here, we focus on viral infection contexts capable of inducing genotoxic stress associated with DNA double-strand breaks, thereby triggering oscillatory or sustained p53--Mdm2 dynamics. Whether p53 acts merely as a parallel stress pathway, or actively reshapes how an activated JAK/STAT1 response is temporally decoded and functionally routed, remains unclear. We develop a coupled ordinary [ndash]differential-equation model linking an IFN{gamma}centred JAK/STAT1 core, a p53--Mdm2 module, downstream antiviral and apoptotic effectors, and a coarse-grained viral-burden layer, with p53 regulation placed downstream of STAT1 activation. We find that p53 does not simply increase nuclear STAT1 availability; it redistributes the response towards DNA-bound STAT1 persistence, transcriptional memory and STAT1-driven feedback, producing a persistence--recovery trade-off in which prior p53 stress prolongs the transcriptionally active STAT1 state but delays re-inducibility after repeated IFN stimulation. When IFN and p53-associated stress are both driven by viral burden, p53 is not a uniform amplifier of host defence: p53 preactivation strengthens the upstream memory layer, but downstream effectors buffer rather than mirror this priming. The model further separates antiviral-state engagement from realised viral control: strong effector activation does not guarantee suppression of poorly sensitive viral classes, whereas sensitive viral classes can be cleared before apoptosis. The origin of the stimulus also matters: exogenous IFN or p53 stimulation allows us to assess the host's intrinsic response capacity, whereas virus-induced IFN and p53 stress remain coupled to viral persistence. Persistent viral burden thus emerges as the dynamical link between IFN induction, p53 stress-memory, antiviral maintenance, viral control and the choice between JAK/STAT--IRF1-associated, p53-autonomous or dual apoptotic routing."
+  },
+  {
+    "id": "de147a2cc5cb4a04",
+    "title": "Nutritional Anthelmintics: Chicory Reconfigures the Equine Holobiont Across Microbial, Parasitic, and Host Scales",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737212v1?rss=1",
+    "content": "Anthelmintic resistance in cyathostomins is escalating worldwide, threatening equine health and highlighting the need for sustainable, ecology based parasite control strategies. Chicory (Cichorium intybus, Puna II) has emerged as a promising antiparasitic forage, yet its broader effects on the equine holobiont, parasites, microbiota, and host physiology remain poorly understood. We conducted a 32 day longitudinal grazing trial in young horses to assess how chicory affects parasitological outcomes, gut microbial ecology, nemabiome composition, behaviour, and host physiological and immune responses. Twenty-six naturally infected Anglo-Arabian horses were monitored weekly, with 13 grazing a chicory-based sward and 13 grazing a permanent pasture. Clinical parameters, body weight, and serum biochemistry remained stable across treatments, indicating that chicory was well tolerated. Immune profiles showed limited variation, although IL 10 increased in chicory fed horses, suggesting subtle immune modulation. Behavioural observations revealed no signs of discomfort and indicated slightly enhanced social interactions in the chicory group. Chicory grazing produced a marked reduction in cyathostomin egg excretion, accompanied by species specific shifts in nemabiome composition. Several cyathostomin taxa, including Cylicocyclus ashworthi, C. leptostomus, and C. nassatus, declined in chicory fed horses, whereas certain Cylicostephanus spp increased, indicating differential sensitivity rather than uniform suppression. Concomitantly, chicory induced profound ecological changes in the gut microbiota, including reduced alpha diversity, increased beta dispersion, and destabilised individual microbial trajectories. Several bacterial lineages, particularly Oscillospiraceae, Clostridiaceae, Lachnospiraceae, and Bacteroidales, were differentially enriched, reflecting a functional reorganisation of the intestinal ecosystem. Together, these findings demonstrate that chicory reduces parasite fitness, reshapes nemabiome composition, and alters gut microbial ecology while maintaining host physiological stability. Chicory thus emerges as a promising ecological tool for parasite control, capable of modulating the equine holobiont in ways that complement and potentially reduce reliance on conventional anthelmintic strategies. However, because its effects on gut microbial ecology remain uncertain, and may include shifts resembling dysbiosis, future studies are needed to monitor microbial dynamics more closely and clarify the long term ecological consequences of chicory grazing."
+  },
+  {
+    "id": "2726d5c0b4587445",
+    "title": "Synthesizing Mechanistic Hypotheses from Single-Cell Omics via Discretized Feature Attribution and Empirical Language Model Grounding",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737344v1?rss=1",
+    "content": "Single-cell multimodal omics offer unprecedented resolution of cellular networks, yet translating continuous computational attributions into structured, testable biological mechanisms remains a persistent bottleneck. To address this limitation, we introduce an analytical pipeline employing decision trees to discretize continuous neural network attributions into explicit regulatory thresholds. These boundaries then structurally constrain large language models, enabling them to integrate established literature with empirical data to synthesize context-specific hypotheses. Applying this continuous-to-discrete framework across sparse datasets yielded novel biological mechanisms. Specifically, the framework articulated a cytoskeletal gating hierarchy governing EGF-stimulated pathways, identified transcriptomic drivers of input resistance in cortical interneurons, and delineated translational logic predicting Ki-67 abundance within spatial transcriptomics. Retrospective benchmarking validated the capacity of the framework to autonomously reconstruct published regulatory logic. Supported by a locally deployable open-weight language model and a code-free interface, this approach establishes an auditable methodology to extract robust experimental hypotheses from high-dimensional single-cell data."
+  },
+  {
+    "id": "0bcabeaa809b74a7",
+    "title": "Kinome-wide CRISPR/Cas9-knockout screening reveals critical protein kinases in vasopressin V2-receptor signaling",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736393v1?rss=1",
+    "content": "Identification of signaling networks is an essential goal in systems biology. Here, we use CRISPR/Cas9 knockout screening (employing a whole kinome sgRNA library) to identify functionally critical protein kinases in a well-studied Gs-dependent G-protein coupled receptor (GPCR)-signaling model, namely the vasopressin V2 receptor (V2R) pathway. Screening was done using a specially-designed fluorescence-based reporter cell line with green-fluorescent protein (GFP) co-transcribed with Aqp2, a gene whose transcription is dependent on vasopressin-mediated activation of protein kinase A (PKA). Positive regulators (n=14) included PKA-catalytic subunit  (Prkaca) and Dyrk1a (minibrain homolog). Negative regulators (n=12) included PKA-regulatory subunit type I, Stk11 (catalytic subunit of liver kinase B1 [LKB1] complex), and three TGF-{beta} receptor subunits (Tgfbr1, Tgfbr2, Tgfbr3) (see https://esbl.nhlbi.nih.gov/Databases/Kinome-CRISPR-screen/ for full list). Dyrk1a knockout cell lines failed to express AQP2 protein and exhibited a profound decrease in AQP2 mRNA. RNA-sequencing demonstrated widespread increases in cell-cycle transcripts, with a general defect in cell differentiation, accounting for AQP2 loss. TGF-{beta} exposure to un-transformed cells results in a profound decrease in V2R and AQP2 mRNA abundance along with multiple additional transcriptional targets of V2R-PKA signaling, consistent with prior findings in TGF-{beta}-mediated vasopressin  escape. Stk11/LKB1 knockout lines displayed marked increases in AQP2 protein and mRNA, even in the absence of vasopressin. RNA-sequencing showed a marked similarity between the responses to Stk11/LKB1 deletion and vasopressin exposure in untransformed cells. Phospho-proteomic data point to opposing roles of Stk11/LKB1 and PKA in the regulation of cAMP-responsive transcriptional coactivator (CRTC) proteins in the transcriptional response to V2R-PKA signaling.\n\nSignificance StatementCells throughout the body are regulated by extracellular signals like the hormone, vasopressin. Hormonal effects on cellular function are mediated by membrane receptors that trigger biochemical changes, often by inducing chemical modification of the amino acids making up individual proteins, such as addition of function-altering phosphate groups (phosphorylation). Protein phosphorylation is mediated by enzymes known as \"protein kinases\". Here, we have screened all known protein kinases using modern CRISPR/Cas9 technology to identify those involved in vasopressin action in the kidney. As expected from prior knowledge, the screen identified protein kinase A and one of its regulatory subunits, but also identified several protein kinases not previously implicated in vasopressin action in the kidney."
+  },
+  {
+    "id": "a4a67c56490e714d",
+    "title": "Monocyte-amplified transcriptional signatures of human diseases",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.04.736372v1?rss=1",
+    "content": "Blood-based biomarkers discovered by machine learning often lack disease specificity and cross-population robustness for clinical applications. We describe a biomarker discovery strategy that exploits monocytes as circulating sentinels to amplify disease-perturbed signals in blood. This strategy leverages monocyteMINER, a mechanistic transcriptional regulatory network inferred from monocyte transcriptomes of 1,202 healthy individuals. As proof-of-concept, we uncovered a 31-gene atherosclerosis-perturbed network that underpins disease etiology, identifying diagnostic signatures for coronary artery disease (ARAP2, P2RY14, FKBP15) and acute myocardial infarction (SERPINA1, ASGR2). For tuberculosis (TB), monocyteMINER uncovered a 5-gene signature (MAS_TB_META5: ANKRD22, AIM2, VAMP5, GBP5, TGM2) from just 438 samples. MAS_TB_META5 outperformed 77 existing signatures across 18 cohorts (>4,400 patients, 12 countries), achieving WHO target product profile for high-sensitivity screening (including in advanced HIV patients), and predicting TB progression up to 5 years before diagnosis. Thus, our findings show that monocyteMINER offers a generalizable platform for discovering clinically actionable biomarkers for diverse diseases."
+  },
+  {
+    "id": "1c128ef5e2552d30",
+    "title": "Quantifying the Information Capacity of DNA Methylation as an Epigenetic Memory System",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.06.28.735086v1?rss=1",
+    "content": "The information content of the genome has been extensively analyzed. However, a comparable quantitative framework for DNA methylation is still lacking. Without such quantification, the magnitude of this regulatory and dynamic epigenetic structure remains conceptually imprecise, even though methylation dysregulation is strongly linked to disease-related phenotypes and altered cellular identity. Here we address this gap by applying Shannon information theory to DNA methylation. We first consider methylation marks as binary or probabilistic regulatory states and estimate the theoretical upper-bound information capacity of the human methylome under simplifying assumptions. We then progressively refine this estimate by incorporating biologically relevant constraints, including methylation bias, bimodal methylation distributions, local CpG correlation, genomic regulatory class, and cell-type-discriminative methylation patterns. This approach allows us to distinguish between theoretical methylation capacity, statistical methylation entropy, and biologically interpretable regulatory information. Finally, we consider methylation information from a discriminative perspective, analyzing its contribution to distinguishing cell types and regulatory cellular states. Within this framework, mutual information between methylation patterns and cell identity provides a biologically constrained estimate of methylations role as an epigenetic identity code. Our layered analysis reconciles megabit-scale methylome capacity with compact, biologically interpretable identity signatures.\n\nGraphical Abstract\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=113 SRC=\"FIGDIR/small/735086v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (73K):\norg.highwire.dtl.DTLVardef@19ba2d1org.highwire.dtl.DTLVardef@de63dcorg.highwire.dtl.DTLVardef@6e26eaorg.highwire.dtl.DTLVardef@1bcf4e0_HPS_FORMAT_FIGEXP  M_FIG C_FIG"
+  },
+  {
+    "id": "21ad7f48f7d84e06",
+    "title": "Declines in mRNA synthesis set the rate of organismal aging",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.02.733740v1?rss=1",
+    "content": "The abundance of mRNA sets a ceiling on a cells capacity to produce protein and carry out its functions. Here, we describe a pathological decline in absolute mRNA abundance that occurs in most cell types during invertebrate and mammalian aging, caused by decreases in mRNA synthesis capacity. In C. elegans, decreases in mRNA abundance are tightly coupled to declines in RNA Polymerase II (Pol II) protein abundance. Measuring Pol II abundance dynamics in vivo, we find that individuals enter adulthood with a four-fold excess of Pol II, whose kinetic equilibration towards its homeostatic set point drives reductions in mRNA abundance and, in turn, organismal aging. Briefly accelerating Pol II declines produces permanent, dose-dependent reductions in healthspan and lifespan, whereas deceleration extends both. Although disrupted cellular homeostasis is conventionally seen as a consequence of aging, our results reveal how an out-of-equilibrium state established during development provides a driving force for aging."
+  },
+  {
+    "id": "cb0a0ad20e1b717b",
+    "title": "Differentiable Design for Morphogenesis I: Simulation and Simulacra",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.02.736195v1?rss=1",
+    "content": "Cells build tissues through local exchanges of force and information, yet the rules governing these interactions are difficult to infer from sparse observations. Here, we introduce waxMorph, a differentiable cell-based framework for generating and reconstructing three-dimensional morphogenesis. In synthetic and biological data, waxMorph reproduced established mechanochemical shape programs, inferred continuous trajectories from static tissue volumes, and recovered spatially organized latent signals. In a developing mouse myocardium dataset, it reconstructed unobserved intermediate geometries more accurately than optimal-transport interpolation, while in forelimbs it distinguished related developmental trajectories. By varying the capacity and spatial organization of the latent cues available to cells, waxMorph also provides a model-based way to quantify the complexity of shape assembly. waxMorph is built within the spatial-computing ecosystem of NVIDIA Warp. It provides an open-source, Python-native, GPU-accelerated, hybrid physics-AI framework for learning how local cellular interactions give rise to biological form."
+  },
+  {
+    "id": "ae2f8a06e49eeeb8",
+    "title": "Multi-layered regulatory networks driving human dopaminergic neuron differentiation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735499v1?rss=1",
+    "content": "Neuronal differentiation requires coordinated regulation across chromatin organization, gene expression, protein abundance, and post-translational modifications. Using the LUHMES human dopaminergic neuronal differentiation model, we integrated proteome and phosphoproteome profiling with previously generated enhancer-promoter interaction maps from NET-CAGE and HiCap and transcriptomic analysis across three consecutive differentiation stages. Differentiation was accompanied by increased abundance and phosphorylation of proteins involved in axon guidance, cytoskeletal organization, and synaptic signaling, alongside repression of the cell cycle, DNA replication, and chromatin-associated programs. Phosphoproteome analysis further revealed extensive remodeling of signaling networks associated with neuronal maturation. Enhancer-promoter interaction analysis revealed substantially greater rewiring at enhancers than promoters and identified master and relay transcription factors regulated across multiple molecular layers. siRNA-mediated knockdown showed that transcription factors MYT1, ISL2, and NHLH2 are crucial for proper neuronal maturation, whereas LCOR acts as a negative regulator of differentiation. Integrative network reconstruction further nominated MEOX2 as a candidate enhancer-associated regulator of late dopaminergic maturation. Together, these findings provide a multi-layered view of regulatory networks governing human neuronal differentiation."
+  },
+  {
+    "id": "d4c16e26099846b3",
+    "title": "Machine Learning Gap-Fills Missing Transporter Kinetics in Biosystems Across Scales",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.02.735998v1?rss=1",
+    "content": "Understanding transporter kinetics is essential for deciphering metabolite exchanges in biosystems, particularly for cells subject to substrate gradients. Nevertheless, the prediction of transporter kinetic parameters, maximum rate per gram protein (Vmax) and Michaelis-Menten constant (Km), has not yet been tackled. Here, we developed the first compound-protein interaction machine learning model of transporter Vmax and Km, MMTKPred, which achieved R2=0.553, RMSE=1.155 mmol/hr/g Protein and R2=0.330, RMSE=0.935 mM for log10-scaled Vmax and Km prediction, respectively. Moreover, we demonstrated MMTKPreds predictive power across biosystem scales, from capturing transporter kinetics modulated by point mutations and substrate changes at the molecular level, to enabling substrate-sensitive metabolic modelling of non-model yeasts at the cellular level, and rationalizing inter-species substrate competition in co-cultures. Collectively, MMTKPred effectively models metabolite transport spanning from molecular to multi- species scales, thereby offering a computational tool for rational microbial cell factory optimization.\n\nGraphical abstract\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=200 SRC=\"FIGDIR/small/735998v1_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (62K):\norg.highwire.dtl.DTLVardef@1c70407org.highwire.dtl.DTLVardef@d98326org.highwire.dtl.DTLVardef@314296org.highwire.dtl.DTLVardef@a8c1a_HPS_FORMAT_FIGEXP  M_FIG C_FIG HighlightsO_LIMMTKPred, first transporter kinetics CPI model, reaches [~]1 log10 RMSE for Vmax and Km.\nC_LIO_LIMMTKPred captures the effects of point mutations and substrate changes on transporters.\nC_LIO_LIPredicted kinetics enables substrate sensitivity in metabolic flux modelling.\nC_LIO_LIPredicted kinetics explains inter-species substrate competition outcomes.\nC_LI"
+  },
+  {
+    "id": "79ebf6a9d72b9828",
+    "title": "Scalable biophysical constraints for physiologically consistent metabolic states",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736321v1?rss=1",
+    "content": "Systems biology aims to develop predictive models that connect molecular mechanisms to cellular behavior. Genome-scale metabolic models are among the most widely used frameworks for integrating stoichiometric, thermodynamic, and omics-derived information to predict feasible metabolic phenotypes. However, cellular metabolism operates on timescales governed by enzyme kinetics and by the relationship between metabolic fluxes and metabolite pool sizes. In steady-state metabolic models, this relationship can be expressed in terms of metabolite turnover rates, defined as flux-to-pool-size ratios that quantify how rapidly metabolite pools are renewed. As a result, physiologically consistent steady-state solutions should not only satisfy mass-balance and thermodynamic constraints but also exhibit turnover rates consistent with enzyme-mediated cellular dynamics. Current constraint-based approaches can admit many steady-state flux-concentration states that do not account for turnover rates, resulting in phenotypes incompatible with realistic metabolic dynamics, even when multiple types of data are imposed. Here, we present METEOR-K, an optimization framework that links steady-state metabolic fluxes to metabolite concentrations via turnover rate constraints to identify dynamically plausible flux-concentration reference states. Because these constraints reshape the feasible solution space, we also introduce turnover-rate-aware sampling strategies to efficiently explore the resulting feasible region. We applied METEOR-K to models of increasing scope and scale, including a reduced glycolysis pathway, anaerobic E. coli, and near-genome-scale ovarian cancer models. METEOR-K narrowed the admissible steady-state solution space, reduced uncertainty in feasible flux-concentration states, and improved local dynamic behavior. In nonlinear ODE simulations of bioreactor cultivation and drug-response scenarios, METEOR-K-derived states produced intracellular response times compatible with growth-supporting metabolic operation and perturbation recovery. Overall, these results establish metabolite turnover rates as scalable biophysical constraints that improve the physiological consistency of steady-state metabolic modeling. Because turnover rates encode flux-to-pool-size timescale constraints, METEOR-K moves part of physiological-consistency assessment upstream of kinetic parameterization, yielding better-suited flux-concentration reference states for kinetic modeling and dynamic prediction."
+  },
+  {
+    "id": "52ed9476beff217f",
+    "title": "Linking plantain derived metabolites in sheep urine with nitrification inhibition in soil",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.01.735958v1?rss=1",
+    "content": "Metabolites from Plantago lanceolata (plantain) biomass have been linked with biological nitrification inhibition (BNI) in soil. After grazing, leaf metabolite chemistry is altered via digestion, and a suite of secondary metabolites are then delivered onto soil via dung and urine. The purpose of this study was to establish if urine from sheep grazed on plantain had BNI activity when added to pasture soil, and to identify the metabolite profile(s) that most likely contribute to the BNI effects observed. Groups of sheep (n=5) were grazed on one of nine different plantain cultivars in autumn and spring with analysis of leaf material, urine, soil incubation and BNI bioassay data used to identify potential metabolite candidates implicated with BNI. The urinary nitrogen and metabolite composition of sheep fed plantain varied significantly between cultivars and season. After 28 days of incubation, all soil microcosms treated with plantain-derived urine had up to 35% less nitrate than comparative ryegrass urine controls in both seasons, except one in autumn. The key phytochemistry associated with lower soil nitrate concentrations was phenylethanoid and iridoid glycosides resulting in a higher output of glucuronidated, methylated and sulfated secondary metabolites in the urine. Among 19 secondary metabolites identified in the urine, hydroxytyrosol-related metabolites as well as catechol glucuronide, 2-methoxyphenyl sulfate and guaiacol-{beta}-D-glucuronide appear to be the most likely target compounds with respect to the BNI effects observed. Variation in metabolites from different plantain cultivars affected the ratio of metabolite derivatives in urine, which ultimately affected soil nitrification rates. Cultivar phytochemistry is therefore an important consideration with respect to BNI under urine patches.\n\nHighlightsO_LISheep grazing different plantain cultivars had different urine compositions\nC_LIO_LIUrines elicited biological nitrification inhibition (BNI) in soil and in vitro\nC_LIO_LIDifferent BNI response was related to differential expression of urine metabolites\nC_LIO_LIKey urine metabolites associated with BNI are derived from glycosidic compounds\nC_LI"
+  },
+  {
+    "id": "d2e3de8318ecd4a7",
+    "title": "Identifying Novel Targets of the Stringent Response in Plants and Cyanobacteria using chemoproteomics",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.01.735797v1?rss=1",
+    "content": "Survival in dynamic environments requires photosynthetic organisms to rapidly sense and respond to stress. The stringent response, mediated by the signaling molecule guanosine-3,5-bisdiphosphate (ppGpp), is crucial for acclimation to environmental changes such as darkness and nitrogen limitation. While it has been extensively characterized in heterotrophic bacteria such as Escherichia coli, the molecular mechanisms and regulatory targets of ppGpp in photosynthetic organisms remain less understood. Here, we report large-scale chemoproteomic identification of ppGpp-binding proteins across plant chloroplasts and cyanobacteria, revealing both conserved and novel targets compared to E. coli. In plants, we found that ppGpp regulates pyrimidine metabolism by inhibiting the chloroplastic enzyme aspartate transcarbamoylase (PyrB). In cyanobacteria, we found that ppGpp activates glucose-1-phosphate adenylyltransferase (GlgC) involved in glycogen synthesis, activates citrate synthase (GltA), and induces carboxysome aggregation. These findings expand the known ppGpp regulatory network in photosynthetic organisms and provide a foundation for understanding how ppGpp coordinates adaptation to nutrient and environmental stresses."
+  },
+  {
+    "id": "610b855343be12b7",
+    "title": "Weak form Scientific Machine Learning for Systems Biology: A Tutorial on WENDy",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.02.735880v1?rss=1",
+    "content": "Mechanistic ordinary differential equation models are widely used in systems biology to represent biochemical networks, population dynamics, cell-state transitions, and other biological processes; however, their predictive value depends critically on accurate parameter estimation from noisy and often sparse experimental data. In this tutorial, we present the Weak-form Estimation of Nonlinear Dynamics (WENDy) method as a forward-solver-free approach that reformulates parameter estimation as a covariance-corrected weak-form regression problem by integrating the model equations against compactly supported test functions. We present the background on the methodology through the lens of the familiar logistic equation, and we demonstrate applications of the method on real experimental data through two systems biology examples: a glycolytic oscillator with relatively dense time-course data and a sparse epithelial-mesenchymal cellstate transition model with multiple experimental replicates. Ultimately, using WENDy, we estimate interpretable biological parameters with uncertainty for systems with noisy and sometimes sparse available experimental data."
+  },
+  {
+    "id": "0610d2bffff6de6d",
+    "title": "Shield-4i: A Whole-mount Multiplexed Imaging Platform for Studying Multiscale Information Flow in 3D Multicellular Systems",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.01.735871v1?rss=1",
+    "content": "Self-organization in multicellular systems emerges from reciprocal interactions across spatiotemporal scales. Understanding how subcellular organization, tissue remodeling and developmental outcome are coordinated, thus requires simultaneous profiling of biological processes spanning orders of magnitudes in space and time. Yet, a unified experimental and computational framework for capturing these multiscale properties across in vivo and stem cell-derived systems has been lacking. Here, we introduce Shield-4i, a high-throughput, versatile, and accessible method for automated in toto iterative immunofluorescence imaging of whole-mount structures at subcellular resolution. Through polyepoxide-mediated inter- and intramolecular crosslinking, Shield-4i preserves sample integrity during repeated SDS-based elution cycles. We benchmark this method in gastrulating zebrafish and post-implantation mouse embryos and demonstrate its applicability to stem cell-derived 3D gastruloids, achieving up to 30-plex measurements of proteins and their post-translational modifications across hundreds of samples. To enable scalable analysis, we developed a dedicated 3D workflow supporting OME-Zarr-based and FAIR-compliant data storage, standardized processing, and multiscale feature extraction. Applying this framework to investigate gastruloid self-organization, we quantify how cellular physicochemical state and signaling properties encode cell position along embryonic axes and connect molecular patterning and fate decisions to morphological symmetry breaking at the multicellular scale. Together, Shield-4i provides a high-content in toto spatial proteomics platform for dissecting multiscale information flow and self-organization in multicellular systems."
+  },
+  {
+    "id": "e6fcf9cd16271512",
+    "title": "Biological Network Organization, Not Generic Graph Topology, Drives Graph-Based Gene Essentiality Prediction",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735480v1?rss=1",
+    "content": "Predicting gene essentiality across cellular contexts is a central challenge in computational biology, with implications for identifying cancer vulnerabilities. Graph neural networks (GNNs) integrate molecular interaction networks with gene-level features, but it remains unclear whether their performance gains arise from biologically meaningful connectivity or generic graph structure. Here, we systematically evaluate the role of network information in gene essentiality prediction using 2,741 genes across three tissues. We compare GNNs to feature-only baselines, including multilayer perceptron (MLP) and random forest (RF) methods, under a strict gene-level 5-fold cross-validation scheme to prevent information leakage. To isolate the role of network information, we assess models on the STRING protein-protein interaction network, a degree-preserving shuffled network, and a fully randomized network, with and without network-derived features. GNNs outperform feature-only models, reducing mean squared error and improving Matthews correlation coefficient across all tissues. However, these gains depend critically on biologically structured connectivity: performance degrades substantially under randomized topology and is not preserved by degree-constrained rewiring. Network features are largely redundant when using biologically meaningful graphs, as their information is recovered through message passing, but become important when topology is uninformative. Per-gene analyses reveal uniformly low correlations across models, highlighting intrinsic limits imposed by data variability. Graph Transformer models incorporating global attention do not outperform standard GNNs, indicating that predictive signals are predominantly local. Together, these results show that predictive gains arise from biologically structured connectivity rather than generic graph topology."
+  },
+  {
+    "id": "10ab2e252a0aab7c",
+    "title": "A Cross-Species Systems Genetics Framework Identifies Causal Genes in Diabetic Nephropathy",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735464v1?rss=1",
+    "content": "Diabetic nephropathy (DN) is the leading cause of kidney failure in the developed world, but the genetic architecture of DN susceptibility is not well characterised. Here we apply a systems genetics approach in a mouse model of DN to discover novel QTLs for clinically relevant phenotypes including albuminuria, glomerulosclerosis, and macrophage infiltration. For context and prioritisation, we combined single-cell-transcriptomics-guided pQTL and eQTL mapping with cell-type-specific co-expression networks, identifying 192 candidate pGenes for albuminuria. While many were novel, 27% had prior genetic associations, and 40% were validated in a human diabetic cohort. Twelve genes belong to a podocyte network enriched for human GWAS signals. Among those, functional significance of the E3 ubiquitin ligases DCAF6 and ZNRF2 was confirmed by knockdown in Drosophila nephrocytes. Our systems genetics approach identified DN susceptibility genes previously validated in human GWAS while uncovering potential new genes and pathways that could be exploited for risk stratification and therapeutics development."
+  },
+  {
+    "id": "e408b7397c2a920b",
+    "title": "Hierarchical Cytochrome P450 Oxidations Program Persiathiacin Assembly",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737402v1?rss=1",
+    "content": "Thiopeptides are ribosomally synthesized and post-translationally modified peptides (RiPPs) that form complex bioactive scaffolds through extensive enzymatic tailoring. The polyglycosylated thiopeptides persiathiacins, exhibit potent activity against multidrug-resistant Mycobacterium tuberculosis (Mtb) and methicillin-resistant Staphylococcus aureus (MRSA). The persiathiacin biosynthetic gene cluster encodes six cytochrome P450 (CYP) enzymes, but the logic of their oxidative modifications was unknown. Here, we establish a protoplast-based genetic system for Actinokineospora and systematically assign functions to all P450s. We demonstrate that PerX hydroxylates the central thiazole, PerV installs the third indole-core crosslink required for macrocyclization, and PerT, not PerU, catalyses indole N-hydroxylation. Combined gene inactivation and metabolite profiling reveal a hierarchical enzymatic sequence leading to the mature scaffold prior to sugar installation. Notably, the intermediate accumulating in the {Omega}perX mutant exhibits enhanced anti-M. tuberculosis potency compared to persiathiacin A (IC50 = 0.07 vs 1.5 g mL1). These results define the enzymatic logic and temporal organization of persiathiacin biosynthesis, providing a conceptual framework for rational diversification of complex thiopeptide natural products."
+  },
+  {
+    "id": "5b129f1fd29c264f",
+    "title": "Physiological, Behavioral, and Genetic Factors that Shape Interactions in a Plant-Growth-Promoting Maize Rhizosphere Synthetic Community",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737579v1?rss=1",
+    "content": "Profiling microbiomes is an important way to understand the function and composition of communities in the wild, but natural microbiomes are often highly complex and often unamendable to experimentation to reveal cause and effect relationships. By using a small group of cultivable strains to represent those found in the wild, synthetic communities are one solution to this problem. Here we describe the MAize Rhizosphere Synthetic Community (MARSc), a genome-enabled 31-member bacterial community representative of the diversity found on the roots of maize grown in Iowa soils. This community is built around Pseudomonas putida KT2440, a model maize rhizosphere colonist and synthetic biology chassis. We characterized microbe-microbe interactions and biofilm formation of MARSc members in a variety of environmental contexts, finding that both behaviors are broadly controlled by nutrient levels. Genomic analysis and microbiome profiling of these organisms revealed that annotated biofilm genes (such as surface attachment and exopolysaccharide production) correlated to rhizosphere colonization, but neither trait correlated to in vitro biofilm formation. In vitro interactions assay findings were surprisingly consistent with co-correlations of rhizosphere abundance amongst MARSc members on roots. Finally, we found that when applied to the roots, MARSc can increase maize growth under nitrogen-limiting conditions. Altogether, MARSc is a useful tool for identifying some of the factors influencing rhizosphere microbiome assembly and will be a strong foundation for further work in this area."
+  },
+  {
+    "id": "fa1f532180f96a7f",
+    "title": "Anoxia selects for high fitness biofilms and increased antibiotic resistance in Pseudomonas aeruginosa",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737528v1?rss=1",
+    "content": "Antibiotic resistance is a growing global health crisis, yet resistance is almost exclusively quantified under aerobic laboratory conditions that fail to reflect the complex microenvironments bacteria encounter during infection. Many clinically important infection sites, such as airways of individuals with cystic fibrosis or chronic wounds, are microaerobic to anoxic. To address this, we investigated how anoxia alters antibiotic resistance determinants, hypothesizing that anaerobic metabolism might change the fitness effects and selection of resistance mutations. We used experimental evolution to propagate Pseudomonas aeruginosa populations for approximately 200 generations under conditions differing in oxygen availability (oxic vs. anoxic), growth mode (biofilm vs. planktonic), and tobramycin (TOB) exposure (subinhibitory increasing to inhibitory concentrations). Subinhibitory exposure was sufficient to achieve resistance 2-4x greater than ancestral levels, with anoxic populations consistently showing higher minimum inhibitory concentrations than oxic comparisons. Resistance developed through condition-dependent genomic targets: mutations in amgS were selected in oxic populations, while fusA1 and ptsP mutations arose across all conditions. Notably, mexT mutations were nearly universally selected, particularly under anoxic or tobramycin-exposed conditions. mexT inactivation may also enhance virulence through altered quorum sensing and increased rhamnolipid production. Anoxic populations additionally exhibited significantly increased biofilm formation, some exceeding 1000% of ancestral levels, reduced twitching motility driven by type IV pilus gene mutations, and greater competitive fitness. Together, these findings demonstrate that oxygen availability shapes resistance evolution in P. aeruginosa, with the anoxic environment selecting for a more virulent, sessile, and antibiotic-resistant phenotype."
+  },
+  {
+    "id": "ea358825a1fe65e7",
+    "title": "MHC-II acts as a fusion-triggering receptor for bat influenza virus",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737388v1?rss=1",
+    "content": "Influenza A virus hemagglutinin is a prototypical class I viral fusion protein that binds sialylated glycans and is activated by low pH in endosomes. In contrast, bat-derived IAV subtypes H17N10 and H18N11 use major histocompatibility complex class II (MHC-II) as an entry receptor, but how this receptor contributes to membrane fusion remains unknown. We find that MHC-II-dependent hemagglutinin subtypes H17, H18, and H19 possess an increased negative net charge relative to canonical HAs. Using cryo-electron tomography, we demonstrate that H18N11 morphology remains stable and H18 is in prefusion conformation at strongly acidic pH. Remarkably, H18 undergoes fusion-relevant conformational changes only when both MHC-II binding and low pH are present. By reconstitution of H18N11 fusion with liposomes and purified MHC-II, we show that receptor engagement is required to trigger the fusion activity of H18. These findings identify MHC-II as a receptor that directly triggers membrane fusion and reveal a previously unrecognized receptor-dependent mechanism of influenza virus entry."
+  },
+  {
+    "id": "333a28c0c420fe39",
+    "title": "Gut microbiota promote early-life digestive function in songbirds",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.736762v1?rss=1",
+    "content": "The vertebrate digestive tract harbors complex microbial communities whose influences on phenotypes and fitness in non-model organisms remain poorly understood. Here, we show that colonization with gut microbiota is critical for digestive development and function in a non-model songbird, the House sparrow (Passer domesticus). We raised nestlings under sterile (axenic) conditions and compared them to nestlings reconstituted (conventionalized) with microbiota from adult sparrows. Conventionalization drove significant increases in villus length, crypt depth, goblet cell density, and mucosal thickness in the small intestine. Conventionalized nestlings also exhibited increased growth of several digestive organs and elevated circulating bile acid levels, including bacterial metabolites known to promote growth and lipid metabolism in vertebrates. These results reveal functions of songbird microbiota and establish axenic methods for non-model oviparous vertebrates."
+  },
+  {
+    "id": "e79bcab34ab5f8bf",
+    "title": "Perturbations shift the composition of bacterial DNA carried by virus-like particles in the murine gut microbiome",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737213v1?rss=1",
+    "content": "Horizontal gene transfer (HGT) is a driving force in microbial evolution that allows community members to rapidly evolve to cope with environmental stressors and competition. Despite the importance of HGT for the generation of genetic diversity, little is known about the specific mechanisms or dynamics of transfer in complex communities. Transductomics is a sequencing based technique which identifies potential HGT by bacteriophages (transduction) through sequencing of the transductome - the DNA carried by bacteriophages and other virus-like particles in a sample. We analyzed the murine gut transductome before and after perturbations with antibiotics and Clostridioides difficile infection (CDI). We found that several bacterial families - the Oscillospiraceae, Butyricoccaceae, and Turicibactericeae - disproportionally contributed to the transductome. Some families, like the Butyricicoccaceae, were frequent transducers in both the baseline and perturbed murine gut microbiome while other taxa displayed condition-specific transduction indicating that there may be specific transducing subpopulations or regulatory mechanisms controlling transduction frequency. Additionally, we found a diversity of highly abundant and enriched mobile genetic elements (MGEs) in the transductome including plasmids, integrative conjugative elements, phage satellites and transposons. The detection of MGEs containing conjugative elements suggest that some MGEs may spread through both transduction and conjugation. Overall, our work reveals a complex network of gene exchange occurring through transduction in the gut microbiome."
+  },
+  {
+    "id": "5f9bda8928a52d27",
+    "title": "Competition between co-localized gut symbionts underlies inter-individual variation in the honeybee gut microbiota",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737433v1?rss=1",
+    "content": "Microbes in the animal gut compete to colonize spatially restricted host niches. However, whether competition for space drives inter-individual variation among hosts, and which factors determine the outcome of such competition, remain poorly understood. Here, we investigated competitive interactions of the western honeybee gut symbiont Frischella perrara with other members of the bee gut microbiota. Shotgun metagenomics analysis of individual bees revealed that F. perrara is negatively correlated with a specific species of the genus Gilliamella. Co-colonization of microbiota-depleted bees with these two bacteria resulted in their competitive exclusion. The outcome of this competition depended on the relative number of bacteria each bee received and benefited Gilliamella when one of the two type VI secretion systems of F. perrara was mutated. Using fluorescently tagged strains, high-resolution microscopy, and gut region-specific quantification, we show that both bacteria localize to the same host niche in the ileum of mono-colonized bees, indicating competition in a spatially restricted host niche. Moreover, both microbes protected against infection, promoting bee health. This competition provides an explanatory mechanism underlying variation in the occurrence of F. perrara across honeybee colonies and highlights the importance of gut spatial structure and microbial competition in shaping microbiome composition and inter-individual variability."
+  },
+  {
+    "id": "f6edba9bbe5ec11c",
+    "title": "Complement receptor-mediated uptake into renal mononuclear phagocytes promotes intracellular UPEC persistence and limits \u03b2-lactam efficacy in pyelonephritis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737431v1?rss=1",
+    "content": "Introduction: Acute pyelonephritis remains a major clinical problem. Relapses occur despite apparent-ly appropriate antibiotic therapy, suggesting that uropathogenic Escherichia coli (UPEC) persist in intrarenal niches. Intracellular bacterial reservoirs are a plausible explanation, but the relevant host cells, entry mechanisms and therapeutic implications in the kidney remain undefined. In principle, such reservoirs should favor choosing intracellularly active antibiotics, but increasing resistance to many of these agents leaves {beta}-lactams widely used in clinical practice, despite their predominantly extracellular activity. Methods: We analyzed murine pyelonephritis to identify the cellular reservoir of persistent UPEC. We generated mice genetically deficient for complement receptors CR3 and CR4 and tested their role in bacterial entry and persistence in vivo. Pharmacological complement receptor inhibition was applied to assess whether blocking bacterial re-entry into host cells improves antibiotic efficacy. Results: Renal MNP were identified as the major intracellular reservoir for UPEC in mice. Comple-ment opsonization enabled bacterial entry into these cells through CR3 and CR4, allowing UPEC to evade neutrophil-mediated killing and extracellularly active antibiotics. Genetic deletion of CR3 and CR4 abolished intracellular bacterial persistence and reduced renal bacterial burden. Because MNP undergo physiological turnover, intracellular UPEC must periodically exit host cells and infect new ones. Pharmacological inhibition of complement receptors prevented such bacterial re-entry and en-hanced the efficacy of {beta}-lactam antibiotics which cannot penetrate cell membranes. Conclusions: Complement receptor-mediated entry into renal MNP establishes an intracellular UPEC reservoir that promotes persistence during pyelonephritis. Blocking these receptors prevents renewal of the intracellular niche and improves {beta}-lactam efficacy in vivo."
+  },
+  {
+    "id": "1da13548aac8d22f",
+    "title": "Ecological specificity and interconnectivity in Danish environmental resistomes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737170v1?rss=1",
+    "content": "Environmental resistome comprises diverse antibiotic resistance genes (ARGs) that can play critical roles in \"One Health\", facilitating the evolution, persistence, and dissemination of microbial resistances. Yet, knowledge gaps exist in resistome structures and ecological connectivity across various ecosystems at a national scale. Here, we combined nationwide extensive short- and long-read sequencing efforts for soils, sediments, waters and wastewater treatment plants across Denmark to resolve resistome composition, habitat specificity and connectivity. From over 7,000 sequenced environmental samples (24 Tb of metagenomic data) that were classified into 21 distinct habitat classifications, resistomes exhibited habitat-specific patterns. We identified core ARGs for establishing environmental baseline of ARGs, and habitat-associated indicator ARGs facilitating source tracking. Using 110 deep long-read metagenomes (9 Tb data), we showed that only a subset of cross-habitat commonly-abundant ARGs showed elevated associations with MGEs and broad host range, suggesting unequal resistome connectivity across ecosystems among environmental ARGs. Additionally, although natural habitats had much lower resistome relative abundance and transferability than human-associated habitats, some mobile environmental ARGs exhibited links to those in human pathogens. These findings establish an ecological framework for interpreting environmental resistomes and prioritizing ARGs for environmental surveillance in the One Health framework."
+  },
+  {
+    "id": "903617abb3282fd6",
+    "title": "Differential drought sensitivity of total and active wheat rhizosphere microbiome during rainfall reduction",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.735272v1?rss=1",
+    "content": "Root-associated microorganisms play a pivotal role in helping plants adapt to drought stress. However, the underlying mechanisms of the rhizospheric microbiome under limiting soil moisture remain largely unresolved. Integrating total and active microbiome analyses enables a more accurate interpretation of microbial responses to climate change-associated water stress. We assessed the effect of reduced rainfall on two wheat genotypes, drought-tolerant (DT) and drought-sensitive (DS), using rainout shelters that allowed 100%, 75%, 50%, and 25% of natural precipitation to reach the crop. At the peak of the growing season, rhizosphere samples were collected for metagenomic (MG) and metatranscriptome (MT) sequencing. In parallel, rhizosphere volatile organic compounds (VOCs) were collected and analysed. Differential expression analysis of metatranscriptomic data using metagenomic abundance as a cofactor was performed by comparing all treatments to the 100% precipitation control. Our results demonstrate that particularly oxidative stress-related transcripts intensify in DS as rainfall decreases. Transcriptomic shifts primarily involved upregulation of transcripts associated with antioxidant (catalase, superoxide dismutase), heat shock proteins (Hsp10, Hsp60, DnaK/DnaJ, GroEL, GroES), as well as microbial functions related to osmoregulation, proline and glycine betaine (PutA, PutP, OpuBB), and plant growth-promoting traits such as auxin production, phosphate solubilization. Moreover, volatile organic compound (VOC) emissions differed significantly between the control and drought treatments, with higher emissions, particularly acetates, in the DS genotype than in the DT genotype. Overall, pronounced drought-induced shifts in active microbial functions and VOC emissions indicate high sensitivity and functional plasticity of the active microbiome, whereas the total microbiome remains robust under medium drought."
+  },
+  {
+    "id": "8b64578704affcb8",
+    "title": "Assembly of the essential SpoIVA coat protein at the surface of developing bacterial spores",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737436v1?rss=1",
+    "content": "Bacterial spores owe their remarkable resistance properties to a multilayered coat, one of the most resilient and durable biological structures on Earth. Assembled at the surface of the outer forespore membrane, the coat comprises dozens of proteins organized into distinct layers. Its formation is initiated by SpoIVA, which is proposed to form a polymeric scaffold for the innermost coat layer. Although SpoIVA has been shown to polymerize into filaments in vitro, there is currently no evidence demonstrating the formation of such assemblies in vivo, and the mechanism underlying its oligomerization remains unresolved. In this study, cryo-focused ion beam milling combined with cryo-electron tomography of sporulating Bacillus subtilis cells reveals that the SpoIVA layer consists of polymers that form track-like structures radiating from the mother cell-proximal forespore pole and extending directionally toward the distal pole. Subtomogram averaging further sheds light on their organized architecture, harboring a straight orientation, uniform spacing, and embedding in the outer forespore membrane. These observations also define SpoIVA spatial orientation relative to the outer forespore membrane. Furthermore, AlphaFold3 predictions, combined with biophysical and functional assays, show that SpoIVA dimerizes through its central and C-terminal regions. We further show that dimerization promotes SpoIVA localization around the forespore but is dispensable for polymer formation, which relies on the ATPase domain. Altogether, these findings suggest a dual oligomerization mechanism, in which SpoIVA transitions from dimers to linear track-like polymers, and reveal that these assemblies play critical roles in coat assembly and spore development."
+  },
+  {
+    "id": "a3327aa66cb88de4",
+    "title": "An engineered biofactory for efficient production of diverse recombinant superoxide dismutase isozymes loaded with specific metal ions for biochemical characterisation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737244v1?rss=1",
+    "content": "Background: Biochemical, biophysical and structural characterisation of isozymes from the ubiquitous family of iron- or manganese-dependent superoxide dismutases (SodFMs) requires the purification of high-quality preparations of recombinant enzymes. Determination of their key biochemical parameter, their catalytic metal-preference, requires the comparison of the catalytic turnover of samples loaded exclusively with iron versus samples loaded exclusively with manganese. Both of these aims are inhibited by the potential contamination of recombinant preparations of SodFMs, prepared by heterologous overexpression inside Escherichia coli cells, by even low levels of endogenous SodFMs from the host, both of which show very high turnover with either manganese (E. coli MnSOD) or iron (FeSOD). To overcome this problem, we created a strain of E. coli lacking the endogenous SodFMs. Here, we characterised this E. coli BL21 (DE3) {Delta}sodA{Delta}sodB strain, determining the physiological effects of SodFM deletion and demonstrating its utility for producing recombinant SodFMs for in vitro characterisation and use. Results: Genomic analysis verified the targeted gene deletions, without off-target effects. Growth, expression, elemental analysis, and proteomic data confirmed a lack of physiological defects of the strain except for a known inability to grow on glucose, which is overcome by heterologous SodFM expression. We demonstrate the utility of the strain for the efficient production of diverse recombinant SodFMs, including highly divergent, understudied isozymes, including the ability to precisely control the metal-loading of the heterologously expressed protein. Conclusions: The E. coli strain described herein is a useful microbial cell factory for production of recombinant SodFMs, which should find widespread utility as expression host of choice, enabling more efficient production of protein for studies of the biochemical, biophysical and structural properties of this remarkable family of metalloenzymes."
+  },
+  {
+    "id": "70614c5b363c01f5",
+    "title": "Genomic and biochemical contexts determine the physiological role of a horizontally acquired gene",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737255v1?rss=1",
+    "content": "The horizontally acquired mgtC gene from Salmonella enterica confers this bacterium the abilities to survive episodes of magnesium (Mg2+) starvation, and to replicate in mammalian macrophages. The former property allows bacteria to persist in the environment through periods of Mg2+ depletion, whereas the latter allows S. enterica to overcome self-limiting intestinal colonization and cause an invasive systemic infection in susceptible mammalian hosts. Even though the biochemical function of MgtC is not completely understood, this protein is thought to function primarily by preventing the production of toxic levels of Mg2+-chelating adenosine triphosphate (ATP). In the current work, we investigated the physiological roles of mgtC homologs from an array of bacterial species, by probing the processes controlled by this gene during replication in low Mg2+ medium and in macrophages. We determined that MgtC homologs that do not participate in Pi homeostasis during Mg2+ starvation and do not promote intramacrophage replication in their resident species can partake in these processes when expressed in S. enterica. This indicates that the function of this protein is context-dependent. Accordingly, we show that the physiological processes affected by S. enterica MgtC vary, depending on whether the bacteria replicate in low Mg2+ medium or inside macrophages. While these results suggest that MgtC is a regulator, they also demonstrate that horizontally acquired genes can assume different roles, depending on the genome and the biochemical context into which they are inserted."
+  },
+  {
+    "id": "1b24d16c407ef518",
+    "title": "Long read and short read whole genome sequencing are equivalent for genomic characterisation of bacteriophage: considerations for high throughput analysis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737226v1?rss=1",
+    "content": "Background: Antimicrobial resistance (AMR) is a global health crisis, necessitating alternative antibacterial strategies. Bacteriophages (phages) offer a promising solution, and their use as a therapeutic agent relies on stringent bioinformatic characterisation using whole genome sequencing (WGS) technologies. However, phages are highly diverse, with no clear consensus on best practices concerning phage DNA extraction or sequencing platform. Efficient and repeatable DNA extraction, sequencing, and bioinformatics processes are critical for safety assessments but remain poorly defined. Additionally, the impact of sequencing platform choice and DNA extraction methods on downstream genomic analyses is not well understood. Methods: We evaluated multiple DNA extraction, library preparation, and sequencing approaches using a diverse collection of Pseudomonas phages from the PhageWA biobank. Column-based and precipitation-based DNA extraction methods were compared for DNA yield and recovery efficiency. Genome sequencing was performed using short-read (Illumina) and long-read (Oxford Nanopore Technologies) platforms, incorporating multiple library preparation kits and Nanopore basecalling models. Assemblies were assessed for completeness, quality, and sequence concordance using standardised bioinformatics pipelines, with hybrid Illumina-Nanopore assemblies used as references for comparison. Results: DNA extraction efficiency varied substantially between protocols, with the Puregene precipitation-based method yielding significantly higher DNA recovery than column-based approaches when normalised to phage titre. Illumina sequencing consistently generated complete genome assemblies, although assembly fragmentation was observed for several jumbo phages when using the SeqWell ExpressPlex 2.0 library preparation method. For Nanopore sequencing, ligation-based native barcoding libraries produced longer reads than rapid barcoding libraries, while selection of the Dorado v5.0.0 basecalling model significantly improved read quality. Genome assembly success was dependent on phage genus; native Nanopore sequencing failed to assemble several Pbunavirus genomes, likely due to modified DNA bases, but an amplification-based library preparation successfully resolved these genomes. Across successfully assembled samples, Illumina and Nanopore platforms produced highly concordant genomes with comparable completeness scores, and hybrid polishing identified only minor sequence differences. Conclusions: DNA extraction methodology, sequencing chemistry, and basecalling model selection significantly influence phage WGS outcomes. Precipitation-based DNA extraction improved DNA recovery, while both Illumina and Nanopore sequencing generated high-quality phage genomes suitable for therapeutic characterisation. Nanopore sequencing provided assemblies comparable to Illumina with minimal benefit from hybrid polishing, supporting its routine use for phage genomics. These findings provide practical guidance for phage genome characterisation workflows and contribute to the development of standardised, regulatory-grade approaches for therapeutic phage assessment."
+  },
+  {
+    "id": "3d22bffffecea1fe",
+    "title": "CRISPR-Cas interference decays rapidly with distance from the leader sequence in a long array",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737519v1?rss=1",
+    "content": "Spacer efficacy generally declines with distance from the leader sequence, but the scarcity of fine-scale studies hampers comparisons across taxa. Here, we investigated positional effects across an exceptionally long 121-spacer CRISPR array associated with the type I-C cas operon of a Myxococcus xanthus natural isolate. In plasmid-interference assays, we found that interference rapidly declined with distance from the leader sequence, with only the proximal ~4% of spacers conferring measurable interference. This contrasts strikingly with a study in Vibrio cholerae, in which it was shown that ~95% of spacers in a shorter (39-spacer) array were effective. Our results suggest that there is great variation in the effective proportion of spacers across species, highlighting the need for fine-scale studies of CRISPR-array activity across diverse bacterial lineages."
+  },
+  {
+    "id": "e659a738c0b6f627",
+    "title": "Living in a metal-rich world: Enhanced growth and reduced metal accumulation in Fusarium fungi from the Kiirunavaara iron ore mine",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737466v1?rss=1",
+    "content": "Background: Human activities such as mining generally lead to increased heavy metal concentrations in the environment. While traditional remediation techniques are often costly, the use of fungi as bioremediators, known as mycoremediation, is increasingly gaining attention as a sustainable approach for removal of heavy metals. Here, we evaluated heavy metal levels inside the Kiirunavaara iron ore mine in Northern Sweden and analysed fungal responses to various metal concentrations by comparing growth and metal uptake in mine-derived isolates and closely related control isolates. Results: Sediments inside the mine were enriched in heavy metals compared to those from the outlet of the mine to natural lakes. Six Fusarium isolates were recovered from contaminated mining environments: five isolates from inside the mine were identified as Fusarium oxysporum, and one isolate from the outlet was identified as Fusarium tricinctum. Isolates from the mine and outlet showed overall higher survival and biomass production in presence of copper, iron, and zinc across a range of concentrations (up to 1000 mg/L) compared to control isolates. At the same time, these isolates often exhibited reduced relative metal uptake. As a result, mycoremediation potential, assessed as total uptake in the grown mycelium, was isolate-dependent. Conclusions: Based on these results, we conclude that Fusarium isolates from the Kiirunavaara mine show increased growth in media enriched with heavy metals compared to closely related control isolates. We additionally show that mycoremediation potential is not necessarily associated with environmental origin. Instead, mycoremediation potential should be evaluated on a case-by-case basis for each isolate and based on specific needs for mycoremediation."
+  },
+  {
+    "id": "04d883801602cb24",
+    "title": "Emergence of plasmid-borne erm(55)-associated macrolide resistance in Mycobacterium chelonae and other rapidly-growing non-tuberculous mycobacteria in Europe",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737060v1?rss=1",
+    "content": "Macrolides are key agents for treating infections caused by non-tuberculous mycobacteria (NTM). Nevertheless, chromosomal erm genes conferring inducible macrolide resistance are described in some NTM species, such as Mycobacterium abscessus and M. fortuitum, whereas M. chelonae had long been considered as lacking a functional erm. Recent descriptions from the USA and Japan of a new plasmid-borne erm(55) (erm(55)P) in M. chelonae and other rapidly growing mycobacteria (RGM) have challenged this assumption. We investigated erm(55)P occurrence in clinical RGM referred to the French National Reference Centre for Mycobacteria between 2012 and 2026 by genome screening and erm(55)P specific real-time PCR. Positive isolates underwent long-read whole genome sequencing (GridIon, Oxford Nanopore Technologies). Clarithromycin (CLR) minimum inhibitory concentration (MIC) was determined by broth microdilution (RAPMYCO and FRATMYC, Thermo Fisher) and read up to 14 days. Five clinical isolates showing inducible CLR resistance (MIC range <0.25-64 mg/L on day 3-4 and 128 - >128 mg/L on day 14) were positive for erm(55)P: one M. chelonae, three M. neoaurum, and one M. parafortuitum. erm(55)P-positive M. chelonae genomes from this and previous descriptions did not cluster together in the phylogenetic analysis of 263 genomes. The assembled plasmids showed high similarity to previously reported erm(55)-carrying plasmids, especially within the erm(55)P region. The upstream sequence of erm(55)P showed a secondary structure compatible with a possible translation attenuation mechanism. These findings document the first report of a plasmid-borne erm(55) in Europe in M. chelonae and other RGM and raise concern about the emergence of plasmid macrolide resistance in NTM."
+  },
+  {
+    "id": "b38e30822e08cdfe",
+    "title": "The nucleoside analog CMX521 inhibits coronavirus RNA-dependent RNA polymerase via a two-pronged mechanism",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.07.737000v1?rss=1",
+    "content": "The SARS-CoV-2 pandemic has underscored the urgent need for broad-spectrum antivirals in pandemic preparedness efforts. Nucleoside analogs targeting viral polymerases are often considered in this context. Here, we employ ensemble biochemical assays and single-molecule magnetic tweezers to characterize the detailed mechanism of action of the adenosine analog CMX521 (developed through Phase 1 clinical studies), a broad-spectrum antiviral against caliciviruses and coronaviruses, against SARS-CoV-2 RNA-dependent RNA polymerase (RdRp). The triphosphate form of CMX521 is efficiently incorporated by RdRp, even against saturating ATP concentrations. Analog incorporation induces only a brief pause in nascent RNA synthesis. When embedded in the template strand, CMX521 causes the polymerase to stall ~9 s on average due to impaired uridine opposite incorporation. Multiple CMX521 residues in the template strand completely inhibit polymerase elongation. When the coronavirus polymerase is associated with the viral helicase, CMX521 strongly promotes copy-back RNA synthesis suggesting a second inhibitory mechanism for CMX521. Collectively, our findings establish a two-pronged mode of coronavirus polymerase inhibition by CMX521."
+  },
+  {
+    "id": "1055d1f0a4ba3a0a",
+    "title": "Early-life acquisition of Lactobacillaceae protects against experimental cholera",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737341v1?rss=1",
+    "content": "Cholera causes severe diarrheal illness in young children, but the mechanisms underlying age-dependent susceptibility remain unclear. Experimental cholera in neonatal mice recapitulates age-dependent susceptibility: suckling mice are susceptible to Vibrio cholerae colonization and cholera toxin (CT)-dependent disease, whereas adult mice are not readily colonized and do not develop cholera-like disease. Here, we define a developmental window in which susceptibility declines sharply over the first two postnatal weeks. Maternal antibiotic exposure disrupted vertical transmission of maternal microbiota to offspring and altered distal small intestinal microbiota assembly, extending the window of susceptibility to CT-dependent V. cholerae colonization and disease. Pups born to antibiotic-treated dams exhibited reduced Lactobacillaceae and increased Enterobacteriaceae, and reintroduction of an endogenous Lactobacillus isolate restored offspring lactobacilli levels and reestablished resistance to experimental cholera at two weeks of age. Consistent with a direct protective role, increasing lactobacilli in susceptible neonatal mice reduced experimental cholera burden, and cultures of the endogenous Lactobacillus isolate as well as spent culture media acidified the in vitro growth environment and rapidly eliminated recoverable V. cholerae. Together, these findings identify vertical transmission of maternal microbiota to offspring and lactobacilli-associated antagonism as determinants of early-life resistance to cholera."
+  },
+  {
+    "id": "75c6fbad6a4f1358",
+    "title": "Asymmetry and niche partitioning shape the infection dynamics of co-transmitted Wolbachia symbionts",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737353v1?rss=1",
+    "content": "Wolbachia is an incredibly widespread maternally transmitted bacterium in arthropods that can alter host physiology, nutrition, reproduction, and immunity. In some cases, multiple Wolbachia strains infect the same host and are stably transmitted alongside each other. This raises the question of how multiple intracellular symbionts interact with each another and with the host to ensure stable transmission. Here, we use fluorescence in situ hybridizations and confocal microscopy to investigate co-transmission in a naturally occurring co-infection of two Wolbachia strains in Drosophila simulans: wHa and wNo. We find significant differences in spatial occupancy and abundance between the co-transmitted strains across stages of oogenesis and embryogenesis. We show that wHa and wNo have biases for different niches during oogenesis, and their strain-specific abundance is driven by egg chamber development, mating status, and their interaction. After differential curing of the co-infection, we find that wNo is dependent on wHa for vertical transmission, but not vice versa. Additionally, while wHa localization patterns are unchanged by loss of co-infection, abundance of wHa in the ovaries increases when wNo is removed. Understanding how symbiont co-infections achieve stability has important implications for the ongoing use of Wolbachia as a tool for insect management programs, but also for our understanding of the ecology of intracellular communities more broadly."
+  },
+  {
+    "id": "81ea246a3e9d584f",
+    "title": "Spatial turnover amplifies with trophic level in hyperdiverse food webs",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.10.732889v1?rss=1",
+    "content": "One of the most intuitive ideas in ecology is that diversity at lower trophic levels in food webs provides niches to support diversity at higher trophic levels. This accumulation of diversity can be limited by survival of species in the landscape, but revealing these limits has been challenging. We analyze spatial turnover in a hyperdiverse parasitoid-caterpillar-plant food web across 75,000 km2 of continuous lowland rainforest in Papua New Guinea. Species turnover across sites is higher in parasitoids than in their caterpillar hosts. Furthermore, turnover of interactions is also higher in parasitoid-caterpillar than caterpillar-plant networks. Spatial turnover thus amplifies upwards across trophic levels, forcing parasitoids to live closer to spatial persistence limits. Consequently, progressing rainforest fragmentation can especially endanger parasitoids."
+  },
+  {
+    "id": "10bebaaf4a31fb8b",
+    "title": "From soil to sea: unravelling the metabolic versatility and social dynamics of Myxococcota bacteria from different Danish environments",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.10.737566v1?rss=1",
+    "content": "Myxococcota are globally distributed bacteria renowned for their remarkable ecological and biotechnological significance due to their complex lifestyles, social behaviour, and secondary metabolite production. Despite their ubiquity in diverse environments, including soil, marine, and extreme habitats, their diversity and ecological roles remain underexplored. Here, we utilized the Microflora Danica dataset, encompassing >10,000 metagenomes and >400 rRNA gene datasets from various environments in Denmark, to investigate the distribution, diversity, and metabolic potential of Myxococcota. We show that Myxococcota are ubiquitous but strongly structured by environment, with soil-associated lineages enriched in predatory and multicellular development traits, whereas aquatic-associated taxa exhibit alternative lifestyles, including anaerobic metabolism and phototrophy. Comparative genomic analysis reveals widespread potential for secondary metabolite production, hydrocarbon degradation, and organohalide transformation, alongside diverse contribution to carbon and nutrient cycling. Together, these findings redefine Myxococcota as a functionally diverse and ecologically differentiated phylum, extending beyond canonical predation and multicellularity, and underscore their promise as large reservoir of unexplored functional potential for biotechnological applications in drug discovery and environmental remediation."
+  },
+  {
+    "id": "9202d9aac8921b4e",
+    "title": "Environmental conditions drive selection and recovery following disease-induced declines",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737596v1?rss=1",
+    "content": "Emerging infectious diseases threaten public health and biodiversity across the globe1,2. Disease outcomes are frequently dependent on local environmental conditions3-5, but how these factors shape host adaptation and long-term recovery are often unknown6. Here we combine two decades of population, disease, and environmental data with a common garden experiment to investigate the drivers of variable declines and recovery for remnant bat populations following the emergence of the fungal disease, white-nose syndrome. We find that initial declines were greater and faster in warmer sites (88.3% vs. 74.2% in cold sites), but these populations recovered more quickly and hosts developed higher resistance (1.5x reduction of fungal loads) than populations from colder sites that were buffered from initial impacts. Our experimental data suggest that warm sites served as hotspots of host adaptation where selective pressures were stronger because thermal conditions approached optimal growth for the pathogen, which eventually favored the development of high pathogen resistance. Populations in colder sites experienced weaker selective pressure and thus remain more susceptible, although bats from larger colonies were more likely to survive, suggesting that adaptive traits exist in these populations, but at much lower frequency. These findings show that the environmental conditions that initially buffer populations from collapse can simultaneously constrain their evolutionary response to emerging threats, and ultimately determine differential recovery following disease-induced declines."
+  },
+  {
+    "id": "7e9f8b1a782abfa7",
+    "title": "Assessing planktivorous fish as vectors of a plankton parasite",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737450v1?rss=1",
+    "content": "Predators are often considered regulators of disease in prey populations, a concept central to the \"healthy herd hypothesis\". This hypothesis suggests that by preferentially removing infected individuals, predators can reduce parasite prevalence. However, predators may also act as disease vectors, facilitating the spread of parasites. We investigated whether stickleback fish (Gasterosteus aculeatus) can act as vectors for the transmission of the obligate bacterial parasite Pasteuria ramosa to its Daphnia host, a widespread freshwater zooplanktor. We fed infected D. magna to sticklebacks, and subsequently analysed faecal samples for the presence, viability, and infectivity of parasite transmission stages (= spores). We recovered approximately 60% of the consumed spores from fish faeces and these spores did not suffer from reduced infectivity to D. magna. Additionally, spores associated with sloppy feeding did not reduce infection rates. Thus, consumption of infected hosts by fish does not eliminate the parasite, but in contrary, may contribute to the spread and persistence of P. ramosa in natural populations, potentially influencing parasite dynamics in natural freshwater ecosystems."
+  },
+  {
+    "id": "3a447a2d9e307df1",
+    "title": "Climatic and non-climatic drivers of rangeland vegetation change in Nepal",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737421v1?rss=1",
+    "content": "Nepal's rangelands provide multiple benefits, including support for pastoral livelihoods and alpine biodiversity, regulation of water and soil nutrients, and sequestering carbon. Climate change and anthropogenic pressures are altering these rangelands, leading to vegetation and biodiversity change. However, national-scale assessments of rangeland change are limited in Nepal. This study quantified rangeland changes at multiple spatial scales and assessed the climatic and non-climatic drivers of rangeland change. About 80.7% of Nepal's high-altitude rangeland (> 2,000m) outside protected areas showed no significant change. Among areas exhibiting significant annual maximum NDVI trends, 383,281 ha (18.6%) showed positive and 14,702 ha (0.7%) showed negative trends, corresponding the ratio of increase in vegetation greenness and decline in vegetation greenness to 26:1. Climate predicted positive trends covered 627,184 ha (30.5%), whereas residual trends caused by non-climatic drivers covered 94,656 ha (4.6%). Climate induced negative trends covered 47,609 ha (2.3%) while residual trends were observed in 6,260 ha (0.3%). Negative trend pixels were concentrated mainly within the 3,000 to 5,000 m elevation band, with Karnali Province recording the highest proportional climate predicted decline in vegetation greenness (3.4%). At the municipality scale, rangeland change showed no significant relationship with grazing pressure derived from gridded livestock data, suggesting that grazing pressure alone did not explain the non-climatic vegetation signal. These spatially explicit, nationally consistent results identify where rangeland change is occurring and help distinguish climatic and non-climatic drivers of rangeland vegetation change, providing evidence to support targeted rangeland management under Nepal's federal governance structure."
+  },
+  {
+    "id": "6e9ade54ca263446",
+    "title": "Restoration of tropical dry evergreen forest in southern India: balancing carbon sequestration with biodiversity conservation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.737378v1?rss=1",
+    "content": "Tropical dry evergreen forests (TDEFs) are a unique and highly threatened forest type of the dry tropics. Their restoration could be strengthened if native species demonstrate carbon sequestration comparable to widely used non-native trees. We assessed biodiversity and carbon sequestration in a restored TDEF in India, developed over 50 years from a largely barren landscape. The site now supports high woody-plant diversity, with 91 native species across 34 families. Aboveground biomass (AGB) averaged 66.91 +/- 41.2 Mg/ha comparable to seasonally dry tropical forests globally. Although native species were planted more recently and are shorter than non-natives, they contributed 23.86 +/- 23.4 Mg/ha to AGB and show potential for future increases in basal area. Given their comparable wood densities and capacity to attain similar heights, native species are predicted to sequester carbon at levels similar to non-natives in the long term. AGB was unrelated to species diversity. Overall, native TDEF species can achieve carbon storage while maintaining ecological integrity."
   }
 ]
