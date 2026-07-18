@@ -7396,5 +7396,227 @@
     "title": "Group Behaviors Foster Zebrafish Foraging Through Social Interaction",
     "link": "https://www.biorxiv.org/content/10.64898/2026.07.16.738874v1?rss=1",
     "content": "Group living enhances foraging efficiency, yet whether this benefit extends across developmental stages and how social coordination versus emotional buffering contribute remain unresolved. Using zebrafish (larvae 10 dpf, adults 80 dpf) in a Y-maze foraging task with high-resolution tracking and mirror experiments, we show that grouping reduces foraging latency in adults, but not larvae. Adults form coordinated groups (high polarization, small inter-individual distances), whereas larvae form loose aggregations. Adults, but not larvae, exhibit reduced freezing (social buffering) when grouped. Mirror presented visual cues suffice to enhance foraging via emotional calming - reducing freezing and stabilizing speed - yet disrupt real group coordination. Our results reveal a dual mechanism - instrumental coordination and emotional buffering - by which group behavior promotes foraging. Both mechanisms are developmentally gated, emerging only after maturation, offering insights into the ontogeny of social competence and practical implications for aquaculture and conservation."
+  },
+  {
+    "id": "6c62f5c42832c639",
+    "title": "Landscape\u2010Scale Regulation of Sediment Nitrogen Cycling and N2O Production in Small Artificial Lakes Across an Urbanization Gradient",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GB009091?af=R",
+    "content": "Abstract\nSmall artificial lakes are ubiquitous in human\u2010dominated landscapes, yet the responses of their sediment nitrogen (N) cycling and N2O production to land use change remain poorly constrained. We investigated sediment N pools, microbial biomass, transformation rates (nitrification, denitrification, nitritation, and ammonification) and N2O production potential across 54 small artificial lakes spanning an urbanization gradient of in Chongqing metropolitan, China. We further explored the effects of landscape composition across multiple spatial scales on N cycling in lake sediments. Results revealed that sediment N transformation rates and N2O production potential showed a consistent increase from forest to agricultural and urban landscapes. Watershed integrated land\u2010use index within multi\u2010scale buffer zones (50\u20132,000\u00a0m) exhibited significant positive correlations with N transformation rates and N2O production potential in sediments. This signifies intensified urban landscape substantially accelerate these processes by increasing N substrate abundance and bioavailability, as well as microbial biomass. These landscape controls are particularly scale\u2010dependent, with nearshore land\u2010use patterns within an \u223c800\u00a0m buffer zone explaining the most spatial variability in N cycling rates and N2O production. Furthermore, landscape changes alter not only the magnitude but also the structure of sediment N cycling networks, resulting in imbalanced, disproportionately enhanced denitrification and N2O production potential in urbanized lakes. Our results demonstrate a landscape\u2013sediment\u2013microbe cascade governing N cycling and N2O generation in small artificial lakes, highlighting their role as heterogeneous biogeochemical reactors. Incorporating scale\u2010dependent landscape controls and sediment processes is essential for improving N cycling modeling and prediction in rapidly urbanizing watersheds."
+  },
+  {
+    "id": "77b9b389cf0e525f",
+    "title": "Decadal Shifts Towards Higher Riverine Silicon Relative to Nitrogen and Phosphorus Across High Latitudes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008926?af=R",
+    "content": "Abstract\nHigh\u2010latitude systems are warming faster than the global average, altering the rates of silicon (Si) mobilization from terrestrial to aquatic systems. Dissolved Si (DSi) concentration and its ratio with other nutrients exert strong controls on algae blooms in fresh and marine receiving waters, especially in high\u2010latitude regions where diatoms often dominate riverine and coastal autotroph communities. Here we present an examination of decadal scale changes in river DSi concentrations, loads, and nutrient ratios in 70 high\u2010latitude rivers (>58\u00b0) across North America, Europe, Asia, and Antarctica. We examined monthly and annual changes in DSi, dissolved inorganic nitrogen (DIN), and dissolved inorganic phosphorus (DIP) concentrations and yields using sequential breakpoint analysis (i.e., SiZer) that allows for variable trend identification within a single time series. Except for the Antarctic streams, we found a predominant trend of increasing DSi relative to DIN and DIP for both annual concentrations and yields, driven primarily by declines in DIN and DIP rather than increases in DSi. Contrary to expectations, we found little evidence that changes in discharge or shifts in seasonality (i.e., month\u2010specific trends) drove these altered interannual nutrient dynamics. However, interannual changes in DSi concentrations were associated with hydroclimatic variability (precipitation, evapotranspiration, snow cover, air temperature) and DIP availability. Taken together, our analysis identifies large\u2010scale shifts in exports of Si, N, and P in high\u2010latitude rivers, with implications for algae productivity and composition in the highly productive waters of high\u2010latitude ecosystems."
+  },
+  {
+    "id": "54f5147877ffacb5",
+    "title": "Proteomic Analysis of Lactococcus lactis FM03 Under Prolonged Alkaline Stress",
+    "link": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70381?af=R",
+    "content": "Overview of alkaline resistance mechanisms in Lactococcus lactis FM03. Sustained growth at pH\u20098 triggers extensive physiological remodelling, including activation of general stress response proteins, suppression of acid resistance, elevated amino acid production, altered cell wall biosynthesis, and doubling of the cell wall thickness.\n\nABSTRACT\nLactococci are best known to thrive in acidic conditions. While their physiology in an acidic environment is well researched, their stress response towards an alkaline environment remains to be explored. In this study, we habituated Lactococcus lactis FM03 to pH\u20096, 7 and 8 in chemostats with a fixed dilution rate of 0.2\u2009h\u22121 and defined the alkaline\u2010induced stress proteome. Based on an enrichment analysis of GO\u2010terms, we identified key physiological adaptations, including cell wall reinforcement, an increase in the uptake and metabolism of peptides and amino acids, as well as elevated levels of translation\u2010related proteins. Transmission electron microscopy revealed a doubling in cell wall thickness at pH\u20098 compared with pH\u20096, and we measured higher release of multiple amino acids in the supernatant at pH\u20098. Further, the compatible solute uptake system for glycine betaine (OpuA) was upregulated, indicating osmotic stress conceivably linked to low cyclic\u2010di\u2010AMP levels. Selected global stress proteins were upregulated at pH\u20098 (GroEL, HtrA, FtsH), and RelA increased, suggesting the activation of the stringent response, whereas acid resistance systems (F0F1\u2010ATPases, ADI, GAD) decreased. Together, this work defined a distinct alkaline stress remodelling of the proteome in L. lactis FM03 under sustained alkaline growth."
+  },
+  {
+    "id": "4c167ea4521d762d",
+    "title": "CLCF, Not CrcB, Protects Pseudomonas putida ATCC 12633 During Intense Fluoride Stress",
+    "link": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70385?af=R",
+    "content": "Pseudomonas strains were engineered to express both a CrcB fluoride channel and a CLCF fluoride proton antiporter and exposed to fluoride stress in multiple experiments. The organisms adapted by developing mutations that eliminated the activity of the channel and increased copies of the CLCF gene.\n\nABSTRACT\nFluoride is abundant in the Earth's crust but is rarely used by biological systems and is toxic inside cells. Most prokaryotic genomes contain genes encoding fluoride export channels, known as CrcB, or fluoride/proton antiporters, known as CLCF. Prokaryotes rely on one type only. In this study, Pseudomonas putida ATCC 12633 that natively expressed a chromosomally\u2010encoded CrcB was engineered with plasmids containing a CLCF exporter gene. The addition of CLCF and subsequent adaptive evolution made the cells resistant to >\u2009500\u2009mM sodium fluoride and able to degrade 150\u2009mM 2\u2010fluoropropionic acid and export 150\u2009mM fluoride. In the absence of CLCF and adaption, only 1\u2009mM 2\u2010fluoropropionic was degraded and culture density decreased. The adaption of multiple cell lines occurred uniformly. All increased their CLCF gene copy and incurred mutations in the native CrcB. Two of those point mutations and a designed deletion were introduced into the unadapted wild\u2010type strain and confirmed as CrcB knockouts. In total, the CLCF antiporter was selected for under the conditions used and was necessary for biodegrading high concentrations of an organofluorine compound. Sustaining viability at high fluoride levels is relevant for engineering prokaryotes to biodegrade fluorinated chemicals and installing fluoride into compounds by biosynthesis."
+  },
+  {
+    "id": "ad83cfe6abe196d4",
+    "title": "Microbially Mediated Transformation of Labile Iron in Estuarine Surface Sediments: Implications for Benthic Trace Element Cycling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009747?af=R",
+    "content": "Abstract\nEstuarine sediments are critical zones for element cycling between land and ocean, where redox oscillation driven by unsteady sedimentation amplifies the role of iron (Fe) as a reversible regulator for the benthic cycling of trace elements. Yet, key uncertainties persist regarding the quantitative partitioning and the mineralogical mechanisms of microbially mediated Fe(III) reduction, especially the distribution of newly formed Fe(II) between solid phase and porewater. Here, surficial sediments from the Changjiang Estuary were incubated with the Fe\u2010reducing bacterium Ferrimonas balearica, with or without additional molybdate amendment and subjected to reoxygenation experiments. Based on sequential extractions and Flow\u2010Through Time\u2010Resolved Analyses (FT\u2010TRA), we found that microbial Fe(III) reduction promoted the formation of authigenic Fe(II) minerals, potentially Fe carbonate, which preceded the release of Fe2+ into porewater. Inhibition of sulfate reduction significantly facilitated Fe(II) accumulation in the solid phase and reduced the release of Fe2+ and P, suggesting a crucial role of sulfide\u2010mediated chemical reduction of Fe(III) in Fe2+ and P liberation. Multiple trace metals (e.g.,\u00a0Cr, Co) exhibited strong correlations with Fe2+ release (p\u00a0<\u00a00.01), and FT\u2010TRA revealed the enhanced lability of these trace elements in solid phase after microbial incubation. During reoxidation, Fe2+ was rapidly oxidized and precipitated. Subsequently, dissolved P was retained by newly formed Fe(III) oxyhydroxides, highlighting the reversible nature of labile Fe and its high efficiency in elemental mobilization during redox oscillation. These results provide quantitative evidence of microbially mediated labile Fe transformation processes in dynamic estuarine environments."
+  },
+  {
+    "id": "f41c6397c98ba851",
+    "title": "Morphodynamic Feedback Dominates Seasonal Sediment Dynamics in a Bore\u2010Affected Macrotidal Estuary",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024508?af=R",
+    "content": "Abstract\nWhile the seasonal sediment signal in estuaries has been largely attributed to river\u2010modulated advective processes, the potential dominance of internal morphodynamic feedback, particularly in systems with highly mobile beds, remains poorly quantified. Using an extensive data set comprising over 180 tidal cycles of suspended sediment concentration (SSC) measurements (April, July and November 2018) alongside concurrent hydrographic and bathymetric surveys, we investigated seasonal SSC variations in the upper Qiantang Estuary, a macrotidal system in China with active morphological changes. The results showed that the observed SSC exhibited distinct seasonal patterns superimposed on tidal fluctuations. SSC showed a strong positive correlation with tidal range under normal river discharge conditions. Summer SSC values exceeded those in spring and winter by 2\u20133 times. Three distinct seasonal regimes are driven by a morphodynamic feedback loop. This loop initiates as high river discharges erode the bed and amplifies tidal (and bore) energy, which subsequently drives intense sediment resuspension and rapid accumulation; which in turn leads to a low\u2010energy adjustment phase, setting the stage for the next cycle. The system exhibited moderate flood\u2010ebb SSC asymmetry under normal conditions but extreme flood dominance during tidal bore events. Furthermore, high discharges reduced SSC by \u223c50% through dilution effects while simultaneously inducing bed erosion and tidal amplification, which subsequently elevates SSC in the following months. This study establishes that active morphological evolution is the fundamental driver of seasonal sediment dynamics, providing a new mechanistic framework for similar high\u2010energy estuarine systems."
+  },
+  {
+    "id": "7414ae0c3c9851d7",
+    "title": "Exceptionally Warm Event in the Tropical South Atlantic in 2023\u201324: Physical Drivers and Impacts on South American Rainfall",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023901?af=R",
+    "content": "Abstract\nThis study examines the causes and impacts of the unusual warming of the tropical Atlantic from late 2023 to early 2024, focusing on the South Atlantic. Positive sea surface temperature anomalies persisted in the North Atlantic throughout 2023. However, the southern Tropical Atlantic underwent a rapid transition from abnormally cold surface waters in September\u2010October to unprecedented warm conditions in November\u2010December. This transition occurred through unusually weak cooling from latent heat flux, associated with weak surface winds. The anomalous atmospheric conditions over the South Atlantic were likely caused by an atmospheric Rossby wave train induced by El Ni\u00f1o and superimposed on a background of global warming. Meanwhile, in the equatorial Atlantic, the late 2023 warming was mainly caused by downwelling equatorial Kelvin wave activity generated by weaker surface wind. In early 2024, both thermodynamic and dynamic processes contributed to the equatorial warming. These distinct processes combined to produce basin\u2010wide warming. The resulting Atlantic warming, together with a Pacific El Ni\u00f1o created dry conditions over the Amazon basin and wet conditions over northeastern Brazil in early 2024. Simplified General Circulation Modeling experiments support the predominant role of South Atlantic warming in increasing precipitation over northeastern Brazil."
+  },
+  {
+    "id": "4962a42749d7ad32",
+    "title": "A salinity gradient mediates plant diversity\u2013function\u2013stability relationships across a coastal marsh landscape",
+    "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.70436?af=R",
+    "content": "Abstract\nEcosystem function and stability are often positively related to species richness in experiments, but in nature, abiotic gradients may over\u2010ride or obscure the effects of richness on function and stability. In addition, community stability may be driven by distinct mechanisms along diversity or abiotic gradients and exhibit different responses to differing degrees of variability in an abiotic condition. We explored relationships between salinity, plant diversity, ecosystem function (annual biomass production), and stability of biomass over 25\u2009years for seven coastal marsh plant communities arranged across an estuarine salinity gradient in Georgia, USA. In contrast to expectations, neither plant biomass nor its stability was related to species richness. Plant richness was positively correlated to within\u2010year high tide salinity range and peaked at intermediate values of mean salinity. Biomass stability was negatively correlated with mean salinity but was unrelated to salinity range. Stability was driven by dominant species at sites with low richness, but asynchrony likely contributes to stability at intermediate salinity sites with higher diversity. Our results illustrate the importance of studying variability in abiotic conditions in addition to their mean and demonstrate that stability and richness may not necessarily be correlated in nature due to underlying abiotic gradients affecting both."
+  },
+  {
+    "id": "894e3eeaafbc2c6f",
+    "title": "Spatially Heterogeneous Impacts of Urbanization in Reshaping the Dry and Hot Extremes Across Chinese Cities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124127?af=R",
+    "content": "Abstract\nEscalating climatic hazards have posed considerable challenges to urban resilience and sustainable development. By integrating national\u2010scale meteorological data, this research elucidates how urbanization reshapes the dry and hot extremes across China at various temporal scales and within a regional framework. It reveals that urbanization has intensified heat extremes by 2%\u201320% since the 1970s, with this contribution increasing to 12%\u201346% over 2003\u20132022. Urban\u2010amplified heat stress is more pronounced in highly urbanized areas and hot, humid climatic conditions. Concurrently, urbanization amplifies the asymmetric precipitation pattern, contributing 13% to reduced light rainfall and exacerbating drought severity by more than 41% in most inland areas. Interactions between urban forcing and climate extremes substantially elevate the risk of compound dry\u2010hot extremes, albeit with notable spatial heterogeneity. These findings offer valuable insights into the interplay between urbanization and climate extremes, underscoring the imperative for adaptation strategies to enhance urban resilience."
+  },
+  {
+    "id": "aff68845bfcff286",
+    "title": "Fracture\u2013Matrix Flow Partitioning Governs Retention Regime Transitions in Unsaturated Fractured Rock",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123310?af=R",
+    "content": "Abstract\nUpscaling unsaturated flow in fractured rock remains challenging because fractures and matrix often exhibit sharply contrasting hydraulic behaviors across saturation states. Here, we demonstrate that unsaturated flow undergoes a transition between matrix\u2010 and fracture\u2010dominated regimes. Three\u2010dimensional direct numerical simulations reveal that this bimodal retention behavior emerges naturally from saturation\u2010dependent partitioning of flow between fractures and matrix. We analytically derive a generalized retention formulation that identifies a critical saturation marking the transition between the two distinct retention regimes and reproduces the bimodal behavior captured in the numerical simulations. An analytical expression for the critical pressure head is derived to represent the limiting case of fully connected fracture networks, providing a physically based transition criterion and showing good agreement with the numerical results for systems above the percolation threshold. Our results provide a mechanistic framework for understanding and upscaling unsaturated flow in fractured rock, with broad implications for hydrology and geophysics."
+  },
+  {
+    "id": "9d5d95d2bbd4259f",
+    "title": "Temporal Heterogeneity of In Situ Ocean Observing Capacity Could Cause an Artificial Intensification of Extreme Warm Water Events Globally",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123043?af=R",
+    "content": "Abstract\nExtreme warm events in the ocean, known as marine heatwaves (MHWs), can have severe and even irreversible impacts on marine ecosystems, underscoring the imperative need to quantify their anthropogenic changes based on observations. In situ temperature profiles over the past three decades reveal an outsized global increase (over 10% per decade) in intensity of MHWs, whereas both ocean reanalysis and climate simulations suggest changes should be an order of magnitude smaller. Here we show that the paradox arises primarily from an artificial trend of MHWs caused by sparse\u2010to\u2010abundant temporal evolution of amount of temperature profiles. Sparsity of temperature profiles in the early period systematically underestimates intensity of MHWs, while subsequent densification of temperature profiles alleviates such underestimation, introducing an artificial positive trend of MHW intensity. Our findings indicate that temporal heterogeneity of in situ ocean observing capacity may severely contaminate the genuine response of extreme events to global warming."
+  },
+  {
+    "id": "23978f9086ad9e3c",
+    "title": "From Shadow to Fertilizer: Slanted Sunlight in 3D Radiation Enhances Cloud Condensate, Size, and Lifetime of Shallow Cumulus",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122790?af=R",
+    "content": "Abstract\nThe impact of three\u2010dimensional (3D) shortwave radiation on cloud condensate, size and lifetime is investigated using large\u2010eddy simulations coupled to an interactive land surface model (LSM). Results show 3D radiation produces higher cloud tops and greater cloud condensate than 1D radiation, resulting from larger downward shortwave fluxes beneath clouds. The enhanced radiative flux leads to increased surface temperature, which in turn amplifies sensible and latent heat fluxes beneath clouds by about 40%, thereby promoting further cloud development. 3D radiation produces larger and longer\u2010lived clouds than 1D radiation, with the tail in size distribution occurring near 1,400\u00a0m in 3D\u2010LSM versus 1,100\u00a0m in 1D\u2010LSM. These differences arise from the contrasting surface heterogeneity induced by the 1D and 3D radiation schemes. Unlike 1D\u2010LSM, where cloud shadows fall directly beneath clouds and locally suppress updrafts, 3D\u2010LSM displaces shadows, favoring cloud\u2010scale circulations that provide positive feedback, leading to thicker, larger, and longer\u2010lived clouds."
+  },
+  {
+    "id": "557efa9488b27bba",
+    "title": "Capturing the Global Variability of Marine Particulate Organic Carbon Flux: A Hierarchical Bayesian Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123203?af=R",
+    "content": "Abstract\nParticulate organic carbon (POC) fluxes are important for the marine carbon cycle; however, these fluxes are highly variable in both space and time. Consequently, current estimates retain high uncertainty when predicting POC flux from environmental drivers because the influence of pulse events is not adequately accounted for. Here, by using a hierarchical Bayesian regression model, we explicitly and simultaneously model the mean and variance of POC flux as a function of environmental variables. Our model reproduces the observed distribution of POC fluxes by accounting for flux variance, and estimates global POC flux at \u223c6\u00a0GtC\u00a0yr\u22121 ${\\text{yr}}^{-1}$ at 100\u00a0m, of which 52% $\\%$ is due to the influence of episodic pulse events. Additionally, spatial patterns in vertical attenuation rates and its stochasticity can be estimated. Therefore, quantifying the small\u2010scale variability introduced through pulse events may be equally as important as understanding specific export pathways."
+  },
+  {
+    "id": "e0ea669352a2377b",
+    "title": "Increasing Warming May Inhibit Land Carbon Uptake in Northern High Latitudes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122135?af=R",
+    "content": "Abstract\nArctic ecosystems are warming at an accelerated rate, with heatwaves becoming more frequent and intense. We examined productivity responses of Arctic ecosystems to major warming events from 2000 to 2022. Results indicated that early\u2010season warming generally enhances productivity, whereas prolonged high temperatures suppress productivity later in the growing season. Responses varied by region and event timing. For instance, the 2004 Northwestern North American hot year increased productivity through summer, while the 2010 Arctic warming boosted early\u2010season productivity that declined as heat persisted. Similar early gains followed by moisture\u2010driven declines during the 2015 Northwestern North American and 2020 Eastern Siberian events. Overall, early warmth stimulates growth, but sustained heat and low moisture constrain productivity, particularly in taiga and tundra ecosystems. These patterns highlight the vulnerability of Arctic carbon sinks to warming and underscore the need for improved observations and modeling to assess ecosystem resilience under increasing climate extremes."
+  },
+  {
+    "id": "d40aa62aa5ea1249",
+    "title": "Engineering microbial consortia for distributed signal processing",
+    "link": "https://www.nature.com/articles/s41467-026-75739-6",
+    "content": ""
+  },
+  {
+    "id": "3b8d7d4c1b7c40c2",
+    "title": "Emotion-BIND for multimodal emotion recognition and reasoning",
+    "link": "https://www.nature.com/articles/s41598-026-62590-4",
+    "content": ""
+  },
+  {
+    "id": "8cced4068f74ff31",
+    "title": "Single-cell technologies in mRNA cancer vaccines",
+    "link": "https://www.nature.com/articles/s41541-026-01529-2",
+    "content": ""
+  },
+  {
+    "id": "63d345d5ed23f318",
+    "title": "Visual fidelity\u2013driven quality assessment of medical image translation",
+    "link": "https://www.nature.com/articles/s41598-026-60570-2",
+    "content": ""
+  },
+  {
+    "id": "f33457028488d3a7",
+    "title": "ViBioChain: a blockchain-enabled architecture for privacy-preserving, ethically governed, and explainable personalized gene editing",
+    "link": "https://www.nature.com/articles/s41598-026-59495-7",
+    "content": ""
+  },
+  {
+    "id": "88ddfce78d7bb3e2",
+    "title": "Machine unlearning as a governance imperative for clinical AI",
+    "link": "https://www.nature.com/articles/s41746-026-03050-1",
+    "content": ""
+  },
+  {
+    "id": "574a72227c4f594d",
+    "title": "Unveiling GSPT1 as a crucial prognostic biomarker and therapeutic vulnerability in breast cancer",
+    "link": "https://www.nature.com/articles/s41598-026-61699-w",
+    "content": ""
+  },
+  {
+    "id": "2abd09eb4528011a",
+    "title": "Dynamic stability is tied to gait assistance when walking with a hip exoskeleton",
+    "link": "https://www.nature.com/articles/s41598-026-61659-4",
+    "content": ""
+  },
+  {
+    "id": "4397b1e6c4f784fe",
+    "title": "A lightweight, integrated generative AI assistant for accelerated early-stage drug discovery on constrained-resource hardware",
+    "link": "https://www.nature.com/articles/s41598-026-61237-8",
+    "content": ""
+  },
+  {
+    "id": "d043664774f3ad97",
+    "title": "Causal responsibility based explainable AI for vibrational spectroscopy applied to oral FTIR and oesophageal Raman diagnostics",
+    "link": "https://www.nature.com/articles/s41598-026-62343-3",
+    "content": ""
+  },
+  {
+    "id": "3c275c8df7e21611",
+    "title": "Regional differences in foveal avascular zone morphology in cynomolgus macaques using a normative OCTA database",
+    "link": "https://www.nature.com/articles/s41598-026-60198-2",
+    "content": ""
+  },
+  {
+    "id": "ec8edfa78e7f9155",
+    "title": "FKBP10 may affect the malignant phenotype of oral squamous cell carcinoma cells through the ECM/WNT signaling pathway",
+    "link": "https://www.nature.com/articles/s41598-026-62772-0",
+    "content": ""
+  },
+  {
+    "id": "78ce4eb425bc0273",
+    "title": "Single cell and bulk transcriptomics reveal metabolic reprogramming biomarker signatures during extracorporeal membrane oxygenation for cardiogenic shock",
+    "link": "https://www.nature.com/articles/s41598-026-62728-4",
+    "content": ""
+  },
+  {
+    "id": "0dba2b998c986e57",
+    "title": "Transcriptomic and macrophage polarization signatures define anergic diffuse and mucosal forms of severe American cutaneous leishmaniasis",
+    "link": "https://www.nature.com/articles/s41598-026-60891-2",
+    "content": ""
+  },
+  {
+    "id": "8957908b3adfaa78",
+    "title": "Reinforcement learning for treatment decision-making in sepsis: a scoping review",
+    "link": "https://www.nature.com/articles/s41746-026-03034-1",
+    "content": ""
+  },
+  {
+    "id": "addfd2beafd62e67",
+    "title": "Advancing FAIR data towards comparable, organized, predictive AI-ready data for community validation",
+    "link": "https://www.nature.com/articles/s42003-026-10694-y",
+    "content": ""
+  },
+  {
+    "id": "6a839f8a27254e11",
+    "title": "Synthesized clinical notes enable training robust multimodal AI models from unimodal dermatology datasets",
+    "link": "https://www.nature.com/articles/s41746-026-03040-3",
+    "content": ""
+  },
+  {
+    "id": "28873f6f1a630a88",
+    "title": "Textural features for pathway-level representation of omics data in biological networks",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.12.737672v1?rss=1",
+    "content": "More than 50 years ago, Haralick and co-authors proposed a family of gray-level co-occurrence statistics that became known as textural features. These features are widely used in image analysis, but their application to biological networks has remained limited because cellular networks are sparse, irregular graphs rather than regular pixel grids. This work presents a network-adapted version of Haralick texture analysis for generating pathway-level features from gene-level omics profiles. The resulting profiles reduce dimensionality and can be used as candidate predictors of anti-cancer drug response. Performance of these features is compared with original gene expression variables and with pathway features from network enrichment analysis (NEA), whose robustness has been demonstrated previously. Although technically simpler than NEA, Haralick features showed comparable sensitivity. More importantly, selected Haralick features were preserved between in vitro drug screens and clinical treatment-associated survival analyses, supporting their potential use for prioritizing robust pathway-level drug-response correlates."
+  },
+  {
+    "id": "568a6489d6508d54",
+    "title": "Addressing viral genomic variability towards developing a Cas13b-based therapy",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.16.739033v1?rss=1",
+    "content": "Viral genome diversity may limit the effectiveness of antiviral RNA-editing tools such as CRISPR-Cas13 that can be used to destroy specific mRNA targets, by introducing mismatches between viral RNA targets and CRISPR guide RNAs (crRNAs). These mismatches can reduce target recognition and cleavage efficiency, diminishing antiviral activity and increasing the risk of viral escape. The extent to which natural viral genomic variability limits CRISPR-Cas13 efficacy remains unclear. Here, we used hepatitis B virus (HBV), which has substantial genetic diversity, as a model to assess the impact of viral genome variation on Cas13b activity in vitro. The efficacy of PspCas13b was examined across six HBV genotypes and sub-genotypes using five crRNAs that had up to five mismatches to the target region. We showed that crRNAs with one mismatch to the target strongly suppressed viral antigen expression for all genotypes tested, while some crRNAs with three or more mismatches were less effective. Restoring complementarity using spacer-target mutagenesis improved the level of knockdown for some but not all HBV genotypes, suggesting that sequence specificity alone did not control PspCas13b efficacy. Our findings show that a one size fits all approach for PspCas13b-mediated treatment of HBV is unlikely to be effective, but the impact of sequence variability on PspCas13b efficacy can be readily addressed through appropriate design of crRNAs. This approach will likely be necessary for all viral pathogens with highly variant genomes."
+  },
+  {
+    "id": "75d9510fa5d4942d",
+    "title": "Butyrivibrio azoria sp. nov., a novel cellulolytic microorganism isolated from the rumen of a Holstein dairy cow",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.16.739024v1?rss=1",
+    "content": "This study describes the characteristics of NATIVEDY162T (= JL13D10T = NRRL B-68525T) a novel bacterium isolated from the rumen of a healthy Holstein dairy cow. NATIVEDY162T was discovered to be an obligately anaerobic, slightly curved, rod that stains Gram-negative, and presents as singlets or short chains. Tests confirmed it is indole-, catalase-, oxidase-negative, and it is not motile. NATIVEDY162T indicated a growth preference within the pH range of 6.5-7.5 with optimal growth at pH 7.0. Carbon panel assays found NATIVEDY162T can utilize D-glucose, L-rhamnose, esculin/ferric citrate, D-lactose, and D-trehalose, whereas weak growth was observed on D-xylose and D-cellobiose. It was also capable of degrading starch and digesting both soluble and insoluble forms of cellulose, with genomic analysis providing further support by revealing a diverse array of carbohydrate-active enzymes (CAZymes) targeting starch and plant structural components like pectin and cellulose. Fermentation of glucose by NATIVEDY162T resulted in the major fermentation products lactate and butyrate. Phylogenetic analysis of the 16S rRNA gene positioned NATIVEDY162T in close relation to other Butyrivibrio species. Genome comparisons using BLAST ANI identified its closest relative as Butyrivibrio proteoclasticus (75.7% identity); however, the similarity did not meet the 95% threshold for species identification. Phylogenetic, genomic, and chemotaxonomic findings highlight differences between NATIVEDY162T and other Butyrivibrio species, indicating it is a novel species. NATIVEDY162T was isolated from a lactating Holstein dairy cow located in California's San Joaquin Valley, a region rich in Portuguese influence from Azorean migrants who played a key role in the development of the California dairy industry, producing most of the state's milk by the mid-20th century. Given this historical context, we propose the name Butyrivibrio azoria type strain NATIVEDY162T in honor of the significant contributions of Azorean and Portuguese dairy farmers in the region."
+  },
+  {
+    "id": "4d8e7589dd1f2bcb",
+    "title": "Ocular community state types reveal distinct microbial compositions among microbiomes with implications for trachoma control",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.16.738988v1?rss=1",
+    "content": "Trachoma, a chronic ocular disease caused by Chlamydia trachomatis (Ct), is the leading infectious cause of blindness worldwide. Despite the WHO SAFE (Surgery, Antibiotics, Facial cleanliness, Environmental improvement) strategy, ~100M are at risk of blindness. Using metagenomic shotgun sequencing, we characterized the ocular microbiome of 680 villagers in Amhara Ethiopia, identifying 10 Community State Types (CSTs) associated with different population characteristics. Children with the highest prevalence of inflammatory trachoma and Ct were in CST10, dominated by Haemophilus influenzae and four other Haemophilus spp. Adults with the highest prevalence of scarring trachoma were in CST3 and CST6, dominated by Corynebacterium macginleyi. CST5, dominated by Mesomycoplasma hyorhinis and Staphylococcus aureus, had the lowest prevalence of Ct and trachoma, and was the only CST without zoonotic Chlamydia spp. Both M. hyorhinis, a zoonotic porcine bacterium, and S. aureus are capable of forming biofilms, which may competitively prevent/down-regulate chlamydial infections. Other CSTs were dominated by environmental species like Vibrio. This is the first microbiome study to develop CSTs for trachoma. Pathogenic and potentially protective microbes showed distinct associations with demographic, clinical, and chlamydial characteristics, which will guide the design of microbial therapeutics as alternatives to antibiotics and strategies for the WHO global elimination of blinding trachoma program."
+  },
+  {
+    "id": "62eb867214c6eb8b",
+    "title": "Bravo! A Mosquito Antiviral Protein that Restricts Arboviruses through an RRM3-Dependent Nuclear Mechanism",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.16.739008v1?rss=1",
+    "content": "Culex quinquefasciatus mosquitoes are vectors for several medically important viruses, yet their antiviral immune responses remain understudied compared to Aedes mosquitoes. The aedine broadly antiviral protein (aBravo) is an RNA-binding protein that was found to inhibit arbovirus replication in Aedes aegypti, but the function of the Cx. quinquefasciatus Bravo ortholog (CqBravo) remains unknown. Here, we examined the role of CqBravo in antiviral immunity in Cx. quinquefasciatus-derived Hsu cells and mosquitoes. We found that CqBravo is also broadly antiviral in Cx. quinquefasciatus, reducing replication of La Crosse virus (LACV) and Usutu virus (USUV) in Hsu cells and Sindbis virus (SINV) in vivo. CqBravo localized to the nucleus, and truncation and mutational analyses identified an RNA recognition motif (RRM3) critical for nuclear localization and antiviral activity. Quantitative proteomic analysis revealed that full-length CqBravo expression was associated with distinct changes in host protein abundance that were lost following removal of RRM3. Proteins altered by CqBravo expression were enriched for pathways involved in genome maintenance, including DNA repair, DNA metabolism, and ATP-dependent DNA processing. Overall, we demonstrate that CqBravo is an important antiviral factor in Cx. quinquefasciatus mosquitoes and may play a broader role in mosquito antiviral immunity across species."
+  },
+  {
+    "id": "56815753451ceb93",
+    "title": "Experimental evolution and functional genetics identify KIC1 as a determinant of reduced artemisinin susceptibility in Bangladeshi Plasmodium falciparum",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.17.738940v1?rss=1",
+    "content": "Bangladesh has greatly reduced malaria transmission, but persistent Plasmodium falciparum transmission in the Chittagong Hill Tracts (CHT), bordering Myanmar, remains a concern for elimination. Emerging artemisinin resistance could threaten remaining control efforts, making it important to identify determinants of reduced artemisinin susceptibility in CHT parasites. We combined long-term in vitro dihydroartemisinin (DHA) selection, whole-genome sequencing, functional genetics, and analysis of contemporaneous clinical isolates to define artemisinin-response variation in CHT P. falciparum. Starting with a 2018 patient-isolated, artemisinin-sensitive CHT clone, three independent cultures were exposed over 18 months to 27 cycles of stepwise DHA pressure up to 1600 nM. This generated CHT-R lines with elevated RSA survival relative to parental/sibling controls (4.0 to 6.5% versus <1%; 7 to 11-fold increase) and faster post-DHA recovery than CHT-S-sib (5.2 {+/-} 0.3 versus 10.1 {+/-} 0.57 days). Whole-genome sequencing identified convergent disruption of PF3D7_0606000, encoding KIC1 (Kelch13 Interacting Candidate1), a protein linked to the Kelch13-associated endocytic compartment; no pfkelch13 mutations emerged. Independent DHA-selected lines acquired distinct stop-gain or frameshift mutations predicted to truncate KIC1, and targeted pfkic1 disruption in parental CHT-S increased RSA survival and accelerated recovery, functionally validating KIC1 as a contributor to reduced artemisinin susceptibility. To link the in vitro selection findings to naturally circulating parasites, we tested whether pfkic1 variation was associated with artemisinin response in an independent set of CHT isolates. We integrated newly generated RSA measurements and whole-genome variation from lab adapted field isolates all carrying wild-type pfkelch13, with patient clearance values from our CHT artemether-lumefantrine efficacy study. Among 22 isolates, RSA survival ranged from 0.00 to 6.44%, with 12 exceeding the 1% in vitro ART-R threshold and was associated with PC50, the time required to clear 50% of the initial parasite density, but not parasite clearance half-life (PCt1/2). In this field-isolate dataset, targeted pfkic1 gene-score analysis and elastic-net modeling provided supportive evidence that natural variation at the pfkic1 locus is associated with PC50 and RSA survival; an exploratory genome-wide gene-score scan nominated additional candidate loci for future study. Together, these findings identify KIC1 as a functionally validated determinant of reduced artemisinin susceptibility in a Bangladeshi parasite background and suggest that artemisinin-response variation in CHT parasites may involve perturbation of the Kelch13-associated endocytic pathway beyond canonical pfkelch13 mutations."
   }
 ]
