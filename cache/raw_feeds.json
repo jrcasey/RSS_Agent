@@ -3052,5 +3052,35 @@
     "title": "Conditional source attribution at plankton bloom onset: Identifiability and sharp bounds under environmental forcing.",
     "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744670v1?rss=1",
     "content": "Can observations distinguish a bloom supplied from within a study volume from one supplied across its boundary? We develop a theoretical framework for that question at plankton bloom onset, conditional on a predeclared, observed or calibrated onset event and a declared set of environmental paths, biological responses, and model forms. The estimand follows source-event labels through forcing-dependent survival and genotype-specific growth. Its central certificate asks whether the local onset fraction is invariant over every source history that produces the same time-expanded observation record. For polyhedral history fibers, a Charnes-Cooper transformation computes both sharp dynamic-data endpoints as linear programs. When each source instead has a fixed normalized onset signature, the certificate reduces to a row-space test; uncertain signatures require a joint lifted program. For a finite compatible scenario ensemble, admissible fractions are the union across scenarios, and a point is justified only when every nonempty scenario gives the same singleton. A synthetic two-genotype witness gives the same observed total but local fractions of 2/3 and 1/3 under reversed forcing-response gains. The observer, mixture, and optimization ingredients are established; the contribution is their target-specific synthesis around source at onset. The framework is diagnostic rather than predictive. It specifies what a study must measure-local sources, boundary inflow, forcing, response, timing, and carrier signatures on one declared window - and returns an interval when missing components have justified bounds, including [0, 1] when they remain unconstrained."
+  },
+  {
+    "id": "7cd4101f966d5d23",
+    "title": "SML-IS: a multi-scale annotation approach to improve instance segmentation accuracy",
+    "link": "https://www.nature.com/articles/s41598-026-65681-4",
+    "content": ""
+  },
+  {
+    "id": "e9ba6ed059c5643e",
+    "title": "A deep multi-feature learning framework for transcriptome-wide methyluridine site discovery",
+    "link": "https://www.nature.com/articles/s41598-026-60733-1",
+    "content": ""
+  },
+  {
+    "id": "49dfc73c1f387d9e",
+    "title": "A network toxicology and machine learning approach to uncover the molecular machinery of bisphenol A-induced colorectal cancer",
+    "link": "https://www.nature.com/articles/s41598-026-66914-2",
+    "content": ""
+  },
+  {
+    "id": "f982cbb5abc7097b",
+    "title": "Three novel actinomycetes, Nocardia spongicola sp. nov., Pseudonocardia oceanicola sp. nov. and Streptomyces callyspongiae sp. nov., isolated from marine sponges",
+    "link": "https://www.nature.com/articles/s41598-026-67196-4",
+    "content": ""
+  },
+  {
+    "id": "acd8c4dceb9775f0",
+    "title": "A multi-epitope vaccine design targeting emerging influenza A(H3N2) subclade K (J.2.4.1) variant",
+    "link": "https://www.nature.com/articles/s41598-026-66934-y",
+    "content": ""
   }
 ]
