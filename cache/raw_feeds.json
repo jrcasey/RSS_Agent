@@ -3214,5 +3214,173 @@
     "title": "How far can microbial monocultures predict growth in multi-strain communities?",
     "link": "https://www.biorxiv.org/content/10.64898/2026.09.02.748814v1?rss=1",
     "content": "Previous research in microbes successfully predicted biculture growth based on monoculture growth curves. Still, the usual model-based approach does not seem to extend to communities involving more than two bacterial strains. Here, we use a model-blind machine-learning approach to predict community-wide yield, area under the growth curve, maximum relative growth rate and its timing in communities involving up to five strains of Escherichia coli. First, we identify the highest per-capita growth rate and its timing in monocultures as major predictors of multi-strain community growth. Next, we show that a random forest trained on communities involving a low number of strains is able to predict the outcomes of communities involving a higher number of strains. Finally, we reveal diminishing returns in using more and more complex communities in order to predict the behaviour of a higher-level community, because monoculture- and biculture-based growth predictions are often already accurate. This finding relativises the need for experiments involving high numbers of strains when studying the growth dynamics of multi-strain communities."
+  },
+  {
+    "id": "3010aebce222f913",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519326002092?dgcid=rss_sd_all",
+    "content": "<p>Publication date: 7 November 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 634</p><p>Author(s): </p>"
+  },
+  {
+    "id": "627c83206869480a",
+    "title": "Temporal Amplification of Microbial Necromass Contribution to Soil Organic Carbon Under Nutrient Addition",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GB009455?af=R",
+    "content": "Abstract\nNutrient inputs can simultaneously regulate microbial necromass formation and soil organic carbon (SOC) accrual, but whether the contribution of microbial necromass to SOC changes over time under nutrient addition, and whether this temporal dependence differs among residue components remains unclear. We synthesized 303 paired observations of microbial necromass and SOC from 50 global studies to quantify the coupling between SOC responses and the responses of total necromass carbon (TNC), fungal necromass carbon (FNC), and bacterial necromass carbon (BNC), and to test how these relationships changed with experimental duration. Across nutrient input types, combined mineral and organic inputs produced the strongest responses, nitrogen, phosphorus, and potassium fertilization combined with manure increasing TNC, FNC, BNC, and SOC by 42.91%, 40.86%, 51.34%, and 44.01%, respectively. Microbial necromass responses were the strongest predictors of SOC responses, yet necromass increased more rapidly than SOC, indicating that enhanced residue production did not translate proportionally into persistent SOC accrual. The contribution of BNC to SOC was comparatively time independent and was mainly regulated by nutrient type. The contribution of FNC showed a convergent trend over time and was significantly influenced by ecosystem type. In contrast, the experimental duration significantly amplified the contribution of TNC to SOC. These findings indicate that long\u2010term SOC sequestration is an emergent system property arising from the time\u2010dependent coordination of distinct stabilization pathways. Accounting for this temporal dependence can refine microbial carbon pump theory and provide a globally relevant basis for improving long\u2010term soil carbon sink projections and nutrient\u2010management strategies under global change."
+  },
+  {
+    "id": "aa3b96c36e3e2903",
+    "title": "Comparative Transcriptomic Analyses Identify Candidate Genes for Convergent Reproductive Shifts in a Bimodal Viviparous Amphibian",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70499?af=R",
+    "content": "ABSTRACT\nShifts in reproductive mode represent key evolutionary innovations that shape species' life histories and evolutionary trajectories. Species showing bimodal reproductive strategies with multiple independent origins offer a rare opportunity to gain insights into the adaptive processes and mechanisms underlying convergent traits. The fire salamander, Salamandra salamandra, is the only amphibian exhibiting intraspecific variation in reproductive mode across multiple independent reproductive shifts, enabling investigation of the transition between larviparity (females give birth to aquatic larvae) and pueriparity (females give birth to fully developed terrestrial juveniles) within a single species and across different timescales. Pueriparity is an adaptive innovation that skips the aquatic larval stage, allowing individuals to exploit habitats with no available water bodies. The fire salamander is larviparous across most of its range, but pueriparity has evolved independently at least three times: once in the early Pleistocene within S. s. bernardezi in the mountains of northern Spain, and more recently on two land\u2010bridge islands (NW Spain) inhabited by S. s. gallaica. To identify candidate genes associated with these distinct reproductive modes, we compared gene expression profiles of the uterus and oviduct of pregnant females across two independent evolutionary transitions using RNA\u2010sequencing. We detected shared changes in maternal gene expression among pueriparous S. s. bernardezi and S. s. gallaica relative to their larviparous counterparts, in addition to differences unique to each independent evolutionary transition. Functional enrichment analyses indicated that differentially expressed genes were associated with reproductive timing, angiogenesis, and maternal signalling, consistent with the phenotypic differences observed in the uterine environment and embryonic development between the two reproductive modes. This study represents an important first step towards understanding the genomic basis of the evolution of pueriparity in a remarkable bimodal reproductive system, and provides transcriptomic resources and candidate genes for future research into the genomic architecture underlying this poorly understood adaptive trait."
+  },
+  {
+    "id": "b74f1d53cd6a4e5a",
+    "title": "Correction to: Using Modern Coexistence Theory to Understand Community Disassembly",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70450?af=R",
+    "content": ""
+  },
+  {
+    "id": "6782d9417be7eab2",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0967063726001020?dgcid=rss_sd_all",
+    "content": "<p>Publication date: October 2026</p><p><b>Source:</b> Deep Sea Research Part I: Oceanographic Research Papers, Volume 231</p><p>Author(s): </p>"
+  },
+  {
+    "id": "5b36a5a263a4154e",
+    "title": "Deep learning technique for rice leaf disease classification and severity level identification via Hybrid ResConvolutional Neural Network",
+    "link": "https://www.nature.com/articles/s41598-026-68755-5",
+    "content": ""
+  },
+  {
+    "id": "c16708ffcea11dbe",
+    "title": "Evaluating parameter-efficient fine-tuning of large language models for sentiment analysis with bayesian optimization",
+    "link": "https://www.nature.com/articles/s41598-026-69503-5",
+    "content": ""
+  },
+  {
+    "id": "4d9c2e4b0a81d8a2",
+    "title": "ConvSNN: an energy-efficient hybrid convolutional-spiking neural network for wrist-worn stress and affective state recognition",
+    "link": "https://www.nature.com/articles/s41598-026-69373-x",
+    "content": ""
+  },
+  {
+    "id": "cc6f33e996645cf4",
+    "title": "Machine learning identifies plasma-derived exosomal miRNAs associated with low muscle mass in Tibetan patients with rheumatoid arthritis",
+    "link": "https://www.nature.com/articles/s41598-026-68952-2",
+    "content": ""
+  },
+  {
+    "id": "28faaf5a94e1be68",
+    "title": "Comparative evaluation of statistical learning methods for polygenic prediction in UK Biobank",
+    "link": "https://www.nature.com/articles/s41598-026-70042-2",
+    "content": ""
+  },
+  {
+    "id": "257950b29d0c6c63",
+    "title": "Senescence-aware filtering facilitates robust prediction of cancer immunotherapy outcomes",
+    "link": "https://www.nature.com/articles/s41746-026-03131-1",
+    "content": ""
+  },
+  {
+    "id": "6e354ac1cf89952a",
+    "title": "Unsupervised machine learning for placental disease using cell spatial organization",
+    "link": "https://www.nature.com/articles/s41746-026-03177-1",
+    "content": ""
+  },
+  {
+    "id": "7bfff6c80bb0476c",
+    "title": "Prediction of atrial fibrillation recurrence before catheter ablation using P-wave ECG features: simplicity of random forest versus CNN in small datasets",
+    "link": "https://www.nature.com/articles/s41598-026-66130-y",
+    "content": ""
+  },
+  {
+    "id": "3cb04a48cdd0acee",
+    "title": "Evolution and global distribution of a pre-extensively drug-resistant Mycobacterium tuberculosis clade centred in Belarus",
+    "link": "https://www.nature.com/articles/s44259-026-00265-w",
+    "content": ""
+  },
+  {
+    "id": "a47c46cee016e909",
+    "title": "CSA-Net: a cost-sensitive adaptive hybrid framework for imbalanced financial distress prediction",
+    "link": "https://www.nature.com/articles/s41598-026-68005-8",
+    "content": ""
+  },
+  {
+    "id": "0e9bf9a1cdf12127",
+    "title": "Dengue virus serotype classification from complete genomes using a Transformer with chunk-based sequence modeling and explainability analysis",
+    "link": "https://www.nature.com/articles/s41598-026-69896-3",
+    "content": ""
+  },
+  {
+    "id": "88fed28dc3066f1e",
+    "title": "Bacterial community structure shapes the vaginal resistome during pregnancy",
+    "link": "https://www.nature.com/articles/s41522-026-01144-y",
+    "content": ""
+  },
+  {
+    "id": "cd8b573fea2e80e4",
+    "title": "Reassessment and constrained redesign of an AKT1\u2013CTCFL multi-epitope construct for triple-negative breast cancer: a hypothesis-generating immunoinformatics study",
+    "link": "https://www.nature.com/articles/s41598-026-69224-9",
+    "content": ""
+  },
+  {
+    "id": "b429170d254277f9",
+    "title": "Identification of a novel lncRNA signature for the diagnosis of TNBC basal subtype",
+    "link": "https://www.nature.com/articles/s41598-026-68345-5",
+    "content": ""
+  },
+  {
+    "id": "1a484049738a00b6",
+    "title": "Predictive normative modeling of neurocognitive performance in Irish jockeys using regression and neural quantile methods",
+    "link": "https://www.nature.com/articles/s41598-026-69637-6",
+    "content": ""
+  },
+  {
+    "id": "e6510943a97a1526",
+    "title": "Proteogenomic profiling defines progression-associated biology in high-risk endometrial cancer",
+    "link": "https://www.nature.com/articles/s41698-026-01683-9",
+    "content": ""
+  },
+  {
+    "id": "062ce52c857adf74",
+    "title": "Exploration of novel anti-TB agents targeting the serine/threonine kinase enzyme (PknE) in Mycobacterium tuberculosis: an in silico study",
+    "link": "https://www.nature.com/articles/s41598-026-67951-7",
+    "content": ""
+  },
+  {
+    "id": "d230fff872f8706f",
+    "title": "Het-node2vec: second-order random walk sampling for heterogeneous graph embedding",
+    "link": "https://www.nature.com/articles/s41598-026-66012-3",
+    "content": ""
+  },
+  {
+    "id": "8e3170701254d9dc",
+    "title": "CE-RS-SBCIT: A novel channel-enhanced hybrid CNN\u2013transformer with residual, spatial, and boundary-aware learning for brain tumor MRI analysis",
+    "link": "https://www.nature.com/articles/s41598-026-69669-y",
+    "content": ""
+  },
+  {
+    "id": "62e91d27fa7aa7a4",
+    "title": "Benchmarking copy number alteration inference methods for spatial transcriptomics",
+    "link": "https://www.nature.com/articles/s41467-026-77500-5",
+    "content": ""
+  },
+  {
+    "id": "fd503889dfa06394",
+    "title": "Performance of vision-language models compared with 252 medical students on text-only and image-based dermatology examinations",
+    "link": "https://www.nature.com/articles/s41598-026-68943-3",
+    "content": ""
+  },
+  {
+    "id": "33772b21eb53f01f",
+    "title": "Iterative trocar-constrained laparoscope viewpoint search for enhanced surface coverage in 3D reconstruction",
+    "link": "https://www.nature.com/articles/s41598-026-70217-x",
+    "content": ""
+  },
+  {
+    "id": "6c41d57fb8382708",
+    "title": "Divergent nitrogen transition pathways during global agricultural development",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.03.749081v1?rss=1",
+    "content": "Reactive nitrogen (N) inputs underpin global food production, but increasing protein provision while limiting agricultural N pressure remains a major sustainability challenge. Here, we analyzed changes in N use, cropland N surplus and protein supply across 130 countries from 1992 to 2022 to assess whether recurrent N-transition patterns emerge during agricultural and economic development. Countries followed divergent trajectories rather than converging toward a common N transition. Absolute decoupling, with increasing protein supply and declining cropland N surplus, occurred in 35.4% of countries, while others showed relative improvements or increasing N pressure. Cropland N surplus rose more steeply as agricultural N inputs intensified. Long-term trajectories revealed contrasting forms of N-system reorganization, from persistently lower-pressure systems to intensifying systems. Absolute decoupling occurred across diverse economic contexts and was not systematically associated with development level. Higher-development countries that decoupled generally reduced N surplus from higher starting levels but still ended with higher surpluses. Thus, increasing protein provision while reducing N surplus is achievable, but improvement does not necessarily imply convergence toward low N pressure."
   }
 ]
