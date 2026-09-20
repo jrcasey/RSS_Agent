@@ -3574,5 +3574,389 @@
     "title": "Genome-wide characterization of host factors involved in single-stranded RNA and DNA phage infection pathways",
     "link": "https://www.biorxiv.org/content/10.64898/2026.09.17.752499v1?rss=1",
     "content": "Single stranded RNA (ssRNA) and single stranded DNA (ssDNA) bacteriophages represent a key component of the global virome, yet the host genetic networks supporting their infection cycles remain poorly understood. Here, we present a comprehensive, genome-wide mapping of the genetic landscape regulating infection cycles for F pilus-dependent ssRNA and ssDNA phages in Escherichia coli. Genetic screens across ssRNA phages spanning all four genogroups of the Leviviricetes revealed a highly conserved network of host dependencies, with the notable exception of the F plasmid gene traD. While primary structural receptor components and dsbA mediated disulfide bond formation are universally required across all lineages to ensure F pilus integrity, traD exhibits a strict genogroup-specific requirement during entry, showing variable essentiality across different viral groups despite sharing an identical primary receptor. Our gene dosage screens revealed that an elevated copy number of the hslU protease or the RNA chaperone stpA restricts infection, identifying clear genetic barriers that can perturb the viral life cycle. Parallel assays with filamentous ssDNA phages produced host factor profiles consistent with published literature, while revealing additional variations in host dependency. These screens confirmed that ssDNA phages strictly rely on the host TolQRA complex for entry downstream of pilus engagement. The assays tracked prominent negative fitness signatures across homeostatic clusters, highlighting how the physiological burden of continuous, non-lytic virion extrusion strains the host envelope. Finally, this comparative approach traced the selectivity of our isolation host (E. coli HSF) to a horizontally acquired capsule architecture from Klebsiella. This surface shield excludes a large panel of double stranded DNA phages isolated on diverse E. coli strains, while allowing virions from ssDNA and ssRNA phages to engage the extended F pilus and bypass the barrier via native pilus retraction. Together, this work provides a systematic, class-wide map of single stranded phage-host interactions, bridging classical genetics with modern viral discovery while establishing a robust host platform to access uncultured viral diversity and a functional blueprint to design next generation diagnostics, protein antibiotics, and biocontrol tools to halt horizontal gene transfer."
+  },
+  {
+    "id": "99eedeea1a35b5b8",
+    "title": "Forest Carbon Exchange Dynamics and Integrated Carbon Budget of a Subtropical Island Ecosystem",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG010032?af=R",
+    "content": "Abstract\nIsland ecosystems are on the frontline of climate change, yet their terrestrial carbon exchange remains poorly quantified because direct ecosystem\u2010scale observations are rare. Based on year\u2010round (2024) eddy covariance measurements of net ecosystem exchange (NEE) in the forest ecosystem of a representative island (Dachen Island) in the East China Sea, we analyzed the seasonal dynamics of carbon fluxes and identified their main drivers. The annual forest carbon sink was further constrained using multiple complementary approaches and integrated into an island\u2010scale carbon budget assessment. The island forest showed pronounced seasonal variation in NEE, with higher net carbon uptake during the wet season than in the dry season. Within both seasons, shortwave downward radiation was the dominant driver of temporal variation in NEE. The island forest functioned as a carbon sink, with estimated net carbon uptake rates ranging from 55.6 to 114.4\u00a0gC m\u22122\u00a0yr\u22121 across different approaches, while the age\u2010biomass curve approach yielded a modeled upper bound of 262.6\u00a0\u00b1\u00a057.5\u00a0gC m\u22122\u00a0yr\u22121 for potential biomass accumulation. However, the total carbon sinks from forests and fishery\u2010related blue carbon (2564.1\u20134060.0\u00a0t CO2\u00a0yr\u22121) were generally insufficient to offset total anthropogenic emissions (4363.8\u20135450.8\u00a0t CO2\u00a0yr\u22121) on Dachen Island. Our findings improve direct observational evidence that island forests can function as meaningful carbon sinks, but also show that they are unlikely to compensate for local emissions without substantial emission reductions. This study offers a framework for assessing carbon budgets on small islands, thereby informing integrated carbon dioxide removal strategies toward carbon neutrality."
+  },
+  {
+    "id": "552f4917996dbd62",
+    "title": "Moisture\u2010Driven Phenology Regulates Seasonal Canopy Dynamics and Carbon Uptake in a Tropical Deciduous Forest",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009704?af=R",
+    "content": "Abstract\nPhenology sets the seasonal window over which terrestrial ecosystems take up carbon, and in drought\u2010deciduous tropical forests this window is governed by rapid canopy transitions difficult to capture from satellites alone. We address this gap using daily near\u2010surface imagery from a PhenoCam co\u2010located with an automatic weather station in the Similipal Biosphere Reserve, eastern India, from January 2023 to May 2024. Daily Green Chromatic Coordinate (GCC) was analyzed with co\u2010located meteorology and surface (5\u00a0cm) and subsurface (20\u00a0cm) soil moisture and temperature. Interannual comparison focused on the leaf\u2010off (LP1), leaf\u2010initiation (LP2), and leaf\u2010growth (LP3) phases common to both years. In 2023, the start of season (SOS) fell on day\u2010of\u2010year (DOY) 82, peak greenness on DOY 154, and senescence onset on DOY 211. In 2024, SOS advanced to DOY 61, yet greening was slower and weaker: the leaf\u2010off minimum occurred about 12\u00a0days later and GCC remained below 2023 for most of the window. The two years were compared over their shared DOY 1\u2013150 window. Machine\u2010learning models identified subsurface soil moisture as the dominant control on LP1 (R2\u00a0\u2248\u00a00.67), subsurface temperature and moisture as joint drivers of LP2 (R2\u00a0\u2248\u00a00.88), and atmospheric humidity as an increasing constraint on LP3. Granger\u2010precedence analysis revealed rapid (\u22646\u2010day) responses to moisture and radiation superimposed on a \u223c25\u2010day subsurface thermal memory. The Sentinel\u20102 enhanced vegetation index, trained on 2023, reproduced the 2024 GCC trajectory (R2\u00a0\u2248\u00a00.88). These results imply that 10\u201315\u2010day phenological shifts can substantially alter the seasonal carbon\u2010uptake window and pre\u2010monsoon fire risk."
+  },
+  {
+    "id": "cbbd49453819f9dd",
+    "title": "Inwelling Versus Outwelling: Controls on Dissolved Organic Carbon Exchange in a Mesotidal Saltmarsh Estuary",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009790?af=R",
+    "content": "Abstract\nSaltmarsh estuaries influence land\u2010ocean carbon exchange, yet inlet carbon fluxes remain poorly constrained by tidal variability and limited high\u2010frequency observations. This study quantifies dissolved organic carbon (DOC) fluxes in a mesotidal saltmarsh estuary in the northeastern USA by integrating high\u2010frequency field data with a two\u2010dimensional hydrodynamic model. DOC concentrations were estimated from fluorescent dissolved organic matter and ancillary water\u2010quality measurements collected by moored sondes during summers 2023 and 2024. DOC fluxes were computed by coupling modeled discharge with observation\u2010derived concentrations. The tidal inlet exhibited the lowest DOC concentrations and largest DOC fluxes, indicating that tidal exchange volume exerts stronger control on carbon transport than concentration. DOC fluxes at the inlet switched from net export to the ocean in 2023 (outwelling) to net import into the estuary in 2024 (inwelling). The 2024 inwelling was associated with reduced riverine inputs and was consistent with greater relative influence of marine\u2010derived DOC from the adjacent shelf, followed by partial degradation within the estuary. Phase analyses revealed systematic offsets between water level and DOC flux, consistent with delayed marsh drainage and tidal storage effects, especially at the inlet. Across years and cross sections, the spring\u2010neap difference in DOC flux normalized to saltmarsh area was relatively consistent, providing a first\u2010order proxy for marsh\u2010associated DOC outwelling. Together, these results support a dynamic interpretation of the outwelling hypothesis, in which saltmarshes act as persistent DOC sources while the estuary alternates between net DOC export and import in response to fluvial and oceanic boundary conditions."
+  },
+  {
+    "id": "731f045465894fd2",
+    "title": "Towards global nutrient justice via a circular bionutrient economy",
+    "link": "https://www.nature.com/articles/s43017-026-00831-w",
+    "content": "<p>Nature Reviews Earth &amp; Environment, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/s43017-026-00831-w\">doi:10.1038/s43017-026-00831-w</a></p>Nutrient management is central to global food security, ecosystem health and climate resilience, yet current practices are profoundly inequitable and unsustainable. This Perspective introduces the circular bionutrient economy as a justice-oriented framework for advancing ecological balance and social equity through the recycling of organic waste streams into agrifood systems."
+  },
+  {
+    "id": "83cf32e869b8ab81",
+    "title": "The 2025\u20132026 Iberian Atmospheric Rivers Exhibited Moisture Transport Resembling the Early SSP5\u20108.5 Climate Response",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123799?af=R",
+    "content": "Abstract\nAtmospheric rivers (ARs) drive winter hydroclimate extremes over the Iberian Peninsula (IP). This study evaluates whether exceptional landfalling ARs (LARs) between October 2025 and February 2026 displayed characteristics expected under early high\u2010emission forcing. High\u2010resolution WRF simulations forced by ERA5 and CESM2 under SSP5\u20108.5 were used, using IPART for AR identification and FLEXPART\u2010WRF for moisture tracking. The simulated LARs reached vertically integrated water vapor transport magnitudes matching, and locally exceeding, those under the early SSP5\u20108.5 climate response by 10%\u201315%. Mid\u2010tropospheric trough\u2013ridge patterns enhanced zonal flow and long\u2010range moisture advection. Subtropical Atlantic moisture sources were 5%\u201320% stronger than simulated under the early SSP5\u20108.5 response. LAR\u2010related precipitation over Atlantic\u2010facing IP sectors also matched or significantly exceeded (p\u00a0<\u00a00.05) early SSP5\u20108.5 levels. These results suggest that present\u2010day extreme ARs can generate moisture transport and hydrological impacts comparable to early transient high\u2010emission projections."
+  },
+  {
+    "id": "766ef4f649778f6a",
+    "title": "Predicting measles outbreak magnitude via modeled population susceptibility evidence from pre-vaccination data",
+    "link": "https://www.nature.com/articles/s41598-026-61920-w",
+    "content": ""
+  },
+  {
+    "id": "5559379175a0af2c",
+    "title": "A course recommendation method based on bidirectional fusion of graph convolution using knowledge graphs",
+    "link": "https://www.nature.com/articles/s41598-026-72215-5",
+    "content": ""
+  },
+  {
+    "id": "09b3155ecaac7047",
+    "title": "Quokka swarm defensive optimization-based ensemble deep learning for disease prediction using remote monitoring data",
+    "link": "https://www.nature.com/articles/s41598-026-70049-9",
+    "content": ""
+  },
+  {
+    "id": "ef6af39163c419e7",
+    "title": "Complement C3a receptor expression is associated with distinct immune microenvironmental profiles in clear cell renal cell carcinoma",
+    "link": "https://www.nature.com/articles/s41598-026-72711-8",
+    "content": ""
+  },
+  {
+    "id": "4c573983da7f985d",
+    "title": "Prototype-based explainable deep learning for sex classification of Mountain Gazelles in the wild",
+    "link": "https://www.nature.com/articles/s41598-026-71679-9",
+    "content": ""
+  },
+  {
+    "id": "13a85748d6102dc2",
+    "title": "Integrated multi-omics analyses reveal the role of PAXX in colorectal cancer progression and the tumor immune microenvironment",
+    "link": "https://www.nature.com/articles/s41598-026-72335-y",
+    "content": ""
+  },
+  {
+    "id": "48fe814d676bf64b",
+    "title": "Missing data imputation for wearable time series",
+    "link": "https://www.nature.com/articles/s41598-026-71659-z",
+    "content": ""
+  },
+  {
+    "id": "0a83a75a392693e7",
+    "title": "Leakage-aware hybrid tabular deep learning with target-provenance auditing for calorie-expenditure prediction and constrained exercise food recommendation",
+    "link": "https://www.nature.com/articles/s41598-026-71211-z",
+    "content": ""
+  },
+  {
+    "id": "461b16cb129f92ae",
+    "title": "Comparative genomics of Actinomyces identifies an MRONJ-associated lineage characterized by variation in mfd",
+    "link": "https://www.nature.com/articles/s41598-026-72112-x",
+    "content": ""
+  },
+  {
+    "id": "a257d6d9f198dcd4",
+    "title": "Optimizing CRISPR\u2013Cas9-mediated TCR knockout in primary mouse CD8+, CD4+, and regulatory T cells",
+    "link": "https://www.nature.com/articles/s41598-026-69945-x",
+    "content": ""
+  },
+  {
+    "id": "82e192a86f57557d",
+    "title": "Scalable molecular representations enabled by multimodal fusion and sequence distillation",
+    "link": "https://www.nature.com/articles/s41467-026-77700-z",
+    "content": ""
+  },
+  {
+    "id": "cb3074e571ebb527",
+    "title": "An enhanced hierarchical Mamba-based cardiac segmentation network for cardiovascular analysis and disease diagnosis using multiple MRI datasets",
+    "link": "https://www.nature.com/articles/s41598-026-68601-8",
+    "content": ""
+  },
+  {
+    "id": "f3569e754c0a461f",
+    "title": "Retrieval-augmented multi-agent framework for evidence-centric medical reasoning",
+    "link": "https://www.nature.com/articles/s41598-026-72525-8",
+    "content": ""
+  },
+  {
+    "id": "df723efb15678ad4",
+    "title": "Thermodynamic\u2013molecular interdependencies and causal determinants governing pharmaceutical solubility in SC-CO2 systems",
+    "link": "https://www.nature.com/articles/s41598-026-71535-w",
+    "content": ""
+  },
+  {
+    "id": "cc8587f993ee3b1b",
+    "title": "Genomic landscape of papillary thyroid carcinoma in Kuwait reveals novel candidate somatic variants",
+    "link": "https://www.nature.com/articles/s41598-026-72264-w",
+    "content": ""
+  },
+  {
+    "id": "2655eb98ff183d02",
+    "title": "Intelligent assessment and exercise risk prediction model for knee function in elderly patients following total knee arthroplasty based on follow-up big data",
+    "link": "https://www.nature.com/articles/s41598-026-71302-x",
+    "content": ""
+  },
+  {
+    "id": "955bbe554f013302",
+    "title": "HemaViT: transformer-based deep learning for automated non-invasive anemia detection using conjunctival imaging",
+    "link": "https://www.nature.com/articles/s41598-026-70965-w",
+    "content": ""
+  },
+  {
+    "id": "d46e361e0abb48eb",
+    "title": "Computational multi-omics integration in neurocognitive disorders from machine learning to graph-based approaches",
+    "link": "https://www.nature.com/articles/s41540-026-00826-9",
+    "content": ""
+  },
+  {
+    "id": "06a0e1a4d2dffe60",
+    "title": "An automated deep learning pipeline for assessing aortic remodeling after frozen elephant trunk repair: a single-center pilot study",
+    "link": "https://www.nature.com/articles/s41598-026-72475-1",
+    "content": ""
+  },
+  {
+    "id": "c0c4839aee826713",
+    "title": "Benchmarking foundation models for tumor segmentation across multiple cancer types",
+    "link": "https://www.nature.com/articles/s41598-026-71014-2",
+    "content": ""
+  },
+  {
+    "id": "512ae4493516d969",
+    "title": "A dynamic family doctor rescheduling problem with integrated home health care and outpatient services",
+    "link": "https://www.nature.com/articles/s41598-026-68154-w",
+    "content": ""
+  },
+  {
+    "id": "dddc310d0e7cd78d",
+    "title": "Computational designing of multiepitope based vaccine (MEBV) candidate against human metapneumovirus (HMPV) using immunoinformatics approach",
+    "link": "https://www.nature.com/articles/s41598-026-67755-9",
+    "content": ""
+  },
+  {
+    "id": "7df0c66203da9e5f",
+    "title": "Modeling communicative intentions in therapist\u2013client dialogue using large language models and graph analysis",
+    "link": "https://www.nature.com/articles/s41598-026-71120-1",
+    "content": ""
+  },
+  {
+    "id": "12a4de4ee166eb8b",
+    "title": "Deep-learning-derived glaucoma-related endophenotypes enable novel genome-wide genetic and functional discovery",
+    "link": "https://www.nature.com/articles/s41525-026-00612-w",
+    "content": ""
+  },
+  {
+    "id": "d4e72e96bc38f80f",
+    "title": "A DNA methylation-based machine learning model for early and accurate diagnosis of cervical HSIL+ lesions",
+    "link": "https://www.nature.com/articles/s41598-026-68562-y",
+    "content": ""
+  },
+  {
+    "id": "00ad22266156f93c",
+    "title": "Bayesian bilevel operator learning with low-rank adaptation for efficient uncertainty quantification of PDE inverse problems",
+    "link": "https://www.nature.com/articles/s41467-026-77768-7",
+    "content": ""
+  },
+  {
+    "id": "018c9f7be25c4ce8",
+    "title": "Quantitative and qualitative assessment of metaplasia and oncogenesis in gastrointestinal tract cancers reveal pseudogenes as regulators",
+    "link": "https://www.nature.com/articles/s41540-026-00824-x",
+    "content": ""
+  },
+  {
+    "id": "9b762f98c381da22",
+    "title": "A dual stream architecture integrating pathology foundation models for automated tumor region segmentation in Ki-67 assessment",
+    "link": "https://www.nature.com/articles/s41598-026-70235-9",
+    "content": ""
+  },
+  {
+    "id": "e056ef76c1905a90",
+    "title": "Network-based gene prioritization using hybrid scoring for complex disease module discovery",
+    "link": "https://www.nature.com/articles/s41598-026-71419-z",
+    "content": ""
+  },
+  {
+    "id": "0c01da0bc3f82abc",
+    "title": "Systematic benchmarking of evaluation paradigms, safety boundaries, and clinical reasoning gaps for multimodal large language models in rehabilitation",
+    "link": "https://www.nature.com/articles/s41598-026-71999-w",
+    "content": ""
+  },
+  {
+    "id": "ce764964b1a82187",
+    "title": "Disease investigation in a New Zealand high-health pig herd reveals a divergent porcine adenovirus",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.14.751650v1?rss=1",
+    "content": "Porcine adenoviruses are common in domestic pigs and are generally regarded as low-pathogenicity viruses associated with mild or subclinical infections. However, their diversity, host associations and disease potential remain poorly understood. Here, we investigated a disease outbreak in an immunologically naive 320-sow high-health hysterectomy-derived pig herd in New Zealand. The outbreak was characterised by anorexia, lethargy, diffuse cutaneous erythema, death in neonatal piglets, and an increased occurrence of mummified fetuses. Histopathological examination of a piglet revealed widespread intranuclear inclusion bodies within endothelial cells, indicative of systemic viral infection. Total RNA sequencing was performed on tissues from an affected piglet and mummified fetuses. Metatranscriptomic analysis identified an abundant adenovirus in multiple piglet and aborted fetus tissues, and de novo assembly recovered a 27,685-nucleotide genome. Phylogenetic analysis placed the virus within the genus Mastadenovirus but it formed a divergent lineage distinct from all previously characterised porcine adenoviruses. Despite sequence divergence, the genome retained the characteristic organisation of mastadenoviruses. Aside from a single detection of porcine kobuvirus identified at low abundance in the small intestine and colon from the piglet, no other viral pathogens were identified. The high viral abundance and systemic tissue distribution observed in both the piglet and fetus, together with the presence of widespread adenoviral inclusion bodies in the piglet, support an association between this novel adenovirus and the disease outbreak. These findings expand the diversity of porcine adenoviruses and suggest that previously unrecognised adenovirus lineages may contribute to reproductive and neonatal disease when introduced into immunologically naive high-health herds."
+  },
+  {
+    "id": "967cac92a1b23a8a",
+    "title": "The coculture of Fomitopsis betulina with Escherichia coli induces a nutritional stress and triggers secondary metabolism pathways.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.14.751415v1?rss=1",
+    "content": "Basidiomycete fungi are an underexplored source of specialized metabolites with significant biotechnological potential. However, the environmental cues that activate their biosynthetic pathways remain poorly understood. Here, we investigated the response of the wood-decaying fungus Fomitopsis betulina, to nutritional competition using co-cultures with Escherichia coli. On solid medium, F. betulina inhibited the bacterial growth. Using a mass spectrometry-based metabolomics approach, we identified a Sumikis acid derivative, calcium diformate, and sulfuric acid among the compounds enriched within the inhibition zone and hypothesized that these compounds were associated with the acidification of the medium. Although F. betulina has previously been reported to produce the antibacterial compound piptamine, neither piptamine nor related derivatives were detected under our experimental conditions. In liquid medium, the co-culture with E. coli caused the rapid depletion of the available glucose, resulting in the establishment of carbon-starvation conditions and a 44% reduction in fungal biomass. Transcriptomic analyses revealed extensive metabolic reprogramming in response to bacterial competition, including the induction of genes involved in carbon acquisition, nutrient transport, redox homeostasis, and stress adaptation. Notably, a homolog of the Velvet regulatory complex, a central regulator of fungal development and specialized metabolism, was upregulated. The co-culture induced the expression of genes associated with multiple biosynthetic gene clusters, including terpene, polyketide, and fungal RiPP. Taken together, our results demonstrate that bacterial competition acts as a potent trigger of nutritional stress and secondary metabolism in F. betulina. More broadly, fungal-bacterial co-culture represents a promising alternative to extractions to identify high-value added metabolites pathways from basidiomycetes."
+  },
+  {
+    "id": "2d359b1efa7949aa",
+    "title": "Temperature-dependent reprogramming of virulence traits during Pseudomonas aeruginosa biofilm formation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.751985v1?rss=1",
+    "content": "Pseudomonas aeruginosa is an opportunistic pathogen that occupies diverse ecological niches, including soil, water, and the human host. Environmental cues encountered across these habitats trigger adaptive responses that promote survival and persistence through regulation of virulence-associated traits, including secreted factors, siderophores, and biofilm exopolysaccharides (EPS). One major change experienced during the transition from environmental reservoirs to the host is an increase in temperature. Although temperature is a key signal encountered during host transition, its global impact on P. aeruginosa physiology remains poorly understood. We therefore investigated the effects of temperature on planktonic and biofilm-populations, comparing both growth states at 23{degrees}C and 30{degrees}C, representing environmental temperatures, and at 37{degrees}C and 40{degrees}C, representing normal and febrile host temperatures. Transcriptomic and phenotypic analyses revealed extensive temperature-dependent regulation of virulence determinants in both growth states. Expression of the type VI secretion system was elevated at environmental temperatures, whereas pyoverdine biosynthesis and the type III secretion system were upregulated at host temperatures. Building on our previous finding that biofilms formed at environmental and host temperatures differ in architecture, biomass, and EPS composition, we next examined how these structural differences influence stress tolerance. Biofilms grown at 23{degrees}C and 30{degrees}C exhibited substantially greater tolerance to antibiotic stress than biofilms grown at 37{degrees}C and 40{degrees}C. Growth temperature therefore establishes biofilm properties that subsequently influence the stress-tolerance profile of the population. Collectively, our findings identify temperature as a major environmental cue that reprograms P. aeruginosa physiology in ways likely to support persistence across distinct ecological niches."
+  },
+  {
+    "id": "9bc9a09763f9e643",
+    "title": "Variation in multiple classes of simple sequence repeats can alter drug susceptibility in Mycobacterium tuberculosis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.752248v1?rss=1",
+    "content": "Insertions and deletions (INDELs) in simple sequence repeats (SSRs) generate relatively high-frequency reversible genetic changes that facilitate bacterial adaptation to changing environments. Analyses of global Mycobacterium tuberculosis (Mtb) isolates indicate that many SSRs are under diversifying selection, and several of the resulting INDELs in homopolymer tracts (HTs) can increase the pathogen's fitness during exposure to host and antibiotic stresses. However, the functional impact of most variable SSRs, particularly those within more complex repeat sequences than HT, remains unclear.  Here, we combine phylogenomic analysis of clinical Mtb strains from Vietnam and Peru with in vitro experimental validation of engineered strains to identify SSR INDELs that alter antibiotic susceptibility. Our findings demonstrate that INDELs across multiple SSRs of differing repeat composition are highly variable and correlate with clinical antibiotic resistance. These variants included frameshifting HT INDELs in ppe13, glpK, Rv2081c, and ppsA, and in-frame trinucleotide (triplet) SSR INDELS in ponA1, ppe53, and ppe59 that produce much more subtle changes in protein structure. Reconstruction of these INDELs in an isogenic background identified four variants that directly reduce drug potency, including a triplet SSR deletion in ppe53 that conferred intermediate resistance to isoniazid, rifampicin, and streptomycin. The clinically prevalent ppe53 CGCdel mutation shortens a polyalanine stretch adjacent to the conserved WxG domain and impairs the processing and secretion of the full-length protein. Overall, our work provides additional evidence of selective pressure across Mtb SSRs and demonstrates the significance of in-frame INDELs within triplet SSRs, highlighting their contribution to the evolution of antibiotic resistance."
+  },
+  {
+    "id": "f3b2dfd2f539c94f",
+    "title": "Reduced DPP4 Binding Confers Resistance to Soluble DPP4 While Preserving MERS-CoV Entry into Cells Expressing High Levels of DPP4",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.14.751648v1?rss=1",
+    "content": "The Middle East respiratory syndrome coronavirus uses DPP4/CD26 as receptor for cell entry. Soluble recombinant DPP4 can block MERS-CoV infection in cell culture and in animal models and might hold promise as antiviral. Furthermore, endogenous soluble DPP4 in plasma might reduce MERS-CoV dissemination in infected individuals. Therefore, we addressed whether and how MERS-CoV can acquire resistance against soluble DPP4 (sDPP4), employing a vesicular stomatitis virus (VSV) encoding the MERS-CoV spike (S) protein (VSV-MERS-S). Passaging of VSV-MERS-S in the presence of sDPP4 selected for viral variants with mutations L507I and L507H in the receptor binding domain (RBD) of the S protein. These mutations reduced sDPP4 binding, were compatible with robust entry into cell lines expressing high levels of DPP4 and conferred sDPP4 resistance. In contrast, entry into cell lines expressing low levels of DPP4 was reduced. Furthermore, polymorphisms L507F/R/P, which were detected in MERS-CoV sequences from patients, exhibited an even more pronounced phenotype, with L507R and L507P conferring complete sDPP4 resistance. Collectively, our results show that naturally occurring polymorphisms in the MERS-CoV S protein can confer sDPP4 resistance by reducing sDPP4 binding but might still be compatible with robust viral spread in cells and tissues expressing high levels of DPP4."
+  },
+  {
+    "id": "bdc85d2d22fbe9a8",
+    "title": "Convergent genetic evolution within Burkholderia multivorans chronic infections correlates with lung function decline in cystic fibrosis patients",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.751994v1?rss=1",
+    "content": "The patterns and pathways of pathogen adaptation during chronic infections can reveal the gateways microbes must unlock to colonize and persist. In chronic lung infections of cystic fibrosis (CF) patients, a longtime goal has been to anticipate disease outcome and to improve treatment. Understanding of these processes for Burkholderia multivorans, the most prevalent CF pathogen of the Burkholderia cepacia complex, is limited. We investigate the evolution of seven different strains recovered from chronic airway infections of eight CF patients over 7-17 years. Despite divergent origins, each infecting population followed similar phylogenetic patterns of early diversification followed by the emergence of a dominant clade. The defining mutations of these prevalent lineages also affected the same set of global regulators, which altered clinically significant bacterial phenotypes in parallel directions. Mutated genes govern lipid metabolism, immune evasion, antibiotic resistance, biofilm production, and survival under oxygen limitation, and unite studies of chronic infections by different species of the B. cepacia complex. Most significantly, the phylodynamic signal that a dominant lineage had emerged within the infection, more so than any particular set of mutations, was associated with a more rapid decline in patient lung function. These findings reveal the importance of combining data from pathogen and host to link bacterial adaptation to disease progression, and ultimately to identify paths to reinforce host defense."
+  },
+  {
+    "id": "d24f168779c149d4",
+    "title": "Varied influence of curli on Shiga toxin-producing Escherichia coli O157, O26, O111 biofilm formation and animal cell adherence.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.15.751941v1?rss=1",
+    "content": "Shiga toxin-producing Escherichia coli (STEC) persist in cattle and can colonize the bovine recto-anal junction, making it an important reservoir for transmission. Curli are extracellular amyloid fibers associated with biofilm formation and environmental persistence, but their contribution to STEC adherence to bovine epithelial cells is unclear. This study examined the relationship between curli production, biofilm formation, and adherence of O157, O26, and O111 STEC isolates to bovine recto-anal junction (RAJ) squamous epithelial (RSE) cells. Thirty isolates were evaluated for RSE adherence, curli-associated phenotypes, and biofilm formation under environmental and host-associated growth conditions. O157 and O111 isolates predominantly exhibited strong aggregative adherence to RSE cells, whereas O26 isolates showed more heterogeneous, primarily diffuse adherence. O111 isolates produced the strongest biofilms under environmental conditions and displayed relatively stable curli phenotypes, while O157 and O26 isolates showed greater variation. However, environmental biofilm formation did not consistently correlate with RSE adherence. Biofilm formation was also markedly reduced under host-simulated conditions in DMEM-LG at 26, 37, and 39{degrees}C, including among isolates that produced strong environmental biofilms. Differences in Shiga toxin genotype and expression likewise did not account for the major adherence patterns, as O111 isolates lacking stx2 retained strong aggregative adherence. These findings indicate that curli-associated biofilm formation is primarily influenced by environmental conditions and does not directly predict STEC adherence to bovine RSE cells. The results suggest that environmental persistence and host-cell attachment represent distinct phenotypes and that STEC adherence to bovine epithelial cells is likely mediated by additional strain- and serotype-specific factors."
+  },
+  {
+    "id": "5dda9b8ad2eca4ac",
+    "title": "Peptidyl Protease Inhibitors Block ERM-BP Function and Suppress Entamoeba Encystation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.752027v1?rss=1",
+    "content": "Entamoeba encystation process is a crucial developmental process that support to parasite persistence and disease transmission, yet the molecular mechanisms governing this stage conversion remain poorly understood and represent an attractive opportunity for therapeutic intervention. The Encystation Regulatory Motif-Binding Protein (ERM-BP), a transcription factor and key regulator of encystation, therefore represents a promising target for anti-amoebic drug development to prevent disease transmission. In the present study, we applied a target-based drug discovery approach to screen small molecules that can block the activity of ERM-BP, with a particular focus on the Cys-198 residue of this protein, which is functionally important. A library comprising 100 compounds including broad-spectrum nicotinamidase inhibitors and cysteine-reactive electrophiles were screened against ERM-BP by Protein thermal shift assays (PTSA). Thirty-six compounds bound to wild-type ERM-BP while analysis using the C198A mutant narrowed the candidates to three compounds exhibiting Cys-198-dependent interactions. These three peptidyl protease inhibitors, PFMK (Z-Ala-Phe-FMK), LEK (Z-Leu-EK), and EBLL (Ethylbenzyl-Leu-Lys) binds to ERM-BP-WT and abolishes the DNA-binding activity of ERM-BP in a concentration-dependent way. Cellular evaluation further revealed distinct activity of PFMK, LEK and EBLL on trophozoite growth and PFMK and EBLL reduced encystation efficiency significantly, produced irregular, and structurally defective cysts, which fails to excyst to trophozoites, whereas LEK had no significant effects on encystation efficiency or cyst morphology. Altogether, these findings identify peptidyl protease inhibitors PFMK and EBLL as promising compounds to target ERM-BP and block the Entamoeba encystation, providing a framework for developing therapeutics targeting parasite differentiation and encystation."
+  },
+  {
+    "id": "64452e55bc1a52a0",
+    "title": "Bacterial secreted products selectively inhibit non-symbiotic fungi in bees",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.752052v1?rss=1",
+    "content": "Microbial interactions play an important role in shaping microbiome assembly, such as by limiting invasion by harmful organisms that can directly affect the host or disrupt microbiome-associated benefits. Such interactions have been observed across systems, including in the microbiomes of key pollinators such as stingless bees. In Scaptotrigona depilis, bacteria associated with the larval diet inhibit potentially pathogenic filamentous fungi while allowing beneficial yeast symbionts to persist. The mechanisms underlying these effects, however, remain unclear. Here, we combined conditioned media (cell-free supernatant) assays with genomic and metabolomic analyses to investigate whether bacterial secreted products mediate these effects in the bee microbiome. Our results show that bacterial secreted products, particularly from prevalent bacterial taxa such as Apilactobacillus kunkeei, strongly affect fungal growth. Filamentous fungi, including the pathogen Aspergillus, were consistently inhibited, partly through substrate acidification driven by organic acids, but also through additional acidity-independent factors. In contrast, yeast responses were more variable: a non-symbiotic Zygosaccharomyces was inhibited by bacterial metabolites under near-neutral pH, whereas the symbiotic Zygosaccharomyces required for larval development was maintained or promoted under acid-conditioned media. Genomic analyses revealed limited canonical antifungal biosynthetic clusters in the most prevalent bacteria in the larval diet, while metabolomics identified extracellular peptide-like compounds across strains, suggesting a role for non-canonical secreted products. Together, these results show that bacterial secreted products play a key role in selectively shaping fungal communities in the stingless bee larval diet, providing first hints on a mechanistic basis for how microbial interactions structure this ecosystem."
+  },
+  {
+    "id": "0fd64ee31329e2d5",
+    "title": "Development of a novel loop-mediated isothermal amplification (LAMP) assay for Balamuthia mandrillaris",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752794v1?rss=1",
+    "content": "Balamuthia mandrillaris is a free-living amoeba that can cause cutaneous skin lesions, systemic disease, and a severe life-threatening CNS infection, Balamuthia amoebic encephalitis (BAE), which has a high mortality rate (~92%). The current diagnostic methods for B. mandrillaris have many limitations including the long detection time, low sensitivity, and specific diagnostic tests only available in highly specialized centers. The early stage of diagnosis is important for the treatment because of how quickly BAE infection then develops. Therefore, we developed, optimized, and evaluated a novel loop-mediated isothermal amplification (LAMP) assay for the 18S rRNA gene of B. mandrillaris, which can be observed by naked eyes with phenol red. This novel diagnostic assay can detect ten different B. mandrillaris isolates with no cross-reactivity with the DNA of other free-living amoeba, protozoa, fungi, or bacteria tested. Compared with conventional PCR, our LAMP assay displayed ~10-100-fold higher sensitivity from extracted DNA, heat-treated samples, and non-treated samples, with the limit of detection (LOD) of 10 fg/L DNA, 10 trophozoite/100 L for non-treated cells, and 1 trophozoite/100 L for heat-treated cells, respectively. This method was further validated using two newly developed qPCR and dPCR methods to determine the LOD of approximately 1 copy/L. In addition, there is no tolerance for complicated matrices, that LAMP maintained efficacy in cerebrospinal fluid (CSF), urine, and blood-spiked samples. Due to the simplicity, robustness, and high sensitivity of the developed LAMP method, it will be useful for quick clinical detection and diagnosis of B. mandrillaris, particularly in non-specialized centers and resource-limited areas. Here we report the first LAMP diagnostic method for B. mandrillaris; publicly disclosed on Tuesday, November 4th, 2025 at the 20th (XX) International Meeting on the Biology and Pathogenicity of Free-Living Amoebae (FLAM 2025) at Puerto Morelos, Mexico."
+  },
+  {
+    "id": "61a8623778c697b8",
+    "title": "Experimental evolution of root-associated microbial communities",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752712v1?rss=1",
+    "content": "Microbial communities associated with plants are dynamic ecosystems whose structure and functions influence host health and fitness. While the ecological roles and beneficial function of plant microbiomes are increasingly well understood, the evolutionary dynamics that shape them over time remain unclear. Experimental evolution constitutes a powerful tool to study microbial adaptation, but so far, its application has been largely focused on free-living or single-species populations. Here, we use experimental evolution to test whether taxonomically complex synthetic bacterial communities can adapt to novel plant hosts. We show that replicate microbial communities undergo rapid and parallel genomic evolution, with measurable gains in colonization fitness. Adaptive changes involved mutations in regulatory processes, motility, and core metabolism, leading to significant fitness gains across diverse taxa. Our findings demonstrate that the plant host can drive microbiome evolution without disrupting the stability of the root microbiota."
+  },
+  {
+    "id": "260861dde92d3b8a",
+    "title": "Genetic diversity of Legionella species in culture-negative clinical and environmental specimens by sequencing the 23S-5S ribosomal intergenic spacer region",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752540v1?rss=1",
+    "content": "The diagnosis of Legionnaires' disease (LD) caused by Legionella non-pneumophila species is likely to increase with broader use of PCR targeting Legionella spp. In this context, accurate species identification in PCR-positive but culture-negative samples is essential to improve understanding of disease epidemiology and to support source attribution. Here, we presented a validated and user-friendly bioinformatic pipeline compatible with next-generation sequencing (NGS) for analyzing the hypervariable 23S-5S region, paired with a curated database encompassing all described Legionella species as of January 2026. Parameters were optimized for sensitivity and specificity using both strains and culture-positive clinical and environmental samples. We then applied the pipeline retrospectively to 92 culture-negative PCR-positive samples collected from 2023 to 2025. Legionella species were successfully assigned in 60% (55/92) of tested samples and revealed a high diversity. Co-infections were detected in clinical samples, including combinations of L. pneumophila with L. longbeachae or L. bozemanii, while environmental samples contained up to six different species. These results demonstrate that 23S-5S amplicon NGS enables species-level identification in the absence of cultured isolates, improving surveillance of non-pneumophila Legionella cases. The proposed pipeline, implemented in QIIME2 and accompanied by a publicly available database, provides a practical framework for routine molecular monitoring and outbreak investigation."
+  },
+  {
+    "id": "6c7d7c014a020bd0",
+    "title": "Functional importance and paralog-specificity of the intrinsically disordered RsmE C-terminus region in Pseudomonas fluorescens Pf0-1",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.752055v1?rss=1",
+    "content": "RsmE and its homologs function as RNA-binding post-transcriptional regulators that control the production of diverse secondary metabolites. Pseudomonads harbor varying numbers of RsmE paralogs that are often generalized to overlap in function. However, recent studies indicate that these paralogs bind to both overlapping and unique sets of mRNA. In Pseudomonas fluorescens Pf0-1, RsmE exclusively regulates the production of multiple extracellular secretions, distinguishing it from its paralogs, RsmA and RsmI. While the majority of the three paralogs core sequences are highly conserved, each possesses a vastly different C-terminus region. The C-terminus tails are generalized to be functionless, as they are intrinsically disordered and devoid of known mRNA binding sites. Here, we challenge this notion through analyses of various naturally emergent RsmE variants that differentially impact repressive function solely from changes in the C-terminus tail. Engineered Rsm chimeras containing the various paralog cores and tails further confirmed the functional importance of the C-terminus tail, as neither replacing the RsmE tail with the RsmA tail nor attaching the RsmE tail to a different paralog core restored repression. However, the RsmI tail complemented function in the presence of the RsmE core, indicating that RsmEs functional specificity lies within the core despite the essentiality of the C-terminus. Bioinformatic analyses also revealed that the C-terminus tail composition of RsmA to be the most unique among the paralogs and each tail sequence is uniquely and highly conserved across diverse proteins, not only in bacteria, but also in eukaryotic species."
+  },
+  {
+    "id": "411a609509f1a5e1",
+    "title": "Temporal changes in platelet activation and organ dysfunction during invasive Streptococcus pyogenes infection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752656v1?rss=1",
+    "content": "A key feature of sepsis is immune dysregulation caused when a local infection progresses to systemic disease. Innate immune cells, including platelets, can both contribute to immune defense but also to collateral organ damage. In this study, we characterized the molecular, cellular, and proteome responses at distinct stages of invasive Streptococcus pyogenes infection in a mouse model, from a local infection to dissemination and systemic inflammation. Invasion of bacteria to the bloodstream was associated with escalating cytokine levels, platelet activation, and an early leukocytosis that progressed to leukopenia. Multiparameter mapping of organ function using plasma biomarkers, histopathological changes, and proteome reorganization revealed distinct temporal patterns of organ dysfunction. Platelets were mobilized to the local skin infection at early stages of inflammation but also accumulated in the liver at later stages, coinciding with sepsis-induced organ damage. We demonstrated that S. pyogenes bound to the GPIb receptor on platelets in vitro, suggesting that bacteria may bind to platelets in the bloodstream. Treatment of infected mice with antibiotics diminished the bacterial load, reduced sepsis-induced organ damage, and partially reverted the disease-associated proteome rearrangement in the plasma and liver. Treatment of infected mice with pharmacological blockade of platelet activation with ticagrelor neither exacerbated disease nor significantly protected against sepsis-induced organ damage. However, at the proteome level, ticagrelor significantly reverted sepsis-induced platelet activation and stress responses in the liver. We conclude that platelets contribute to liver dysfunction in sepsis and may represent a target for adjunct therapy in combination with antibiotics."
+  },
+  {
+    "id": "22682fe69733dd05",
+    "title": "Experimental characterization of zeta viruses and discovery of betaviroid-like RNAs expand the diversity of coding circular RNA replicons",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.752053v1?rss=1",
+    "content": "Viroid-like RNAs (vdlRNAs) are infectious agents characterized by single-stranded circular genomes folding into compact secondary structures, often containing self-cleaving ribozymes involved in replication. Recent metatranscriptomic studies have expanded their diversity across multiple ecological niches and revealed novel vdlRNAs groups with protein-coding capacity, including zeta viruses, characterized by the potential to encode an endless tandem-repeat protein in each polarity strand. However, besides their in silico identification, no experimental evidence supported their existence and molecular features. Here, three new zeta viruses were identified and one of them was molecularly characterized from soil. In addition, a novel type of coding vdlRNAs, named betaviroid-like RNAs was discovered. Similar to zeta viruses, betaviroid-like RNAs are circular RNAs containing, in each polarity strand, one ribozyme and one open reading frame (ORF) encompassing the full-length genome. Unlike zeta viruses, betaviroid-like ORFs are not endless but longer than the unit-length genome. Existence of both circular RNA polarity strands, absence of DNA forms, and self-cleavage activity of ribozymes were experimentally confirmed for both zeta viruses and betaviroid-like RNAs, providing data consistent with symmetric rolling-circle replication. Additional zeta viruses and betaviroid-like RNAs were identified in publicly available metatranscriptomic datasets from wetlands of different geographic areas, supporting their broad distribution. Sixteen zeta viruses contain diverse self-cleaving ribozymes, including delta, type II and III hammerhead, twister, and hairpin ribozymes, expanding the known ribozyme diversity of this group. Altogether, our results provide the first experimental characterization of zeta viruses and betaviroid-like RNAs expanding the diversity of circular RNA replicons."
+  },
+  {
+    "id": "86e5500a74cd17d8",
+    "title": "HIGH DOSE GAMMAHERPESVIRUS INFECTION IN MACROPHAGES RESULTS IN INFLAMMATORY MULTIMODAL CELL DEATH",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.752237v1?rss=1",
+    "content": "Human gammaherpesviruses (gHVs) including Epstein-Barr Virus and Kaposis sarcoma associated herpesvirus are linked to cancer and inflammatory disease development. The outcome of gHV infection is highly regulated by cell type, with macrophages identified as an important early infection target that can also serve as a latency reservoir. Here, we used the mouse gHV model, murine gammaherpesvirus (MHV68), to identify a dose-dependent outcome of MHV68 infection of macrophages, with high dose infection resulting in extensive morphological changes, viral gene expression, and a pronounced inflammatory cell death not observed under conditions of lytic replication occurring at lower infectious dose. Virion envelope and tegument components were not sufficient for this dose-dependent cell death, which required intact viral DNA and virus transcription, yet occurred independently of viral DNA replication and late gene transcription. Necrostatin-1 (Nec-1) treatment, an anti-inflammatory therapeutic, limited cell death and reduced cell morphology alterations, with no impact on virus replication, uncoupling cell death from lytic replication. Activation of autophagy profoundly limited high dose infection outcomes, with increased cell survival and reduced viral gene expression. Despite the improved cell survival observed in cells treated with Nec-1, biochemical analysis of infected cultures identified robust apoptosis induction with subsequent activation of gasdermin E, suggesting a multi-modal cell death mechanism culminating in pyroptosis. Our findings suggest that high dose macrophage infection byMHV68 is a major driver of inflammatory cell death to potentially shape downstream inflammation and immune responses."
+  },
+  {
+    "id": "552e4ac184362c49",
+    "title": "Interaction Patterns of Mucormycotina Fungi with Professional Phagocytes and Amoebae: A Comparative Phylogenetic and Geographic Survey on Clinical and Environmental Species",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752354v1?rss=1",
+    "content": "Mucormycosis is among the most lethal fungal infections in clinical medicine, with crude mortality rates between 50 and 90% that have improved little over decades of antifungal development. Alveolar macrophages constitute the primary cellular defense against inhaled Mucorales spores, yet quantitative comparative data on phagocytic outcomes across the taxonomic breadth of this fungal order are absent from the literature. We co-incubated 62 Mucorales strains drawn from nine phylogenetic groups and 12 countries with MH-S murine alveolar macrophages and with Dictyostelium discoideum amoeba, at multiplicities of infection (MOI) of 1 and 5 and at incubation times of 1.5 and 3 hours. Automated phagocytic index quantification was combined with spore morphometric measurements and geographic metadata. Macrophage phagocytic indices differed highly significantly among the nine phylogenetic groups across all experimental conditions (Kruskal-Wallis H = 394-780; p = 10^-163 to 10^-74). Group 1 (Absidia and Cunninghamella species) showed the lowest phagocytic index; Groups 5 (Rhizopus arrhizus) and 6 (Gilbertella persicaria and Mycotypha species) showed the highest. Larger spore area correlated negatively with macrophage phagocytic index. In the central comparative finding, Spearman rank correlations between macrophage and D. discoideum phagocytic indices were near zero across all four conditions (r = -0.07 to +0.11; all p > 0.8), demonstrating that protozoan phagocytosis does not predict the mammalian macrophage phagocytic hierarchy. Kinetic analysis further revealed, for the first time in any Mucorales or Mucormycotina species, evidence of vomocytosis in MH-S macrophages challenged with Group 8 (Mucor clade II) spores at MOI 1, and in D. discoideum across four groups at MOI 5 after 3 hours. These findings establish a quantitative, phylogenetically resolved framework for Mucorales innate immune recognition, demonstrate that the evolutionary training ground hypothesis does not hold at the order level for Mucorales, and identify vomocytosis as a previously unrecognised immune evasion mechanism in Mucormycotina."
+  },
+  {
+    "id": "37d6cf21dd1e7a5b",
+    "title": "Independent tuning of outer membrane fluidity and mechanics in Gram-negative bacteria",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.17.752130v1?rss=1",
+    "content": "The outer membrane (OM) of Gram-negative bacteria forms a protective barrier that combines selective permeability with mechanical load-bearing capacity, properties linked to its asymmetric bilayer structure with lipopolysaccharides (LPS) in the outer leaflet and phospholipids (PLs) in the inner leaflet. Unlike most PL bilayers, the OM typically exhibits limited lateral diffusion, resulting in a gel-like surface with spatially organized proteins and LPS. The molecular basis of this physical state and its relationship with envelope mechanics remain unclear. Here, we show that increasing PL levels in the outer leaflet or truncating LPS core oligosaccharides increases OM fluidity by disrupting LPS packing. In contrast, reduced LPS abundance or disruption of divalent cation-mediated crosslinking primarily reduces OM stiffness with little effect on fluidity. Thus, OM fluidity and mechanical stiffness can be tuned independently through distinct molecular interactions. This separation of physical control mechanisms provides a framework for understanding how Gram-negative bacteria modulate OM properties during environmental adaptation and envelope homeostasis."
+  },
+  {
+    "id": "b95d5fe4b8459d23",
+    "title": "YfiM is a lipid-linked oligosaccharide pyrophosphatase",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.16.752124v1?rss=1",
+    "content": "Lipid-linked oligosaccharides (LLO), such as Lipid II and O-antigen precursors in bacteria, and dolichol-linked oligosaccharides (DLO) in eukaryotes, are universal metabolic intermediates required for cell wall assembly and protein glycosylation across all domains of life. The oligosaccharide moiety of LLO is synthesized through the sequential addition of various monosaccharides, a process catalyzed by a series of glycosyltransferases, to form the final mature structure. However, the existence of a homeostasis and quality control mechanism to degrade surplus and aberrant LLO has long remained a mystery. Although we recently identified the yeast LLP1 as an LLO pyrophosphatase involved in the homeostasis and quality control of DLO in fungi, the corresponding mechanism in bacteria and plants has remained elusive. Here, we identify YfiM and AT1G15900 as LLO pyrophosphatases in Escherichia coli and Arabidopsis thaliana, respectively. Phylogenetic profiling revealed that while YfiM is broadly conserved among Gram-negative bacilli, its plant ortholog displays a unique lineage-specific distribution shaped by selective gene loss. In vitro, purified YfiM and AT1G15900 exhibit LLO pyrophosphatase activity. In vivo, deletion mutant of yfiM caused vancomycin sensitivity in E. coli. Conversely, overexpression of YfiM triggered osmotic lysis under hypotonic conditions. Moreover, overexpression of YfiM in an outer membrane-compromised strain partially rescued detergent-chelator sensitivity, revealing a compensatory envelope stress response. Together, our findings uncover an ancient, conserved cross-kingdom system for LLO quality control bridging prokaryotes and plants."
+  },
+  {
+    "id": "a1f44aac94a40929",
+    "title": "Data mining sheds light on a novel family of plant-associated negative-sense RNA viruses linked to lispiviruses",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752651v1?rss=1",
+    "content": "Large-scale mining of public transcriptomic datasets can reveal viral diversity that remains invisible to conventional virus-surveillance approaches, while increasingly powerful structure-prediction methods provide a complementary route to characterizing highly divergent viral proteins. Here, we combine sequence detection, phylogenetic analysis, structural prediction, and host-association analyses to investigate the cryptic diversity and biology of a new clade of plant-associated lispi-like viruses. Analyses of RNA-sequencing datasets identified and enabled assembly of 87 lispi-like virus genomes associated with 75 plant hosts, expanding the known diversity of this new group by approximately 40-fold. The viruses share a conserved four-cistron genome organization, 3'-N-P2-P3-L-5'. Structural analyses provide functional insights into the four conserved proteins. P1 (N) adopts a canonical negative-strand RNA virus nucleocapsid architecture with conserved RNA-interacting residues and a predicted RNA-packaging configuration. P2 is exceptionally divergent; although a subset of structures resembles the ITPase/HAM1 fold. P3 forms a conserved trimeric coiled-coil architecture reminiscent of a viral fusion-protein stalk, but lacks the family-wide sequence features expected of a canonical membrane glycoprotein. P4 contains a structurally resolved Mononegavirales-type RNA-dependent-RNA-polymerase (RdRp) core with invariant catalytic motifs, including the characteristic GDN signature, whereas its accessory regions are substantially more divergent. Phylogenetic insights form a distinct monophyletic lineage sister to the predominantly invertebrate-associated Lispiviridae, supporting their recognition as a new proposed family Masuviridae, comprising 15 tentative genera. Genus-level clustering is accompanied by marked differences in host association, ranging from strong specialization to broader host ranges. Retrospective screening of public sequencing libraries further identified lispi-like virus sequences in 1,536 libraries representing 134 plant species, 11 plant families and 182 geographic locations, highlighting a substantial and geographically widespread cryptic virome. Together, these results establish Masuviridae as a deeply divergent lineage of plant-associated negative-sense RNA viruses and illustrate how the integration of sequence, structural, and large-scale transcriptomic analyses can move viral dark matter from detection towards evolutionary and functional characterization."
+  },
+  {
+    "id": "a31c9f33be94cebe",
+    "title": "A reference genome without a virus: cDNA reconstruction reveals the provenance and function of the MS2 phage sequence",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752701v1?rss=1",
+    "content": "Reference genomes are often treated as faithful representations of experimentally validated viral genomes, yet the relationship between historically curated reference sequences and infectivity is rarely tested experimentally. Here, we developed a cDNA-based reconstruction platform for the canonical RNA phage MS2 and used it to compare the current NCBI reference genome (RefSeq) with closely related published isolate sequences. We found that isolate-derived sequences reproducibly yielded infectious phage, whereas the current MS2 RefSeq-derived construct did not, showing that the present reference does not represent a single experimentally validated infectious genome but instead reflects sequence curation across multiple studies. We then compared conventional and AI-enabled approaches to identify minimal changes that restore infectivity to MS2 RefSeq; a human experimentalist correctly prioritized corrective changes, whereas the genome language model Evo2 did not. We also observed that closely related corrected reference-derived constructs showed a ~4-log difference in phage output, and subsequent analysis indicated that this difference was associated with an apparent replicase frameshift in the lower-output background. This suggests that the low output construct class represents rare mutations from genomes that are one mutational step away from true function, rather than uniform function of the dominant construct population. A complementary cell-free assay provided a lower-background orthogonal readout of construct-level function, yielding ~1 x106 PFU/mL from the high-output background within 2 hours while showing no detectable recovery from the low-output background. Together, these results establish a robust platform for RNA phage reconstruction and raise the possibility that historical reference genomes, especially for RNA viruses, may not always remain faithful to experimentally validated biological function. More broadly, these findings underscore the need to verify the infectivity of reference genomes, particularly when they were assembled non-contiguously or shaped by cumulative human curation. They also highlight the importance of clearly distinguishing historically curated reference sequences from experimentally validated infectious genomes when such data are used to train or evaluate AI/ML models."
+  },
+  {
+    "id": "101fbb8cccdaf0b1",
+    "title": "CFTR dysfunction in the intestinal epithelium is sufficient to promote pathogenic expansion of  E. coli and enhanced barrier permeability in cystic fibrosis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752678v1?rss=1",
+    "content": "Changes in the gut microbiome in cystic fibrosis (CF) are well characterized, yet their causes and downstream effects remain largely unknown. Well-documented alterations include reduced overall complexity (i.e. alpha diversity) of the gut microbiota and increased relative abundance of E. coli, which are associated with greater inflammation and shorter stature in infants. Previous results from our laboratory using a germ-free cystic fibrosis transmembrane conductance regulator (Cftr) mutant mouse model (CF mouse) demonstrated that the observed fecal microbiome dysbiosis is driven by mutated Cftr independent of factors such as diet or antibiotic treatment. We expand on these results in this report by using the defined 8-member community Altered Schaedler Flora (ASF) with and without E. coli, to show that E. coli is pathogenic in the context of the CF gut microbiome, resulting in increased intestinal permeability. We also show that Cftr deletion in intestinal epithelial cells alone, using a Villin-Cre targeted model, is sufficient to raise E. coli abundance in the fecal microbiome, increase intestinal permeability, and amplify the number of TH17 cells in the mesenteric lymph nodes. Together, our results demonstrate that the intestinal epithelium plays a dominant role in fecal microbiome alterations in CF and that the resultant dysbiosis contributes to CF pathogenesis."
+  },
+  {
+    "id": "e7b2851ddc2f991e",
+    "title": "An RNase Toxin Hijacks Elongation Factor-Tu to Cleave the Ribosomal Sarcin-Ricin Loop",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752725v1?rss=1",
+    "content": "Ribosome-targeting toxins typically recognize and attack their substrates directly. Here, we provide the functional characterization of SRLase1, a widespread member of a recently identified RNase superfamily, and show that it cleaves the sarcin-ricin loop (SRL) of 23S rRNA. Unlike previously described ribosome-targeting toxins, SRLase1 requires the host elongation factor Tu (EF-Tu) for activity. EF-Tu normally engages the ribosome as part of the aminoacyl-tRNA delivery cycle, but SRLase1 instead exploits this factor through a mechanism incompatible with canonical ternary-complex formation. This host-factor-assisted mechanism reveals a distinct strategy for translation inhibition, in which a toxin repurposes a conserved component of the elongation machinery to access a vulnerable ribosomal target. Homologs of SRLase1 are widespread across bacterial phyla and are frequently encoded in conflict-associated genomic loci. Together, these findings define a widespread family of SRL-targeting toxins, expand the mechanistic repertoire of ribosomal antibacterial toxins, and demonstrate how conserved components of the host translation machinery can be co-opted to promote toxin activity."
+  },
+  {
+    "id": "1696d94cfc620ec2",
+    "title": "METTL3 promotes human coronavirus replication through an interferon-independent mechanism",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752695v1?rss=1",
+    "content": "N6-methyladenosine (m6A) is a pervasive mRNA modification that regulates RNA fate through effects on RNA-protein interactions, stability and translation. We previously showed that replication of human betacoronaviruses, OC43 (hCoV-OC43) and SARS-CoV-2, is sensitive to depletion or pharmacological inhibition of the m6A RNA methyltransferase METTL3, resulting in reduced viral RNA and protein accumulation. In other viral systems, such antiviral effects have been attributed to enhanced interferon (IFN) signalling and interferon-stimulated gene (ISG) induction. Here, using hCoV-OC43 we show a requirement for METTL3 that is independent of canonical IFN responses. Pharmacological inhibition of METTL3 with STM2457 failed to potentiate type I IFN signalling, global ISG expression, or the non-canonical inflammatory transcriptional programme associated with OC43 infection. Furthermore, pathogen-associated RNA sensing by RIG-I or MDA5 is not required for the antiviral effect of the STM2457. ISGs reported to be most potently antiviral against OC43 are either not significantly induced by METTL3 inhibition during infection or are not required for the antiviral activity. Nevertheless, defects in viral gene expression and progression through the viral life cycle are detectable within 6 h of STM2457 treatment and host cell transcription is dispensable for STM2457 antiviral activity. Lastly, a METTL3-directed Proteolysis Targeting Chimera (PROTAC) phenocopied STM2457, producing IFN-independent antiviral activity and ruling out off-target inhibition of viral RNA methyltransferases as a plausible explanation. Together, these findings define a direct, proviral role for METTL3 in coronavirus infection consistent with a model in which METTL3-catalysed m6A modification of viral RNA is required for efficient viral life cycle progression."
+  },
+  {
+    "id": "c6c6e365cb0ccd3d",
+    "title": "A cis-encoded RNA interaction controls sub-operonic spoVG expression in Staphylococcus aureus",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752551v1?rss=1",
+    "content": "Bacterial operons enable co-transcription of multiple genes, yet post-transcriptional mechanisms permitting differential regulation of individual genes within a polycistronic transcript remains incompletely understood. We demonstrate that a cis-encoded RNA-RNA interaction within the bicistronic yabJ-spoVG transcript forms an RNase III substrate that represses the transcription factor SpoVG in Staphylococcus aureus. Disruption of the cis-encoded regulation elevated monocistronic spoVG expression, reduced biofilm formation and cell wall peptidoglycan thickness, and increased sensitivity to cell wall-targeting antimicrobials in clinical vancomycin-intermediate S. aureus, consistent with phenotypes observed in an independent SpoVG overexpression strain. These findings uncover a previously undescribed mode of cis-regulatory control within a polycistronic operon and establish regulatory mRNA-mRNA interactions as a mechanism for sub-operonic gene regulation."
+  },
+  {
+    "id": "66a8842f98aef4be",
+    "title": "Discovery and Structure Activity Relationship Optimization of a Novel Rv1625c Agonist Chemotype with Antitubercular Activity",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.17.752203v1?rss=1",
+    "content": "Rv1625c/Cya has emerged as a promising target for the development of treatment-shortening therapies for tuberculosis. Screening of an Enamine compound library identified sBQQ004 as an initial hit, and rapid hit optimization led to compound 1, which was subsequently confirmed as an Rv1625c/Cya agonist. Structure activity relationship studies identified lead compound 25 with potent activity against Mycobacterium tuberculosis H37Rv under cholesterol-dependent growth conditions (MIC = 0.27 uM) and strong intramacrophage activity (EC50 = 0.079 uM). Compounds 1 and 25 showed oral bioavailabilities of 84.5% and 51.9% in mice, respectively. Repeat BID dosing of compound 1 resulted in a dose- and time-dependent decrease in systemic exposure. Despite this pharmacokinetic limitation, the potency and overall profile of this chemotype encouraged continued optimization."
+  },
+  {
+    "id": "2ea669f40d1ad943",
+    "title": "A symbiont-derived biosurfactant couples bacterial surface behavior and host peristalsis to control colonization",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752026v1?rss=1",
+    "content": "Hosts must control symbiont abundance to ensure stable associations with their beneficial microbes, while also minimizing potentially harmful unrestricted microbial proliferation. Yet, the microbial stimuli and involved host responses that shape this colonization control, are usually unknown, in spite of their central role in shaping host-microbe and, more broadly, host-microbiota interactions. Here, using the natural association between Caenorhabditis elegans and its symbiont Pseudomonas lurida MYb11, we combine an unbiased bacterial genetic screen with a host response reporter to identify the biosurfactant massetolide as a key regulator of host-microbe interaction. Our subsequent host functional genetic analyses revealed that massetolide triggers host TGF-beta and serotonergic signaling to promote intestinal peristalsis, limiting colonization. Indeed, massetolide deficiency enhances colonization, while its presence specifically facilitates serotonin-dependent expulsion. Together, our findings reveal a symbiont-derived biosurfactant that links host neuroimmune control of intestinal peristalsis with bacterial susceptibility to expulsion, coupling host and microbial physiology to regulate symbiont abundance."
+  },
+  {
+    "id": "ec43a16a9b7c03bf",
+    "title": "A panel of genotypically and phenotypically characterised WHO priority Gram-negative bacteria to facilitate antimicrobial and diagnostic development",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.18.752562v1?rss=1",
+    "content": "Background Antimicrobial-resistant Gram-negative bacteria pose a major threat to global health. In the WHO Bacterial Priority Pathogen List (BPPL) 2024, several species were classified as critical or high priority for research and development of new antimicrobial therapeutics and diagnostics. However, access to well-characterised and clinically relevant bacterial isolate panels remains an unmet need for development and validation. Methods We constructed five panels of Gram-negative bacterial isolates, cultured from samples originally referred to the UK Health Security Agency Antimicrobial Resistance and Healthcare-Associated Infections Reference Unit for analysis between 2014 and 2025. For each isolate, antimicrobial susceptibilities were determined against a range of clinically relevant antibiotics, including third-generation cephalosporins, carbapenems, colistin and other last-line antibiotics. WGS was performed on all isolates, and previously described resistance determinants were characterised. Results The five panels consist of 145 isolates and represent 81 sequence types across Escherichia coli (30 isolates), Klebsiella pneumoniae (30 isolates), carbapenem-resistant Acinetobacter baumannii (30 isolates), carbapenem-resistant Pseudomonas aeruginosa (30 isolates), and a mixed panel of other healthcare-associated Enterobacterales species (25 isolates). Panels are highly representative of globally relevant strains, including those currently in circulation and on the WHO BPPL 2024, and of resistance mechanisms of public health importance. Conclusion The panels provide a diverse, comprehensive set of multidrug-resistant Gram-negative bacterial isolates, representative of strains currently in circulation globally. Selected isolates carry a breadth of important resistance mechanisms and are highly relevant to the current epidemiological landscape. The isolates and associated metadata are available to industry, academia, and other laboratories for use in developing novel antimicrobial compounds and diagnostic assays."
+  },
+  {
+    "id": "c60b16858f7b9389",
+    "title": "Plscr1 inhibits murine norovirus entry",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.17.752154v1?rss=1",
+    "content": "Noroviruses are a leading cause of gastroenteritis worldwide, yet host factors that restrict norovirus replication are not well understood. By mining both CRISPR activation and CRISPR knockout genome-wide screens, we identified the interferon-stimulated gene Plscr1 as a restriction factor for murine norovirus (MNV). Plscr1 inhibits the fusion of enveloped viruses with endocytic membranes, making its antiviral activity against the nonenveloped MNV surprising. Here, we demonstrate that Plscr1 is both necessary and sufficient to restrict MNV infection in vitro and contributes to the control of colonic infection in mice. Mechanistically, we determined that Plscr1 inhibits MNV entry at a post-attachment step. A single amino acid substitution in the minor capsid protein VP2 confers resistance to Plscr1. Because VP2 delivers viral RNA by puncturing endocytic membranes during calicivirus entry, these findings implicate a late entry step targeted by Plscr1. Our results expand the antiviral activity of PLSCR1 to a nonenveloped virus and identify an unexpected point of convergence between enveloped- and non-enveloped-virus entry pathways."
   }
 ]
