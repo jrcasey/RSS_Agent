@@ -3460,5 +3460,329 @@
     "title": "Predictors Recover Most of the Metagenomic Signal for Antibiotic Resistance Gene Occurrence: A Cross-City Test of Geographic Transferability in Urban Wastewater",
     "link": "https://www.biorxiv.org/content/10.64898/2026.09.24.753270v1?rss=1",
     "content": "Antibiotic resistance genes (ARGs) travel from cities into rivers and coastal waters through wastewater treatment plants. Monitoring them normally requires metagenomic sequencing, which is sufficiently costly that most utilities can sample only occasionally. Weather and location data are freely available on a daily basis for virtually any location worldwide, making them attractive predictors for identifying where limited sequencing resources should be prioritized. However, whether such models generalize to previously unseen cities remains largely untested, as most published studies train and evaluate models within the same catchments, thereby assessing interpolation rather than geographic transferability. To address this gap, we paired 235 wastewater metagenomes collected from five European cities with 23 abiotic predictors spanning geospatial, meteorological, hydrological, radiative, and temporal domains. Model performance was evaluated using leave-one-group-out (LOGO) cross-validation, in which all samples from one city were withheld for testing while the remaining cities were used for training. CatBoost achieved a median LOGO ROC-AUC of 0.929 and a median F1-score of 0.750. Using freely available environmental reanalysis predictors (meteorological, hydrological, radiative, geospatial, and temporal) - without any metagenomic sequencing - CatBoost achieved a mean ROC-AUC of 0.722, recovering 78% of the predictive performance of the full omics-integrated model. Removing latitude and longitude reduced ROC-AUC by only 0.003, whereas replacing random cross-validation with city-wise validation reduced ROC-AUC by 0.052. Predictive performance varied across ARG classes, ranging from a ROC-AUC of 0.981 for {beta}-lactam resistance genes to 0.762 for glycopeptide resistance genes. These findings demonstrate that freely available environmental reanalysis predictors - spanning meteorological, hydrological, radiative, geospatial, and temporal domains - recover 78% of the predictive signal for antibiotic resistance gene occurrence in urban wastewater, allowing scarce sequencing capacity to be directed to the catchments where it changes a decision."
+  },
+  {
+    "id": "556d3a8bf87be5fb",
+    "title": "Modeling Dynamics of Hydrogen\u2010Oxidizing Bacteria Under Pulsing Soil Moisture Conditions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG010003?af=R",
+    "content": "Abstract\nHydrogen\u2010oxidizing bacteria (HOB) are responsible for the dominant soil sink of atmospheric hydrogen (H2); however, models estimating this sink are yet to incorporate explicit representation of these biotic drivers. Here, we use a donor\u2010consumer model to examine how HOB and carbon\u2010decomposing bacteria (CDB) may jointly influence organic carbon decomposition and atmospheric H2 uptake as critically driven by hydroclimatic forcings and temporally varying soil moisture. Hydroclimatic forcing was investigated through three simulation setups: constant soil moisture, drying\u2010wetting sequences, and intermittent rainfall. Collectively, these simulations suggest the coexistence of both HOB and CDB, with each group predominantly contributing to microbial biomass in low and high soil moisture regions, respectively. Given the strong influence of soil moisture on H2 uptake identified in this study, our results further suggest that explicit representation of biotic drivers (HOB biomass and soil carbon) amplifies the oscillatory dynamics in soil H2 concentration, a feature not captured by the abiotic\u2010only model. We further examined the hypothesis that dormant microbes scavenge H2 as a survival mechanism by incorporating microbial dormancy into the HOB dynamics and showed that dormancy leads to a higher biomass contribution of HOB in arid regions (dryness index\u00a0>\u00a05). Finally, the model was applied to estimate H2 deposition velocity, showing improved agreement with measured data from a temperate forest and validating the importance of the explicit representation of biotic drivers. Model limitations and the potential integration with land\u2010surface models are also discussed."
+  },
+  {
+    "id": "032bfda38e185a3f",
+    "title": "Continental to Meter Scale Climatic, Topographic, and Geomorphological Gradients Control Soil Organic Carbon Distribution in Complex Arctic Terrain",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009598?af=R",
+    "content": "Abstract\nArctic soils store large amounts of soil organic carbon (SOC), yet landscape\u2010scale variability remains poorly constrained, especially in complex mountainous regions that can be found across the Arctic. Understanding climate change impacts on Arctic carbon dynamics requires in\u2010depth knowledge of SOC controls, given multiple drivers and potential responses. We map and quantify SOC stocks at the\u2010scale in a large catchment in the Swedish Arctic and evaluate environmental controls of SOC distribution. A total of 310 georeferenced soil profiles were compiled, and SOC stocks were modeled using a machine learning approach trained on 14 environmental predictors. Predicted SOC stocks showed substantial spatial variation, ranging from 0 to 145.1\u00a0kg\u00a0C\u00a0m\u22122, with a catchment\u2010wide mean (\u00b1SD) of 4.8\u00a0\u00b1\u00a07.0\u00a0kg\u00a0C\u00a0m\u22122. Organic layers, including deep peat deposits, accounted for 48% of the total SOC. Two dominant gradients structured SOC distribution: (a) as the climate in the catchment transitions from maritime to continental (west to east), SOC storage increases substantially due to peatland formation; and (b) a topographic gradient promotes substantially more SOC storage in valley bottoms and depositional slopes compared to uplands and mountaintops. Further, we reveal considerable variation at meter scale due to the geomorphological complexity of the landscape. We show that SOC variability in Arctic\u2010mountainous regions is strongly controlled by the hierarchical interaction between climate, topography, and fine\u2010scale geomorphology. Resolving these drivers at very high spatial resolution underscores the importance of landscape\u2010scale analyses across environmental gradients for assessing the sensitivity of Arctic SOC stocks to ongoing climate change."
+  },
+  {
+    "id": "b4cc2f86fa61d87d",
+    "title": "Top\u2010Down and Bottom\u2010Up Drivers of Soil \u03b415N Spatial Patterns in a Tropical Savanna",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG010008?af=R",
+    "content": "Abstract\nAlthough stable nitrogen isotopes (\u03b415N) can provide a powerful integrative tracer of localized nutrient cycling across heterogeneous savannas, the relative influence of top\u2010down versus bottom\u2010up drivers in shaping these spatial patterns remains largely unresolved. Here, we leveraged long\u2010term monitoring and extensive spatial sampling of 253 sites across a tropical savanna in Kruger National Park, South Africa. By applying a Generalized Additive Model (GAM) and variance partitioning, we evaluated the distinct contributions of top\u2010down disturbances (fire and herbivory) and bottom\u2010up drivers (vegetation structure, soil properties, topography, and climatic variables). Our model explained 60.9% of total deviance and revealed high spatial heterogeneity in soil \u03b415N (2.99\u20139.07\u2030). Variance partitioning demonstrated that bottom\u2010up drivers overwhelmingly governed spatial variation, driven predominantly by two factors: first, the non\u2010linear effects of high N\u2010fixing tree cover, which dilute soil \u03b415N with depleted atmospheric N; and second, increasing soil C:N ratios, which potentially slow mineralization and consequently limit fractionating N losses. Conversely, top\u2010down drivers, while traditionally central to savanna ecology, played a comparatively minor role, primarily limited to the local enriching effects of extended fire\u2010free intervals. Furthermore, the patterns predicted by the GAM model highlight localized hotspots of 15N enrichment alongside broader spatial trends in soil \u03b415N that contrast sharply with total soil N.\u00a0Ultimately, our study demonstrates that spatial variation in savanna soil \u03b415N is primarily dictated by localized bottom\u2010up drivers rather than top\u2010down disturbances, suggesting these local factors act as strong proxies for the underlying biogeochemical processes shaping savanna N cycling."
+  },
+  {
+    "id": "7ea622b5eaacb068",
+    "title": "Automated Daily Measurements of Soil Pore Space CO2 and O2: Signals Revealing Soil Physical and Biogeochemical Processes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG010119?af=R",
+    "content": "Abstract\nThere is a need to understand and monitor active soil processes in the field; however, it is challenging to observe and separate co\u2010occurring belowground processes. High precision monitoring of soil pore space gases is a potentially powerful approach, complicated by the variety of biological and physical processes that impact gas. To evaluate processes controlling soil CO2 and O2 concentrations across weekly to seasonal timescales, we installed a custom\u2010built automated gas sampling system outside of Bastrop, Texas that enabled field\u2010based, high\u2010precision measurements of soil CO2 and O2 concentrations for over a year. We focus on the ratio of soil\u2010atmosphere differences in CO2 and O2 concentrations, referred to as the apparent respiratory quotient (ARQ). Rainfall events physically modified soil gas signals by driving short\u2010term (2\u20135\u00a0day) transient decreases in ARQ values throughout the soil profile. Filtering out data impacted by transient effects allows seasonal soil gas signals to emerge, illustrating the dominance of root respiration and microbial respiration of plant derived carbohydrates during the growing season. Systematically higher ARQ values were observed during the dry summer and fall, whereas lower ARQ values predominated during the wet and cold winter months. We consider that a shift in microbial carbon\u2010use efficiency is the most likely driver of high ARQ values during the dry season as autotrophic respiration slows. The low winter ARQ signals could be driven by a number of different processes such as respiration of more reduced substrates, increased nitrification rates, or metal oxidation."
+  },
+  {
+    "id": "23a46a7fc8bcb687",
+    "title": "A Multi\u2010Basin Calibration of Magnetofossils as a Quantitative Proxy for Bottom Water Oxygenation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124170?af=R",
+    "content": "Abstract\nMagnetofossils, produced by magnetotactic bacteria, are widespread in marine sediments and are thought to be linked to oxygen concentrations. Until recently, their applications as a quantitative proxy for bottom water oxygen (BWO) are limited due to the lack of data from modern marine environments. Here, we present a multi\u2010basin calibration of magnetofossil assemblages from a broad range of BWO concentrations using a large set of surface sediments. We find that both coercivity fractions and crystal morphologies of magnetofossils are linearly correlated with BWO over \u223c0\u2013230\u00a0\u03bcmol/kg. We also find that while organic carbon contents primarily control magnetofossil abundance, it only has a weak influence on magnetofossil morphologies compared to BWO. Our calibration establishes magnetofossils as a quantitative oxygenation proxy, which provides rapid, and high\u2010resolution reconstructions of past ocean oxygenation and associated deep\u2010ocean carbon storage under climate transitions."
+  },
+  {
+    "id": "0b2f898167d6d7f1",
+    "title": "The Role of ENSO Phase Transition in the Delayed North Atlantic Oscillation Response",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124514?af=R",
+    "content": "Abstract\nThe El Ni\u00f1o\u2013Southern Oscillation (ENSO) is the dominant mode of interannual variability in the Earth system, exerting profound influences on global weather and climate. One notable impact is its ability to generate a dipole\u2010like sea level pressure anomaly pattern over the North Atlantic, resembling the North Atlantic Oscillation (NAO), with El Ni\u00f1o (La Ni\u00f1a) corresponding to a concurrent negative (positive) NAO\u2010like response during late boreal winter. Recent research further suggests that ENSO can induce an opposite\u2010phase NAO response in the following winter. Through observational analysis and atmospheric model experiments, we demonstrate that the delayed positive NAO\u2010like response following El Ni\u00f1o is likely linked to the ENSO cycle, specifically the transition from El Ni\u00f1o to La Ni\u00f1a. Without this phase transition, the reversal of the North Atlantic response 1\u00a0year later largely diminishes. This finding highlights the important role of tropical ocean in shaping long\u2010range climate predictability."
+  },
+  {
+    "id": "510542afbcac76a5",
+    "title": "Lightning Source of Nitrogen Oxides (NOx) Inferred From Geostationary Satellites: Global Implications for Oxidant Chemistry",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124557?af=R",
+    "content": "Abstract\nLightning is a major source of nitrogen oxide radicals (NOx\u00a0\u2261\u00a0NO\u00a0+\u00a0NO2), but large uncertainties in NOx yields per flash hinder accurate quantification of emissions and impacts on oxidant chemistry. We use 1\u00a0year of concurrent geostationary satellite observations of free tropospheric (FT) NO2 from TEMPO and flash rates from GLM to show that lightning is the dominant source of FT NOx over North America. The observed FT NO2 and its correlation with flash rates imply a NOx yield of 150\u00a0\u00b1\u00a060\u00a0mol\u00a0N flash\u22121. Applying this yield globally in the GEOS\u2010Chem atmospheric chemistry model reduces lightning NOx emissions from 6.6 to 3.2\u00a0Tg\u00a0N\u00a0yr\u22121. This generally improves simulated NOx, ozone, and hydroxyl radical in comparison with satellite and in situ measurements, though with some regional overcorrections for ozone. The methane lifetime against tropospheric OH increases from 8.7 to 9.4\u00a0years, partially reducing the gap with the best empirical estimate (11\u00a0years)."
+  },
+  {
+    "id": "c481c4c5533a259b",
+    "title": "The Altitude Effect of Stable Isotopes in Rivers Over the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121169?af=R",
+    "content": "Abstract\nThe altitude effect of stable isotopes in river water is key to paleoelevation reconstruction, yet remains poorly quantified at regional scales due to monitoring challenges. This study compiled river water isotope data across the Tibetan Plateau and used a decision\u2010tree\u2010based random forest model to simulate high\u2010resolution \u03b418O patterns. We produced the first systematic, spatially explicit map of the \u03b418O altitude effect over the entire plateau, revealing strong spatial heterogeneity. Results show that \u03b418O exhibits a \u201clow in the south, high in the north\u201d pattern driven by atmospheric circulation, while d\u2010excess displays a \u201clow in the west, high in the east\u201d trend controlled by sub\u2010cloud evaporation. The steepest altitudinal gradient occurs on the southern slope. This spatial heterogeneity is jointly regulated by moisture sources and sub\u2010cloud evaporation processes. The findings clarify the applicability and limitations of river water isotopes for paleoelevation studies on the Tibetan Plateau."
+  },
+  {
+    "id": "5a4563f06cea1b65",
+    "title": "Hydrogen\u2010Bond Symmetrization in Hydrous Aluminous Silica Enhances Deep\u2010Mantle Water Cycle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123823?af=R",
+    "content": "Abstract\n(Al, H)\u2010bearing CaCl2\u2010type SiO2 serves as a key water carrier in Earth's deep\u2010water cycle. Evolution of hydrogen\u2010bond symmetrization in this phase was measured up to 62\u00a0GPa and 800\u00a0K by synchrotron infrared and Raman spectroscopy, and X\u2010ray diffraction. It undergoes symmetrization at \u223c30\u00a0GPa and 300\u00a0K, while elevated temperature to 800\u00a0K lowers the onset pressure to \u223c12\u00a0GPa. This implies that the symmetrized phase will form directly near the base of the transition zone in (Al, H)\u2010rich subducted slabs, and deeper in (Al, H)\u2010poor slabs via transformation from stishovite. More importantly, this symmetrization state stiffens the crystal lattice and immobilizes hydrogen within the structure, enhancing water retention and preventing hydrogen loss during subduction to the lower mantle. Our findings suggest that this phase acts as an important deep\u2010water reservoir capable of transporting water to the lower mantle, thereby linking the deep\u2010water cycle from Earth's surface to core\u2010mantle boundary."
+  },
+  {
+    "id": "f8afee0245cd7c79",
+    "title": "Iceberg Freshwater Transport Alleviates Future Weakening of Antarctic Bottom Water Formation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122075?af=R",
+    "content": "Abstract\nIntensification of calving in a warmer future climate would result in production of more Antarctic icebergs, and iceberg freshwater flux would play a more consequential role in ice\u2010climate interactions. Distribution of iceberg freshwater flux under future climate scenarios, however, has not been assessed with full consideration of changes and uncertainties in climate conditions and calving rates. Here we drive an iceberg model with output from an ice sheet model and five climate models to simulate iceberg freshwater flux under an intensive future warming scenario. Results show that Antarctic iceberg freshwater flux increases markedly and may exceed ice shelf basal melting. Iceberg freshwater exported to the open ocean is governed by competing effects from atmospheric\u2010oceanic warming and changes in winds and currents. Simulations consistently show an increase in the portion of iceberg freshwater exported beyond Antarctic continental shelves, which may alleviate the future weakening of Antarctic Bottom Water formation."
+  },
+  {
+    "id": "d1e48bb894183fad",
+    "title": "Quantifying Cloud\u2010Fog\u2010Induced Reductions in Near\u2010Surface Solar Radiation Using the Reduction Ratio Method",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123340?af=R",
+    "content": "Abstract\nCloud\u2010fog formation substantially reduces near\u2010surface solar radiation and modulates land\u2010atmosphere interactions, but quantifying such reduction is limited by sparse mountain observations. Using a 1\u2010km geostationary satellite\u2010retrieved product, we apply the Reduction Ratio of Solar Radiation (RRSR), an empirical normalized metric that quantifies near\u2010surface solar radiation deficits relative to a local maximum solar radiation baseline. Applying RRSR over Taiwan reveals a strong seasonal contrast. Summer RRSR exhibits a distinct land\u2010type gradient (montane cloud forests\u00a0>\u00a0other forests\u00a0>\u00a0non\u2010forests), peaking within the mid\u2010elevations (500\u20132,500\u00a0m a.s.l.). In winter, prevailing northeasterly flow overrides local land\u2010type influences. Strong northeasterly events enhance RRSR\u00a0>\u00a01.5\u2010fold in windward lowlands (<1,000\u00a0m a.s.l.), producing light limitation comparable to, or exceeding, that of typical montane cloud forests. Overall, RRSR provides a practical diagnostic for ecohydrology and surface energy budgets, although its uncertainties are larger under cloudy or foggy conditions in complex terrain."
+  },
+  {
+    "id": "2ede25af9cbb3238",
+    "title": "Listening to Tsunami Waves Induced by Glacier Calving",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125399?af=R",
+    "content": "Abstract\nProcesses at the ice\u2013ocean interface play a central role in regulating the stability of marine\u2010terminating glaciers and ice sheets and drive ocean freshening and mixing. Iceberg calving\u2014a mechanical loss of ice\u2014generates ocean waves and promotes water\u2010mass exchange in glacierized bays. Here we show that calving and the resulting tsunami waves produce distinct audible airborne sounds that carry information on calving activity and wave properties. Directionality analysis of acoustic array measurements enables calving localization and tracking of tsunami\u2013shoreline interactions. We further demonstrate that even single\u2010microphone recordings are sufficient to localize calving events using wave dispersion analysis. The rich information content of airborne sound, together with the accessibility, ease of use, and low cost of microphones, makes airborne acoustics a powerful tool for studying glacier\u2013ocean interactions and potentially coastal wave\u2010energy and erosion dynamics worldwide."
+  },
+  {
+    "id": "cc9114853582473a",
+    "title": "Modeling Storm\u2010Time Post\u2010Midnight Equatorial Plasma Bubbles With SAMI3\u2010WACCMX: Impacts of Neutral Winds, Thermospheric Composition, and Atmospheric Waves",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125685?af=R",
+    "content": "Abstract\nThis study investigates the roles of neutral winds, composition and atmospheric waves in storm\u2010time post\u2010midnight equatorial plasma bubble (EPB) development using the coupled SAMI3\u2010WACCMX model. Simulations reveal the formation of post\u2010midnight EPBs extending beyond 1,500\u00a0km in altitude and persisting into the post\u2010sunrise period. The results indicate that disturbance dynamo electric fields (DDEFs) driven by storm time neutral winds dominate the post\u2010midnight EPB formation. Comparative SAMI3 simulations using NRLMSISE\u20102.0 neutral composition under identical neutral wind conditions further demonstrate that thermospheric composition strongly influences EPB distribution, morphology, spacing and occurrence. EPBs also develop in the absence of atmospheric waves, indicating the dominant role of DDEFs in storm\u2010time EPB initiation. Nevertheless, atmospheric waves regulate EPB morphology and growth through perturbations to vertical E\u00a0\u00d7\u00a0B drifts, resulting in characteristic EPB spacings comparable to the wavelengths of the underlying atmospheric waves."
+  },
+  {
+    "id": "cf7773511b7f4bea",
+    "title": "Changing Antecedent Land\u2010Surface Conditions Can Amplify Future Heat Extremes Across New Zealand",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124647?af=R",
+    "content": "Abstract\nExtreme heat in New Zealand is projected to intensify faster than mean warming, but the mechanisms remain unclear. Using dynamically downscaled CMIP6 projections, we investigate whether land\u2013surface moisture constraints contributes to future heat\u2010extreme intensification in a maritime climate. Across six downscaled models, evaporative fraction (EF), a measure of surface energy partitioning, exhibits a robust negative relationship with the hottest day of the year (TXx), with the strongest coupling occurring approximately 2\u00a0months prior to TXx days. This highlights the importance of antecedent land\u2010surface conditions and land\u2010surface memory in preconditioning extreme heat. Future projections show widespread reductions in EF across New Zealand. These EF reductions are associated with additional TXx amplification of approximately 1\u00b0C\u20132\u00b0C across much of the North Island by the late 21st century. In contrast, projected circulation changes show limited spatial consistency across models. Our results demonstrate that land\u2013atmosphere feedbacks can substantially amplify extreme heat even in maritime climates."
+  },
+  {
+    "id": "40de775467bac8ff",
+    "title": "Nonlinear joint modeling of oxygenation indices for dynamic mortality prediction in neonates with persistent pulmonary hypertension receiving inhaled nitric oxide",
+    "link": "https://www.nature.com/articles/s41598-026-73465-z",
+    "content": ""
+  },
+  {
+    "id": "baf37950edf2defb",
+    "title": "Physics informed machine learning predicts binding free energy changes in protein-RNA complexes upon mutations",
+    "link": "https://www.nature.com/articles/s42003-026-10948-9",
+    "content": ""
+  },
+  {
+    "id": "e51fa972f38d19c9",
+    "title": "TDPO: two-stage differentiated prompt optimization for image classification",
+    "link": "https://www.nature.com/articles/s41598-026-72568-x",
+    "content": ""
+  },
+  {
+    "id": "dd441c0ea78b6129",
+    "title": "Quantifying the plausibility gap in generative AI for surgical video generation with expert assessment",
+    "link": "https://www.nature.com/articles/s41746-026-03276-z",
+    "content": ""
+  },
+  {
+    "id": "bc1a3ac6d7ad3a61",
+    "title": "Electrical impedance tomography beyond the icu: wearable architectures and AI under translational constraints",
+    "link": "https://www.nature.com/articles/s44303-026-00196-1",
+    "content": ""
+  },
+  {
+    "id": "9bb4dac5ae28b786",
+    "title": "A deep learning framework for classification of fetal brain abnormalities in ultrasound images",
+    "link": "https://www.nature.com/articles/s41598-026-70379-8",
+    "content": ""
+  },
+  {
+    "id": "859efe7d40acc30d",
+    "title": "SpaCEy links spatial tissue patterns to clinical outcomes using explainable graph neural networks",
+    "link": "https://www.nature.com/articles/s41467-026-77924-z",
+    "content": ""
+  },
+  {
+    "id": "8d47c383e8c4c87f",
+    "title": "Benchmarking model-based design of experiment approaches with a pharmaceutical crystallisation emulator",
+    "link": "https://www.nature.com/articles/s41524-026-02336-y",
+    "content": ""
+  },
+  {
+    "id": "1822666152e53f55",
+    "title": "Optimized design of 3D human pose estimation algorithm based on improved adaptive attention mechanism for sports training",
+    "link": "https://www.nature.com/articles/s41598-026-72968-z",
+    "content": ""
+  },
+  {
+    "id": "b2a5693fdb962f8e",
+    "title": "Phytochemical basis and molecular insights into the anti-tick activity of Tagetes erecta-based topical cream",
+    "link": "https://www.nature.com/articles/s41598-026-72617-5",
+    "content": ""
+  },
+  {
+    "id": "f5acf674a2b7ff27",
+    "title": "Binary classification of multifloral honeys using hybrid ensemble optimization via genetic algorithm based on physicochemical parameters",
+    "link": "https://www.nature.com/articles/s41598-026-73278-0",
+    "content": ""
+  },
+  {
+    "id": "398e6f252aa5923a",
+    "title": "Left-right asymmetry in the breast TME is associated with distinct bioelectric and epigenetic tumor features",
+    "link": "https://www.nature.com/articles/s41523-026-01052-6",
+    "content": ""
+  },
+  {
+    "id": "cb9a993dc76787fa",
+    "title": "Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
+    "link": "https://www.nature.com/articles/s41467-026-78077-9",
+    "content": ""
+  },
+  {
+    "id": "a03951d22a40f181",
+    "title": "Mapping of microRNAs associated regulatory circuits in Odontogenesis and tooth morphology: bioinformatics-based study",
+    "link": "https://www.nature.com/articles/s41598-026-73026-4",
+    "content": ""
+  },
+  {
+    "id": "4399609182818287",
+    "title": "Machine-learning-based prediction of acute and late-onset skin reactions after neoadjuvant chemoradiotherapy for rectal cancer: a retrospective cohort study",
+    "link": "https://www.nature.com/articles/s41598-026-72684-8",
+    "content": ""
+  },
+  {
+    "id": "0f32a8246c6c60fd",
+    "title": "The application, development and challenge of digital twin in drug evaluation",
+    "link": "https://www.nature.com/articles/s41746-026-03295-w",
+    "content": ""
+  },
+  {
+    "id": "088117d3e77126b2",
+    "title": "An imbalance-aware class weighted TernausResnet architecture for high-fidelity medical image classification",
+    "link": "https://www.nature.com/articles/s41598-026-71268-w",
+    "content": ""
+  },
+  {
+    "id": "38c18568da5764d0",
+    "title": "Integrative analysis of chemical profiling proposes sesamin as a computationally prioritized, putatively annotated candidate in SQ\u2013DS\u2013HQ for diabetic neuropathy",
+    "link": "https://www.nature.com/articles/s41598-026-72642-4",
+    "content": ""
+  },
+  {
+    "id": "384543737c904350",
+    "title": "Synthesis, single crystal analysis, hirshfeld surface analysis, computational insights of thiophene-linked triazole derivatives and evaluation of their BACE-1 inhibition",
+    "link": "https://www.nature.com/articles/s41598-026-72710-9",
+    "content": ""
+  },
+  {
+    "id": "b62472033eb99094",
+    "title": "Development and validation of a parsimonious AI-based mortality risk score for heart failure",
+    "link": "https://www.nature.com/articles/s41746-026-03258-1",
+    "content": ""
+  },
+  {
+    "id": "328110e4c6c2d0fc",
+    "title": "Integrative structural modelling reveals the human Mic60-Mic19 subcomplex as a diffusion barrier in mitochondria",
+    "link": "https://www.nature.com/articles/s41467-026-77869-3",
+    "content": ""
+  },
+  {
+    "id": "33446c0d592a1d69",
+    "title": "Computational evaluation of novel hydantoin hydrazone hybrids as potential antimicrobial candidates against DNA gyrase and CYP51",
+    "link": "https://www.nature.com/articles/s41598-026-68906-8",
+    "content": ""
+  },
+  {
+    "id": "81005a5e3d9c1245",
+    "title": "Resilience of multispecies biofilm communities: Comparative analysis of a Veillonella dispar-dominant oral biofilm under diverse oxygen conditions in vitro",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754398v1?rss=1",
+    "content": "Oral multispecies biofilms developing on dental implants drive peri-implant mucositis and peri-implantitis. They are shaped by the physicochemical conditions of their surrounding environment, among which oxygen availability is an important influential factor. However, while oxygen tension fluctuates significantly within the peri-implant pocket, whether these environmental shifts are sufficient to influence the structure and composition of an established microbial community remains unclear. For this purpose, we evaluated the structure and composition of a four-species oral biofilm model comprising the species Streptococcus oralis, Actinomyces naeslundii, Veillonella dispar and Porphyromonas gingivalis, which was cultivated under normoxic (21% O2), hypoxic (1% O2) and anoxic (0% O2;) conditions for a period of 21 days. Biofilm 3D architecture, volume and membrane integrity was analyzed by LIVE/DEAD staining combined with confocal laser scanning microscopy. Community composition was assessed by quantitative real-time PCR and complemented by Fluorescence In Situ Hybridization (FISH) to provide structural context. While normoxia transiently promoted higher early biofilm volume and membrane integrity, the community exhibited remarkable long-term resilience, consistently maintaining a V. dispar-dominated structure across all oxygen gradients. Crucially, the obligate anaerobic pathogen P. gingivalis persisted as a viable minority (~1%) even under 21-day normoxic cultivation, sheltered within the deeper layers of the biofilm. These results suggest that clinical oxygen levels alone are not able to drastically modulate established oral biofilm communities and that oxygen-sensitive pathogens persist in a subclinical sanctuary protected by the surrounding non-pathogenic species."
+  },
+  {
+    "id": "223d5b81eb1003d1",
+    "title": "Mycobacterium tuberculosis requires riboflavin biosynthesis for survival in the host",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754416v1?rss=1",
+    "content": "Mycobacterium tuberculosis has a flavin-intensive metabolism, with more than 180 proteins that require flavin or deazaflavin cofactors. M. tuberculosis requires riboflavin biosynthesis for growth in standard culture conditions in vitro, which can be overcome by providing exogenous riboflavin. It is unknown whether M. tuberculosis also requires riboflavin synthesis to grow or persist in infected host cells or tissues. Here we used a M. tuberculosis strain that conditionally expresses ribA2, which encodes a bifunctional enzyme that catalyzes the first steps in both branches of riboflavin biosynthesis, to determine whether M. tuberculosis requires riboflavin biosynthesis during infection. Transcriptional repression of ribA2 caused death of M. tuberculosis in vitro without riboflavin supplementation. RNAseq revealed that riboflavin starved M. tuberculosis induce a transcriptional program indicating decreased electron transport chain function and broad changes to central metabolism. Transcriptional repression of ribA2 prevented M. tuberculosis growth in cultured macrophages and caused clearance of M. tuberculosis from infected tissues at all stages of infection in both C57BL/6 mice that form cellular lung lesions and C3HeB/FeJ mice that develop necrotic lung granulomas. Our results demonstrate that M. tuberculosis requires RibA2 for viability at all stages of infection and support further characterization of the riboflavin biosynthesis pathway as a potential target for development of new anti-tubercular drugs."
+  },
+  {
+    "id": "1bb89f7a8faa2125",
+    "title": "L-lactate is a regulator of gametocytogenesis in Plasmodium falciparum",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754385v1?rss=1",
+    "content": "Epigenetic processes play important roles in the biology of the malaria parasite Plasmodium falciparum. We recently showed that Plasmodium histones are not only acetylated and methylated but also lactylated. This new epigenetic mark could form a particularly important axis of host-parasite signalling because severe malaria is often characterised by hyperlactataemia. In the human host this can cause respiratory distress, which is potentially fatal. For the parasite, it could be advantageous to sense this state of pathology and respond by modulating virulence. Virulence processes known to be under epigenetic control include antigenic variation, invasion switching and conversion to sexual gametocytes, i.e. gametocytogenesis. Here, we investigated the influence of lactate on gametocytogenesis. Hyperlactataemia in malaria patients is defined as [&ge;] 5mM blood lactate and we confirmed that in laboratory culture, adding 5mM L-lactate was sufficient to boost gametocytogenesis. Expression of the GDV-1 gene increased within one cell cycle of asexual parasites being exposed to L-lactate, suggesting that the canonical epigenetic switch for gametocytogenesis was involved: GDV-1 regulates epigenetic de-repression of the gene encoding the master transcription factor for gametocytogenesis, AP2-G. Indeed, parasite histones became rapidly lactylated after L-lactate exposure and chromatin profiling by CUT&amp;Tag detected inducible lactylation of chromatin specifically upstream of the AP2-G gene, and also of the antisense RNA that regulates GDV-1. Thus L-lactate joins S-adenosylmethionine as a metabolite that can epigenetically regulate gametocytogenesis in P. falciparum."
+  },
+  {
+    "id": "ad635013d2a6cdb4",
+    "title": "Genome-Resolved Characterization of Stage-Associated Microbial Composition and Functional Potential During Spontaneous Ugba Fermentation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.26.754590v1?rss=1",
+    "content": "Ugba, a traditional alkaline-fermented condiment produced from African oil bean seeds (Pentaclethra macrophylla Benth.), remains poorly characterised at genome resolution. This study characterised a single spontaneous ugba fermentation using genome-resolved shotgun metagenomics across Early (0-24 h), Mid (48-96 h), and Late (120-144 h) composite stages. Thirty metagenome-assembled genomes (MAGs) were recovered and grouped according to their temporal abundance patterns. The Early-stage retained MAG population was dominated by Bacteroidota-associated MAGs, which exhibited the highest carbohydrate-active enzyme density and broad glycoside hydrolase repertoires, consistent with substantial genome-encoded potential for utilisation of the plant-derived seed matrix. The Mid stage showed marked restructuring of MAG composition, while Core and Late-associated MAGs increased towards fermentation maturation. Functional differentiation was also evident among Corynebacterium MAGs: C. nuruki encoded a complete urease system, whereas C. phoceense_A encoded glutamate dehydrogenase and nitrate-reduction genes. These stage-associated changes coincided with progressive alkalinisation from pH 7.15 to 8.01. Together, the results show that temporal restructuring of reconstructed microbial populations was accompanied by differentiation in genome-encoded functional potential. This study provides a genome-resolved characterisation of microbial composition and functional potential during spontaneous ugba fermentation and expands current understanding of the microbial organisation of this traditional African fermented food."
+  },
+  {
+    "id": "5fee7c137f493f86",
+    "title": "Bloom-forming bacteria heavily invest in anti-phage defense",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.26.754401v1?rss=1",
+    "content": "Bacterial blooms are characterized by unusually high cell densities and exceptionally low diversity and can profoundly alter ecosystem function and services. Bacteriophages have long been considered an important cause of mortality in blooms, acting as a mechanism for control. Here, we characterize the viral ecology of a long-lasting estuarine bloom of green sulfur bacteria (Chlorobiota). We combined direct cell and viral counts with metagenomic and metaproteomic data to characterize host and phage activity at different time points. The abundance of virus-like particles (VLPs) decreased at high cell densities, suggesting reduced lytic infection rates. The dominant organism, GSB-TRL01 (genus Prosthecochloris), apparently contained a large conjugative plasmid encoding five different anti-phage defense systems. The organism's genome encoded 13 additional defense systems. Compared to the average of five defense systems per microbial genome, this enrichment suggests robust anti-phage defense capabilities. Proteins from ten different defense systems on GSB-TRL01's genome and four systems from the conjugative plasmid were expressed in the proteome. This suggests that GSB-TRL01 invests heavily in anti-phage defense, leading to reduced lysis at high cell densities and allowing blooms to persist for weeks to months. To determine whether this ability is widespread among bloom forming organisms, we compared genomes of putative bloomers to those of non-blooming organisms. We found that bloomer genomes were significantly enriched with anti-phage defense systems. This challenges traditional paradigms of phage ecology in bloom-forming systems and suggests that microbes adapted to high-density growth may have evolved mechanisms to reduce their susceptibility to phage attack."
+  },
+  {
+    "id": "7bd2f8b08b373ee0",
+    "title": "Spatiotemporal dynamics and stability of multi-kingdom microbial communities in hospital sinks acting as persistent pathogen reservoirs",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754391v1?rss=1",
+    "content": "Hospital sink drains act as persistent reservoirs for nosocomial pathogens, yet the structure and long-term stability of their associated microbial communities remain poorly known. Here, we present an extensive characterization integrating multi-kingdom meta-taxonomic profiling (16S rRNA, ITS, and 18S rRNA, n=93 samples) with culturomics (n>4000 isolates) and phenotypic resistance testing across 14 sinks from a former intensive care unit (ICU). Over a 17-month study period, we tracked community assembly and stability through the renovation and transition from an unpopulated baseline to active clinical use, encompassing both structural remodeling and functional conversion. We showed that former-ICU drains harbor a highly conserved multi-kingdom core that remains resilient despite significant structural changes and periods of inactivity. While a persistent core baseline exists, community composition changes along a continuous temporal gradient driven by structural and anthropogenic shifts. Furthermore, individual sinks assemble as unique microecosystems shaped by local environmental factors. Topological network modeling shows these communities are not random assemblages but integrated ecological units, with clinically relevant, multidrug-resistant WHO-priority pathogens deeply embedded in the network alongside often-overlooked fungi and protozoa. Together, these findings identify hospital sink drains as persistent and structured multi-kingdom microbial reservoirs that harbor clinically relevant multidrug-resistant organisms (MDROs). Their temporal stability and strong sink-specific signatures highlight the need to consider the broader microbial community when monitoring hospital environmental reservoirs and developing infection-control strategies."
+  },
+  {
+    "id": "a1d800a1efa728e4",
+    "title": "Loss of restriction-modification methyltransferases drives persistence to fluoroquinolones in Pseudomonas aeruginosa",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.26.754597v1?rss=1",
+    "content": "The resurgence of phage therapy has renewed interest in the interplay between phage resistance and antibiotic susceptibility and has stimulated research in the emergent field of non-canonical cellular functions carried out by defence systems. Yet it remains largely unknown whether intracellular antiphage defence systems influence bacterial physiology, resistance or persistence to antibiotics. Here we discovered that besides its canonical antiphage defence function, the type I restriction modification (RM) system profoundly affects the physiology of the opportunistic pathogen Pseudomonas aeruginosa. Deletion of the type I RM methyltransferase HsdM reduces the size of the bacterial nucleoid and delays DNA replication initiation and exit from lag phase in P. aeruginosa PAO1. Crucially, P. aeruginosa strains isolated from patients with cystic fibrosis (CF) and lacking the RM type I system also display slower growth compared to strains isolated from other sites of infections and encoding this system. Deletion of HsdM selectively increases the levels of persisters that survive treatment with fluoroquinolones by displaying enhanced SOS response but without acquiring resistance. Importantly, we measured elevated persistence to fluoroquinolones also in P. aeruginosa CF isolates lacking the type I RM system, providing a functional link between RM systems, slow growth and persistence to fluoroquinolones. Together these findings open a new way of approaching bacterial susceptibility to antibiotics, bringing antiphage defence systems in a forward-facing position in this field."
+  },
+  {
+    "id": "8a6b62b800dbd100",
+    "title": "Microbiota-derived pantothenic acid rapidly restores colonic mucus barrier after antibiotic-induced dysbiosis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754384v1?rss=1",
+    "content": "The intestinal mucus layer forms the primary physical barrier separating the host epithelium from the gut microbiota. Antibiotic-induced dysbiosis compromises this barrier, yet the microbial metabolites and host mechanisms responsible for its rapid restoration remain poorly understood. Here, we identify pantothenic acid (vitamin B5) as a microbial metabolite that rapidly restores colonic mucus integrity following antibiotic administration. Integrated 16S rRNA gene sequencing and metabolomic profiling of murine feces revealed a positive association between Muribaculaceae abundance, fecal pantothenic acid level, and colonic mucus thickness. Among four isolated Muribaculaceae species, only Sangeribacter muris produced pantothenic acid. An exogenous pantothenic acid supplement quickly restored the thin mucus layer. This rapid response occurred without detectable transcriptional activation. This response did not recur in isolated colonic epithelium or colonic organoids, indicating that pantothenic acid acts through a non-epithelial, non-autonomous mechanism. Together, these findings identify a previously unrecognized microbe-metabolite-host signaling pathway that rapidly regulates colonic mucus barrier homeostasis and reveal a local barrier-protective function of microbiota-derived pantothenic acid."
+  },
+  {
+    "id": "6f9273bfd6b73ec2",
+    "title": "Cellular heterogeneity in the response of Burkholderia thailandensis to antibiotics and phages in synthetic spatial refuges",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.26.754594v1?rss=1",
+    "content": "Understanding the complex interactions between phage, antibiotics and bacteria is vital for the development of rationale phage-antibiotic therapies. These interactions have traditionally been investigated via bulk assays, thus masking eventual cellular heterogeneities and the impact of spatial refuges on phage and antibiotic efficacy. Using microfluidics-based time-lapse microscopy, we reveal large phenotypic heterogeneity in the response of Burkholderia thailandensis to both the bacteriophage {Phi}Bp-AMP1 and sub-inhibitory concentrations of two selected antibiotics ciprofloxacin and trimethoprim. We discover that simultaneous exposure to ciprofloxacin and phage decreases the size of individual B. thailandensis cells, whereas phage and trimethoprim together slow down cell doubling. Exposure to ciprofloxacin also causes extended phage lysis of B. thailandensis which is preceded by a distinguishable pause in cell elongation, whereas exposure to trimethoprim constrains lysis. As a consequence, exposure to ciprofloxacin further hinders the growth of B. thailandensis in the presence of phage, whereas exposure to trimethoprim enhances growth in the presence of phage. These findings help understand the effects of the interactions between antibiotics and phage on bacterial subpopulations in spatial refuges that are notoriously difficult to treat with antibiotics."
+  },
+  {
+    "id": "7e982518dd60d508",
+    "title": "Matrix-controlled emergence of biofilm architecture shapes antimicrobial survival",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.752283v1?rss=1",
+    "content": "Biofilms are structured microbial communities whose extracellular matrix is widely regarded as a basis of their protection against antimicrobial compounds. Yet how matrix production by individual bacteria gives rise to collective architecture and antimicrobial protection remains poorly understood. Here, we systematically varied expression of the master biofilm regulator csgD in Salmonella enterica and found that increasing matrix production reorganizes biofilms from dense, isotropic packings into sparse, nematically aligned communities by altering cell-cell interactions. By combining experimentally measured biofilm architectures with reaction-diffusion modeling, we show that these structural changes produce distinct patterns of antimicrobial killing, ranging from preferential killing near the liquid-biofilm interface to more uniform killing throughout the community. Consequently, increasing matrix production unexpectedly reduces antimicrobial survival by shifting the biofilm into different transport regimes, while strain-specific physiological differences further modulate antimicrobial depletion. Rather than acting as a passive barrier, EPS therefore shapes antimicrobial susceptibility by reorganizing biofilm architecture and its transport properties. EPS thus provides a physical link between molecular regulation, collective architecture and antimicrobial survival, providing a quantitative framework for understanding how cellular matrix production generates emergent biofilm function."
+  },
+  {
+    "id": "29fddaceafe7a2c7",
+    "title": "Nsp3 Ubl1-orchestrated dephosphorylation of N protein promotes coronaviral subgenomic RNA synthesis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754410v1?rss=1",
+    "content": "The coronavirus nucleocapsid (N) protein is indispensable for the viral lifecycle as part of the viral Replication-Transcription Complex together with Nsp3. Recent research demonstrated that phosphorylation of N by several host kinases intricately regulates its functions during infection. However, the mechanisms that control N dephosphorylation, and its physiological consequence, remain poorly understood. Here, we show that SARS-CoV-2 Nsp3 is a key orchestrator of N dephosphorylation by recruiting the phosphatase PP1/{gamma} via a conserved PP1-binding motif in the Ubl1 domain. Disruption of this motif abolishes N dephosphorylation and selectively impairs subgenomic RNA synthesis. Comparative interactome proteomics analysis of phospho-mimic vs. phospho-deficient N, together with functional validation, revealed that the host splicing factor SRSF1 cooperates with unphosphorylated N to promote subgenomic RNA transcription. These findings uncover an unrecognized mechanism in which Nsp3-guided N dephosphorylation by PP1/{gamma} enables coronavirus subgenomic RNA replication and highlight a potentially targetable axis for antiviral intervention."
+  },
+  {
+    "id": "4782f5d5d2165c99",
+    "title": "Live-cell imaging and ultrastructure expansion microscopy reveal the dynamic intracellular life cycle of Encephalitozoon intestinalis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754474v1?rss=1",
+    "content": "Microsporidia are divergent fungal pathogens that infect a wide range of hosts. Microsporidia have evolved highly reduced genomes, resulting in the loss of many metabolic pathways. Encephalitozoon intestinalis is a human-infecting microsporidian species with the smallest known eukaryotic genome (2.3 Mbp). As an obligate intracellular parasite, E. intestinalis is dependent on its host for replication. Our current understanding of E. intestinalis cell biology remains limited. This is largely due to genetic intractability, which has made live-cell imaging challenging, and its small size (~2 m), which is within the diffraction limit of conventional microscopy. Here we develop a live-cell imaging technique, \"silhouette microscopy\", that does not rely on genetic manipulation of microsporidia, and enables us to study the live cell dynamics of E. intestinalis replication in host cells, from entry to exit. We report the timing of cell division, kinetics of the parasite life cycle, and dynamics of the parasitophorous vacuole within which E. intestinalis resides. The parasitophorous vacuole undergoes frequent fission and fusion, and ultimately ruptures to facilitate parasite release from the host cell. To gain a higher resolution understanding into the cell biology of E. intestinalis development, we performed ultrastructure expansion microscopy (U-ExM) on infected cells. U-ExM reveals the organization of the E. intestinalis cytoskeleton and development of the specialized invasion organelle, the polar tube. The combination of live-cell imaging and U-ExM provide a platform to study the E. intestinalis life cycle, and sheds light on the dynamics and cell biology of E. intestinalis in host cells."
+  },
+  {
+    "id": "85b045d45ab3c503",
+    "title": "Environmental filtering and host identity collectively shape root-associated microbiomes of Ericaceae and ectomycorrhizal plants in fumarole fields",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754363v1?rss=1",
+    "content": "Background Symbiosis with microbes is a key strategy that has enabled plants to colonize extreme environments. Since the benefits conferred by root-associated microbes depend on both environmental conditions and host-microbe combinations, plant adaptation to harsh environments is closely linked to the assembly of root microbial communities. Understanding how environmental and host filtering jointly shape these communities is therefore fundamental to elucidating the mechanisms underlying plant adaptation to extreme environments. Results In this study, we investigated the differentiation of root-associated prokaryotic and fungal communities and individual operational taxonomic units (OTUs) across two contrasting habitats surrounding fumaroles, solfatara-field and forest-edge habitats, and six dominant Ericaceae and ectomycorrhizal plant taxa. Prokaryotic and fungal OTUs rarely exhibited strong preferences for both habitat and host identity. Instead, many of prokaryotic and fungal OTUs specialized to one of these niches, collectively generating root microbial communities differentiated by both factors. Nonetheless, striking specializations in habitat and host niches were observed in the fungal family Hyaloscyphaceae (Helotiales). To gain insight into the evolutionary basis of microbial specialization, we examined phylogenetic signals in preference phenotypes. The resulting weak phylogenetic signals in these preference phenotypes further suggest that this fungal clade has undergone substantial ecological divergence. Conclusion Overall, our findings indicate that root-associated microbial communities in extreme environments are assembled through the accumulation of microbial taxa specialized to either habitat or host, and that strong ecological specialization in fungi can arise with little phylogenetic constraint."
+  },
+  {
+    "id": "ac350ab38926e49f",
+    "title": "Mapping virulence-associated protein interaction networks reveals regulators of thermotolerance in Cryptococcus neoformans",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754343v1?rss=1",
+    "content": "Protein-protein interactions (PPIs) influence critical biological processes in pathogenic microorganisms, such as the human fungal pathogen, Cryptococcus neoformans. Fungal thermotolerance and stress response pathways are key virulence determinants that directly impact pathogen adaptation and survival and the infection process. To establish a comprehensive baseline of PPIs in C. neoformans and explore these interactions to infer functional roles for uncharacterized proteins, we applied size exclusion chromatography coupled with mass spectrometry to the secreted and cellular proteomes of the fungi. As a result, 216 and 1699 unique proteins were identified across 24 secretome and proteome fractions, respectively. The predicted secretome networks included expected proteins associated with vesicles and virulence, indicating a role in extracellular defense. Whereas the cryptococcal proteome highlighted interactions among proteins with defined roles in fungal virulence for protein stability and thermotolerance, including two previously uncharacterized proteins, CNAG_00287 and CNAG_05199, putatively involved in complex formation with heat-shock proteins (HSP). Based on sequence and structure homology, we propose that CNAG_00287 is a tetratricopeptide repeat-containing co-chaperone that modulates Hsp 70 activity and CNAG_05199 functions as a Hsp70. We validated the thermotolerance role of CNAG_00287 in heat-related stress, as its absence significantly impaired fungal growth in nutrient-limited media at 37 {degrees}C. Together, this work resolves virulence-associated PPIs within C. neoformans and reveals new molecular regulators of thermotolerance that underpin fungal pathogenicity."
+  },
+  {
+    "id": "5975d97f5029342d",
+    "title": "Requirement for Type IX secretion machinery in a nematode model of Chryseobacterial pathogenesis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754504v1?rss=1",
+    "content": "Bacterium-nematode interactions in soil environments hold agricultural, economic, and evolutionary significance, with the rapid killing of nematodes by nematophagous bacteria representing an extreme and potentially valuable example of such interactions. Here, we investigate rapid killing of the model nematode Caenorhabditis elegans by the nematophagous bacterial species Chryseobacterium nematophagum through development and application of bacterial genetic tools for Chryseobacterium. We show that Chryseobacterium nematophagum can be genetically manipulated through both forward genetics and homology-mediated genetic interventions, with the latter driven by the use of a pyrimidine auxotrophy system to circumvent the multidrug resistance of these bacteria. Combining these approaches, we identified the Type IX Secretion System (T9SS) machinery as a central virulence determinant. Independent mutations in multiple T9SS components each substantially attenuated nematode killing with complementation restoring virulence. This system provides a tractable experimental platform for investigating the molecular basis of nematophagous bacterial pathogenesis and of the T9SS-dependent virulence mechanisms."
+  },
+  {
+    "id": "bde661b5161e3054",
+    "title": "Freshwater Microbiomes Shape Viral Inactivation in Continuous Cultures",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.26.754611v1?rss=1",
+    "content": "The high stability of enteric viruses in freshwater increases their risk of waterborne transmission. In aquatic environments, bacteria are known to enhance viral removal and inactivation. However, the differences in viral inactivation across freshwater ecosystems and the influence of community diversity on this process remains poorly understood. Here, we used dilution-to-extinction to generate 64 distinct freshwater communities from three lakes and three aquifers. After establishing freshwater communities in chemostat cultures, each community was challenged with two viruses, coxsackievirus B5 and human adenovirus 2. Both viruses were inactivated more rapidly in lake-derived than in groundwater-derived communities, and adenovirus was inactivated faster than coxsackievirus in both freshwater types. Community-level parameters (cell numbers, richness, evenness) were not significant predictors of viral inactivation. In contrast, differential abundance analyses identified bacterial OTUs associated with inactivation: Acidovorax sp. were associated across sources and Brevundimonas sp., Sphingopyxis sp., and Hydrogenophaga sp. showed source-specific associations. Together, these findings provide new insights into the ecological drivers of viral stability and suggest that viral inactivation may depend more strongly on specific microbial taxa and their ecological context than on overall community diversity. Identifying these associations improves our understanding of the factors governing viral persistence in freshwater environments."
+  },
+  {
+    "id": "2e7c49da3d38f0dc",
+    "title": "Host genetics determines the fate of the Lactobacillaceae population in the small intestine",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754556v1?rss=1",
+    "content": "Whereas innate pattern recognition receptors bind evolutionary conserved moieties shared by diverse groups of microbes, control over closely related microorganisms is likely based on different principles and can be sensitive to genetic variation of the host. While the influence of host genetics on intestinal microbiome composition has been growing in appreciation, understanding of polymorphic mechanisms that regulate individual bacterial lineages requires complex approaches. Using gnotobiotic mouse monocolonized with Ligilactobacillus murinus (ASF361), we found that C57BL/6J (B6) mice harbored significantly more intestinal ASF361 (or other Lactobacillaceae genera) than did BALB/cJ (BALB/c) mice. The difference in ASF361 abundance was independent of adaptive immunity and bacteriotoxic factors. In B6 mice, ASF361 occupied ileal crypts, showed greater expression of adhesion-related molecules, and enriched expression of carbohydrate-metabolism pathways, whereas in BALB/c mice, ASF361 remained largely luminal and enriched expressed genes associated with starvation and stress. These findings highlight the importance of host genetic variation in shaping microbial colonization and suggest that such variation should be considered when evaluating probiotic strains and microbiota transplantation."
+  },
+  {
+    "id": "c4268636bc2398a2",
+    "title": "Novel Synthetic Polymyxin Variants Inspired by Newly Uncovered Natural Sequences Explored as Potential Antibiotics",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754415v1?rss=1",
+    "content": "The incidence of infections caused by multidrug-resistant bacterial agents has increased at an alarming rate worldwide. With the aim of identifying novel antimicrobial peptides (AMPs), we screened bacteria isolated from various environmental samples. Our hypothesis was that the sequence space of natural AMPs belonging to known AMP classes is far from saturation. We used a classical pipeline of bacterial culturing, overlay assays, extraction and fractionation to purify AMPs for identification. Using LC/MS analysis, the structure of AMPs isolated from a strain of Paenibacillus was narrowed down and a new subclass of polymyxins was uncovered. These harbor three aliphatic residues within the cyclic C-terminal, and in certain cases Ser replaces Thr at position A2. Four discrete polymyxins fitting the new class, but not identical to the natural polymyxins were synthesized and tested against 29 human pathogenic bacteria. Each displayed an antibacterial spectrum different from that of colistin, with the best candidate surpassing it in potency against ten bacterial strains, but underperforming against three others. These results demonstrate that current screening of natural bacterial isolates can still permit the design of novel antimicrobial peptide variants without the substantial threat of diminishing returns."
   }
 ]
