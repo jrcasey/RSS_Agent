@@ -3064,5 +3064,167 @@
     "title": "Rethinking soil microbiome interventions through an ecological lens",
     "link": "https://www.nature.com/articles/s41579-026-01381-0",
     "content": "<p>Nature Reviews Microbiology, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41579-026-01381-0\">doi:10.1038/s41579-026-01381-0</a></p>Microbial interventions offer sustainable opportunities to enhance soil health and ecosystem functioning, but they can also have unintended ecological consequences. This Comment explores their benefits and risks, arguing for a shift in perspective from microbial products as agricultural inputs to tools for ecological restoration."
+  },
+  {
+    "id": "b6b3614af584bfef",
+    "title": "ENSO\u2010Driven Pacific Ocean Carbon Sink Variability During Boreal Autumn Over 1985\u20132021",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009886?af=R",
+    "content": "Abstract\nThe global ocean absorbs approximately one\u2010quarter of anthropogenic carbon dioxide (CO2) emissions, but its uptake varies substantially on interannual timescales. The El Ni\u00f1o\u2010Southern Oscillation (ENSO) strongly modulates equatorial Pacific CO2 exchange, yet the controls on the basin\u2010wide variability in carbon flux remain incompletely understood. This study integrates a 37\u2010year observation\u2010based air\u2010sea CO2 flux product with carbonate\u2010system decomposition and CESM1 sensitivity experiments to quantify and diagnose the Pacific response during boreal autumn. Basin\u2010integrated regression analysis yields an ENSO sensitivity of \u2212115\u00a0\u00b1\u00a028\u00a0Tg\u00a0C\u00a0yr\u22121 per standard deviation of the Ni\u00f1o 3.4 index. This response arises mainly from ENSO\u2010related wind\u2010stress anomalies that modify Ekman pumping and surface ocean pCO2 through changes in salinity\u2010normalized dissolved inorganic carbon (nDIC). During El Ni\u00f1o, weakened equatorial upwelling limits the supply of carbon\u2010rich subsurface waters, reducing the nDIC contribution to surface ocean pCO2 and thereby decreasing CO2 outgassing despite surface warming. This study provides critical insights for projecting Pacific carbon uptake under future climate variability."
+  },
+  {
+    "id": "054cb951f6deb0f9",
+    "title": "Relative Resistance of Estuarine Dimethyl Sulfide Production to Ocean Acidification in the Yangtze River Estuary",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024506?af=R",
+    "content": "Abstract\nDimethyl sulfide (DMS) is a climatically important sulfur gas, yet its response to ocean acidification in estuarine systems remains poorly constrained. Here, we combined three seasonal field surveys with ship\u2010based microcosm experiments in the Yangtze River Estuary and adjacent coastal waters to resolve spatial variability in DMS cycling and assess responses to declining pH. DMS concentrations and cycling rates showed pronounced seasonal variability, remaining broadly comparable in spring and autumn but reaching maxima in summer. During the wet season, mean sea\u2010to\u2010air DMS fluxes estimated using two gas\u2010transfer parameterizations were 11.5\u201314.3\u00a0\u03bcmol\u00a0m\u22122\u00a0d\u22121, approximately 1.8\u20132.2 times the global ocean mean. Across all seasons, estuarine waters exhibited lower pH than adjacent coastal waters, yet DMS concentrations showed no corresponding decline. Along the pH gradient, coastal waters exhibited significant positive relationships between pH and chlorophyll a, DMS concentration, DMS accumulation rate, and DMS yield, whereas these relationships were largely absent in the estuary. The microcosm experiments further confirmed this contrast, with pH reductions of 0.2\u20130.4 units significantly decreasing chlorophyll a, particulate and dissolved dimethylsulfoniopropionate, and DMS in coastal waters by 11.9%\u201331.2%, 10.9%\u201324.6%, 13.0%\u201332.1%, and 13.9%\u201342.4%, respectively, but producing little response in estuarine waters. These results reveal that DMS production in the Yangtze River Estuary exhibits relative resistance to pH declines of 0.2\u20130.4 units across all three seasons investigated, suggesting that natural pH variability and environmental exposure history may modulate acidification responses."
+  },
+  {
+    "id": "f50ceb39b6e79dd1",
+    "title": "Generation and Propagation of Internal Solitary Waves in Background Shear Currents: Incorporating the Free\u2010Surface Effect",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JC023658?af=R",
+    "content": "Abstract\nInternal solitary waves (ISWs) are ubiquitous in the ocean and play an important role in ocean mixing and energy transport. While the generation and evolution of ISWs have been extensively studied using two\u2010layer models, the combined effects of a free surface, multilayer stratification, and background shear currents remain insufficiently understood. This study develops a three\u2010layer stratified ocean model that explicitly incorporates free\u2010surface effects to investigate the generation and propagation of ISWs induced by an initial density disturbance, both with and without background shear currents. Both depression\u2010type and elevation\u2010type ISWs are examined to represent typical oceanic conditions and to enable a systematic comparison of their dynamics. Background shear currents introduce a pronounced directional asymmetry in ISW dynamics: ISWs propagating in positive vorticity currents are broader and slower, whereas those propagating in negative vorticity currents are narrower and faster. Compared with the two\u2010layer system, the presence of a pycnocline in the three\u2010layer configuration leads to more complex current\u2010wave interactions, particularly for ISWs propagating in negative vorticity currents, resulting in enhanced variability in wave profiles. Notably, although depression\u2010type and elevation\u2010type ISWs exhibit similar internal dynamics, their free surface responses differ substantially; under strong background shear, elevation\u2010type ISWs propagating in negative vorticity currents may even undergo a reversal of surface polarity. These findings highlight the critical role of background vorticity and multilayer stratification in shaping ISW dynamics and surface signatures, providing new insights for the interpretation and modeling of ISWs in realistic oceanic environments."
+  },
+  {
+    "id": "1093fc00d7b62113",
+    "title": "Spatial Disparities Among Oceanic Protists' Ecological Dynamics in the Bay of Bengal",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70572?af=R",
+    "content": "ABSTRACT\nProtists are the dominant eukaryotes in the ocean biosphere, and oceanic protists (OP) serve as a critical link among bacterial production, primary producers, and higher trophic levels. This study examined the community structure and vertical organization of OP assemblages in the Bay of Bengal (BoB) across three depth layers: surface (5\u2009m), mid\u2010depth (150\u2009m), and bottom (300\u2009m). Multivariate ordination, diversity metrics, and network analyses consistently demonstrated that vertical depth is the primary factor structuring OP communities, whereas regional (north\u2013south) variability was minimal. Alpha diversity analyses showed that Shannon and Simpson diversity differed significantly among depth layers, whereas Chao1 richness did not, indicating that depth\u2010related changes were reflected mainly in community evenness and dominance structure rather than estimated richness. Beta diversity analyses (PERMANOVA) further confirmed strong depth\u2010wise separation of communities and no significant regional effect. Surface OP communities were characterized mainly by Syndiniales, with additional contributions from Polycystinea, Dinophyceae, Diatomea, Intramacronucleata, and Prymnesiales, whereas mid\u2010depth and bottom assemblages showed stronger contributions from Polycystinea and Diplonemea. Network analyses revealed depth\u2010specific differences in modularity, connectivity, and robustness, with the mid\u2010depth network showing the highest modularity and the bottom network showing the strongest local connectivity but greater sensitivity to node removal. RDA highlighted clear depth\u2010related associations between OP communities and environmental gradients, with surface assemblages aligned with temperature and Chl\u2010a, and deeper assemblages associated with salinity, phosphate, and silicic acid gradients. Overall, these findings reveal a vertically stratified organization of OP communities in the BoB, associated with depth\u2010dependent environmental gradients and potential biotic associations within a stratified tropical ocean system."
+  },
+  {
+    "id": "945eaa5ba7a42820",
+    "title": "Problems With GO Enrichment as an Endpoint for Ecological Omics Interpretation",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70570?af=R",
+    "content": "ABSTRACT\nGene Ontology (GO) enrichment analysis has been widely adopted for interpretating omics data, including in ecological research. Although valuable for summarizing large gene lists into functional categories, it is often treated as the final interpretive step. In ecological omics, where functional annotations are frequently incomplete and experimental validation is often difficult, this reliance can lead to repetitive, generic conclusions that lack environmental and mechanistic specificity. Although previous literature has addressed the statistical and annotation\u2010related limitations of GO enrichment, its role in shaping the broader interpretive process has received less critical attention. Here, we highlight a conceptual weakness: the treatment of enriched GO terms as definitive biological insight. We focus particularly on ecological studies of non\u2010model organisms in complex, and heterogeneous environments. We discuss complementary strategies, including co\u2010expression network analysis, integration with environmental metadata, phylogenetically informed annotation, and AI\u2010assisted functional inference. To promote more context\u2010sensitive interpretation, we introduce the concept of GO\u2010Deep, which frames GO enrichment as a starting point for integrative, multilayered functional insight. By reframing GO enrichment as an entry point rather than a conclusion, ecological omics can move toward more mechanistically informative and environmentally grounded interpretations of high\u2010throughput data."
+  },
+  {
+    "id": "3b4dc7734dc7998f",
+    "title": "Using Rock-Eval pyrolysis to measure biochar carbon stability",
+    "link": "https://www.nature.com/articles/s43017-026-00841-8",
+    "content": "<p>Nature Reviews Earth &amp; Environment, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/s43017-026-00841-8\">doi:10.1038/s43017-026-00841-8</a></p>Monica McCall explains how the stable and labile fractions of carbon in biochar can be characterized using Rock-Eval pyrolysis."
+  },
+  {
+    "id": "15ee759b19fe05bf",
+    "title": "Magnetic Imaging of the Effect of Stress on the Remanent Magnetization of Basalt",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121480?af=R",
+    "content": "Abstract\nDifferential compressional stresses (<100\u00a0MPa) that do not result in permanent deformation have traditionally been considered insufficient to modify paleomagnetic signals; however, recent numerical predictions have challenged this assumption. Using quantum diamond microscopy, we experimentally determined the effects of low differential stresses on the remanent magnetization of columnar basalt samples from Seljadalur, Iceland. We show that although individual magnetic dipoles rotate by up to 40\u00b0, the bulk magnetization direction remains largely unchanged. These rotations reflect opposing single\u2010domain\u2013like and single\u2010vortex\u2013like behaviors that cancel directionally; however, the bulk magnetization intensity decreases. This behavior is consistent with micromagnetic model predictions for mixed\u2013domain\u2010state samples. Given that differential stresses \u226a $\\ll $1\u00a0GPa are common in undeformed rocks distal to earthquake rupture zones and impact craters, it is essential to account for stress effects when interpreting paleomagnetic data from geological materials."
+  },
+  {
+    "id": "8eeaa0292939f635",
+    "title": "Cosmogenic 10Be as a Tracer for Recent Heliospheric Encounters With Interstellar Cold Clouds and Nearby Supernovae",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123133?af=R",
+    "content": "Abstract\nRecent works suggest there are periods when the Sun encountered massive interstellar cold clouds which compressed the heliosphere to within Earth's orbit, exposing Earth to interstellar galactic cosmic rays and energetic particles of heliospheric origin. We model 10Be production in Earth's atmosphere during possible interstellar cloud encounters and supernovae. We find that, if the heliosphere is compressed to 0.2 AU (rTS=0.12 ${r}_{TS}=0.12$ AU), the 10Be production rate is elevated 9\u00d7 $9\\times $ above the background. To be distinguished in marine sediments (iron\u2010manganese crusts) beyond terrestrial variability, this signal must be sustained for >0.01 ${ >} 0.01$ Myr (>0.5 ${ >} 0.5$ Myr). A 0.7 AU (rTS=0.4 ${r}_{TS}=0.4$ AU) compression increases the 10Be production rate 3\u00d7 $3\\times $ above the background, which may be detectable if the event lasts >1 ${ >} 1$ Myr. We find that the 10Be peak observed by Koll et\u00a0al. (2025, https://doi.org/10.1038/s41467\u2010024\u201055662\u20104) 10\u00a0Ma is too prolonged to be produced by a supernova, but could be attributed to an interstellar cloud crossing."
+  },
+  {
+    "id": "8b9cae0fac185a8d",
+    "title": "Detection and Analysis of an Upward Jet\u2010Like Electrical Discharge Intercepting a High\u2010Altitude Research Aircraft",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124761?af=R",
+    "content": "Abstract\nDuring a 2023 field campaign, a NASA ER\u20102 research aircraft intercepted an upward jet\u2010like electrical discharge at 20\u00a0km altitude over an intense tropical thunderstorm. This event was analyzed using airborne multispectral optical sensors, electric field mills, X\u2010band radar, passive microwave, and ground\u2010based radio networks. Optical observations revealed a streamer\u2010dominated discharge characterized by strong ultraviolet (\u223c340\u00a0nm) emissions and limited thermalization, explaining the lack of airframe damage. Radio observations indicated that the discharge was initiated by a narrow bipolar event near cloud top. Electric field measurements found that fields due to charge on the aircraft were close to dielectric breakdown threshold immediately prior to the event. Radar data showed the aircraft was navigating between intense convective cells when hit, while passive microwave indicated vertically aligned ice crystals due to electric fields. This is likely the first documented instance of an aircraft intercepting an upward\u2010propagating transient luminous event from cloud top."
+  },
+  {
+    "id": "f2f6507b696f03cb",
+    "title": "Contrast in the Boundary Layer Convergence Lines at Desert\u2212Oasis Border With Different Vegetation Gradient",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122682?af=R",
+    "content": "Abstract\nMotivated by an observed asymmetry in boundary layer convergence lines (BLCLs) between the Kubuqi and Ulan Buh desert borders of the Hetao Oasis in northern China, this work aims to document the differences in BLCL frequency and convective initiation and their potential drivers. Using radar, surface Automatic Weather Station, and reanalysis data in June\u2013August from 2012 to 2022, we found that the Kubuqi border had more frequent, earlier\u2010forming, and more convective BLCLs, whereas the Ulan Buh border had fewer, shorter\u2010lived, and more tortuous ones. These contrasts were associated with sharper vegetation and thermal gradients, higher Bowen ratio, and a more favorable background wind on the Kubuqi side. Our findings demonstrate that BLCL behavior is highly sensitive to surface, flow, and terrain heterogeneity, even around a single oasis."
+  },
+  {
+    "id": "67c019779a71ae84",
+    "title": "Dust Loading Increases During Topsoil Flash Droughts Under Rapid Surface Drying and Vegetation Stress",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124553?af=R",
+    "content": "Abstract\nUsing satellite\u2010derived dust optical depth (DOD), reanalysis meteorology, and a global topsoil flash drought (TSFD) inventory for 2003\u20132022, we find that TSFD events are associated with increased dust loading at the global scale. During TSFD events, 44.7% of land pixels exhibited positive DOD anomalies. The net global DOD anomaly increased significantly over the study period; however, this trend cannot be attributed solely to TSFD\u2010related effects, as changes in background environmental conditions may also have contributed. Compound TSFD\u2013strong dust (TSFD_SD) events occurred most frequently under sparse vegetation and moderately elevated wind conditions. SHapley Additive exPlanation (SHAP) analysis showed that DOD variability during TSFD events was more strongly associated with soil moisture, background aridity, and vegetation state than with wind speed. These relationships are consistent with a mechanism in which rapid topsoil drying and vegetation stress increase surface erodibility and may enhance dust loading, although the observational analyses do not establish causality."
+  },
+  {
+    "id": "17f387e284d6b5c6",
+    "title": "Rare Synchronization Among Recurring Earthquakes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123394?af=R",
+    "content": "Abstract\nEarthquakes are notoriously irregular, yet occasionally neighboring faults rupture in close succession, repeatedly, as if synchronized. Over successive cycles, differences in recurrence intervals, overall irregularity and external stressors should all drive neighboring faults out of phase. We propose that synchronization emerges only when fault interaction is phase dependent and exceeds the accumulated misalignment. The competing effects are quantifiable from the geometry of neighboring faults, yielding a conditional existence prediction for synchronization that we test first against simulations and then observations. Among repeating earthquake families in the central San Andreas Fault, the overall prevalence of synchronized pairs decays rapidly with increasing separation, tracking their stress transfer. Among neighboring megathrust segments in the 1000\u2010year historical record for Japan, the same threshold identifies segments in Nankai and Hokkaido as uniquely poised for synchronization. This work offers a mechanistic basis for earthquake synchronization and, more broadly, shows how interaction shapes earthquake recurrence."
+  },
+  {
+    "id": "90163cfd6d59d2da",
+    "title": "Quantifying Non\u2010Maxwellian Properties of Ion Populations During Reconnection at Earth's Magnetopause",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122882?af=R",
+    "content": "Abstract\nWe investigate ion velocity\u2010space features within the exhaust of magnetopause reconnection using a global hybrid\u2010Vlasov simulation. The Hermite transform and Gaussian Mixture Model (GMM) are applied to quantify the complexity of velocity\u2010space structures that arise during the mixing of magnetospheric and magnetosheath ion populations. Using the Hermite transform, we calculated the enstrophy metric to quantify available free energy. From the GMM multi\u2010beam decomposition we obtained pseudothermal energy. We find that pseudothermal energy appeared due directed beam motion accounts for nearly half of the apparent thermal energy within the exhaust. The enstrophy evolves similarly to the pseudothermal energy estimate selected via the optimal number of Gaussian components. These results revise ion energy partitioning during magnetopause reconnection and suggest an approach for defining thermal energy in non\u2010Maxwellian plasmas."
+  },
+  {
+    "id": "502e810e6fcc419a",
+    "title": "The Influence of Sea\u2010Land Breeze on the Circulation and Air\u2010Sea Thermodynamics of the Mississippi Sound and Bight",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123988?af=R",
+    "content": "Abstract\nHigh spatial and temporal resolution wind forcing is essential to capture the highly variable atmospheric circulation driving ocean currents in shallow waters and across complex coastal features in the Mississippi Sound. In this study, we examine the sensitivity of modeled hydrodynamics to sea\u2010land breeze (SLB) circulation. Two versions of the CONCORDE Meteorological Analysis (CMA) wind fields were applied as forcing in the COAWST\u2010based model: an hourly 1\u2010km resolution data set and a 24\u2010hr low\u2010pass filtered version of this data set (CMA24). Inter\u2010comparison of the resulting solutions isolates the impact of diurnal SLB circulation. Our analysis demonstrates that removing diurnal, SLB\u2010dominated wind variability modifies circulation patterns and impacts the heat exchange between the atmosphere and estuarine\u2010shelf waters within the Mississippi Sound. This study estimates its contribution to summer latent heat flux to be 18 W/m2. These results underscore the importance of high\u2010resolution atmospheric forcing for representing coastal ocean dynamics in modeling applications."
+  },
+  {
+    "id": "3819e3bc3c40131d",
+    "title": "Automated brain MRI image classification through machine learning and deep learning approaches",
+    "link": "https://www.nature.com/articles/s41598-026-73865-1",
+    "content": ""
+  },
+  {
+    "id": "5e7276b9d5113b0a",
+    "title": "PGFT-IGR: position-guided feature transformation for incremental gait recognition",
+    "link": "https://www.nature.com/articles/s41598-026-73820-0",
+    "content": ""
+  },
+  {
+    "id": "fdb753f11e026d53",
+    "title": "A hybrid framework combining enhanced fields and consistent spatial features for stroke lesion segmentation in MR images",
+    "link": "https://www.nature.com/articles/s41598-026-74035-z",
+    "content": ""
+  },
+  {
+    "id": "160564698b770b48",
+    "title": "Loop engineering and activity improvement of TEV protease by a phagemid-based selection system",
+    "link": "https://www.nature.com/articles/s41598-026-74102-5",
+    "content": ""
+  },
+  {
+    "id": "c590b28f5b9808ac",
+    "title": "TRIM3 functions as a tumor suppressor and predicts prognosis in triple-negative breast cancer: a multi-omics study with clinical cohort validation",
+    "link": "https://www.nature.com/articles/s41598-026-72591-y",
+    "content": ""
+  },
+  {
+    "id": "eb7d0cf938c217ab",
+    "title": "A hybrid CNN-transformer network with global-local context feature aggregation for lung medical image segmentation",
+    "link": "https://www.nature.com/articles/s41598-026-72794-3",
+    "content": ""
+  },
+  {
+    "id": "05ef87db36ce0108",
+    "title": "Advanced machine learning strategies for predicting therapy response in preclinical glioblastoma using longitudinal MRI",
+    "link": "https://www.nature.com/articles/s41598-026-73929-2",
+    "content": ""
+  },
+  {
+    "id": "4b76a6256c35650f",
+    "title": "Automatizing the deep learning pipeline for out-of-distribution lung segmentation",
+    "link": "https://www.nature.com/articles/s41598-026-66113-z",
+    "content": ""
+  },
+  {
+    "id": "7ad96571d4db25c0",
+    "title": "Endoplasmic reticulum stress and glucose metabolism gene signature associated with type 2 diabetes mellitus",
+    "link": "https://www.nature.com/articles/s41598-026-73413-x",
+    "content": ""
+  },
+  {
+    "id": "14e9b3190de9e38d",
+    "title": "Immune\u2013metabolic heterogeneity and prognostic associations in breast cancer: development of an eight-gene risk model and preliminary functional characterization of NAT2",
+    "link": "https://www.nature.com/articles/s41598-026-74323-8",
+    "content": ""
+  },
+  {
+    "id": "379dd110241d4572",
+    "title": "Identification and analysis of obesity-cellular senescence associated key genes in metabolic syndrome based on transcriptomic data",
+    "link": "https://www.nature.com/articles/s41598-026-74366-x",
+    "content": ""
+  },
+  {
+    "id": "437487b953dbefd6",
+    "title": "Gut microbiome features associated with PIK3CA-mutated colorectal cancer: A nationwide pan-cancer genomic and microbial profiling study (MONSTAR-SCREEN)",
+    "link": "https://www.nature.com/articles/s41598-026-74246-4",
+    "content": ""
+  },
+  {
+    "id": "fee83c56f3fc2808",
+    "title": "MS-GFFE: Multi-stage global feature fusion and enhancement method for lesion segmentation",
+    "link": "https://www.nature.com/articles/s41598-026-74003-7",
+    "content": ""
   }
 ]
