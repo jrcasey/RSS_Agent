@@ -4312,5 +4312,251 @@
     "title": "Contrasting relationships between evolved consumer diversity and productivity for essential vs. substitutable resources",
     "link": "https://www.biorxiv.org/content/10.64898/2026.10.08.757349v1?rss=1",
     "content": "Any mechanistic biodiversity-ecosystem functioning theory must explain how biodiversity in natural communities arises, which requires an evolutionary metacommunity perspective. Using a model of adaptive evolution of competitive metacommunities in landscapes with spatially heterogeneous supply of two resources, we studied the evolution of resource-uptake specialization as a function of resource type (substitutable/essential) and trade-off shape between resource-uptake affinities (generalist-/specialist-favouring). We identified \"critical essentiality\" as a key phenomenon separating parameter regions with fundamentally different biodiversity--ecosystem function relationships. Specifically, while greater spatial heterogeneity in resource supply increases biodiversity, this comes at the cost of reduced productivity when resources are essential. Moreover, when resources are essential, both generalist- and specialist-favoring trade-offs select for phenotypes that prevent efficient resource partitioning, leading to low resource use efficiency and consumer biomass - despite often high species richness. In contrast, when resources are substitutable, a specialist-favoring affinity trade-off selects for phenotypes that partition resources efficiently, promoting a metacommunity of only two species characterized by high functional diversity, resource use efficiency, and biomass. Overall, our analyses thus suggest that conditions promoting the evolution of diverse consumer communities often do not engender higher functional richness, consumer biomass, or resource use efficiency."
+  },
+  {
+    "id": "c4c71099c709ad65",
+    "title": "A modular constitutive single-plasmid platform for efficient production of a recombinant Strep A glycoconjugate vaccine",
+    "link": "https://www.nature.com/articles/s42003-026-11158-z",
+    "content": ""
+  },
+  {
+    "id": "2ac3d215941e0705",
+    "title": "Transcriptomic profiling of human iPSC-derived Schwann-like cells reveals NF2-regulated gene regulatory networks",
+    "link": "https://www.nature.com/articles/s41598-026-69205-y",
+    "content": ""
+  },
+  {
+    "id": "fde6690ac5c0dad0",
+    "title": "PsychAD: Understanding the molecular mechanisms that contribute to neuropsychiatric symptoms in Alzheimer's disease",
+    "link": "https://www.nature.com/articles/d44224-026-00020-6",
+    "content": ""
+  },
+  {
+    "id": "d1a62c3a5a176568",
+    "title": "Highly multiplexed mammalian metabolic engineering with a shotgun approach",
+    "link": "https://www.nature.com/articles/s41587-026-03318-7",
+    "content": ""
+  },
+  {
+    "id": "5d8b45de0306800c",
+    "title": "Ecological memory of prolonged plasmid persistence after transient antibiotic exposure",
+    "link": "https://www.nature.com/articles/s41467-026-78240-2",
+    "content": ""
+  },
+  {
+    "id": "b68b107b96a479a0",
+    "title": "Boundary-aware multi-scale residual learning with hybrid radiomic\u2013deep fusion for lung tumor segmentation and classification",
+    "link": "https://www.nature.com/articles/s41598-026-74349-y",
+    "content": ""
+  },
+  {
+    "id": "cd8acd7eacc7e3c6",
+    "title": "A deep hybrid feature extraction model based on MobileNet and vision transformer for acute lymphoblastic leukemia prediction",
+    "link": "https://www.nature.com/articles/s41598-026-73064-y",
+    "content": ""
+  },
+  {
+    "id": "8ff188fd3207a6d8",
+    "title": "Integrated differential transcript usage and transcript abundance analyses reveal isoform-level remodeling in clear cell renal cell carcinoma",
+    "link": "https://www.nature.com/articles/s41598-026-75526-9",
+    "content": ""
+  },
+  {
+    "id": "89131e12caca8f6e",
+    "title": "CDCA5 promotes hepatocellular carcinoma progression by suppressing ferroptosis through PP2Ac/p53/STEAP3 signaling",
+    "link": "https://www.nature.com/articles/s41598-026-74749-0",
+    "content": ""
+  },
+  {
+    "id": "16dd6e290ec08681",
+    "title": "Evaluation and validation of a reproducible mNGS workflow for gut Microbiome analysis",
+    "link": "https://www.nature.com/articles/s41598-026-70557-8",
+    "content": ""
+  },
+  {
+    "id": "605c9280e0add945",
+    "title": "ECG-based automated detection of sleep apnea using deep neural networks and hidden markov models",
+    "link": "https://www.nature.com/articles/s41598-026-75553-6",
+    "content": ""
+  },
+  {
+    "id": "928ea93df909044e",
+    "title": "Exploring transcriptomic and genomic latent variable correction approaches in differential expression analysis",
+    "link": "https://www.nature.com/articles/s41598-026-69619-8",
+    "content": ""
+  },
+  {
+    "id": "9ee92fe102e7fbd2",
+    "title": "BurnAreaNet: a deep learning method for total body surface area estimation from 2D masks",
+    "link": "https://www.nature.com/articles/s41598-026-74837-1",
+    "content": ""
+  },
+  {
+    "id": "495279fb2b406c18",
+    "title": "Specialty-aware benchmark design, split integrity, and baseline evaluation for Korean medical question answering",
+    "link": "https://www.nature.com/articles/s41598-026-75770-z",
+    "content": ""
+  },
+  {
+    "id": "16ec2e6504fae59f",
+    "title": "Person-independent and cross-dataset evaluation of convolutional and recurrent architectures for eye movement classification",
+    "link": "https://www.nature.com/articles/s41598-026-69589-x",
+    "content": ""
+  },
+  {
+    "id": "55df08af25d4a4f1",
+    "title": "A schema-enforced large language model framework produces largely reproducible decision codes in simulated sarcoma tumor boards",
+    "link": "https://www.nature.com/articles/s41598-026-74868-8",
+    "content": ""
+  },
+  {
+    "id": "3b0c58d551631bb8",
+    "title": "Epithelial\u2013mesenchymal transition in immune escape and immunotherapy resistance of lung cancer",
+    "link": "https://www.nature.com/articles/s41698-026-01732-3",
+    "content": ""
+  },
+  {
+    "id": "f8ac9e3b4833f871",
+    "title": "FHIR-AgentEval: a modular sandbox for benchmarking clinical LLM agents with memory-augmented configurations",
+    "link": "https://www.nature.com/articles/s41746-026-03348-0",
+    "content": ""
+  },
+  {
+    "id": "bce77d8acef72075",
+    "title": "Artificial intelligence across the medical education continuum: institutional, learning, readiness and safety systems",
+    "link": "https://www.nature.com/articles/s41746-026-03362-2",
+    "content": ""
+  },
+  {
+    "id": "57af65c8d031bac7",
+    "title": "Evaluating the performance of long short-term memory to other time series models for univariate and multivariate data",
+    "link": "https://www.nature.com/articles/s41598-026-73148-9",
+    "content": ""
+  },
+  {
+    "id": "e914cc895660ea26",
+    "title": "ConvWaveFormer: a hybrid wavelet and CNN-transformer framework for ECG biometric identification",
+    "link": "https://www.nature.com/articles/s41598-026-72088-8",
+    "content": ""
+  },
+  {
+    "id": "267f8aff7edf1788",
+    "title": "Automated detection of carotid artery encasement on CT scans using an AI-driven approach",
+    "link": "https://www.nature.com/articles/s41598-026-72699-1",
+    "content": ""
+  },
+  {
+    "id": "36aea99b9a61b2a3",
+    "title": "Development and validation of a deep learning model for differentiating cytomegalovirus and herpes simplex virus esophagitis using endoscopic images",
+    "link": "https://www.nature.com/articles/s41598-026-75391-6",
+    "content": ""
+  },
+  {
+    "id": "034596910975eaa4",
+    "title": "A global\u2013local momentum contrastive framework with critical feature calibration for field plant disease identification in precision agriculture",
+    "link": "https://www.nature.com/articles/s41598-026-74163-6",
+    "content": ""
+  },
+  {
+    "id": "60b291ffc3e57b4f",
+    "title": "Identification and validation of T cell proliferation-associated transcriptomic biomarkers in ischemic stroke",
+    "link": "https://www.nature.com/articles/s41598-026-73835-7",
+    "content": ""
+  },
+  {
+    "id": "6ab5f159d8d9a9fd",
+    "title": "Extensive genomic diversity in Desulfovibrio reveals species-specific functional traits associated with disease",
+    "link": "https://www.nature.com/articles/s41467-026-78314-1",
+    "content": ""
+  },
+  {
+    "id": "a3b6c50da7c8242c",
+    "title": "A tetracycline-inducible promoter for gene expression in Gram-negative bacteria including Acinetobacter baumannii",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758105v1?rss=1",
+    "content": "Carbohydrate inducible promoters on expression plasmids are widely used for biotechnology and basic science research. However, using carbohydrates for inducers has drawbacks including influencing bacterial metabolism, the inducer being used as a carbon source by the bacteria, high background expression, and only a subset of cells experiencing promoter activation. Furthermore, some bacteria including the pathogen Acinetobacter baumannii currently lack good carbohydrate-inducible promoters. To address this issue, a tetracycline-inducible promoter, PtetB, isolated from A. baumannii was cloned and evaluated in a number of important bacteria: Acinetobacter baumannii, Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, Pseudomonas fluorescens, and Serratia marcescens. A highly sensitive luxCDABE reporter was used to evaluate promoter activity. S. marcescens strains with elevated and reduced cyclic-AMP levels were used to evaluate the impact of cAMP on PtetB function. The PtetB promoter was induced over 800-fold in A. baumannii and 10-750-fold inducible in the other tested species. Background expression was lower from PtetB in the pseudomonads than previously described carbohydrate inducible promoters. Data indicated that the PtetB promoter system may be a useful tool for future basic science research with the tested bacteria."
+  },
+  {
+    "id": "cf336bde3655b55a",
+    "title": "Shedding light on the virome of Caliothrips phaseoli, an emergent pest in peanut",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758028v1?rss=1",
+    "content": "The bean thrips, Caliothrips phaseoli, is an emergent pest affecting peanut production. Thus, gaining a deeper understanding of the naturally occurring viral populations associated with this insect is of major importance, as such knowledge could support the design of novel pest management strategies that are both ecologically responsible and sustainable over the long term. In this study, we performed the first RNA high-throughput sequencing (HTS) analysis of C. phaseoli to unravel its virome, discovering a wide number of novel RNA viruses. Our HTS analysis revealed the presence of 31 viral segments, corresponding to 18 viruses, including double-stranded RNA viruses as well as positive- and negative-sense single-stranded RNA viruses. All these are novel viruses and cover multiple viral lineages belonging to diverse families. Overall, these results indicates that C. phaseoli hides a complex virome. The findings presented here provide an important framework for subsequent studies aimed at understanding the ecological significance, evolutionary patterns, and possible use of these viruses as components of biologically based management programs for this emerging peanut pest."
+  },
+  {
+    "id": "f5a4d8c32929715b",
+    "title": "MnSOD Diversifies, while FeSOD Dominates Superoxide Defense in Cyanobacteria",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757883v1?rss=1",
+    "content": "Cyanobacteria are unique among prokaryotes in possessing photosynthetic thylakoid membranes enclosing an internal lumen, where superoxide production is expected to be substantial. Thylakoid-associated superoxide dismutases (SODs) would seem the obvious first line of defense, yet many cyanobacteria rely instead on a single soluble cytoplasmic enzyme, raising the question of what role thylakoid-associated SOD isoforms actually play. Using Cyanothece sp. PCC 7425, which encodes both a cytoplasmic FeSOD and a thylakoid-associated MnSOD, we combined sequence analysis, structural, genetics, and biochemical approaches to characterise FeSOD and MnSOD cellular localisation and assess each enzyme's contribution to superoxide defense. Cyanobacterial MnSODs display diverse N-terminal architectures, consistent with soluble, transmembrane, or lipid-anchored forms, yet contribute only modestly to superoxide defense in Cyanothece PCC 7425 and, very likely, across cyanobacteria broadly. Soluble FeSOD instead provides the major line of defense, showing that thylakoid association does not guarantee physiological importance. This predominance of a cytoplasmic enzyme highlights the central role of cytoplasmic superoxide detoxification, consistent with superoxide being generated mainly at the PSI acceptor side, and extends to the chloroplast stroma of plants. Our findings support a model in which SOD distribution reflects metal availability, enzyme properties, and subcellular organisation : FeSOD protects the compartment harbouring the main targets of PSI-associated superoxide, whereas MnSOD is retained where thylakoid association offers additional local protection, but becomes dispensable when the local ROS burden is limited. Spatial matching between superoxide production, antioxidant localisation, and target vulnerability may thus shape the diversification and maintenance of antioxidant systems across cyanobacteria and chloroplasts."
+  },
+  {
+    "id": "fafb6b97e98af869",
+    "title": "Chronic stress remodels gut bacterial ecology and polysaccharide metabolism with neuroendocrine consequences despite unchanged behavior",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757984v1?rss=1",
+    "content": "The gut-microbiome-brain axis (GMBA) links the gut and brain through metabolic, immunological, and neuroendocrine pathways, and can become dysregulated during psychological stress (PS). While previous studies primarily infer microbial function and use physical stressors that incompletely model human PS, here, functional multi-omics was applied to a chronic social-isolation mouse model. Although isolation caused no measurable behavioral changes, brain proteomics revealed stress-associated molecular responses. Taxonomic and short-chain fatty acid analyses suggested limited microbiome changes; however, metaproteomics uncovered sex-specific restructuring of bacterial ecology and carbohydrate-active enzymes. In females, isolation increased Petralouisia muris proteins involved in bacterial microcompartment metabolism and {beta}-glucuronidases across Lachnospiraceae taxa. Enriched {beta}-glucuronidase abundance coincided with reduced circulating glucuronides and altered brain estrogen-receptor activity, suggesting a microbial deconjugation-host estrogen-signaling interaction. These findings demonstrate that functional GMBA alterations may precede or occur independently of overt behavioral phenotypes and highlight the value of direct functional profiling in PS."
+  },
+  {
+    "id": "f852efdfc6ba698c",
+    "title": "EF-P-resolved ribosome stalling and collision trigger Rae1-mediated mRNA decay",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757949v1?rss=1",
+    "content": "Ribosome stalling compromises proteome integrity and cellular fitness, and requires efficient mechanisms to eliminate problematic mRNAs and rescue blocked ribosomes. We previously identified Rae1 as an endoribonuclease that cleaves mRNAs at the tail end of stalled ribosomes to promote mRNA degradation in Bacillus subtilis. Here, we show that Rae1 has a broader role in the quality control of mRNAs that encounter translation problems. Global 5-end sequencing identified 31 previously unknown Rae1 cleavage sites, many of them associated with ribosome pausing at polyproline motifs in the absence of elongation factor P (EF-P). We also demonstrate that Rae1 cleaves mRNAs with ribosomes stalled on truncated transcripts lacking a stop-codon (non-stop mRNAs), provided that the transcript is sufficiently long to accommodate multiple collided ribosomes. Rae1 cleavage depends on a cytosine-poor context at the cut site, showing that both ribosome collisions and RNA sequence at the cleavage site govern the ability of Rae1 to promote the removal of stalled ribosomes from mRNA."
+  },
+  {
+    "id": "c2f7d87385cbb8fd",
+    "title": "Coronavirus nucleocapsid proteins differentially antagonize RIG-I-like receptor signaling to shape pathogenicity",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758129v1?rss=1",
+    "content": "Coronaviruses cause human infections with divergent clinical outcomes. Viral proteins likely play important roles in the severity of human diseases but are poorly defined. In this study, we discovered that viral nucleocapsid (N) proteins from various human coronaviruses have distinct abilities to antagonize human innate immune responses. N proteins from more pathogenic coronaviruses, such as SARS-CoV and SARS-CoV-2, have more potent activities specifically against human RIG-I-like receptor (RLR) activation than less pathogenic coronaviruses including OC43 and HKU1. Mechanistically, the SARS-CoV-2 N protein interacts with RLR pathway viral RNA sensors MDA5 and RIG-I and inhibits their interaction with MAVS. The CTD of SARS-CoV-2 N protein is an important region for RLR antagonism. Consequently, N proteins from more pathogenic coronaviruses promote viral replication more effectively than N proteins from less pathogenic coronaviruses. Blocking N protein function may be a promising antiviral strategy."
+  },
+  {
+    "id": "7d55e8e941e43833",
+    "title": "The essential lipoprotein maturation enzyme Lgt is required for flagellar and membrane integrity in Helicobacter pylori",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757914v1?rss=1",
+    "content": "Pre-prolipoprotein phosphatidylglycerol diacylglyceryl transferase (Lgt) catalyzes the first step in the lipoprotein modification pathway and is essential for growth and viability of Helicobacter pylori. We explored the fate of H. pylori cells under Lgt depletion conditions to obtain insight into Lgt function on morphology and physiology. Downregulation of lgt expression led to growth arrest and a heterogenous population of small rod-shaped cells and small round cells with spiky protrusions, a loose outer membrane and disintegrated flagella. H. pylori overcomes a defect in lipoprotein modification through alteration of its gene expression profile resulting in so-called revertants. Outer membrane protein synthesis, carbon metabolism and nutrient uptake was reduced, and protein translation and flagellar biogenesis increased. Lgt specific regulation was observed in phospholipid biosynthesis resulting in an initial increase in cardiolipin followed by an increase in lysophospholipids at the time of adaptation. Suppressors of {Delta}lgt that were selected on solid media under restrictive conditions either lacked chromosomal mutations or had mutations in the cagUT-tetR regulon controlling the expression of lgt. A suppressor without mutations had an altered expression profile that led to downregulation of a DNA methyltransferase and upregulation of HP_0014, a motility associated glycosyltransferase family protein. Transmission electron microscopy and single cell video microscopy showed that a subpopulation of cells is motile in the revertant while the suppressor regained full motility with higher average speed compared to the wild type strain. Overall, our data show that lipoprotein modification by Lgt is important for membrane and flagellar integrity and that the heterogenous character of H. pylori cultures allows individual cells to overcome this cell envelope stress and survive. Our findings are important for antibacterial development strategies targeting essential integral membrane enzymes involved in lipoprotein modification and stimulate exploration of synergetic activity between known antibiotics and novel antibacterial agents targeting novel cellular pathways."
+  },
+  {
+    "id": "e9cf1292ea3f3957",
+    "title": "Repurposing clofarabine against enteric pathogens via metabolic starvation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757903v1?rss=1",
+    "content": "Enteropathogenic and enterohaemorrhagic Escherichia coli (EPEC/EHEC) cause severe global diarrhoeal disease, exacerbated by rising antimicrobial resistance. Pathogenesis relies on \"attaching and effacing\" lesions, where bacteria generate actin pedestals to adhere, replicate, and destroy intestinal microvilli. To identify novel anti-virulence candidates targeting this process, we conducted a high-throughput phenotypic screen quantifying pedestal formation via high-content fluorescence microscopy. We identified the anticancer nucleotide analogue clofarabine as a potent inhibitor of EPEC growth and pathogenesis. Distinct from its oncology mechanism - inducing DNA chain termination and apoptosis - clofarabine competes with bacterial ATP-dependent processes to impede gene transcription, protein synthesis, and Type III Secretion System (T3SS) function. Remarkably, EPEC counteracts this inhibition by cleaving clofarabine, enabling restored protein synthesis and resumed growth. Furthermore, we report for the first time that clofarabine suppresses protein translation in human monocytes, suggesting an uncharacterised translational impact on mammalian cells. These findings reveal host and bacterial translation as interconnected vulnerabilities to purine antimetabolites, offering a novel strategy to disarm enteric pathogens while uncovering a bacterial enzymatic mechanism for neutralizing host-targeted therapeutics."
+  },
+  {
+    "id": "4a4a0cf62b640ab3",
+    "title": "Comparison of intracellular and encapsidated viral RNA reveals selective constraints on reovirus recombination",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.10.757791v1?rss=1",
+    "content": "Recombination can generate genetic diversity among RNA viruses; yet, mechanisms governing recombination for segmented, double-stranded RNA viruses remain poorly understood. Reovirus genomes contain ten segments of double-stranded RNA. Previous analyses suggested low rates of reovirus RNA recombination and led to a proposed mechanism of recombination during minus-strand synthesis. These analyses focused on recombination events detected in genomic double-stranded RNA extracted from purified viral particles. In the current study, we looked deeper into the origins of the observed recombination events by assaying total cellular material, which comprises viral genomic material, as well as replication intermediates, mRNAs, and products of recombination that may not be eligible for packaging into virus particles. Intracellular viral RNA, which is almost exclusively plus-strand RNA, exhibited substantially higher recombination frequency than particle-associated double-stranded RNA. The diversity and frequency of identified junctions were more similar among samples of a given type (intracellular or virion-encapsidated) from distinct infections than between distinct sample types from the same infection. Although potential recombination sites are widely distributed across the genome, a more limited set was used in junctions in packaged viral RNA than in intracellular viral RNA. Together, these observations suggest recombination may occur more frequently than previously recognized during reovirus infection, and many such events likely occur during plus-strand synthesis. However, recombination products generated during viral transcription may be selectively incorporated into viral particles."
+  },
+  {
+    "id": "042e979b12c7a822",
+    "title": "Commensal Bacteria in the Gut Microbiome Encode Previously Unrecognized Aromatic Hydrocarbon Catabolic Machinery",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758022v1?rss=1",
+    "content": "Introduction. Polycyclic aromatic hydrocarbon (PAH) toxicology has been primarily defined by host metabolic bioactivation to reactive intermediates. Yet ingested PAHs and biliary-delivered metabolites also enter the intestinal lumen, where they encounter the gut microbiota, an additional but understudied metabolic compartment that may alter toxicant fate. Although PAH interactions are well characterized in environmental microbes, resulting in defined enzymatic pathways for their catabolism, whether gut commensal organisms express related machinery in vivo remains poorly understood. To address this gap, we used an oral murine-exposure model of naphthalene and integrated compartment-resolved 16S rRNA gene profiling, global metaproteomics, and chemoproteomics to resolve the PAH-processing repertoire of the gut microbiota and its spatial distribution. Results. Naphthalene, a common environmental toxicant and representative PAH, elicited a compartment-dependent functional response that was most pronounced in the large intestine. Distally, exposure was associated with 2,386 differential proteins and accounted for 48.4% of metaproteomic variation, compared with 7.9% of 16S rRNA gene compositional variation. The small intestine showed a reduced proteomic response, with 994 differentially abundant proteins. Hydrocarbon catabolic markers showed a 4.8-fold distal expansion (36 to 172 proteins), including the naphthalene-catabolic nahE, proteins associated with phenylacetate, {beta}-ketoadipate, catechol/TOL, and anaerobic CoA-linked redox machinery. The small-intestinal repertoire decreased from 19 to 14 proteins, though aromatic-catabolic markers doubled, indicating a selective expansion. Critically, these homologs concentrated in Lachnospiraceae, a gut family that is prevalent in humans, primarily known for anaerobic fermentation, with no priorly described PAH-processing capacity. An uncultured Acetatifactor showed the largest hydrocarbon hits (14 to 82 protein increase), with additional contributions from Kineothrix, Eisenbergiella, and Petralouisia. Chemoproteomics, using a naphthalene-based probe, revealed enrichment of an orthogonal proteome of proteins interacting with naphthalene, capturing 171 small-intestinal and 67 large-intestinal proteins that were undetected in the global metaproteomes. Conclusions. Gut commensals express homologs of aromatic-hydrocarbon catabolic enzymes characterized in environmental microorganisms, and naphthalene amplifies this repertoire most strongly in the large intestine. The decoupling of taxonomic structure, expressed-protein representation, and probe engagement identifies a functional dimension of PAH exposure that composition-based profiling does not resolve and positions microbiome variation as a candidate modifier of PAH metabolic fate."
+  },
+  {
+    "id": "f1cf9ed40a4b8d00",
+    "title": "Establishing genetic tractability in Jeongeupia sacculi HS-3: disruption of rpoS hinders biofilm formation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758012v1?rss=1",
+    "content": "Jeongeupia sacculi (HS-3) is a novel {beta}-proteobacterium with a unique multicellular life cycle. The genetic tractability and mechanisms underlying differentiation are unknown. Here, we adapt a method of homologous recombination for genetic modification in HS-3 and generate a disruption mutant of rpoS, which encodes the alternative sigma factor{sigma} S commonly associated with general stress response or major behavioral switches. We then characterize phenotypes associated with rpoS disruption. Under low-nutrient conditions, rpoS disruption reduced Congo red binding, consistent with rpoS acting as a regulator of low-nutrient response by upregulating production of biofilm-associated materials. Surprisingly, rpoS disruption did not significantly alter survival in response to other stressors in general stress response assays tested. Our work establishes a method for genetic manipulation in HS-3 and enables future investigation into the life cycle of HS-3, including whether rpoS has a role in differentiation triggered by low-nutrient response."
+  },
+  {
+    "id": "f5c07747da66be7b",
+    "title": "Macrophage DYRK1A is broadly required for bacterial phagocytosis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758040v1?rss=1",
+    "content": "Listeria monocytogenes is an intracellular foodborne pathogen that causes the serious illness listeriosis. Macrophages are central to the outcome of L. monocytogenes infection, yet the host requirements that facilitate bacterial uptake remain incompletely understood. In a previous genome-wide screen for macrophage factors that influence L. monocytogenes infection, we identified the macrophage kinase DYRK1A, which has been studied largely in neurodevelopment and cancer models but has no described role in bacterial infection. Here we show that DYRK1A promotes efficient internalization of L. monocytogenes by macrophages. Using several complementary approaches, we find that DYRK1A acts early during infection, primarily by promoting bacterial attachment to the macrophage surface. Transcriptomics of DYRK1A-deficient macrophages revealed reduced abundance of transcripts encoding membrane-associated proteins and components of innate immune and phagocytic pathways, suggesting a transcriptional basis for the attachment defect. Consistent with the broad nature of these changes, the role of DYRK1A extended beyond uptake of L. monocytogenes to the Fc receptor pathway and to additional bacterial species spanning multiple genera, establishing a broad role in macrophage phagocytosis. Together, these findings define a previously undescribed role for the host factor DYRK1A in macrophage phagocytosis and expand the function of DYRK1A beyond its established roles to innate immune defense."
+  },
+  {
+    "id": "13af89d770740716",
+    "title": "A chimeric infection program and epigenetic conflict underpin endogenous giant virus latency",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.758095v1?rss=1",
+    "content": "Giant endogenous viral elements (GEVEs) are ubiquitous in eukaryotic genomes, but how the virus adapts to the host and is capable of reactivation despite host defense mechanisms remains unclear. Here we examined this process in the green alga Chlamydomonas reinhardtii and its latent giant virus, punuivirus, which is integrated into the host genome. We reveal a chimeric genomic architecture in which punuivirus latency genes are enriched in spliceosomal introns and 6-methyladenine marks, mirroring host transcriptional regulation, while virulence genes are predominantly controlled by a conserved viral promoter. Using single-cell RNA-seq, we show that nearly 70% of cells express viral transcripts, but only a small subpopulation commits to viral production, expressing virulence genes with host transcriptional shutoff. Moreover, we find that the intact punuivirus GEVE remains refractory to host 5-methylcytosine (5mC) silencing, whereas a naturally occurring deletion variant is associated with widespread 5mC accumulation across the GEVE and elsewhere in the host genome. The deleted region encodes a highly expressed ten-eleven translocation dioxygenase (TET), and epigenetic profiling of intact and deletion strains implicates this GEVE gene in removing 5mC marks, thereby maintaining the virus in a transcriptionally permissive latent state. Our study provides novel insights into the molecular underpinnings of host-virus co-existence in a giant virus-alga interaction."
+  },
+  {
+    "id": "c1ea5d1e37b176e7",
+    "title": "Multilayer analysis reveals extensive hidden population complexity in a dairy starter microbiome comprising few species",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757929v1?rss=1",
+    "content": "The genomic and epigenomic complexity of microbiomes with low species richness remains poorly characterized. Here, we integrated 111 non-redundant isolate genomes with deep long-read metagenomics to investigate an undefined mesophilic dairy starter. Closely related isolates harboured distinct combinations of features associated with fermentation traits and phage defence, including surface polysaccharide genotypes, plasmids, prophages, defence systems, and methylation profiles. Metagenomics revealed additional elements and inferred host associations. However, the limited overlap between approaches across core-genome lineages and accessory repertoires underscored complementary but incomplete recovery, to the extent that the dominant metagenomic cell wall polysaccharide genotype (29.6% abundance) was absent from isolates. Metagenomic methylation signatures supported 36 species-level plasmid-host assignments, corroborated by isolate genomes in nine of ten testable cases. Our findings revealed extensive combinatorial diversity hidden from either approach alone, providing a plausible molecular basis for phage resilience, while likely representing only a lower bound on population complexity."
+  },
+  {
+    "id": "485fd40111beff62",
+    "title": "From margins to mainstream: restoration of riparian margins to support oil palm sustainability in modern and future climates",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757517v1?rss=1",
+    "content": "Palm oil is the worlds leading vegetable oil, with production continuing to expand, particularly across Southeast Asia. Within established plantations, conserving and restoring riparian margins can reduce erosion, improve connectivity, and support biodiversity. Simultaneously, climate change is increasing thermal stress within tropical agricultural landscapes, raising the potential importance of riparian buffers as microclimatic refugia, although this has not previously been evaluated. The Riparian Ecosystem Restoration in Tropical Agriculture (RERTA) Project is a long-term Before-After Control-Impact experiment established within oil palm plantations in Riau, Indonesia, to evaluate alternative riparian restoration strategies following plantation replanting. Treatments included passive restoration (retaining mature oil palms and allowing natural regeneration), active restoration (enrichment planting with six native tree species), and a control (replanting immature oil palms to the river edge). Six years after restoration, we assessed vegetation structure using terrestrial laser scanning and thermal stability using temperature loggers and thermal imaging. We also evaluated the long-term temperature buffering capacity of each treatment under current and projected climates using CHELSA climate data and downscaled outputs from multiple General Circulation Models under Shared Socioeconomic Pathway scenarios for 2045 and 2085. Active restoration produced greater structural complexity, a more closed canopy, and cooler, more thermally stable conditions than passive restoration and control treatments. Restored margins also contained significantly more cool surface microhabitats, reducing thermal extremes under both current and future climate scenarios. Our findings demonstrate that active restoration of riparian margins can enhance thermal buffering and create microclimatic refugia for biodiversity within tropical oil palm landscapes. As agricultural intensification and climate change continue to reshape tropical ecosystems, restoring structurally complex riparian vegetation will be critical for sustaining biodiversity and the ecosystem services upon which agricultural production depends."
   }
 ]
