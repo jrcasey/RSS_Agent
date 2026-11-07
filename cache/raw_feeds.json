@@ -3694,5 +3694,377 @@
     "title": "Polymerase and primer biases in eukaryote ultra-long-read metabarcoding",
     "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764338v1?rss=1",
     "content": "Ultra-long-read metabarcoding is a recently developed method for biodiversity monitoring that enables both high-accuracy species-level identification and reliable phylogenetic placement of taxa. Ultra-long-read analyses require high-processivity DNA polymerases for amplicons and primer pairs that fully cover the targeted taxonomic groups. So far, there is no published information on the relative suitability of commercial high-processivity polymerase kits and on the relative performance of primer pairs targeting a DNA fragment spanning much of the 18S, ITS and 28S rRNA gene regions in eukaryotes. Using PacBio sequencing, we assessed the performance of five commercial high-processivity DNA polymerases and three ultra-long marker primer pairs relative to a commonly used full-ITS primer pair on producing artefacts and recovering biodiversity in two mock communities and 10 soil samples. Our analyses revealed great differences in both polymerases and primer pairs in data quality and biodiversity. For testing evolutionary hypotheses, we recommend using the Solis or Fusion polymerases and the Euk575F-21Rngs primer pair in ultra-long-read metabarcoding analyses of soil eukaryotes. Compared with a previous study using the same DNA samples, the ultra-long amplicons revealed substantially lower biodiversity than medium-sized, full-ITS amplicons across taxonomic levels, suggesting that medium-sized amplicons may be better suited for routine soil eukaryote biodiversity monitoring than ultra-long amplicons."
+  },
+  {
+    "id": "fa12dcf8cd894e4d",
+    "title": "The game-theoretical analysis of multiple Nash equilibria of a cholera epidemic model with non-exponential distributions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0022519326002651?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 6 November 2026</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Junyuan Yang, Yiqian Bai, Shasha Gao</p>"
+  },
+  {
+    "id": "fdd19d55e884a81e",
+    "title": "Divergent Responses of Bacterial and Microeukaryotic Diversity to Water\u2010Level Fluctuations in a Lake\u2010Floodplain System",
+    "link": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70479?af=R",
+    "content": "Water\u2010level fluctuations deliver soil\u2010derived taxa into the water column, yet bacteria and microeukaryotes respond divergently to flooding. This asymmetry leads to inconsistent diversity trends, with microeukaryotic richness increasing with water levels while bacterial richness remains unchanged. This pattern challenges the classic diversity pattern associated with water\u2010level fluctuations.\n\nABSTRACT\nWater\u2010level fluctuations (WLF) are widely accepted as key drivers of aquatic species diversity in lake\u2010floodplain systems, with diversity increasing as water levels rise. However, microorganisms may challenge this pattern that their richness does not necessarily increase with water levels. To resolve this inconsistency, we applied 16S and 18S rRNA gene amplicon sequencing to bacterial and microeukaryotic assemblages in Dongting Lake, China, during the low\u2010water (LWP; January 2024) and high\u2010water periods (HWP; August 2024). Microeukaryotic richness was higher during HWP than LWP (p\u2009<\u20090.01), whereas bacterial richness remained comparable (p\u2009=\u20090.96). Habitat\u2010of\u2010origin annotation indicated that terrestrial\u2010derived microeukaryotes contributed to this increase (p\u2009=\u20090.02), whereas terrestrial bacterial inputs did not (p\u2009>\u20090.3), consistent with their divergent fates in the water column: soil microeukaryotes are more likely to persist after flooding than soil bacteria. Co\u2010occurrence networks evidenced substantially stronger bacteria\u2010microeukaryote associations at high water and partial least squares path modelling resolved a DOC\u2010to\u2010bacteria\u2010to\u2010microeukaryotes pathway activated only during the HWP. These signals suggest that enhanced hydrological connectivity promoted community coalescence, possibly through intensified trophic coupling, although this interpretation requires experimental verification. This study highlights that natural WLFs reshape microbial richness by intermittently reconnecting terrestrial and aquatic microbial species pools."
+  },
+  {
+    "id": "d1b7c7b5d4caf4ad",
+    "title": "Rapid Downward Propagation of Wind\u2010Generated Near\u2010Inertial Waves Within a Cyclonic Eddy in the Northern South China Sea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024870?af=R",
+    "content": "Abstract\nWind\u2010generated near\u2010inertial waves (NIWs) are important pathways for transferring wind energy into the ocean interior, yet their propagation is strongly modulated by mesoscale eddies. The classical view suggests that cyclonic eddies (CEs), with positive relative vorticity, tend to repel NIWs and inhibit local downward propagation. Based on subsurface mooring observations in the northern South China Sea during six typhoon passages, we show that typhoon\u2010generated near\u2010inertial energy within a CE can follow both near\u2010surface\u2010confined and deep\u2010propagating pathways. Several NIW packets are confined to the upper approximately 150\u00a0m, consistent with the classical view. In contrast, energetic near\u2010inertial motions also occur in the deeper CE layer, including a separated deep energy patch after Typhoon BUALOI and a coherent downward\u2010propagating packet after Typhoon MATMO. The MATMO\u2010induced packet propagates from the near surface to 650\u00a0m in approximately 9\u00a0days. Ellipse analysis indicates that this packet has a large vertical wavelength of 1439.0\u00a0\u00b1\u00a0199.3\u00a0m and a fast vertical group velocity of 76.0\u00a0\u00b1\u00a06.2\u00a0m/day. Modal decomposition shows low\u2010mode dominance, with modes 1\u20133 accounting for 64% of modal near\u2010inertial kinetic energy. Energy diagnostics indicate that the packet is primarily powered by wind input rather than eddy\u2010to\u2010wave energy transfer, with downward energy flux accounting for 23%\u201328% of the wind\u2010generated near\u2010inertial energy input. These observations demonstrate that CEs do not uniformly suppress near\u2010inertial energy penetration. Low\u2010mode NIWs can provide a pathway for wind\u2010generated near\u2010inertial energy to enter the deep layer of a CE, providing new insight into the pathways of wind energy penetration in eddy\u2010rich oceans."
+  },
+  {
+    "id": "45886112fa39f71c",
+    "title": "Dissolution and Heterotrophy at a Florida Coral Reef One Year After Severe Bleaching",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024333?af=R",
+    "content": "Abstract\nNet ecosystem calcification (NEC) and net ecosystem production (NEP) are key metabolic indicators of reef functioning that underpin habitat formation and biomass assimilation, providing insight into ecosystem responses to environmental stressors. We employed a gradient\u2010flux approach at a shallow inshore reef in the Florida Keys to measure hourly NEC and NEP one year after the 2023 coral bleaching event. In situ chemical sensors and a current profiler were deployed from June 26 to August 28, 2024, a period that included two episodic disturbances: Tropical Storm Debby (TS Debby) and a biogeochemical pulse. Despite relatively high coral cover (\u223c33%), the reef was in a state of net dissolution and heterotrophy, consistent with prolonged functional impairment from the bleaching event. NEC tracked changes in seawater carbonate chemistry, with the highest rates of dissolution coinciding with periods of reduced \u03a9Arag. NEP was linked to temperature and salinity, with elevated heterotrophy measured when both parameters were depressed. Light availability was not a strong driver of reef metabolism, suggesting that the stimulating effects of light may be weakened for functionally compromised reefs. The two disturbance events suppressed NEC and NEP, masking normal biogeochemical signals. This was particularly evident during TS Debby, reflecting altered metabolic activity in response to rapid cooling, depressed \u03a9Arag to near undersaturation levels, and low light availability. Our study reveals that despite visual coral recovery, cryptic metabolic impairment can persist 1\u00a0year after severe bleaching, highlighting the value of metabolic assessments for evaluating reef condition."
+  },
+  {
+    "id": "7b5d8e993ad37ac0",
+    "title": "Drivers of Ocean pH Variation in Front of Dotson Ice Shelf, West Antarctica",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JC024620?af=R",
+    "content": "Abstract\nThe highly productive Amundsen Sea Polynya in West Antarctica is bounded in the south by rapidly\u2010melting ice shelves, including the Dotson Ice Shelf (DIS). We present a high\u2010resolution, full\u2010depth pH data set within 10\u00a0km of DIS using a Lab\u2010On\u2010Chip (LOC) spectrophotometric pH sensor on an ocean glider. The LOC performs well with a 0.01 difference in pH between sensor measurements and discrete samples. Over 19\u00a0days in January\u2013February 2022, the pH sensor captured the variability resulting from summertime biological and physical processes. At depth, modified Circumpolar Deep Water entering the DIS cavity exhibited a relatively low pH (7.91). The outflow had a higher average pH (7.94) as a result of dilution by glacial meltwater, but its pH was 0.01 lower than that of surrounding water at the same density. The Antarctic Coastal Current transported unventilated surface water with a low pH emerging from below fast ice east of Bear Island, westward to the eastern side of DIS. Net primary production increased pH in the upper 50\u00a0m in front of DIS, whilst temperature change was responsible for 5% $\\%$ of the change in pH. This study provides the first direct measurements of pH in the Amundsen Sea capable of deducing the impact of glacial meltwater on pH. It demonstrates the value, particularly in remote regions, of LOC pH sensors that have the longevity and stability to measure ocean pH without sensor drift."
+  },
+  {
+    "id": "b78b694ad147b13e",
+    "title": "Evidence for Local Adaptation Associated With Temperature Despite Weak Latitudinal Structure in a Temperate Seagrass",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70625?af=R",
+    "content": "ABSTRACT\nUnderstanding genetic diversity and structure in natural populations is important for conservation and developing resilience into restored populations for the future. Populations at the lower latitude (or northern) range edges tend to have lower levels of genetic diversity and are poorly connected, although they may be locally adapted to warmer environments. The temperate seagrass, Posidonia sinuosa, occurs across a latitudinal gradient along the Western Australian coastline. Some meadows have experienced significant decline due to industrialisation and urbanisation of coastal areas. We investigated spatial genetic diversity, structure, and local adaptation using single nucleotide polymorphisms (SNPs). All meadows had similarly low levels of genetic diversity with high levels of inbreeding, despite high clonal diversity. Weak genetic structure was consistent with genetic connectivity, enabled by sea\u2010surface seed dispersal. Approximately 6.1% of SNPs were identified as putatively adaptive and most were associated with temperature variables. Allelic turnover was associated with <\u20091.4\u00b0C temperature change, suggesting plants may be sensitive to small temperature changes. Meadows are currently growing in temperatures below their thermal optima, so may tolerate future projected temperatures up to a point. Importantly, this temperature increase is below the 1.5\u00b0C\u20132.0\u00b0C goal of the Paris Agreement and plants are unlikely to tolerate current projections for 2100, which equate to +3.2\u00b0C, in addition to extreme heatwave events. Conservation of fragmented, northern, warmer\u2010adapted meadows will be important to assist recovery and persistence of damaged meadows into the future, as translocation of putatively warmer\u2010adapted genotypes that have exhibited historic connectivity may be a viable strategy for restoration of impacted higher latitude meadows."
+  },
+  {
+    "id": "026ad0d2cf08c78c",
+    "title": "Symbiont\u2010Derived Key Innovations Across the Diversity and Diets of Herbivorous Insects",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70615?af=R",
+    "content": "ABSTRACT\nWith prodigious biomass and diversity, herbivorous insects are among the world's most successful animals. It is widely believed, however, that some plant\u2010based diets do not meet the needs of insect metabolism. Microbial symbionts may balance such deficits through diverse biochemistry. Here, we consider whether obligate nutritional symbioses between insects and microbes support large portions of insect herbivore diversity. In doing so, we assess the evidence that these highly integrated relationships are key innovations, circumventing nutritive shortfalls within particular plant tissues. Toward these ends, we compile nutrient data for 20 plant\u2010 and non\u2010plant foods, plus data on diet and symbiosis across 874 families of insects\u2014both herbivorous and non\u2010herbivorous. Our results reinforce widely believed, but often uncited evidence that several insect taxa have long\u2010consumed plant tissues with low concentrations of B\u2010vitamins, nitrogen, or accessible carbon. Emerging as symbiont\u2010enriched are seed\u2010feeders, which face insufficient quantities of several B\u2010vitamins in their food. Experimental and genome assessments show how symbionts surmount these B\u2010vitamin shortcomings, showing also where this same challenge, and those of high fibre or low amino acid content are surmounted through symbiosis on other diets. We thus show where symbiont services are key innovations. Over half of the world's insect herbivores persist without nutritive assistance from obligate symbionts. This is largely because many consume leaves, which are reasonably good sources of amino acids and B\u2010vitamins. Lateral transfer of microbial genes encoding plant cell\u2010wall degrading enzymes has helped to overcome high fibre content, defusing the most challenging nutritive aspect of leaf\u2010chewing diets."
+  },
+  {
+    "id": "3639cc2f3e1feae0",
+    "title": "Chromosome Evolution in Amniote Vertebrates: A Comprehensive Atlas of Karyotypic Diversity From Ancestral States to Rapid Turnover",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70608?af=R",
+    "content": "ABSTRACT\nThe evolution of the amniote genome is characterized by a striking dichotomy between extreme karyotypic stasis and rapid structural innovation. To identify the mechanisms governing\u00a0this variation, we provide a comprehensive synthesis of chromosome number and karyotype data across non\u2010avian reptiles, birds and mammals, integrating a century of classical cytogenetics with modern chromosome\u2010scale genomics. Amniote chromosome numbers span a range from 2n = 6 to 142 and have been\u00a0shaped primarily by chromosomal fusions and fissions rather than by polyploidization common in non\u2010amniotes. Recent ancestral state reconstructions suggest a highly fragmented ancestral amniote karyotype of 2n\u2009=\u200988 with a bipartite organization of macro\u2010 and microchromosomes. They also support environmental sex determination as the plesiomorphic state. We explore the evolutionary mechanisms facilitating chromosomal turnover, including lineage\u2010specific transposable element activity, hybridization\u2010driven genomic instability and genetic hitchhiking, alongside the canalization model and the position\u2010effect hypothesis\u00a0as primary responses to environmental transitions. Social structure, such as polygynous harem systems, can further contribute to rearrangement fixation via genetic drift in some, but not all, lineages. Chromosomal divergence across these lineages serves as a useful cytotaxonomic marker and, in some cases, a barrier to gene flow, as in the postzygotic incompatibility of equid and cervid hybrids. In contrast, introgression persists across karyotypically divergent rock\u2010wallabies and crocodilians, indicating that the reproductive consequences of karyotypic divergence are lineage\u2010specific rather than a fixed function of karyotypic distance. This synthesis presents an updated atlas of amniote chromosomal evolution and provides a conceptual framework for understanding how molecular mechanisms, ecological shifts and behavioural factors interact to shape genomic structure."
+  },
+  {
+    "id": "395cd66b819cda24",
+    "title": "SNPs in Copy Number Variants Play a Key Role in Local Adaptation to Climate in Lotus (Nelumbo nucifera)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70655?af=R",
+    "content": "ABSTRACT\nCopy number variation (CNV) constitutes a major source of adaptive genetic variation, yet its relative contribution to climate adaptation compared to non\u2010CNV (single\u2010copy) variants remains unresolved. Using whole\u2010genome sequencing of 125\u2009Nelumbo nucifera (sacred lotus, a common aquatic vegetable) wild accessions spanning tropical\u2010temperate gradients, we distinguished 388,600 CNV\u2010derived SNPs from 485,982 SNPs of single\u2010copy regions. Latent factor mixed models (LFMM) revealed that CNV\u2010SNPs appear to drive adaptation to temperature extremes and precipitation seasonality, whereas non\u2010CNV SNPs dominate humid thermal adaptation. NnPAL2, a homologue of a drought\u2010related gene in Arabidopsis, shows a recent selective sweep in temperate N.\u2009nucifera, with reduced copy number and expression associated with lower precipitation in the warmest quarter. Our results suggest that CNV SNPs and non\u2010CNV SNPs contribute to distinct environmental axes, but the heterogeneous CNV effects across bioclimatic variables largely reflect ecotype\u2010specific copy number backgrounds rather than intrinsic differences in selective pressures. CNV therefore plays a disproportionate role in coping with abiotic extremes. Discriminating CNV\u2010derived SNPs from those derived from single\u2010copy genomic regions is essential for accurately understanding the genetic basis of climate adaptation, with potential applications for crop improvement."
+  },
+  {
+    "id": "63340dba8af69771",
+    "title": "Species Identification in Drosophilids; the Utility of k\u2010mer Characters",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70624?af=R",
+    "content": "ABSTRACT\nOver 14,900 COI DNA sequences of drosophilids were used to build a character\u2010based diagnostic system for the identification of genera and species in the group. This approach uses aligned COI sequence characters, k\u2010mer characters and applies a hybrid approach that combines the two. To assess the efficacy of the diagnostics, accuracy versus coverage plots were used and resulted in the observation that practical rules (allowing 5% leakage [misidentified assignments]) perform much better than strict rules (no leakage). In addition, k\u2009=\u200910 was determined as the optimal k value for k\u2010mer character analysis. Hybrid methods incorporating both k\u2010mer characters and aligned DNA sequence characters outperform the individual approaches. Finally, unnamed drosophilid accessions were compiled and tentatively assigned taxonomy based on the diagnostic system developed here."
+  },
+  {
+    "id": "4376f7baa6547dd3",
+    "title": "A novel strategy for estimating subsurface dissolved oxygen from surface ocean parameters",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0967063726001287?dgcid=rss_sd_all",
+    "content": "<p>Publication date: Available online 6 November 2026</p><p><b>Source:</b> Deep Sea Research Part I: Oceanographic Research Papers</p><p>Author(s): Bo Ping, Ruiting Yang, Yunshan Meng, Cunjin Xue, Zhi Li</p>"
+  },
+  {
+    "id": "adc1836c93270eb8",
+    "title": "Evaluating the Impact of Multiscale E\u2010Region Turbulence on HF Scintillation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125498?af=R",
+    "content": "Abstract\nIonospheric scintillation driven by plasma irregularities disrupts radio propagation across frequencies from HF to L\u2010band. While phase\u2010screen methods dominate scintillation modeling, they can be inadequate in the E\u2010region where irregularity scales can be comparable to the radio wavelength or Fresnel scale and span orders of magnitude. Here we quantitatively evaluate scintillation with a new full\u2010wave methodology coupling particle\u2010in\u2010cell simulations of the gradient drift (GD) and Farley\u2010Buneman instabilities with finite\u2010difference time\u2010domain electromagnetic propagation. Using a frozen\u2010in approximation and spatial filtering, we evaluate the contributions of various turbulence scale sizes to HF (6\u201324\u00a0MHz) phase and amplitude scintillation. Long\u2010wavelength GD waves dominate the modeled amplitude scintillation through diffractive scattering, while Farley\u2010Buneman turbulence contributes negligibly. Amplitude spectra closely follow irregularities near the Fresnel scale, demonstrating a direct correspondence between scintillation and plasma structuring. These results demonstrate full\u2010wave scintillation modeling and provide a framework for investigating scintillation across a wide range of spatial scales."
+  },
+  {
+    "id": "4191ebc351b9e482",
+    "title": "Fluid\u2010Controlled Tidal Modulation of Aftershocks Following the 2022 M6.8 Luding Earthquake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125440?af=R",
+    "content": "Abstract\nAftershock sequences record how fault zones recover and weaken after earthquakes, but the roles of fluid migration and stress heterogeneity remain difficult to isolate. Earth tides impose predictable stress perturbations and thus provide a natural probe of faults near failure, although their signals are often obscured by aftershock clustering. Here we apply bootstrap\u2010based spatial spectral analysis to the 2022 M6.8 Luding earthquake sequence to resolve tidal sensitivity. We identify a systematic shift from a fluid\u2010rich region before the mainshock to the margins of the high\u2010slip zone, bypassing the rupture core. This pattern suggests coupled interaction between coseismic stress heterogeneity and postseismic fluid redistribution. Elevated pore pressure enhances sensitivity to weak tidal stress in high stress\u2010gradient regions, whereas permeability contrasts promote localized fluid accumulation and triggering. Our results show that tidal forcing can reveal where postseismic faults are closest to failure, offering an indirect window into fluid migration and fault\u2010zone weakening."
+  },
+  {
+    "id": "ac3c0e09356c3e84",
+    "title": "Desert Lakes Nasser\u2013Toshka: A Novel Site for Satellite Gravimetry Validation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125952?af=R",
+    "content": "Abstract\nValidation results for mass estimates measured by GRACE (Gravity Recovery and Climate Experiment) and GRACE\u2010FO (GRACE Follow\u2010On) currently hold uncertainties exceeding 10 gigatons (Gt), due to errors in auxiliary models and leakage noise from surrounding hydrological signals. Here, we propose the Lakes Nasser\u2013Toshka in the Sahara Desert as an easily accessible benchmark that could remarkably reduce the validation uncertainty to several gigatons. We evaluate the 2002\u20132025 GRACE(\u2010FO) line\u2010of\u2010sight gravity difference (LGD) record against water storage derived from satellite altimetry and optical imagery. The results show that the measurement uncertainties for GRACE KBR (K\u2010band Ranging), GRACE\u2010FO KBR and GRACE\u2010FO LRI (Laser Ranging Interferometer) are 7.76\u00a0Gt, 5.46\u00a0Gt and 4.35\u00a0Gt, respectively. The GRACE\u2010FO LRI LGD interquartile range (0.166\u20130.493\u00a0nm/s2) establishes a performance benchmark for future LRI\u2010based missions. Lakes Nasser\u2013Toshka offer a rare natural benchmark for in\u2010orbit commissioning and evaluating future satellite gravimetry missions."
+  },
+  {
+    "id": "ad8d6c7fbfa06034",
+    "title": "High\u2010Resolution Discharge Inversion in a Small Alpine Watershed: Combining Monitoring Images and Triaxial Seismic Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124730?af=R",
+    "content": "Abstract\nIn small alpine watersheds, abrupt rainfall\u2010 or meltwater\u2010driven runoff leads to dramatic variations in flow width over uneven channel beds, thereby complicating discharge monitoring. Using a typical watershed near the Yarlung Tsangpo Grand Canyon as the study area, we presented a workflow combining imagery and seismic data to estimate the instantaneous discharge with machine learning. Results show that image\u2010based flow width correction effectively improved discharge records to provide a better basis for modeling. For hourly instantaneous discharge estimation, the machine learning model achieved good performance, with mean coefficients of determination of 0.77 for the training, 0.68 for the validation, and 0.66 for the independent testing, and corresponding mean Kling\u2013Gupta efficiency values of 0.83, 0.79, and 0.75, respectively. Using minute\u2010level seismic data, we further detected 179 suspected flood events between July and October 2025 and analyzed their hydrological characteristics. In general, this proposed framework\u00a0could address the limitations of traditional monitoring approaches and support water resources management in similar small watersheds."
+  },
+  {
+    "id": "e437f5d503f6daf4",
+    "title": "Plasma and Electric Environment Within Lunar Pits and Caves Exposed to the Solar Wind",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125862?af=R",
+    "content": "Abstract\nWe have assessed the plasma and electric environment within a lunar pit and its connected subsurface cave utilizing plasma simulations. It is shown that adjacent illuminated and shadowed regions along the interior walls of the pit induce differential charging, exceeding the levels typically observed on open planar surfaces. Within the illuminated sectors, the incident solar wind (SW) proton flux dominates over the electron counterpart. In this regime, photo\u2010emitted and secondary electrons imported from adjacent illuminated surfaces suppress excessive positive charging by acting as negative charge carriers to compensate for the scarce SW electrons. Deep inside the cave, a residual population of SW electrons induces significant negative charging despite their small flux. The relative significance of minor current components, such as ion\u2010induced secondary electrons and protons scattered off the lunar regolith, is also enhanced therein. The local equilibrium potential is thus governed by the current balance of these multi\u2010species particle populations."
+  },
+  {
+    "id": "893a059afd06730f",
+    "title": "Strengthened Central Pacific ENSO Variability With Reduced Asymmetry Modulated by Upper\u2010Ocean Salinification Since the Late 1990s",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124460?af=R",
+    "content": "Abstract\nCentral Pacific (CP) El Ni\u00f1o\u2010Southern Oscillation (ENSO) variability has intensified since the late 1990s. Existing literature has emphasized the role of upper\u2010ocean stratification in modulating ENSO, primarily focusing on decadal thermal changes. This study further demonstrates that the regime shift of ENSO is modulated by the increasing salinity in the CP region. This decadal salinification enhances near\u2010surface density and weakens static stability, facilitating stronger vertical entrainment and a warmer subsurface at the base of the mixed layer. Consequently, thermocline feedback responsible for the growth of ENSO is reinforced during El Ni\u00f1o but weakened during La Ni\u00f1a, favoring stronger CP El Ni\u00f1o and weaker La Ni\u00f1a. Then the negative skewness of CP ENSO asymmetry is reduced. The CP salinification is primarily linked to a decadal intensification of the Walker circulation and reduced freshwater flux. Understanding these salinity\u2010driven processes is essential for improving ENSO predictions and mitigating climatic impacts on decadal\u2010to\u2010multidecadal timescales."
+  },
+  {
+    "id": "f950b47f90d9fc0f",
+    "title": "Transformational Faulting: The Case of Quartz\u2010Coesite",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124806?af=R",
+    "content": "Abstract\nTransformational faulting in olivine has been widely invoked as a possible triggering mechanism for deep\u2010focus earthquakes, yet its dynamics remain debated. It is unclear whether it requires the combined effects of heat release, volume change and mechanical strength contrast, or whether it can be triggered by any one of these alone. Here, we tested if transformational faulting can be caused solely by a large volume change, through deformation experiments on novaculite during the quartz\u2010coesite transition. Under sluggish reaction kinetics, acoustic emissions and microstructural observations indicate strain localization and fault plane formation. Under fast kinetics, deformation was distributed and associated with fewer, lower\u2010magnitude events. b\u2010values of \u223c1 and \u223c3 reflect these two regimes. Our results provide the first evidence of transformational faulting during the quartz\u2010coesite transition, suggesting that volume change is the primary driver of brittle failure at high pressure, broadening the range of mineral transitions generating deep and intermediate\u2010depth earthquakes."
+  },
+  {
+    "id": "b36659e63b40cf7d",
+    "title": "Enhanced Surface Coupling but Suppressed Convective Triggering During Humid\u2013Hot Extremes in the Yangtze River Basin, a Major Humid\u2010Heat Hotspot in China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125735?af=R",
+    "content": "Abstract\nCompound humid\u2010hot extremes bring growing threats to human society, yet land\u2013atmosphere feedbacks regulating these events remain insufficiently understood. Using high\u2010resolution observational and reanalysis data, we reveal that the Yangtze River Basin (YRB) is a prominent hotspot for humid\u2010hot extremes, with rare hot\u2010only events. Comparing humid\u2010hot and non\u2010humid\u2010hot days, we find that humid\u2010hot extremes are sustained by positive feedbacks involving a high\u2010pressure anomaly, suppressed clouds and precipitation, drier soils, enhanced evapotranspiration, and lower relative humidity\u2014mutually reinforcing the extreme state. Land\u2013atmosphere coupling strengthens substantially for near\u2010surface variables, indicating stronger land surface control. Yet this enhanced coupling does not extend to cloud development: elevated lifting condensation levels and reduced relative humidity inhibit cloud formation, leading to a decoupling between convection and cloud development and allowing humid\u2010hot extremes to persist. Our findings highlight the role of land surface processes in modulating compound extremes and provide a foundation for improving their prediction."
+  },
+  {
+    "id": "8ca6338ed2963bef",
+    "title": "Water Vapor Buoyancy and the African Easterly Jet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124156?af=R",
+    "content": "Abstract\nThe African easterly jet (AEJ) is a prominent circulation feature in the tropical atmosphere. It transports mineral dust and affects easterly waves that serve as seeds for hurricanes. Conventional wisdom holds that the AEJ is in thermal wind balance with the positive meridional temperature gradient over North Africa. Here, using reanalysis data, we show that the negative meridional moisture gradient partially counteracts the effect of the temperature gradient on density in that balance, diagnostically accounting for a 30% reduction in the AEJ magnitude. Using CMIP6 data, we further show that this effect of the moisture gradient on the AEJ strengthens under global warming, highlighting the critical role of the moisture distribution in large\u2010scale circulation. Analysis of the AEJ in CMIP6 models confirms that some models neglect the effect of the moisture gradient on the AEJ, raising questions about the relevance of their projections of climate change in that region."
+  },
+  {
+    "id": "2d209cba44ff493f",
+    "title": "Record\u2010Shattering Winter \u201cHeatwave\u201d Over the Antarctic Peninsula in 2026, Associated Primarily With Tropical East Indian Ocean Surface Temperature Anomalies",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126171?af=R",
+    "content": "Abstract\nExtreme winter warming events over the Antarctic Peninsula (AP) have potential impacts on ice\u2010shelf stability, but their mechanisms and teleconnections remain poorly studied. Using multi\u2010station observations, we report several warm extremes during May\u2013June 2026, with early\u2013June temperatures exceeding 0\u00b0C and peak anomalies reaching +22.32\u00b0C. These extremes were primarily driven by a pressure\u2010dipole pattern, featuring an enhanced Amundsen Sea Low and Drake Passage blocking, which directed frequent atmospheric river landfalls. The resulting moisture\u2010heat advection, alongside enhanced downward longwave radiation, dominated the rapid warming over the AP. Notably, record\u2010high sea surface temperatures in the tropical eastern Indian Ocean played a key role in this anomalous circulation, whereas the concurrent El Ni\u00f1o (still developing) had minimal direct impact. Our findings enrich the rare wintertime cases and identify the tropical Indian Ocean as a key precursor for improving projections of such events, which is also essential for estimating their impact on ice\u2010shelf stability."
+  },
+  {
+    "id": "4f14385bde8e617b",
+    "title": "Tree Rings Indicate Potential for Severe Soil Moisture Drought in California Is Much Greater Than Observations Suggest",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125616?af=R",
+    "content": "Abstract\nTree rings reveal that 1579\u20131580 was by far the driest pair of years across California since at least CE 1100. Here we produce a gridded tree\u2010ring reconstruction of summer soil\u2010moisture anomalies for California and perform a peaks\u2010over\u2010threshold extreme value analysis on statewide mean drought severity from CE 1100\u20132025. Results indicate marginal annual exceedance probabilities (AEP) of \u223c0.24% for 1579 and \u223c0.04% for 1580, with a two\u2010year block EP of \u223c0.05% for 1579\u20131580. Considering only the instrumental record (1901\u20132025), AEPs for the drought severities reconstructed for 1579 and 1580 cannot be robustly estimated and, for 1580, the reconstructed severity appears essentially impossible. Our findings demonstrate that including tree\u2010ring reconstructions meaningfully changes the expected frequency of droughts on realistic planning horizons, such as a 1% AEP (100\u2010year) event. Modern risk assessments based solely on observations likely underestimate the true probability of extreme drought events, even without accounting for anthropogenic climate change."
+  },
+  {
+    "id": "06a785b45a379d64",
+    "title": "Pore\u2010Scale Segregation and Enrichment of Polydisperse Colloids via Transverse Migration in Porous Media",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126367?af=R",
+    "content": "Abstract\nUnderstanding transport of anomalous colloids and contaminants requires partition of polydisperse colloids at the pore scale. Using a high\u2010resolution dual\u2010mode microscopy system, we directly visualize cross\u2010sectional concentration profiles. Furthermore, we identify a previously overlooked phenomenon: the occurrence of persistent transverse concentration heterogeneity and centerline enrichment above the injected concentration (C/C0\u00a0>\u00a01) during transport. Observations at different spatial and temporal scales reveal transverse colloid migration during anomalous segregation and enrichment of colloids. These observations revealed that colloid transport results in the formation of distinct concentration\u2010defined regions that cannot be inferred from conventional solute transport behavior. We establish a double\u2010erf logarithmic\u2010gradient criterion to delineate the main\u2010flow and diffusion zones and quantify the main\u2010flow ratio (\u03b2 $\\beta $). This criterion defines transport zones directly from the observed concentration gradients, avoiding the nonuniqueness of conventional inversion\u2010based two\u2010zone models. Our results provide direct pore\u2010scale evidence and a quantitative framework linking pore\u2010scale transport structure to macroscopic behavior."
+  },
+  {
+    "id": "43239bdd07dd898a",
+    "title": "Accelerated Atmospheric Drying in Neighboring Rural Areas Across China Associated With Urban Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126024?af=R",
+    "content": "Abstract\nNeighboring rural areas (i.e., rural zones surrounding cities) experience strong urban\u2013rural interactions and provide critical ecosystem services, yet their responses to atmospheric drying remain poorly understood. Here, we quantify urban impacts on vapor pressure deficit (VPD) in neighboring rural areas across China by comparing station observations from neighboring rural stations (NRS) and remote rural stations (RRS, stations located in rural regions far from urban influence). During 1985\u20132019, 69% of cities exhibited faster VPD growth in their NRS than in their RRS, with a mean drying rate 27.5% higher than that of RRS. This disparity was more pronounced in summer, particularly within urban clusters. The NRS\u2010RRS temperature difference dominated VPD variations, likely attributable to the urban\u2010rural temperature gradient, whereby temperatures gradually decline outward from urban cores. These results reveal potential urban influence on rural atmospheric drying, highlighting ecosystem risks in neighboring rural areas and targeted adaptation needs in sustainable urban development."
+  },
+  {
+    "id": "f052e03ec666fefe",
+    "title": "Observation of Return\u2010Stroke Current Wave Speed in a Long Channel Formed by Preceding Upward Connecting Leader",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125728?af=R",
+    "content": "Abstract\nDirect measurements of return\u2010stroke current propagation speed inside lightning channels remain extremely challenging, so the propagation speed of return\u2010stroke luminosity is widely used as a proxy. We present the first direct measurement of return\u2010stroke current propagation speed along a natural lightning channel, using synchronized lightning current, electromagnetic field and optical observations. The return\u2010stroke current propagated downward along an unusually long preceding upward connecting leader (UCL) channel before reaching the top of Canton Tower. The average three\u2010dimensional (3D) downward propagation speed of the return\u2010stroke current wave is estimated to be approximately 2.4\u00a0\u00b1\u00a00.4\u00a0\u00d7\u00a0108\u00a0m/s across a roughly 870\u00a0m propagation path. The rising edge of the initial peak of return\u2010stroke current measured at the channel base is morphologically similar to that of the initial electromagnetic field peak at return\u2010stroke initiation."
+  },
+  {
+    "id": "33565f86943a7835",
+    "title": "The Scale Length of Electron Cyclotron Harmonic Wave Power by MMS Satellites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125997?af=R",
+    "content": "Abstract\nUsing four MMS satellites from 2015 to 2021, we statistically investigate Electron Cyclotron Harmonic (ECH) wave power scale lengths. These waves are categorized into three distinct populations based on the background magnetic field topology: equatorial, off\u2010equator, and near the magnetopause. Generally, the observed scale lengths range from several kilometers to 100\u00a0km, with a typical value of \u223c10\u00a0km. For the equatorial population, the typical parallel and perpendicular scale lengths are \u223c14 and 24\u00a0km, respectively. For the off\u2010equator population, the parallel and perpendicular scale lengths are typically 20.8 and 19\u00a0km, respectively. For the population near the magnetopause, the parallel and perpendicular scale lengths are 19 and 13.7\u00a0km, respectively."
+  },
+  {
+    "id": "6137a877b8cc7036",
+    "title": "Intrinsic Backflow in Heterogeneous Aquifer During Electrokinetic Remediation: A Challenge in Field\u2010Scale Application",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126019?af=R",
+    "content": "Abstract\nElectrokinetics is a remediation technology applying direct\u2010current voltage across soil to mobilize solutes. It induces electromigration whereby ions migrate toward electrodes of opposite charge, and electroosmosis whereby water flow is engendered because of surface charges in soils. As confirmed by various experiments, electroosmosis has the advantage of mobilizing non\u2010ionic solutes especially in low permeability clay. We argue herein that due to subsurface heterogeneity, the upscaling of electroosmosis may not be always achievable under normal conditions, mainly because of backflow in regions outside of clay. In this study, analytical solutions derived in periodic heterogeneous system demonstrate how nonuniform electroosmosis induces local hydraulic\u2010head gradient and backflow. Application in standard lognormal heterogeneity system produces limited backflow due to smoothly varying zeta potential, whereas discrete high absolute zeta potential lenses generate more extensive backflow. These findings highlight the importance of spatial organization (or lacunarity), especially lens size, spacing, for applications of field\u2010scale electrokinetic remediation."
+  },
+  {
+    "id": "d31108158fc0b77f",
+    "title": "Convective Vertical Velocities of Dust Devils in Gale Crater, Mars",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122828?af=R",
+    "content": "Abstract\nDust devils are believed to be a significant contributor to the martian global dust cycle, supplying as much as 50% of dust to the atmosphere annually. However, their in situ meteorological properties remain poorly known, specifically horizontal and vertical wind speeds. We use Mars Science Laboratory Curiosity rover Navigation Camera images to track image\u2010to\u2010image changes in dust devil heights as a proxy for their vertical wind speeds. Across 54 dust devils, we find an average vertical wind speed of \u223c1.79\u00a0m\u00a0s\u22121 with a standard deviation of 0.39\u00a0m\u00a0s\u22121, nearly identical to the 1.8\u00a0m\u00a0s\u22121 found in Gusev Crater by the Spirit rover (Greeley et\u00a0al., 2006, https://doi.org/10.1029/2006je002743). Using typical dust devil opacities and occurrence rates in Gale Crater, we find the areal dust mass flux into the atmosphere in Gale Crater to be 3.5*10\u221211\u00a0kg\u00a0s\u22121\u00a0m\u22122, 1\u20132 orders of magnitude below that of other regions on Mars."
+  },
+  {
+    "id": "701bcdc587f636db",
+    "title": "Continuous directed evolution using engineered human B cell lines",
+    "link": "https://www.nature.com/articles/s41467-026-79127-y",
+    "content": ""
+  },
+  {
+    "id": "324d1bfc76e66172",
+    "title": "A microfluidic mother machine for high-throughput single-cell analysis of human leukemia T cells",
+    "link": "https://www.nature.com/articles/s42003-026-11236-2",
+    "content": ""
+  },
+  {
+    "id": "ba98b2f0ce1bf130",
+    "title": "Personalization and evaluation of human whole-body metabolic models and community microbiome models using Persephone",
+    "link": "https://www.nature.com/articles/s41596-026-01437-8",
+    "content": ""
+  },
+  {
+    "id": "cf0624417f9ea23f",
+    "title": "Performance of five large language models (LLM) on infectious diseases related questions",
+    "link": "https://www.nature.com/articles/s41598-026-78926-z",
+    "content": ""
+  },
+  {
+    "id": "876b05c964f6cc81",
+    "title": "Enhanced labor activity recognition via wearable physiological signals: a comparative machine learning study",
+    "link": "https://www.nature.com/articles/s41598-026-79507-w",
+    "content": ""
+  },
+  {
+    "id": "f89c4d1b009f3195",
+    "title": "Clinical classification of multiple sclerosis by machine learning",
+    "link": "https://www.nature.com/articles/s41598-026-79792-5",
+    "content": ""
+  },
+  {
+    "id": "9baf4f59c3567867",
+    "title": "Quantum-resistant blockchain-assisted federated secure cancer diagnosis framework using hierarchical window pattern cognition network",
+    "link": "https://www.nature.com/articles/s41598-026-78779-6",
+    "content": ""
+  },
+  {
+    "id": "7b64dda5e193a717",
+    "title": "NeuroFusionNet: an integrated Swin Transformer and CNN\u2013RNN framework",
+    "link": "https://www.nature.com/articles/s41598-026-78737-2",
+    "content": ""
+  },
+  {
+    "id": "8de23a2f9ab28cfe",
+    "title": "An optimized convolutional dense network for skin cancer detection in dermatological diagnostics",
+    "link": "https://www.nature.com/articles/s41598-026-68761-7",
+    "content": ""
+  },
+  {
+    "id": "16cf4693171c5336",
+    "title": "MultiSHAP: a Shapley-based framework for explaining cross-modal interactions in multimodal AI models",
+    "link": "https://www.nature.com/articles/s44387-026-00164-5",
+    "content": ""
+  },
+  {
+    "id": "6f405900b77673cd",
+    "title": "Computational evaluation of pongamol interactions with potential molecular targets of Blastocystis hominis",
+    "link": "https://www.nature.com/articles/s41598-026-76399-8",
+    "content": ""
+  },
+  {
+    "id": "92d000b2176195d9",
+    "title": "Genomic analysis links phage susceptibility to the K5 capsule in uropathogenic Escherichia coli",
+    "link": "https://www.nature.com/articles/s41598-026-78719-4",
+    "content": ""
+  },
+  {
+    "id": "4257c6a804449771",
+    "title": "Virtual screening of Withania somnifera phytochemicals identifies scopoletin and linoleic acid as predicted dual-target AChE/BACE1 candidates for alzheimer\u2019s disease",
+    "link": "https://www.nature.com/articles/s41598-026-71874-8",
+    "content": ""
+  },
+  {
+    "id": "965ccc3d11b659ab",
+    "title": "Network-based SEIVQHR modelling with optimal mobility control and QUBO reformulation",
+    "link": "https://www.nature.com/articles/s41598-026-79134-5",
+    "content": ""
+  },
+  {
+    "id": "a1ea790fd83f0952",
+    "title": "LeXT-Net: A lead-adaptive hierarchical network for 3-lead to 12-lead ECG reconstruction",
+    "link": "https://www.nature.com/articles/s41598-026-78943-y",
+    "content": ""
+  },
+  {
+    "id": "80770bbc392d5550",
+    "title": "Chromatin-associated miRNAs in PANC-1 cells: strong chromatin abundance of miR-21 and candidates with RNA\u2013DNA triplex-forming potential",
+    "link": "https://www.nature.com/articles/s41598-026-76388-x",
+    "content": ""
+  },
+  {
+    "id": "43064a7825484a72",
+    "title": "Beyond performance scores: directed functional connectivity as a brain-based biomarker for tracking motor skill learning and retention",
+    "link": "https://www.nature.com/articles/s41539-026-00462-2",
+    "content": ""
+  },
+  {
+    "id": "45ec88689012b218",
+    "title": "Multi-omics and machine learning reveal a senescence-associated lipid-metabolic macrophage phenotype driving immunosuppression and poor prognosis in colorectal cancer",
+    "link": "https://www.nature.com/articles/s41598-026-80104-0",
+    "content": ""
+  },
+  {
+    "id": "8f050eade1821a9f",
+    "title": "Network toxicology and machine learning reveal the potential role of dioctyl terephthalate in systemic lupus erythematosus pathogenesis",
+    "link": "https://www.nature.com/articles/s41598-026-79446-6",
+    "content": ""
+  },
+  {
+    "id": "77ebb5274411132c",
+    "title": "Computational discovery of lead natural compounds targeting the HPV16 E6\u2013E6AP\u2013p53 interaction",
+    "link": "https://www.nature.com/articles/s41598-026-79609-5",
+    "content": ""
+  },
+  {
+    "id": "b5fbe265ee299a3a",
+    "title": "MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography",
+    "link": "https://www.nature.com/articles/s41746-026-03450-3",
+    "content": ""
+  },
+  {
+    "id": "0acbb4ffcd5c0b2a",
+    "title": "MH-EABERT: an adaptive fusion approach with emotion knowledge-enhanced BERT for explainable mental health sentiment analysis from social media",
+    "link": "https://www.nature.com/articles/s41598-026-78247-1",
+    "content": ""
+  },
+  {
+    "id": "20b68ab0aa6b3fba",
+    "title": "Predicting caregiver reported antibiotic administration among febrile children under five in Bangladesh using explainable machine learning",
+    "link": "https://www.nature.com/articles/s41598-026-80237-2",
+    "content": ""
+  },
+  {
+    "id": "83b9a58b8218c62e",
+    "title": "A consensus-based interpretable machine learning framework for robust early diagnosis of ovarian cancer using hematological and tumor biomarkers",
+    "link": "https://www.nature.com/articles/s41598-026-78009-z",
+    "content": ""
+  },
+  {
+    "id": "3416dc61f20053eb",
+    "title": "Soft robotic and computational models of left atrial hemodynamics in sinus rhythm and atrial fibrillation",
+    "link": "https://www.nature.com/articles/s41467-026-79045-z",
+    "content": ""
+  },
+  {
+    "id": "3d985790edf28b8a",
+    "title": "Parent-metabolite PBPK model of methotrexate to inform pediatric extrapolation, transporter-mediated drug\u2013drug interactions, and renal impairment",
+    "link": "https://www.nature.com/articles/s41598-026-77381-0",
+    "content": ""
+  },
+  {
+    "id": "2e4d896ec59d59f6",
+    "title": "Farnesol keeps fungal spores asleep",
+    "link": "https://www.nature.com/articles/s41564-026-02537-7",
+    "content": "<p>Nature Microbiology, Published online: 06 November 2026; <a href=\"https://www.nature.com/articles/s41564-026-02537-7\">doi:10.1038/s41564-026-02537-7</a></p>Fungal spores must balance long-term survival in dormancy against the need to germinate and infect a host. A farnesol-sensing receptor controls this decision, and can be influenced by rhizosphere bacteria, shifting the balance between fungal persistence and plant disease based on cell density and nutrient availability."
+  },
+  {
+    "id": "95e7c3581264f271",
+    "title": "Autotroph\u2013heterotroph relationships shape cyanobacterial bloom dynamics revealed by metatranscriptomics",
+    "link": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70554?af=R",
+    "content": "Abstract\nAccelerated eutrophication and climate change are driving freshwater cyanobacterial blooms worldwide. Cyanobacteria\u2013bacteria interactions shape phycosphere nutrient cycling and bloom dynamics, but their temporal shifts during bloom progression remain poorly understood. Using metatranscriptomics, we investigated the interactions between Microcystis and phycospheric bacteria throughout a bloom season in Lake Taihu, a heavily eutrophic lake in eastern China. During the early bloom, Microcystis and phycospheric bacteria co\u2010expressed genes associated with phosphate metabolism and oxidative stress response, whereas genes involved in nitrogen and iron acquisition were co\u2010expressed during the late bloom, suggesting potential nutrient competition. Carbohydrate metabolism\u2010related interactions persisted across bloom stages. As the bloom progressed, the dominant interacting taxa shifted from Hyphomicrobiales to Burkholderiales. We further assessed the generality of these patterns using metatranscriptomic datasets spanning multiple years and lakes. Phosphorus\u2010related interactions were consistently enriched during early blooms, whereas nitrogen competition\u2010related patterns predominated during late blooms; oxidative stress response\u2010related interactions, however, were more variable. Together, these findings reveal stage\u2010dependent shifts in phycospheric interactions that may contribute to bloom development and decline. The recurrence of these patterns across spatial and temporal scales suggests that shifts in phycospheric interactions are a general feature of bloom progression and may help predict bloom responses to environmental change."
+  },
+  {
+    "id": "12b3a0d4543698e4",
+    "title": "Coarse-graining genome-scale metabolic models for dynamic, multi-scale simulations of Pseudomonas aeruginosa in gel environments",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.764552v1?rss=1",
+    "content": "Microbial communities are shaped by coupled interactions between microenvironment conditions and the intracellular adaptations that emerge in response external metabolic cues. For pathogenic microbes such as Pseudomonas aeruginosa, these interactions can rapidly generate heterogeneous sub-populations that exhibit adaptations for sustaining host infection and resisting antibiotic treatment. Technological strides in -omics data collection, combined with robust computational tools like genome-scale metabolic models (GEM) for predicting cellular metabolism, have yielded promising multi-scale depictions of microbial population development in simulated spatial environments. These multi-scale model simulations help establish and evaluate mechanistic contexts for how infection-enhancing behaviors might emerge in the population or be influenced by variable perturbations in the biological system. However, the number and rigorous tuning of parameters influencing the connections between intracellular-extracellular events pose barriers when shaping simulations to different in vitro systems of interest. In this work, we present a genome-scale, metabolism-informed continuum model (GEM-CM), a computational framework for coupling a reaction-diffusion model to a surrogate GEM representation that generates metabolic rate predictions informed by flux balance analysis outputs. A key feature of GEM-CM is its application of random forest regression, or ensembles, to coarse-grain the interface connecting the GEM and reaction-diffusion models down to a small set of input metabolites methodically chosen through the random forests evaluation of feature importance. To demonstrate GEM-CMs utility, we evaluated simulation predictions against P. aeruginosa PA14 populations radially propagating in low weight percentage agar gels. In addition to biomass growth, we simulated PA14 populations producing the cytotoxic secondary metabolite pyocyanin (PCN). GEM-CM could capture PA14 growth dynamics in agar gels when ensembles were provided with three carbon source inputs describing the simulated growth media. Bacterial motility parameters and the random forest ensemble allowed GEM-CM simulations to accurately predict spatial biomass distributions for PA14 populations over time and probe their PCN production dynamics. Ensembles also demonstrated robust performance for single gene knockout conditions with GEM-CM simulation accurately capturing the partial or total biomass and PCN inhibition observed in transposon mutant screenings. When evaluating transposon mutant population development, the GEM-CM framework additionally suggested that metH may be a promising target to inhibit the spatial propagation of PA14. This works proof-of-concept applications illustrated GEM-CM utility as an early stage multi-scale modeling tool for interrogating in vitro metabolic behavior in microbial populations."
+  },
+  {
+    "id": "22bd61182d5f729d",
+    "title": "Starve, stress, and mate: Activation of the CCAAT-Binding complex overrides sterility of mating-type heterozygous Candida albicans",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.764546v1?rss=1",
+    "content": "Sexual reproduction in the human fungal pathogen Candida albicans is typically restricted by a strict genetic lock: the a1-2 repressor present in standard mating-type heterozygous (MTLa/) diploid strains, which actively represses mating competency. While severe environmental pressures are known to influence fungal development, the molecular mechanisms that allow cells to override this genetic sterility block remain poorly understood. Here, we identify the highly conserved CCAAT-binding complex (CBC) as the critical developmental hub that integrates environmental stress to unlock mating in heterozygous diploids. By combining proteomic mapping (ChIP-SICAP) and transcriptomics (RNA-Seq) to define the regulatory network of the core CBC subunit Hap5, we demonstrate that CBC hyperactivation completely overrides the a1-2 repressor. This activation triggers a robust white-to-opaque phenotypic switch and initiates a mating-competence program in MTLa/ strains genetically locked in a sterile state. Crucially, this developmental transition is antagonized by the iron-regulatory partner Hap43, but is strictly dependent on physical interaction at the chromatin level with Cap1, the master regulator of the oxidative stress response. Our findings reveal that the CBC and Cap1 couple metabolic starvation (glucose and iron limitation) and oxidative stress to a core reproductive program, providing a mechanistic basis for how C. albicans bypasses genetic constraints on sexual reproduction to generate genetic diversity under hostile host conditions."
+  },
+  {
+    "id": "bedad8458cb825d8",
+    "title": "Asymmetric division and polar growth define a non-canonical cell cycle in Bradyrhizobium.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.764102v1?rss=1",
+    "content": "Bradyrhizobia are widely used as plant growth promoters in agriculture, yet their cell biology remains poorly understood. Here, we described for the first time, nucleoid segregation dynamics and the cell cycle of Bradyrhizobium at the cellular level. We show that highly asymmetric polar growth generates a short daughter cell and a longer mother cell at each division. Nucleoid compaction and positioning change across growth phases, culminating in a highly compacted, asymmetrically positioned nucleoid in stationary phase. ParB presents a subpolar localization, at the nucleoid periphery. Despite this pronounced cellular asymmetry and the presence of a single large chromosome, chromosome conformation capture reveals a global chromosome organization similar to that of bacteria undergoing conventional binary fission Together, these findings uncover a distinctive cell cycle program in Bradyrhizobium. showing that such extreme asymmetry in growth and division, significantly different from closely related characterized -Proteobacteriota, is compatible with conserved principles of chromosome organization."
+  },
+  {
+    "id": "bb8cf84f3f7fe13e",
+    "title": "Decoding the molecular cues regulating the transition of Influenza virus polymerase from transcriptase to replicase.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.764532v1?rss=1",
+    "content": "Influenza virus polymerase (FluPol) dynamically transitions between distinct conformational states to coordinate viral gene transcription and genome replication. While vRNP-associated monomeric FluPol supports transcription, ANP32-dependent asymmetric and ANP32-independent symmetric polymerase dimers mediate genome and antigenome (vRNA/cRNA) replication. How FluPol coordinates these distinct functional states to maintain the transcription-replication balance remains poorly understood. Here, we identify and characterize interdomain interactions within PB2 that govern the stability of the replication-competent conformation of FluPol. Specifically, a highly conserved salt bridge between PB2 Mid-E282 and NLS-K752 stabilizes the replicase conformation, while the charge state of residue 627 (E or K) dictates ANP32 engagement, together coordinating polymerase dimerization and replication activity. Strikingly, bat influenza A viruses H17N10 and H18N11 harbor unconventional serine substitutions at both positions, compromising polymerase dimerization, ANP32 interaction, and vRNA/cRNA replication. Remarkably, introducing these bat-signature substitutions (E282S/K627S) into human H1N1 polymerase results in phosphorylation at both positions in human cells. These findings suggest that phosphorylation can partially compensate for the loss of negative charge at these residues, revealing a phosphomimetic adaptation mechanism that modulates polymerase conformational dynamics and function. Collectively, our study reveals how a conserved interdomain interaction within PB2 regulates conformational transitions and transcription-replication balance of FluPol, which might have been driven by phosphomimetic adaptations during the course of a diverse range of influenza virus evolution."
+  },
+  {
+    "id": "24b75f0bfa05e90b",
+    "title": "Genomic analysis of the Streptococcus anginosus group; taxonomic implications, evolutionary insights and clinical considerations",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.04.764143v1?rss=1",
+    "content": "Background: The Streptococcus anginosus group (SAG) (S. anginosus, S. intermedius, and S. constellatus) causes serious, potentially life-threatening, invasive infections, often in otherwise healthy individuals. However, the group's diversity is still poorly understood, and with it, the ability to identify prognostic markers of severe disease. Methods: Long-read sequencing produced closed genomes for 29 isolates from 25 patients hospitalised primarily for invasive SAG infections, and 21 isolates from 20 non-hospitalised controls. Genomes were classified with GTDB-Tk and combined with 211 reference genomes. After dereplication, 207 SAG genomes (38 isolate, 169 reference) representing 206 strains were analysed using: GTDB classification, average nucleotide identity, multi-marker and core-genome SNP phylogenies, recombination-aware analyses, mobilome, CAZyme and gapseq metabolic profiling, and lineage-aware genome-wide association testing for invasive phenotype. Results: Agreement between GTDB-Tk and MALDI-TOF taxonomic classifications was low (42.8%), including two S. massiliensis cases mis-identified by MALDI-TOF as SAG. S. anginosus resolved into four taxa (S. anginosus, S. hominis, S. whileyi and S. vaginalis). Phylogenies based on core genome single-nucleotide polymorphisms resolved these species into distinct clades, whereas 16S rRNA gene and multilocus sequence analysis phylogenies did not. The four ex-S. anginosus taxa showed a gradient of genomic cohesion, with S. vaginalis being near-clonal, in contrast to S. anginosus, which shared high levels of sequence ancestry with other neighbouring taxa. Carbohydrate utilisation was strongly lineage-associated, as was propensity for invasive disease. A ~15Kbp glycosaminoglycan utilisation locus was found in the three taxa of highest disease severity propensity (S. intermedius, S. constellatus, S. whileyi) which predicts a direct host glycosaminoglycan feeding mechanism that may contribute to invasive disease. No single functional feature, gene or core-genome SNP was associated with invasiveness however after lineage-adjustment. Combined feature analysis suggests S. vaginalis has undergone a niche restriction and has evolved for a primary existence in the female urogenital tract. Conclusions: Under-reported species may be mis-diagnosed as SAG invasive infections. SAG is more diverse than its current three-species definition, with the conventional S. anginosus species proposed to be classed into a complex of four distinct taxa. Invasive capacity appears to be an emergent system-level property rather than from individual features."
+  },
+  {
+    "id": "6953c22715447659",
+    "title": "Energetic and functional development of soil food webs along secondary succession",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.05.762856v1?rss=1",
+    "content": "1. As ecosystems develop, aboveground biomass and belowground organic matter accumulate, while energy turnover declines. This trend is largely supported by vegetation studies, but remains unexplored for soil food webs that channel the majority of energy in terrestrial ecosystems. 2. Here, we tested whether successional theory applies to soil food webs across size-based compartments, ranging from microfauna (nematodes) to macrofauna (soil arthropods and earthworms), along a secondary succession in southwestern China, using an energy-flux approach. To assess whether forest restoration by planting follows natural succession, we also compared spruce and larch plantations with secondary birch forest of the same successional stage. 3. Supporting expectations of reduced energy turnover, the results showed an increasing animal biomass-to-energy flux ratio and a functional shift from herbivory-dominated (green) to detritivory-dominated (brown) energy channelling along succession. Soil food web compartments showed contrasting trends: macro-food webs shifted towards bacterial energy channels with decreasing predation, while micro-food webs maintained similar bacterial/fungal energy flux ratios and tended towards increasing predation. The larch plantation supported lower animal biomass than the secondary birch forest, whereas the spruce plantation did not differ. We further found that energy flux correlated positively with microbial biomass and soil animal diversity, but negatively with litter biomass during succession. 4. Overall, we expand successional theory by revealing the transformations in energy use and pathways within soil food webs along secondary succession, thereby advancing understanding of ecosystem functioning and guiding ecosystem restoration. Our results further suggest that tree plantations do not necessarily replicate the belowground development of natural succession, which should be considered in ecosystem restoration."
   }
 ]
