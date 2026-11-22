@@ -4030,5 +4030,83 @@
     "title": "Individual symbiont strains can compensate for complex microbiome loss in the bull-headed dung beetle, Onthophagus taurus",
     "link": "https://www.biorxiv.org/content/10.64898/2026.11.19.767994v1?rss=1",
     "content": "Many animals and plants have evolved to rely on microbiome mediated interactions with their environment. Across diverse insect groups, many are incapable of either breaking down complex carbohydrates or synthesizing essential nutrients despite consuming diets which should require one, or both, functions. Onthophagus beetles are one such host, with recent work suggesting their ability to digest their dung diet, typically rich in tough to digest polysaccharides and poor in nutrients, is likely bolstered by heritable symbionts. Despite there being over 2,000 species of Onthophagus, and over 5,000 species of \"true\" dung beetles (Scarabaeinae), little is known about how the microbiomes of these beetles modulate their interactions with their dung diet. The work presented here assesses the possible significance of four individual microbiome members, present during Onthophagus taurus development. Results show that three of the four isolates tested partially recovered normative developmental outcomes in O. taurus. Specifically, inoculation with a strain of either Acinetobacter, Brucella, or Pseudomonas increased pupal size relative to beetles deprived of the maternal inoculate. This mirrors the effects of individuals receiving the full natural inoculate, which contains hundreds of bacterial species. Further, using whole genome sequencing, we form a hypothesis of what nutrients these isolates provide to benefit O. taurus development. The findings presented here further highlight Onthophagus dung beetles as powerful systems to study the complex ways in which microbiome function can interact with diet to influence developmental and evolutionary outcomes."
+  },
+  {
+    "id": "75166ea4ca0295fa",
+    "title": "Towards a Generalized Imaging Spectroscopy Framework for Surface Soil Salinity Retrieval in Coastal Wetlands: Evaluating Transferability and Hydroperiod\u2013Salinity Relationships",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009293?af=R",
+    "content": "Abstract\nCoastal wetlands are threatened by changing climatic and hydrologic pressures that may salinize fresh\u2010brackish ecosystems, causing stress, transformation, or collapse. Monitoring soil salinity requires a generalizable remote sensing approach applicable across coastal environments. We collected in situ field spectrometer reflectance measurements and soil samples in California\u2019s Carpinteria Salt Marsh Reserve (CSMR) to measure salt content. The first derivatives of these reflectances were used in a Partial Least Squares Regression (PLSR) model to predict soil salinity (n\u00a0=\u00a032, R2\u00a0=\u00a00.90, Mean Absolute Error (MAE)\u00a0=\u00a05.00\u00a0ppt). We applied the model to NASA's AVIRIS\u20103 imaging spectroscopy data to map soil salinity in the CSMR (Validation: n\u00a0=\u00a032, R2\u00a0=\u00a00.53, MAE\u00a0=\u00a09.22\u00a0ppt) and to AVIRIS\u2010NG data over South Africa\u2019s Langebaan Lagoon to test model transferability (Validation: n\u00a0=\u00a011, R2\u00a0=\u00a00.67, MAE\u00a0=\u00a014.11\u00a0ppt). Primary mapped retrievals and associated analyses were restricted to non\u2010submerged, soil\u2010dominated pixels with MESMA\u2010derived soil fractional cover \u22650.50. Reported retrieval performance therefore applies primarily to areas with substantial exposed soil. We used Sentinel\u20101 Synthetic Aperture Radar time series to map the hydroperiod\u2014the percentage of time a site was inundated over the data record\u2014for comparison with the soil salinity maps. Soil salinity increased with hydroperiod at CSMR but decreased with hydroperiod at Langebaan Lagoon, consistent with differing hydrologic connectivity and inundation dynamics. These results demonstrate the potential for a transferable imaging spectroscopy framework for mapping surface soil salinity in coastal wetlands and for quantifying landscape\u2010scale hydro\u2010ecological controls on salinity patterns."
+  },
+  {
+    "id": "303ec1efb1017778",
+    "title": "Early\u2010Life Thyroid Hormones Promote Telomere Elongation and Link Telomere Dynamics to Long\u2010Term Behaviour and Performance",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70667?af=R",
+    "content": "ABSTRACT\nTelomeres are essential chromosomal structures that safeguard genome integrity. Telomere length (TL), which often shortens with age and stress exposure, is increasingly viewed as an index of life prospect. Within a pace\u2010of\u2010life framework, telomere dynamics can be defined as integrative markers of somatic state and expected lifespan, potentially linking early environments to later life\u2010history strategies. Because telomere dynamics can be tightly coupled to metabolic state\u2014especially during early growth\u2014thyroid hormones (THs), key promoters of growth and metabolism, are prime candidates for mediating these effects. Here, we test whether experimentally elevated early\u2010life thyroid hormone levels promote telomere maintenance during the main post\u2010hatching growth phase in zebra finch (Taeniopygia guttata) nestlings, and whether early\u2010life telomere dynamics predict adolescent and adult performance. By administering TH (T3) throughout the main growth phase until fledging, we analysed TL dynamics longitudinally at \u2018adolescence\u2019 (day 186 post\u2010hatching) and \u2018adulthood\u2019 (day 316 post\u2010hatching). We focused on TL distribution metrics, considering the shortest and the longest TL classes, as well as mean TL, calculated across all telomere length values. We then assessed the consequences of TH\u2010mediated TL dynamics for vertical escape flight and exploratory behaviour, two traits related with fitness and life\u2010history. Irrespective of the TH treatment, we observed (1) TL elongation during the main growth phase, driven by the longest TL, which challenges the prevalent notion that TL shortens in early life; (2) TL attrition only during adolescence and only in the shortest class of telomeres; (3) the TH treatment during early life led to TL elongation of the longest TL in adolescence; (4) this TL elongation, measured as the change in TL from fledgling to adolescence, was positively associated with exploratory behaviour and escape vertical flight in adulthood. Our findings indicate that early\u2010life THs can alter TL dynamics and that these telomere changes are associated with later behaviour and performance. They also highlight the importance of considering different classes of TL rather than relying solely on average TL measures, as short telomeres did not elongate whereas long telomeres changed in both directions and largely accounted for the patterns observed at the average TL level, raising questions about the biological meaning of variation among telomere classes."
+  },
+  {
+    "id": "5c0b65e84b86ebf4",
+    "title": "Palaeoclimate Alone Fails to Explain the Asymmetry of the Great American Biotic Interchange",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70487?af=R",
+    "content": "Eco\u2010evolutionary simulations coupled with spatially\u2010explicit palaeoclimate reconstructions spanning the Americas for the last 5 million years yielded more South\u2010to\u2010North than North\u2010to\u2010South successful exchanges. These findings reveal that the asymmetry of the Great American Biotic Interchange (GABI), incontestably North\u2010to\u2010South, may not have emerged from palaeoclimate dynamics alone, challenging classical hypotheses to explain this macroecological enigma.\n\nABSTRACT\nAsymmetric colonisation patterns often arise from large\u2010scale biotic exchanges involving two source areas. In the Pliocene, the closure of the isthmus of Panama facilitated the admixture between North and South American faunas, an event termed Great American Biotic Interchange (GABI). The ecological mechanisms underlying the asymmetry of the GABI, incontestably in favour of North American lineages, remain debated. Here, coupling a mechanistic eco\u2010evolutionary simulator with palaeoclimatic reconstructions, we test fundamental hypotheses relating this biogeographic imbalance to palaeoclimate dynamics. When climate is the only constraint to species' dispersal, our simulations yield more South\u2010to\u2010North than North\u2010to\u2010South dispersal events, mostly within the tropical biome. Also, our models fail to explain the migrant diversity desequilibrium between the two continents, as well as temperate specialists' over\u2010representation in the fossil record of successfully exchanged taxa. Hence, we argue that spatio\u2010temporal palaeoclimate dynamics alone cannot explain the asymmetry of the GABI, suggesting additional factors fashioned this macroecological enigma."
+  },
+  {
+    "id": "bbca38d5c2985a57",
+    "title": "DLFL-TLDNet: hybrid AI model integrating deep learning and fuzzy logic for tomato leaf disease classification and severity estimation",
+    "link": "https://www.nature.com/articles/s41598-026-81392-2",
+    "content": ""
+  },
+  {
+    "id": "01acbba4e0eb7392",
+    "title": "Multimodal digital biomarker for asthma: complementary roles of vocal, clinical and demographic factors",
+    "link": "https://www.nature.com/articles/s41746-026-03465-w",
+    "content": ""
+  },
+  {
+    "id": "3030560e84140941",
+    "title": "Late-stage clinical development pathways for Lassa fever vaccines: scientific, operational, and regulatory considerations",
+    "link": "https://www.nature.com/articles/s41541-026-01614-6",
+    "content": ""
+  },
+  {
+    "id": "80d6660fb44c2007",
+    "title": "Automatic detection of osteomeatal complex obstruction, concha bullosa, and nasal septal deviation using deep learning",
+    "link": "https://www.nature.com/articles/s41598-026-80381-9",
+    "content": ""
+  },
+  {
+    "id": "74a22419928ab4a4",
+    "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+    "link": "https://www.nature.com/articles/s41467-026-79404-w",
+    "content": ""
+  },
+  {
+    "id": "fb5deb2b3c398514",
+    "title": "Explainable machine learning for genomic prediction, subgroup classification, and optimal parent cross ranking in rice breeding using 1k-RiCA SNP data",
+    "link": "https://www.nature.com/articles/s41598-026-79467-1",
+    "content": ""
+  },
+  {
+    "id": "18e76a19b13b1f0c",
+    "title": "TransAct: efficient attention-based temporal modelling for real-time wearable human activity recognition",
+    "link": "https://www.nature.com/articles/s41598-026-80279-6",
+    "content": ""
+  },
+  {
+    "id": "f8e3778a02bcdacd",
+    "title": "Stromal enriched metastatic decider drives lymph node metastasis in lung adenocarcinoma",
+    "link": "https://www.nature.com/articles/s41698-026-01748-9",
+    "content": ""
+  },
+  {
+    "id": "fc8a8941a979cf86",
+    "title": "Macrophage signaling history constrains subsequent transcriptional responses to cytokine stimulation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.14.765729v1?rss=1",
+    "content": "Macrophages perform a wide array of distinct and crucial functions, and therefore tightly regulate their responses to external stimuli. These cells must integrate sequential signals over time to mount an appropriate response to their immunological niche. How prior cytokine stimulation shares macrophage responses to a subsequent stimulus remains poorly understood, yet has important implications for pathogen clearance as well as tissue repair and homeostasis. Here, we systematically characterize transcriptional responses to sequential cytokine stimulation in primary human macrophages, as well as demonstrate the effect of interactions with bacterial pathogens on macrophage transcriptional responses and plasticity. We find that prior stimulation history constrains subsequent transcriptional responses in a stimulus-specific and asymmetric manner. Across the cytokines we tested, we observe that IFN{beta} is a dominant regulator of subsequent responses to other cytokines. We observe that this plasticity restriction is concentration dependent, rapidly established, and persists after cytokine removal. Additionally, we show that endogenous IFN{beta} produced during infection with Mycobacterium tuberculosis restricts subsequent cytokine responses in a manner that is dependent on the activity of the bacterial secretion system ESX-1. Taken together, these findings establish a hierarchical model of macrophage responses to cytokines that depends on cytokine identity and order."
+  },
+  {
+    "id": "75b81067c51e9ba1",
+    "title": "Chemolithoautotrophic acidophile phenotyping by measuring metabolic byproduct formation in microplates",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768213v1?rss=1",
+    "content": "Chemolithoautotrophic acidophiles can support several low-pH biotechnologies, but their phenotyping remains limited by throughput and inconsistent methods. This study used an assay to monitor metabolic byproduct formation using absorbance indicators in static, oxic cultures in 96-well microplates. In abiotic experiments, ferric iron and/or pH measurements from 51 microplates containing simulant solutions span total iron concentrations of 0-1 M, pH 0.3-7.0, and incubation temperatures of 4-75 {degrees}C. Of these, 30 microplates tested different UV-transparency and gas-permeable membrane configurations. Another 12 microplates tested indicator compatibility with growth media containing ferrous iron and (in)soluble sulfur substrates. Biological experiments measured 438 microplates containing Acidithiobacillus ferrooxidans ATCC 23270, Acidithiobacillus thiooxidans ATCC 19377, or Leptospirillum ferriphilum DSM 14647 with chemical additives across 1,400 concentration conditions, yielding 142,038 time-course points, including abiotic controls. Measurements of apparent substrate oxidation and/or growth from 96 culture tubes and 99 shake flasks provide context for microplate observations. The miniaturized assay and this dataset may be useful for microbiology, (critical-mineral) biotechnology development, and synthetic biology."
   }
 ]
